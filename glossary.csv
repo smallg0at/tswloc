@@ -1,0 +1,141 @@
+PBC,主手柄
+AWS,AWS
+Active,激活
+BP,BP
+Brake,制动
+CC,CC
+WMT,WMT
+AWC,AWC
+TFW,TFW
+NT,NT
+DRA,DRA
+GSMR,GSMR
+Cab,驾驶室
+Cabin,客舱
+Car,车厢
+Coach,车厢
+Couple,连挂
+Coupler,车钩
+Uncouple,解挂
+Cut-In,切入
+Cut In,切入
+Cut-Out,切除
+Cut Out,切除
+Emergency,紧急
+Emergency Brake,紧急制动
+Emergency Brakes,紧急制动
+Volume,音量
+Door,车门
+Door Open,车门打开
+Door Close,车门关闭
+Energised,通电
+Fast,快速
+Hold,保持
+Isolated,隔离
+MR,主风缸
+BC,制动缸
+EQ,均衡缸
+Off,关闭
+On,打开
+Secondman,副司机
+Sand,撒砂
+Set,设置
+Class,级
+Switches,道岔
+Switch,道岔
+Reverser,反向器
+Neutral,空档
+Day Running,日间运行
+Day Running Lights,日间行车灯
+Night Running,夜间运行
+Night Running Lights,夜间行车灯
+Marker Lights,标志灯
+Tail Lights,车尾灯
+Head Lights,前照灯
+XC,XC
+Blind,遮阳帘
+Both,同时
+Doors Close,车门关闭
+Doors Open,车门打开
+Doors Release,车门解锁
+Vigilance,警戒
+Released,已缓解
+Train Stop Override,列车停车超驰
+Train Lights Off,列车照明关闭
+Train Lights On,列车照明开启
+Decrease Brightness,降低亮度
+Increase Brightness,增加亮度
+Decrease Volume,减少音量
+Increase Volume,增加音量
+Sit In Passenger Seat,坐在座椅上
+Sit in Driver's Seat,坐在驾驶座上
+Sit in First Class Seat,坐在一等座座位上
+Coupled Test,连挂测试
+Radio Cut Out,电台切除
+Horn,鸣笛
+Horn Soft,柔和鸣笛
+B{BrakeText},B{BrakeText}
+P{PowerPos},P{PowerPos}
+Hill Start,坡道启动
+Intermittent,间歇
+Slow,慢
+Fast,快
+Both,同时
+Blind,遮阳帘
+High,高
+Low,低
+Open Doors,打开车门
+Proceed at Restricted Speed.,依照限速行驶
+Proceed as signals indicate.,根据信号指示行驶
+Throttle/Brake,牵引/制动
+Used a Cab Door,使用驾驶室门
+Used the Cab Light,使用驾驶室灯
+Used the Door Unlock,使用车门解锁
+Used the Headlights,使用前照灯
+Used the Passenger Saloon Lights,使用客舱灯
+Used the Reverser,使用反向器
+Used the Throttle,使用油门
+Used the Whistle,使用了鸣笛
+Used the Wipers,使用雨刮器
+Vent Only,仅通风
+Denied. Check switches.,已拒绝，请检查道岔
+Denied. Move up to the signal and wait.,已拒绝，请前进至信号灯处等待
+Denied. Train in section ahead.,已拒绝，前方区段有列车
+Denied. Wait for signal to change.,已拒绝，请等待信号改变
+Denied. Your train appears to be off path.,已拒绝，您的列车似乎偏离了预定轨道
+Reverse,向后
+Forward,向前
+Neutral,中立
+THROTTLE,牵引
+THROTTLE/BRAKE,牵引/制动
+MASTER KEY,主控钥匙
+Make your way to the cab,前往驾驶室
+Open the Cab Door,打开驾驶室门
+Open the Guard Panel,打开列车员面板
+Open the Local Door,打开本地车门
+Open Local Door,打开本地车门
+Open the Passenger Doors,打开乘客车门
+18c,18℃
+19c,19℃
+20c,20℃
+21c,21℃
+22c,22℃
+23c,23℃
+24c,24℃
+25c,25℃
+26c,26℃
+27c,27℃
+Guard Key,列车员钥匙
+Guard Panel,列车员面板
+Electric Multiple Unit,电力动车组
+Normal,普通
+Saloon Light Off,客舱灯光熄灭
+Saloon Lighting On,客舱灯光开启
+{BrakePos} Brake,{BrakePos} 制动
+P-{PowerPos},P-{PowerPos}
+Panto/VCB,受电弓/VCB
+Day Light,日间前照灯
+Night Light,夜间前照灯
+Backup Day,备用日间前照灯
+Backup Night,备用夜间前照灯
+Vent,通风
