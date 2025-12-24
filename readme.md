@@ -1,18 +1,19 @@
-# 《模拟火车世界》DLC汉化 / Train Sim World DLC Chinese Translation
+# Train Sim World DLC Chinese Translation
 
-由于多乐堂本地化组已经对线路图上多达17个第三方DLC无能为力，直接不给除了英语和德语以外的语言，只能自己动手，丰衣足食。这里含有所有的翻译原文件。
+[简体中文](./readme_zh.md)
 
-当前已汉化DLC：
+Because the official localization team cannot handle up to 17 third‑party DLCs on the route map and only provides English and German, I did the translations by myself. This repository contains all the original translation source files.
 
-- ✅ 伯明翰跨城线 Class 170 纵贯铁路&西米德兰铁路（Rivet Games）
-- ⏳ 西海岸干线：伯明翰-克鲁（AABS）【打磨中，开发版请见 Releases】
+Currently localized DLCs:
 
-## 安装
+- ✅ Birmingham Cross‑City Line — Class 170 (Rivet Games)
+- ✅ West Coast Main Line: Birmingham–Crewe (AABS)
 
-Steam: 把 pak 文件扔进 `<文档>\My Games\TrainSimWorld6\Saved\UserContent`。
-Epic: 把 pak 文件扔进 `<文档>\My Games\TrainSimWorld6EGS\Saved\UserContent`。
+## Installation
 
-## 开发
+Steam: place the .pak file into `<Documents>\My Games\TrainSimWorld6\Saved\UserContent`.
+Epic: place the .pak file into `<Documents>\My Games\TrainSimWorld6EGS\Saved\UserContent`.
 
-你需要 unpak，以及一个 Google Cloud 账号。
+## Development
 
+You need unpak and a Google Cloud account. First use unpak to extract the language files, then put them in this repo's dist folder. Next, run `command_helper export` to convert to CSV, use `translate.py` to translate (adjust the glossary `glossary.csv` and get your Google Cloud account authenticated first!), then run `command_helper apply` to merge changes, and finally `command_helper pack` to repack.
