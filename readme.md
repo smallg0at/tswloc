@@ -1,1 +1,18 @@
-# 《模拟火车世界》DLC汉化
+# 《模拟火车世界》DLC汉化 / Train Sim World DLC Chinese Translation
+
+由于多乐堂本地化组已经对线路图上多达17个第三方DLC无能为力，直接不给除了英语和德语以外的语言，只能自己动手，丰衣足食。这里含有所有的翻译原文件。
+
+当前已汉化DLC：
+
+- ✅ 伯明翰跨城线 Class 170 纵贯铁路&西米德兰铁路（Rivet Games）
+- ⏳ 西海岸干线：伯明翰-克鲁（AABS）【打磨中，开发版请见 Releases】
+
+## 安装
+
+Steam: 把 pak 文件扔进 `<文档>\My Games\TrainSimWorld6\Saved\UserContent`。
+Epic: 把 pak 文件扔进 `<文档>\My Games\TrainSimWorld6EGS\Saved\UserContent`。
+
+## 开发
+
+你需要 unpak 和 UE4localizationsTool，以及一个 Google Cloud 账号。
+
