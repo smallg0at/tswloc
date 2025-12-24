@@ -14,5 +14,5 @@ Epic: 把 pak 文件扔进 `<文档>\My Games\TrainSimWorld6EGS\Saved\UserConten
 
 ## 开发
 
-你需要 unpak 和 UE4localizationsTool，以及一个 Google Cloud 账号。
+你需要 unpak，以及一个 Google Cloud 账号。
 
