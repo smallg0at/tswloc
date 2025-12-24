@@ -26,10 +26,10 @@ F250EB6A473903CD7E27E48E91316C8D,9,9
 1DE8D435434011EAEF0906B19531BEB0,"AWS has forced a penalty brake, reset AWS and wait until penalty duration times out to begin taking power again.",AWS 已强制执行惩罚性制动，将重置 AWS 并等待惩罚持续时间结束后再开始恢复供电。
 46151AA9449BEE4CA764A6819E138BFB,Air Con,空调
 833B9DB64F5A5E85E5C8DF8EA876ACA4,BP,BP
-5415204A47809B5204FEF391B2CD5028,Backup Day,备用日
-85A117064F9E9F149222EAB716478408,Backup Day,备用日
-E16903AD450C3B83DB0FEBADF8C144DD,Backup Night,备用夜
-F9139A8E4D7EF2E5A7FBF1BA6B9F422F,Backup Night,备用夜
+5415204A47809B5204FEF391B2CD5028,Backup Day,备用日间前照灯
+85A117064F9E9F149222EAB716478408,Backup Day,备用日间前照灯
+E16903AD450C3B83DB0FEBADF8C144DD,Backup Night,备用夜间前照灯
+F9139A8E4D7EF2E5A7FBF1BA6B9F422F,Backup Night,备用夜间前照灯
 B738536C454F92F73183A08E6BA956DA,Battery Off,电池关闭
 1CAE6099469E267172A1FCA100B39769,Battery On,电池开启
 F17DC82940FCAB83847581A6C785A23C,Battery power must be turned on to power the cab and enable the controls on the drivers desk.,必须打开电池电源才能为驾驶室供电并启用驾驶员桌上的控制装置。
@@ -49,7 +49,7 @@ F73362A640FD91665C7518A56E84FF0E,Class 350 TC,Class 350 TC
 3BA1780144215A4C89C72FBC8825C678,Class 350-1,Class 350-1
 F84E433A4C3D50CFE42EE88C0A793EDF,Class 350-1,Class 350-1
 13B94A8043FD452E76A343923C4009ED,Class 350/1,Class 350/1
-A985EEDC41EFA42D7BE710B0BB542C8F,Clear Destination,清晰的目的地
+A985EEDC41EFA42D7BE710B0BB542C8F,Clear Destination,清除目的地
 1A600FD049EA98C9855744AC02A73B48,Close Cab Door,关闭驾驶室车门
 3F2303A44C629E561A6DB3B1A456D0FF,Close Cab Door,关闭驾驶室车门
 130327974BEBA9DB4ECA219C96FDCE77,Close Doors,关门
@@ -88,8 +88,8 @@ F98619ED4D6E1030B10132A4232D07C6,Cut-Out,切除
 CD5CAE8A4468E1163258AA9288650131,DRA,DRA
 27885B9944040FF0BA4D76B3CDEC9B69,DSD,DSD
 1857E6384394C9599932EA9950F78C40,DSD Isolation,DSD 隔离
-01434D4F49A255C6E97555A2C4B6FF5A,Day,天
-3A19656844A6861A9F59B698CDFE3562,Day Light,日光
+01434D4F49A255C6E97555A2C4B6FF5A,Day,日间
+3A19656844A6861A9F59B698CDFE3562,Day Light,日间前照灯
 5CF7B6AE4BF7B03EEE3057AAE6D4DE5D,Decrease Brightness,降低亮度
 06AE5F61477C93ABD4028592F2922C46,Decrease Volume,减少音量
 4726AF9743F7AD036A2D8A9714AE15C2,Desk Light Dimmer,台灯调光器
@@ -166,8 +166,8 @@ F60A19A5459FFDB924095283A92E1D0E,Increase Brightness,增加亮度
 C4E0E1024B34B068ACD660BA61EB304A,Increase Volume,增加音量
 A07C991C448467D022ED28811178F163,Indicator Lamp Test,指示灯测试
 02DACF6F4743820436A0F88E1D6606FD,Insert and set the Master Key to ON and set the Reverser away from OFF to activate this cab.,插入主钥匙并将其设置为 打开，并将换向器从 关闭 位置移开，即可激活此驾驶室。
-C27DEF754F9EE1BC33C8849C86A9BF77,Instruments + Desk,乐器 + 桌子
-C9A1EE0D4D9CF3E727A83F9AF38EEA17,Instruments + Desk + Timetable,乐器 + 桌子 + 时间表
+C27DEF754F9EE1BC33C8849C86A9BF77,Instruments + Desk,仪表 + 桌子
+C9A1EE0D4D9CF3E727A83F9AF38EEA17,Instruments + Desk + Timetable,仪表 + 桌子 + 时刻表
 474B15A244394C88B7751E9DD01110A6,Interval,间隔
 0CD45BA0470883BADB5F87B602244667,Isolated,隔离
 531C310F42EF0FD31EA1F6BFE003216D,Isolated,隔离
@@ -183,8 +183,8 @@ BCE224714E5818CEA3A4F3933A27086A,Low,低
 FDA286B940FBBA1F289822AAB0F0E9FE,Low,低
 3A7AF5AD4E0BA65A641259846808315C,Low Speed,低速
 9FEF4DF24DCD2135A5A7CCBDFC41F2FE,MR,主风缸
-C82B5F0D42F490D34DA62FA3A6292912,Marker,标记
-73D7C5C4408EDDFDBD1EE1B274C10438,Marker Only,仅标记
+C82B5F0D42F490D34DA62FA3A6292912,Marker,标记灯
+73D7C5C4408EDDFDBD1EE1B274C10438,Marker Only,仅标记灯
 18259174477D49D87AFEEE82D41945D3,Master Key,主控钥匙
 E222071F4E766AEE19FE7CBDABFE2E4E,Max Brake,最大制动
 2BFC0B7F496021E250F6C493C51EFC45,Min Brake,最小制动
@@ -197,14 +197,14 @@ C9C978F746BAE5BD68131F86BBD3E4C1,Night,夜晚
 7BB60B9B45FE1835ADA973AACBDC2B03,Non-Driver Side,非驾驶员侧
 3615197E4C64B3B150D7D5AD9C6D4ABF,None,无
 9C8F406547CFA80FF0EDE0983B3B48F3,None,无
-02B24FAA4A110F80B4CE8DB095FF5D29,Normal,普通的
-09C0933742F3835826F97991BF4F6D3F,Normal,普通的
-15E30C584BB3CBA9DBFB1791E269B8F5,Normal,普通的
-1E7227CD435B32C513215085C83D7934,Normal,普通的
-447279D4494939268DE40AAB48D2E470,Normal,普通的
-725D1BC24F7E77C041E4E1A87FBD44DD,Normal,普通的
-8A9D0FC64D3AF512CDFC9D855B6698C4,Normal,普通的
-FBD8134F4340F78169BC45B9372A609E,Normal,普通的
+02B24FAA4A110F80B4CE8DB095FF5D29,Normal,普通
+09C0933742F3835826F97991BF4F6D3F,Normal,普通
+15E30C584BB3CBA9DBFB1791E269B8F5,Normal,普通
+1E7227CD435B32C513215085C83D7934,Normal,普通
+447279D4494939268DE40AAB48D2E470,Normal,普通
+725D1BC24F7E77C041E4E1A87FBD44DD,Normal,普通
+8A9D0FC64D3AF512CDFC9D855B6698C4,Normal,普通
+FBD8134F4340F78169BC45B9372A609E,Normal,普通
 0D26941E415A7110B87EBA9C5AC0D733,Off,关闭
 148406CA4FD8E953F5D1F9868154F030,Off,关闭
 17EB3E1646F9502E178370A3C55588EF,Off,关闭
@@ -360,13 +360,13 @@ B938CED14E0D7C17DB6FF598BB3F3162,Release Cab Door,释放驾驶室门
 59A9A2E64BE7430775CBD5A59D1C157F,Release Doors,释放门
 D177F73949369C50F281E59778174794,Release Doors,释放门
 093BDC7A4C5C76FC761E2B91BD4C1FD8,Released,已缓解
-1B05592B48C9C8C3ACF3278CC03D5B1F,Restricted Drive,受限驱动器
+1B05592B48C9C8C3ACF3278CC03D5B1F,Restricted Drive,受限驾驶
 AC10CCA140F5A1BF3A87C6BE256A65DB,Reverse,向后
 8046F86E4A7F71CCCCAC10BDD47DDCA4,Reverser,反向器
 E9BECDA747B9597003491192A06A3452,Right,正确的
 C61AF3784077E19CB617DE9A54BFFF46,Safety Systems,安全系统
-D9A2573D4A472DA1A17399B026145B31,Saloon Light Off,沙龙灯光熄灭
-23F7213A4EF0FBD01878B6800D386859,Saloon Lighting On,酒吧灯光开启
+D9A2573D4A472DA1A17399B026145B31,Saloon Light Off,客舱灯光熄灭
+23F7213A4EF0FBD01878B6800D386859,Saloon Lighting On,客舱灯光开启
 6B50F67D42126BDDD06450A2B096E886,Sand,撒砂
 7BCE841D48CB596B1616748B949A7264,Seat,座位
 DE4576B247709F28C1E096AB4CBDC547,"Select AC or DC power mode by pressing AC/DC Power, then turn the Panto/VCB switch to Up/On to close breakers.",按 AC/DC Power 选择 AC 或 DC 电源模式，然后将 PaNTo/VCB 开关拨到 Up/打开 位置以闭合断路器。
@@ -405,8 +405,8 @@ F534F8A04E49AB875240DFB9ED9148DA,"The TPWS fuse has tripped, bring the train to 
 2E31D363492442ECF22BB288CE790797,The fault has been fixed.,故障已修复。
 0CA57BBB4EF64115C43EFD9E43DC8938,The pantograph is blocked. Bring the train to a stop and try dropping the pantograph then raising it again.,受电弓被卡住了。请将列车停下，然后尝试放下受电弓再将其升起。
 733434AB48B77263C4ED8CBFDE49FBD0,Third Rail Collector,第三轨集电装置
-AFC1BB2E4935666AFEEC3CA682C02987,This passenger door has been unstuck.,这扇乘客侧车门已经修好了。
-2F8D34094F40DD3C50FADBBA0C87365A,Traction lock will not release while the passenger doors are open or unlocked.,当乘客侧车门打开或解锁时，牵引力锁不会解除。
+AFC1BB2E4935666AFEEC3CA682C02987,This passenger door has been unstuck.,这扇乘客车门已经修好了。
+2F8D34094F40DD3C50FADBBA0C87365A,Traction lock will not release while the passenger doors are open or unlocked.,当乘客车门打开或解锁时，牵引锁不会解除。
 D9C808B648913ED421C878BC03E734F2,Traction lock will not release whilst either cab door is open.,当驾驶室任一车门打开时，牵引锁将不会解除。
 1BEAE7AD40895E318A5EADB6DB705C94,Train Management System,列车管理系统
 02CF34694E2224EE0557658571C3B44D,Train Stop Override,列车停车超驰
@@ -438,16 +438,16 @@ C13FB14844B3341008474883F858DE41,Vigilance Systems,警戒系统
 AD07581B40D7B8FCD8BB4B8B6475D6D7,Window,窗户
 31506E84431623265686FBA074968E8C,Windscreen Heater,挡风玻璃加热器
 1830E72E465A435C180CEA85FDC4D48C,Wipers,雨刮器
-E8E228CF432832439884F4BF530DA3BC,i,我
+E8E228CF432832439884F4BF530DA3BC,i,信息
 7457CA0548FE23B75B4A718A9CE6F64F,{BrakePos} Brake,{BrakePos} 制动
 187065544D2F1939C17FB896B56DF45F,{MM} {DD},{MM} {DD}
 Dispatcher::Denied request pass signal (junctions),Denied. Check switches.,已拒绝，请检查道岔
-Dispatcher::Denied request pass signal,Denied. Dispatcher is unable to authorize movements.,已拒绝。调度员无法授权此次调动。
+Dispatcher::Denied request pass signal,Denied. Dispatcher is unable to authorize movements.,已拒绝，调度员无法授权此次调动
 Dispatcher::Denied request pass signal (too far),Denied. Move up to the signal and wait.,已拒绝，请前进至信号灯处等待
 Dispatcher::Denied request pass signal (no route),Denied. No route available,已拒绝，没有可用路径。
-Dispatcher::Denied request pass signal (service),Denied. Service not authorized in signalled area.,已拒绝。信号区域内未授权提供服务。
+Dispatcher::Denied request pass signal (service),Denied. Service not authorized in signalled area.,已拒绝，信号区域内未授权提供服务。
 Dispatcher::Denied request pass signal (train ahead),Denied. Train in section ahead.,已拒绝，前方区段有列车
 Dispatcher::Denied request pass signal (wait signal),Denied. Wait for signal to change.,已拒绝，请等待信号改变
 Dispatcher::Denied request pass signal (off path),Denied. Your train appears to be off path.,已拒绝，您的列车似乎偏离了预定轨道
-Dispatcher::Request pass signal: proceed,Proceed as signals indicate,根据信号指示行驶
-Dispatcher::Request pass signal: proceed restricted,Proceed at Restricted Speed,限速行驶
+Dispatcher::Request pass signal: proceed,Proceed as signals indicate,依照信号指示行驶
+Dispatcher::Request pass signal: proceed restricted,Proceed at Restricted Speed,依照限制速度行驶

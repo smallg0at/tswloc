@@ -543,12 +543,12 @@ D4658B5B4317FEB211BF4EB54F3E3E00,9Y80: Crewe to London Euston,9Y80：克鲁开�
 AF8DAD644A571B28AA688BBDE8C9CC7B,"A wheelflat is the fault on this unit. As a result, Control has requested the train travel no faster than 50mph and for you to meet with a Mobile Operations Manager (MOM) at Down Stour Goods. Depart when ready.",这节车厢发生车轮爆胎故障。因此，控制中心要求列车行驶速度不得超过 50 英里/小时，并请您前往 Down Stour 货运站与移动运营经理 (MOM) 会面。准备就绪后即可出发。
 76DC27EC40641206BA67E0908FCD9D2C,APPLY POWER,施加功率
 A944DABE49F02B23E9EEB08649FAB9BC,APPLY POWER,施加功率
-40576D304938A7D5498FAA90B5A18AC0,AUTOMATIC BRAKE,自动刹车
-5FC1687C4E7D46490F3454ACB82AC938,AUTOMATIC BRAKE,自动刹车
-60EEF89149B57D3C262F4A965C0EF018,AUTOMATIC BRAKE,自动刹车
-B13B16244B030CDCAD4FA5B5FB8FA7E3,AUTOMATIC BRAKE,自动刹车
-BC15CD874ABFBE5785F769BABCD47977,AUTOMATIC BRAKE,自动刹车
-C9A543D14CA84F68E5A723A99CF2DC5C,AUTOMATIC BRAKE,自动刹车
+40576D304938A7D5498FAA90B5A18AC0,AUTOMATIC BRAKE,自动制动
+5FC1687C4E7D46490F3454ACB82AC938,AUTOMATIC BRAKE,自动制动
+60EEF89149B57D3C262F4A965C0EF018,AUTOMATIC BRAKE,自动制动
+B13B16244B030CDCAD4FA5B5FB8FA7E3,AUTOMATIC BRAKE,自动制动
+BC15CD874ABFBE5785F769BABCD47977,AUTOMATIC BRAKE,自动制动
+C9A543D14CA84F68E5A723A99CF2DC5C,AUTOMATIC BRAKE,自动制动
 0A971D2849EDE9B3CCA3F690D8201690,AWC Class 390,AWC 390型
 A5628A9E43BC79FFD9EF41A6B0711378,"AWS is made up of a magnet placed on the track; an in-cab indicator (also known as a sunflower) and an auditory clear or warning sound. If the train's next signal is displaying a clear aspect, the AWS will sound a clear sound.",AWS系统由放置在轨道上的磁铁、驾驶室内的指示器（也称为向日葵图标）以及清晰或警告音组成。如果列车的下一个信号显示清晰，AWS系统将发出清晰的警告音。
 AE887F43413548FD45FFD19026E2DE6E,"AWS is made up of a magnet placed on the track; an in-cab indicator (also known as a sunflower) and an auditory clear or warning sound. If the train's next signal is displaying a clear aspect, the AWS will sound a clear sound.",AWS系统由放置在轨道上的磁铁、驾驶室内的指示器（也称为向日葵图标）以及清晰或警告音组成。如果列车的下一个信号显示清晰，AWS系统将发出清晰的警告音。
@@ -562,8 +562,8 @@ D53470644CFF2A9A9733638DA5180C9E,All aboard for the West Coast Mainline: Birming
 7E8BF1954CFC6A02A44671B9198D91BE,Back In Action,重返战场
 ED8D277147D055EAC6C835808D894B4F,Basford Hall,巴斯福德庄园
 BCBAF867460581C5C56FEB99D845EE19,Basford Hall Arrival Line No1,巴斯福德大厅到达线1号
-A769C44040D497DB4755A192103305ED,Basford Hall Down Slow Independent,巴斯福德大厅 缓慢独立
-FD7C80BB4B3F531F3F425583D621F82E,Basford Hall Up Goods,巴斯福德大厅上货
+A769C44040D497DB4755A192103305ED,Basford Hall Down Slow Independent,巴斯福德大厅 下行慢线独立
+FD7C80BB4B3F531F3F425583D621F82E,Basford Hall Up Goods,巴斯福德大厅 上行货运
 1A1EA74D45EA7744D3B7E7966A312801,Basford Hall to Stafford,巴斯福德霍尔到斯塔福德
 093F1CA145F9F1AA659EF79257676252,"Before we can leave the carriage sidings, the manual junctions need to be correctly set.",在离开车厢侧线之前，需要正确设置手动连接装置。
 5C17F1BF4FA6F3A52D9EFC8C743469CC,"Before we can leave the carriage sidings, the manual junctions need to be correctly set.",在离开车厢侧线之前，需要正确设置手动连接装置。

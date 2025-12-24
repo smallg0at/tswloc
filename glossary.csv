@@ -99,10 +99,15 @@ Used the Whistle,使用了鸣笛
 Used the Wipers,使用雨刮器
 Vent Only,仅通风
 Denied. Check switches.,已拒绝，请检查道岔
+Denied. Dispatcher is unable to authorize movements.,已拒绝，调度员无法授权此次调动
 Denied. Move up to the signal and wait.,已拒绝，请前进至信号灯处等待
+Denied. No route available,已拒绝，没有可用路径
+Denied. Service not authorized in signalled area.,已拒绝，信号区域内未授权提供服务
 Denied. Train in section ahead.,已拒绝，前方区段有列车
 Denied. Wait for signal to change.,已拒绝，请等待信号改变
 Denied. Your train appears to be off path.,已拒绝，您的列车似乎偏离了预定轨道
+Proceed as signals indicate,依照信号指示行驶
+Proceed at Restricted Speed,依照限速行驶
 Reverse,向后
 Forward,向前
 Neutral,中立
@@ -139,3 +144,5 @@ Night Light,夜间前照灯
 Backup Day,备用日间前照灯
 Backup Night,备用夜间前照灯
 Vent,通风
+Saloon Light Off,客舱灯光熄灭
+Saloon Lighting On,客舱灯光开启
