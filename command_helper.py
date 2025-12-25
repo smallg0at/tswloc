@@ -27,7 +27,7 @@ elif command == "extract":
         packname = folder_name
         path = f"dist\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
         output_file = f"{packname}.locres.csv"
-        command = f'.\\Utils\\UnrealLocres.exe export "{path}" "{output_file}" -f csv'
+        command = f'.\\Utils\\UnrealLocres.exe export "{path}" -o "{output_file}" -f csv'
         result = os.system(command)
         if result != 0:
             print(f"Error extracting translation for {packname}")
