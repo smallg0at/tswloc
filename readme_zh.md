@@ -9,6 +9,10 @@
 - ✅ Birmingham Cross‑City Line — Class 170 (Rivet Games)
 - ✅ West Coast Main Line: Birmingham–Crewe (AABS)
 
+包含修复：
+
+- 里维埃拉线（线路名称）
+
 ## 安装
 
 Steam：将 .pak 文件放入 `<Documents>\My Games\TrainSimWorld6\Saved\UserContent`。

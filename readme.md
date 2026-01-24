@@ -11,6 +11,10 @@ Currently localized DLCs:
 - ✅ Birmingham Cross‑City Line — Class 170 (Rivet Games)
 - ✅ West Coast Main Line: Birmingham–Crewe (AABS)
 
+Localization Fixes:
+
+- Riviera Line (Route title, description and spawn point labels)
+
 ## Installation
 
 Steam: place the .pak file into `<Documents>\My Games\TrainSimWorld6\Saved\UserContent`.
