@@ -35,15 +35,15 @@ Epic: place the .pak file into `<Documents>\My Games\TrainSimWorld6EGS\Saved\Use
 - Convert, translate and repack
     1. Place the extracted language files into this repo's dist folder (one folder per DLC).
     2. Run:
-         - `python command_helper extract`
+         - `python .\command_helper.py extract`
              (converts localization files to CSV)
     3. Translate:
          - Modify translate.py by editing `TARGET_LANG` and `FILE` within the file. Ensure Google Cloud auth is active and glossary is set.
          - Run translate.py, and a new csv shows up.
     4. Merge changes:
-         -  `python command_helper apply`
+         -  `python .\command_helper.py apply`
     5. Repack:
-         -  `python command_helper pack`
+         -  `python .\command_helper.py pack`
     6. Testing:
         - Test this ingame, and keep your csv open to fix any mistakes.
 

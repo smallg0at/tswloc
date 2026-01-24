@@ -34,10 +34,16 @@ elif command == "extract":
         else:
             print(f"Successfully extracted translation for {packname}")
 elif command == "pack":
-    result = os.system("repak pack ./dist/ ./!ZHLoc.pak --version V11")
+    result = os.system(f"repak pack ./dist/ ./ZHLoc.pak --version V11")
     if result != 0:
-        print("Error packing !ZHLoc.pak. You need repak installed.")
+        print(f"Error packing ZHLoc.pak. You need repak installed.")
     else:
-        print("Successfully packed !ZHLoc.pak")
+        print(f"Successfully packed ZHLoc.pak")
+elif command == "pack-riviera":
+    result = os.system(f"repak pack ./riviera_patch/ ./ZHLoc-riviera-fix.pak --version V11")
+    if result != 0:
+        print(f"Error packing ZHLoc-riviera-fix.pak. You need repak installed.")
+    else:
+        print(f"Successfully packed ZHLoc-riviera-fix.pak")
 else:
-    print("Usage: python command_helper.py [apply|extract|pack]")
+    print("Usage: python command_helper.py [apply|extract|pack|pack-riviera]")
