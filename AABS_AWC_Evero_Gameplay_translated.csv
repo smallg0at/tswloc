@@ -1,10 +1,10 @@
 ﻿key,source,target
-/0E6A1F784095ED9A7146A5A88D5439A7,0G20 1037 Crewe TMD (E) to Stafford,0G20 1037 克鲁TMD（东）至斯塔福德
+/0E6A1F784095ED9A7146A5A88D5439A7,0G20 1037 Crewe TMD (E) to Stafford,0G20 1037 克鲁机务段（东）至斯塔福德
 /FFA5BC2844192EFD161BA1B5CB6C1DAC,0G95 1008 Kidderminster to Basford Hall,0G95 1008 基德明斯特至巴斯福德霍尔
-/AD610D83432AF204DF15C8B525EC6D9F,0K21 1158 Stafford to Crewe TMD (E),0K21 1158 斯塔福德至克鲁 TMD (E)
+/AD610D83432AF204DF15C8B525EC6D9F,0K21 1158 Stafford to Crewe TMD (E),0K21 1158 斯塔福德至克鲁机务段（东）
 /A09D4C064B2FE6063C4AF68E14B58903,1A10 - Liverpool Lime Street to London Euston,1A10 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /FED3D18A484D5AE3973A45BF8EE07B92,1A11 - Manchester Piccadilly to London Euston,1A11 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/07264AC54411922D3DF3BEAE6266A9A5,1A11 0755 Manchester Picc to Euston,1A11 0755 曼彻斯特皮卡火车站至尤斯顿火车站
+/07264AC54411922D3DF3BEAE6266A9A5,1A11 0755 Manchester Picc to Euston,1A11 0755 曼彻斯特皮卡迪利至尤斯顿火车站
 /AE961BD943256B12530E7DBEC7BC5AC4,1A12 - Manchester Piccadilly to London Euston,1A12 - 曼彻斯特皮卡迪利站至伦敦尤斯顿站
 /EAD6688847FF53D889EE61A947EB5446,1A12 - Manchester Piccadilly to London Euston,1A12 - 曼彻斯特皮卡迪利站至伦敦尤斯顿站
 /0863B6F2422CA4DB541C06BFB52E7675,1A14 - Holyhead to London Euston,1A14 - 霍利黑德至伦敦尤斯顿
@@ -14,7 +14,7 @@
 /4452906C46BC0E87804D71844C7EA1FF,1A16 - Liverpool Lime Street to London Euston,1A16 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /06BF8D554239048C3789AD8F4E6C15F2,1A17 - Birmingham New Street to London Euston,1A17 - 伯明翰新街站至伦敦尤斯顿站
 /3E3E888E408AD0BC14FA1E81A53FAD3F,1A17 - Manchester Piccadilly to London Euston,1A17 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/A2537B554E94B7D8FED3BC80A2718462,1A17 0855 Manchester Picc to Euston,1A17 0855 曼彻斯特皮卡火车站至尤斯顿火车站
+/A2537B554E94B7D8FED3BC80A2718462,1A17 0855 Manchester Picc to Euston,1A17 0855 曼彻斯特皮卡迪利至尤斯顿火车站
 /75F1A26C4D2E8630AADC45BF5A76A6F3,1A18 - Manchester Piccadilly to London Euston,1A18 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /CA3850F94F508E10982C9A943048A533,1A18 - Manchester Piccadilly to London Euston,1A18 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /22CDA6A94BAC636BB562F79CD70F76FF,1A20 - Chester to London Euston,1A20 - 切斯特至伦敦尤斯顿
@@ -24,19 +24,19 @@
 /09B6851E4A5E775A0D196C852809670C,1A22 - Liverpool Lime Street to London Euston,1A22 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /8FE74F524905CCE935E00EB938DF391A,1A22 - Manchester Piccadilly to London Euston,1A22 - 曼彻斯特皮卡迪利站至伦敦尤斯顿站
 /F8BF59AC40A8558F10E53CAA9031C70F,1A23 - Manchester Piccadilly to London Euston,1A23 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
-/C66036F545682F532EC68C98188766F7,1A23 0955 Manchester Picc to Euston,1A23 0955 曼彻斯特皮卡火车站开往尤斯顿火车站
+/C66036F545682F532EC68C98188766F7,1A23 0955 Manchester Picc to Euston,1A23 0955 曼彻斯特皮卡迪利开往尤斯顿火车站
 /888F7AF046294320F7168793F9212467,1A24 - Manchester Piccadilly to London Euston,1A24 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /DCAECA704C4DA0FADB6E0686B04860B8,1A24 - Manchester Piccadilly to London Euston,1A24 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /C389EECD46F6318F7AFAC3BC6D373D12,1A26 -  Crewe to London Euston,1A26 - 克鲁至伦敦尤斯顿
 /E59AF4884F93E79A54DBA486237DF576,1A26 -  Crewe to London Euston,1A26 - 克鲁至伦敦尤斯顿
-/B6551FA54923442CE5C14C8C8C21AE26,1A26 - BLOCKED AT CAMDEN,1A26 - 在卡姆登被阻挡
-/9D129AF049344168A60782950083C916,1A26 - Blocked at Camden,1A26 - 在卡姆登被阻挡
+/B6551FA54923442CE5C14C8C8C21AE26,1A26 - BLOCKED AT CAMDEN,1A26 - 受阻卡姆登
+/9D129AF049344168A60782950083C916,1A26 - Blocked at Camden,1A26 - 受阻卡姆登
 /6C8EE96B4B8773F08E3DC4971AE3198A,1A26 0853 Holyhead to Euston,1A26 0853 霍利黑德至尤斯顿
 /68343C624F87EB5705B9179386DF9520,1A26 Holyhead to London Euston,1A26 霍利黑德至伦敦尤斯顿
 /087EA5714D79EE64FC6537952B18BA2C,1A28 - Liverpool Lime Street to London Euston,1A28 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /7FCA7AAF42A3AB415014C5BB0540B526,1A28 - Liverpool Lime Street to London Euston,1A28 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /DD04C60A45B4DCA83A0E2F9119723F30,1A29 - Manchester Piccadilly to London Euston,1A29 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/E2477F5241DDCE7539DDC0A05957CABF,1A29 1055 Manchester Picc to Euston,1A29 1055 曼彻斯特皮卡火车站至尤斯顿火车站
+/E2477F5241DDCE7539DDC0A05957CABF,1A29 1055 Manchester Picc to Euston,1A29 1055 曼彻斯特皮卡迪利至尤斯顿火车站
 /41BDB9D64DAC4F840BF2C2837FA73D8F,1A30 - Manchester Piccadilly to London Euston,1A30 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /BD7870514FDB7E34BEAC6A81B0FA5889,1A30 - Manchester Piccadilly to London Euston,1A30 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /0A91A4304B4FB891AF1C109907119C0F,1A32 - Chester to London Euston,1A32 - 切斯特至伦敦尤斯顿
@@ -49,7 +49,7 @@
 /CF40FAA149058D35B4FB848150C5296E,1A34 - Liverpool Lime Street to London Euston,1A34 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /BF255DE146392D8BD5404E951ED57AE9,1A34 Liverpool Lime Street to London Euston,1A34 利物浦莱姆街站至伦敦尤斯顿站
 /BA77C2504A21BAC5F3D946B6077401DE,1A35 - Manchester Piccadilly to London Euston,1A35 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿
-/C8F4B73D4A8C03475D226B8E8C1FAFF2,1A35 1155 Manchester Picc to Euston,1A35 1155 曼彻斯特皮卡火车站至尤斯顿火车站
+/C8F4B73D4A8C03475D226B8E8C1FAFF2,1A35 1155 Manchester Picc to Euston,1A35 1155 曼彻斯特皮卡迪利至尤斯顿火车站
 /5F7C0EAB4E7FF248488E1EBFAB7472EE,1A35 Manchester Piccadilly to London Euston,1A35 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /929EA84D4A8A8B0CB5B86EB22695B45A,1A36 - Manchester Piccadilly to London Euston,1A36 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /CBE0276D4A8E3EE871C833BF89581F6F,1A36 -Manchester Piccadilly to London Euston,1A36 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
@@ -60,14 +60,14 @@
 /9E8B362A4A35BBDF0CF15689905ED799,1A38 Manchester Piccadilly to London Euston,1A38 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /4EB4B6314D157FBCBEB9BF9D8E0944DE,1A39 - Manchester Piccadilly to London Euston,1A39 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /FF8799E64888516F693922920BE79C34,1A41 - Manchester Piccadilly to London Euston,1A41 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/62CF8921443384F62E4C37B6F4033640,1A41 1255 Manchester Picc to Euston,1A41 1255 曼彻斯特皮卡火车站至尤斯顿火车站
+/62CF8921443384F62E4C37B6F4033640,1A41 1255 Manchester Picc to Euston,1A41 1255 曼彻斯特皮卡迪利至尤斯顿火车站
 /176ED5B545ED9C89F29F45B1242E4280,1A44 - Chester to London Euston,1A44 - 切斯特至伦敦尤斯顿
 /9C16BCBB41794B9577ABC2AE00C0A42E,1A44 - Chester to London Euston,1A44 - 切斯特至伦敦尤斯顿
 /A448670C43DE19BBD32C279E21F977E9,1A44 1332 Chester to Euston,1A44 1332 切斯特至尤斯顿
 /BD5A614B40CB57B303240EA498C68613,1A45 - Manchester Piccadilly to London Euston,1A45 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /144A24DD4FD984E5CCBD61B27E41324E,1A46 - Liverpool Lime Street to London Euston,1A46 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /D6D9B81C471E42E04FA543B00D504533,1A47 - Manchester Piccadilly to London Euston,1A47 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/822FA8764B220F7033038DB35A1DC92C,1A47 1355 Manchester Picc to Euston,1A47 1355 曼彻斯特皮卡火车站至尤斯顿火车站
+/822FA8764B220F7033038DB35A1DC92C,1A47 1355 Manchester Picc to Euston,1A47 1355 曼彻斯特皮卡迪利至尤斯顿火车站
 /2C1BEC1A4055BBE238C07A9541621516,1A48 - Manchester Piccadilly to London Euston,1A48 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /61DF61154883D12F499AAFB782210F26,1A48 - Manchester Piccadilly to London Euston,1A48 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /734461B746459AB9F1E9FABAD217F0F6,1A50 - Holyhead to London Euston,1A50 - 霍利黑德至伦敦尤斯顿
@@ -76,7 +76,7 @@
 /B55005AA4F7B4CBC421479B4F147C22F,1A51 - Manchester Piccadilly to London Euston,1A51 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /5CDF2AE945A827F6EDFDCF97F885A182,1A52 - Liverpool Lime Street to London Euston,1A52 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /B160372745FA37F4DB7B67A0B3B3C365,1A53 - Manchester Piccadilly to London Euston,1A53 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/9AFA88FA48F46153C95E4DB1A513BB6A,1A53 1455 Manchester Picc to Euston,1A53 1455 曼彻斯特皮卡火车站至尤斯顿火车站
+/9AFA88FA48F46153C95E4DB1A513BB6A,1A53 1455 Manchester Picc to Euston,1A53 1455 曼彻斯特皮卡迪利至尤斯顿火车站
 /72651B6C467426889B3BFBA43C4E20BB,1A54 - Manchester Piccadilly to London Euston,1A54 - 从曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /771945034FA2CC54C04E18B69D79F6B9,1A54 -Manchester Piccadilly to London Euston,1A54 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /B080824440AF221DA4C86E924E8B806E,1A56 - Chester to London Euston,1A56 - 切斯特至伦敦尤斯顿
@@ -85,7 +85,7 @@
 /7178680D45F3D9208A1BF7B3C3F16289,1A57 - Manchester Piccadilly to London Euston,1A57 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /D24F885C489FFA67ABD36FB0F105ACE1,1A58 - Liverpool Lime Street to London Euston,1A58 - 利物浦莱姆街站至伦敦尤斯顿站
 /C6AD825C421B546DFE6CDEAE585C3285,1A58 - Manchester Piccadilly to London Euston,1A58 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/03155EB443B4EBEBFA5B53BF4C336B24,1A59 1555 Manchester Picc to Euston,1A59 1555 曼彻斯特皮卡火车站至尤斯顿火车站
+/03155EB443B4EBEBFA5B53BF4C336B24,1A59 1555 Manchester Picc to Euston,1A59 1555 曼彻斯特皮卡迪利至尤斯顿火车站
 /827F784448DF513F02AA1C8CED85C05E,1A60 - Manchester Piccadilly to London Euston,1A60 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /AB8AC0C3443E1B6A4DBAF39DAE61FE27,1A60 - Manchester Piccadilly to London Euston,1A60 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /154889FB47194D6ED725BDB23A33E38A,1A62 - Holyhead to London Euston,1A62 - 霍利黑德至伦敦尤斯顿
@@ -95,7 +95,7 @@
 /2215ADDF4CDDADF370F6F182004CA70B,1A64 - Liverpool Lime Street to London Euston,1A64 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /ACFE691A48FDCCA75FDDA5B0712AD9AF,1A64 - Liverpool Lime Street to London Euston,1A64 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /A39DE8684E9F3DA23C31C59EC26A9F1C,1A65 - Manchester Piccadilly to London Euston,1A65 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/C9EB49F346DC2646EFB1C59297BB8AB6,1A65 1655 Manchester Picc to Euston,1A65 1655 曼彻斯特皮卡火车站至尤斯顿火车站
+/C9EB49F346DC2646EFB1C59297BB8AB6,1A65 1655 Manchester Picc to Euston,1A65 1655 曼彻斯特皮卡迪利至尤斯顿火车站
 /3531CD0E47CB3A499EBF3E9541E77AC0,1A66 - Manchester Piccadilly to London Euston,1A66 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /F1FD359E4E2198312C5922929C05A550,1A66 - Manchester Piccadilly to London Euston,1A66 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /2E1E67814A014AC98710F797B08753D3,1A68 - Chester to London Euston,1A68 - 切斯特至伦敦尤斯顿
@@ -104,13 +104,13 @@
 /DBEC7D644D198AAF60043CBBCDCD8CFA,1A69 - Manchester Piccadilly to London Euston,1A69 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /AED7BD934BB924EC6C928A9F13186B81,1A70 - Liverpool Lime Street to London Euston,1A70 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /4009B7694588A12435FEB3A84A6EE484,1A71 - Manchester Piccadilly to London Euston,1A71 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/2BEB7D9C441A1922532D06923EBBA28F,1A71 1755 Manchester Picc to Euston,1A71 1755 曼彻斯特皮卡火车站至尤斯顿火车站
+/2BEB7D9C441A1922532D06923EBBA28F,1A71 1755 Manchester Picc to Euston,1A71 1755 曼彻斯特皮卡迪利至尤斯顿火车站
 /C6477CD744F49038DD308EB59106965B,1A72 - Manchester Piccadilly to London Euston,1A72 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /DFA7624F4377B13BF9A65A8FD2DEDF7D,1A72 - Manchester Piccadilly to London Euston,1A72 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /3543C0B34E57AA537FDFB4A9C3D91F49,1A74 - Manchester Piccadilly to London Euston,1A74 - 从曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /B7C05B3B4C8E47FFC5904FA8A1F5D3A2,1A74 Manchester Piccadilly to London Euston,1A74 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /23FBF0D34984E02FBCB50D8AC99ABB92,1A75 Liverpool Lime Street to London Euston,1A75 利物浦莱姆街站至伦敦尤斯顿站
-/9EA5E3A4472C0D80B5D76AB8801018D5,1A76 1855 Manchester Picc to Euston,1A76 1855 曼彻斯特皮卡火车站至尤斯顿火车站
+/9EA5E3A4472C0D80B5D76AB8801018D5,1A76 1855 Manchester Picc to Euston,1A76 1855 曼彻斯特皮卡迪利至尤斯顿火车站
 /8444E7194DCD0FE1852CF8BFA6657171,1A76 Manchester Piccadilly to London Euston,1A76 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /C17ED20C41121AD418A2A6AD75AE2A72,1A77 - Manchester Piccadilly to London Euston,1A77 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /D49FB2D44400960232053F8B48371A64,1A77 - Manchester Piccadilly to London Euston,1A77 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
@@ -118,7 +118,7 @@
 /F4E635FE4E44FB4FF2B6319336FA23C3,1A79 - Liverpool Lime Street to London Euston,1A79 - 利物浦莱姆街站至伦敦尤斯顿站
 /258E3E5E40514A4136EEDCA7FC570AF1,1A80 - Manchester Piccadilly to London Euston,1A80 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
 /A35C12C1477EF57873ABD3B82EA008F2,1A80 - Manchester Piccadilly to London Euston,1A80 - 曼彻斯特皮卡迪利火车站开往伦敦尤斯顿火车站
-/2B3A7805471393F395C772B95076AE52,1A80 1955 Manchester Picc to Euston,1A80 1955 曼彻斯特皮卡火车站至尤斯顿火车站
+/2B3A7805471393F395C772B95076AE52,1A80 1955 Manchester Picc to Euston,1A80 1955 曼彻斯特皮卡迪利至尤斯顿火车站
 /3E55CBE84824DC292F4751B5497BD7BE,1A81 - Manchester Piccadilly to London Euston,1A81 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /DA3BF8DA4F50CFCF4925FC81559207EA,1A81 - Manchester Piccadilly to London Euston,1A81 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /14C11FA04176C45374971391766A3254,1A82 - Liverpool Lime Street to London Euston,1A82 - 从利物浦莱姆街站开往伦敦尤斯顿站
@@ -277,13 +277,13 @@
 /0E56125042C06B0BDEAE68AA2A8FB0E8,1G65 1833 Liverpool to Birmingham NS,1G65 1833 利物浦至伯明翰新街
 /B7E07D3A40F9F18B15129FB09C50A765,1G67 1933 Liverpool to Birmingham NS,1G67 1933 利物浦至伯明翰新街
 /5FED8A08436E32324680A0B0389C1037,1G69 2033 Liverpool to Birmingham NS,1G69 2033 利物浦至伯明翰新街
-/0C08D09945E86350A9202F8D4E1317F6,1G70 2003 Manchester Picc to Birmingham NS,1G70 2003 曼彻斯特皮卡火车站至伯明翰新街
+/0C08D09945E86350A9202F8D4E1317F6,1G70 2003 Manchester Picc to Birmingham NS,1G70 2003 曼彻斯特皮卡迪利至伯明翰新街
 /646DAA67411AE3EDDD144FBBFD9BA1B5,1G71 1903 Manchester Picc to Birmingham NS,1G71 1903 曼彻斯特皮卡迪夫站至伯明翰新街站
 /692D6A2A422E3B31498A438380937252,1G71 2133 Liverpool to Birmingham NS,1G71 2133 利物浦至伯明翰新街
 /AB4876594C05863488F33097C460BA14,1G76 1920 Holyhead to Birmingham NS,1G76 1920 霍利黑德至伯明翰新街
-/FABE6FEC402AB397DE36BDBEF236B39A,1G85 1803 Manchester Picc to Birmingham NS,1G85 1803 曼彻斯特皮卡火车站至伯明翰新街
-/C520638543491A4F04BD469F798AB4A7,1G91 2125 Manchester Picc to Birmingham NS,1G91 2125 曼彻斯特皮卡火车站至伯明翰新街
-/531CFA014F33EACDF2C2CC955BFD1CE8,1G92 2203 Manchester Picc to Birmingham NS,1G92 2203 曼彻斯特皮卡火车站至伯明翰新街
+/FABE6FEC402AB397DE36BDBEF236B39A,1G85 1803 Manchester Picc to Birmingham NS,1G85 1803 曼彻斯特皮卡迪利至伯明翰新街
+/C520638543491A4F04BD469F798AB4A7,1G91 2125 Manchester Picc to Birmingham NS,1G91 2125 曼彻斯特皮卡迪利至伯明翰新街
+/531CFA014F33EACDF2C2CC955BFD1CE8,1G92 2203 Manchester Picc to Birmingham NS,1G92 2203 曼彻斯特皮卡迪利至伯明翰新街
 /BFC481164F10D9F027B607B7F51BEA57,1H02 - London Euston to Manchester Piccadilly,1H02 - 伦敦尤斯顿站至曼彻斯特皮卡迪利站
 /18D2813C4FDFC30A7F8A9D9B4D794457,1H02 London Euston to Manchester Piccadilly,1H02 - 伦敦尤斯顿至曼彻斯特皮卡迪利
 /7341B25E4D52E5D5A97EF8901DB8D28F,1H02 London Euston to Manchester Piccadilly,1H02 - 伦敦尤斯顿至曼彻斯特皮卡迪利
@@ -385,7 +385,7 @@
 /9021A20348D54ECBDB50C384FF600222,1J15 1208 Birmingham Int to Aberystwyth,1J15 1208 伯明翰国际站开往阿伯里斯特威斯
 /CCF3B8634F33F0E9620621BA0ACA8098,1J19 1408 Birmingham Int to Aberystwyth,1J19 1408 从伯明翰国际站开往阿伯里斯特威斯
 /24ECC8DD4C232A3F5D096095B6F9855B,1J23 1608 Birmingham Int to Aberystwyth,1J23 1608 从伯明翰国际站开往阿伯里斯特威斯
-/8DB0CA9040805F4607657CB8D8A908DF,1J31 2008 Birmingham Int to Aberystwyth,1J31 2008 伯明翰国际机场飞往阿伯里斯特威斯
+/8DB0CA9040805F4607657CB8D8A908DF,1J31 2008 Birmingham Int to Aberystwyth,1J31 2008 伯明翰国际机场往阿伯里斯特威斯
 /240EA4274E3015967CF6C793B46DD028,1J32 - London Euston to Wrexham General,1J32 - 伦敦尤斯顿站至雷克瑟姆通用站
 /D0AFF92E442C6521BD6E09BF1B700434,1J32 - London Euston to Wrexham General,1J32 - 伦敦尤斯顿站至雷克瑟姆通用站
 /EA0373E64E69C7DC6FF03C90A7521B46,1J32 1800 Euston to Wrexham Gnl,1J32 1800 尤斯顿至雷克瑟姆通用站
@@ -454,20 +454,20 @@
 /0BF575F14B25203EF0E4E0AADE85F1B5,1M88 2042 Reading to Manchester Picc,1M88 2042 雷丁至曼彻斯特皮卡迪利
 /728218314D077B8160E531A3C7606664,1N90 2113 Crewe to Northampton,1N90 2113 克鲁至北安普顿
 /24300BB847401FD763388DA09BFF1135,1N92 2213 Crewe to Rugby,1N92 2213 克鲁至拉格比
-/0A9853584DBAF476B2F9B7B5A4CB35BE,1O04 0511 Manchester Picc to Bournemouth,1O04 0511 曼彻斯特皮卡火车站开往伯恩茅斯
-/0FD7B2C7458188D6780B02B91BCC36BA,1O08 0725 Manchester Picc to Bournemouth,1008 0725 曼彻斯特皮卡火车站开往伯恩茅斯
-/17E82F4B4BE7A1FE6E9131A43490480B,1O10 0825 Manchester Picc to Bournemouth,1O10 0825 曼彻斯特皮卡火车站开往伯恩茅斯
-/E9CAE6524D5AF43C3981C9B257DF0886,1O12 0925 Manchester Picc to Bournemouth,1O12 0925 曼彻斯特皮卡火车站开往伯恩茅斯
-/3297A51641BE13F160E1B8B9B5363DDB,1O14 1025 Manchester Picc to Bournemouth,1014 1025 曼彻斯特皮卡火车站开往伯恩茅斯
-/3166DC684DFB505D703DAF8DCEB8BBAB,1O16 1125 Manchester Picc to Bournemouth,1O16 1125 曼彻斯特皮卡火车站开往伯恩茅斯
-/DCEB1D5B42294D212851E99FF2165B7E,1O18 1225 Manchester Picc to Bournemouth,1018 1225 曼彻斯特皮卡火车站开往伯恩茅斯
-/77BA0D4D45085B5C5E6402B2D45C5EFF,1O20 1325 Manchester Picc to Bournemouth,1020 1325 曼彻斯特皮卡火车站开往伯恩茅斯
-/7E5CF3CB4C6E2878E0A3999C596A63FB,1O22 1425 Manchester Picc to Bournemouth,1O22 1425 曼彻斯特皮卡火车站开往伯恩茅斯
-/65801744402E5F247899239B9ABD60FE,1O24 1525 Manchester Picc to Bournemouth,1024 1525 曼彻斯特皮卡火车站开往伯恩茅斯
+/0A9853584DBAF476B2F9B7B5A4CB35BE,1O04 0511 Manchester Picc to Bournemouth,1O04 0511 曼彻斯特皮卡迪利开往伯恩茅斯
+/0FD7B2C7458188D6780B02B91BCC36BA,1O08 0725 Manchester Picc to Bournemouth,1008 0725 曼彻斯特皮卡迪利开往伯恩茅斯
+/17E82F4B4BE7A1FE6E9131A43490480B,1O10 0825 Manchester Picc to Bournemouth,1O10 0825 曼彻斯特皮卡迪利开往伯恩茅斯
+/E9CAE6524D5AF43C3981C9B257DF0886,1O12 0925 Manchester Picc to Bournemouth,1O12 0925 曼彻斯特皮卡迪利开往伯恩茅斯
+/3297A51641BE13F160E1B8B9B5363DDB,1O14 1025 Manchester Picc to Bournemouth,1014 1025 曼彻斯特皮卡迪利开往伯恩茅斯
+/3166DC684DFB505D703DAF8DCEB8BBAB,1O16 1125 Manchester Picc to Bournemouth,1O16 1125 曼彻斯特皮卡迪利开往伯恩茅斯
+/DCEB1D5B42294D212851E99FF2165B7E,1O18 1225 Manchester Picc to Bournemouth,1018 1225 曼彻斯特皮卡迪利开往伯恩茅斯
+/77BA0D4D45085B5C5E6402B2D45C5EFF,1O20 1325 Manchester Picc to Bournemouth,1020 1325 曼彻斯特皮卡迪利开往伯恩茅斯
+/7E5CF3CB4C6E2878E0A3999C596A63FB,1O22 1425 Manchester Picc to Bournemouth,1O22 1425 曼彻斯特皮卡迪利开往伯恩茅斯
+/65801744402E5F247899239B9ABD60FE,1O24 1525 Manchester Picc to Bournemouth,1024 1525 曼彻斯特皮卡迪利开往伯恩茅斯
 /0394602745AAF88717E9B6B35440BCE5,1O26 1625 Manchester Picc to Bournemouth,1026 1625 曼彻斯特皮卡至伯恩茅斯
 /6BE4DE6D4E8ACD71FFCD53851C6AE017,1O30 1825 Manchester Picc to Bournemouth,1030 1825 曼彻斯特皮卡迪夫至伯恩茅斯
 /2ED4865D4E445BB9D76DB6B8FA59D9F9,1O34 1925 Manchester Picc to Southampton Ctl,1O34 1925 曼彻斯特皮卡至南安普顿中心
-/7586E6064DE7CC636A0113B379B36D03,1O68 1725 Manchester Picc to Bournemouth,1O68 1725 曼彻斯特皮卡火车站开往伯恩茅斯
+/7586E6064DE7CC636A0113B379B36D03,1O68 1725 Manchester Picc to Bournemouth,1O68 1725 曼彻斯特皮卡迪利开往伯恩茅斯
 /6313CC02447CFE5A86ACA5994574B87A,1P07 - London Euston to Preston,1P07 - 伦敦尤斯顿至普雷斯顿
 /1447265044F4B343D4CFEFB23F5387EB,1P07 - SATURDAY NIGHT CRAWL,1P07 - 周六夜间缓行
 /371E91D9467992EA68E92291F5757604,1P07 - Saturday Night Crawl,1P07 - 周六夜间缓行
@@ -483,7 +483,7 @@
 /6D2E08F04A9579E9415BFD9258ED9D7D,1R02 Wolverhampton to London Euston,1R02 伍尔弗汉普顿至伦敦尤斯顿
 /BCF38F5F4C4190DEEFA0B7B7C362F768,1R03 - Manchester Piccadilly to London Euston,1R03 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /E2EF352247F983899C47DAA2D020CD84,1R03 - Manchester Piccadilly to London Euston,1R03 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/8FDF811B4AA14169C3FC118D165CA7AA,1R03 0505 Manchester Picc to Euston,1R03 0505 曼彻斯特皮卡火车站至尤斯顿火车站
+/8FDF811B4AA14169C3FC118D165CA7AA,1R03 0505 Manchester Picc to Euston,1R03 0505 曼彻斯特皮卡迪利至尤斯顿火车站
 /03D2A16543FB13E3ACF0D5B9F94A2497,1R03 Manchester Piccadilly to London Euston,1R03 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /298C7B004D66D7E444F78B89F295BECD,1R05 - Wolverhampton to London Euston,1R05 - 伍尔弗汉普顿至伦敦尤斯顿
 /1F57FBDA4F74E68174C959A6C2DF4175,1R05 -Wolverhampton to London Euston,1R05 - 伍尔弗汉普顿至伦敦尤斯顿
@@ -513,7 +513,7 @@
 /AB89ED604D9F0A9749CA8AAFD8DBCA86,1R16 - Manchester Piccadilly to London Euston,1R16 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
 /C60B6312473488A633A8458E3C474388,1R18 - Liverpool Lime Street to London Euston,1R18 - 从利物浦莱姆街站开往伦敦尤斯顿站
 /B40138C34BEC215EE03C47A03223BB31,1R21 -Manchester Piccadilly to London Euston,1R21 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/02831A1A4A51252C130F8AA9C5A52AE5,1R21 0655 Manchester Picc to Euston,1R21 0655 曼彻斯特皮卡火车站至尤斯顿火车站
+/02831A1A4A51252C130F8AA9C5A52AE5,1R21 0655 Manchester Picc to Euston,1R21 0655 曼彻斯特皮卡迪利至尤斯顿火车站
 /002133AA49E59C3B172437904104B778,1R22 - Birmingham New Street to London Euston,1R22 - 伯明翰新街站至伦敦尤斯顿站
 /584DD55642DA6315921CD88BFD435FD5,1R25 - Holyhead and Wrexham General to London Euston,1R25 - 霍利黑德和雷克瑟姆总站至伦敦尤斯顿
 /B7B997FC497AD16FBA26BB841F42BAE3,1R25 - Holyhead and Wrexham General to London Euston,1R25 - 霍利黑德和雷克瑟姆总站至伦敦尤斯顿
@@ -628,17 +628,17 @@
 /2B251B8945CA25BF6C19D3B542B4F4C1,1U53 - London Euston to Crewe,1U53 - 伦敦尤斯顿至克鲁
 /A180729C49E1EE127EBBAAAD13EB3A7D,1U53 - London Euston to Crewe,1U53 - 伦敦尤斯顿至克鲁
 /BEE14C044F52E8C0D667B0A0765864E6,1U53 2146 Euston to Crewe,1U53 2146 尤斯顿至克鲁
-/868081A0483DF45EAEA422A91ED52423,1V45 0703 Manchester Picc to Bristol TM,1V45 0703 曼彻斯特皮卡火车站至布里斯托尔圣殿草地
+/868081A0483DF45EAEA422A91ED52423,1V45 0703 Manchester Picc to Bristol TM,1V45 0703 曼彻斯特皮卡迪利至布里斯托尔圣殿草地
 /6DCC5DEC412DFA977E848C9ED764FA7A,1V47 0803 Manchester Picc to Paignton,1V47 0803 曼彻斯特皮卡迪夫至佩恩顿
-/4DC227C347FEEC3F5EA94D8668477D38,1V49 0903 Manchester Picc to Bristol TM,1V49 0903 曼彻斯特皮卡火车站至布里斯托尔圣殿草地
-/D022A968445FEABD2E60A589C6A7D802,1V51 1003 Manchester Picc to Bristol TM,1V51 1003 曼彻斯特皮卡火车站至布里斯托尔圣殿草地
+/4DC227C347FEEC3F5EA94D8668477D38,1V49 0903 Manchester Picc to Bristol TM,1V49 0903 曼彻斯特皮卡迪利至布里斯托尔圣殿草地
+/D022A968445FEABD2E60A589C6A7D802,1V51 1003 Manchester Picc to Bristol TM,1V51 1003 曼彻斯特皮卡迪利至布里斯托尔圣殿草地
 /0A5E55B347B3CCB7F409D79DE579A619,1V53 1103 Manchester Picc to Bristol TM,1V53 1103 曼彻斯特皮卡至布里斯托尔圣殿草地
-/9812C2E849CF07297823C2AB4D6AF33F,1V55 1203 Manchester Picc to Bristol TM,1V55 1203 曼彻斯特皮卡火车站至布里斯托尔圣殿草地
+/9812C2E849CF07297823C2AB4D6AF33F,1V55 1203 Manchester Picc to Bristol TM,1V55 1203 曼彻斯特皮卡迪利至布里斯托尔圣殿草地
 /3F708D694CEBCB1B76A80FB6E3C8F511,1V57 1303 Manchester Picc to Bristol TM,1V57 1303 曼彻斯特皮卡至布里斯托尔圣殿草地
 /7A702823400DCDDDDE9EE8889AC4B4FC,1V59 1403 Manchester Picc to Paignton,1V59 1403 曼彻斯特皮卡迪夫至佩恩顿
-/8320AF1641B8A5EFAE2B23BB5E845CD7,1V61 1503 Manchester Picc to Bristol TM,1V61 1503 曼彻斯特皮卡火车站至布里斯托尔圣殿草地
+/8320AF1641B8A5EFAE2B23BB5E845CD7,1V61 1503 Manchester Picc to Bristol TM,1V61 1503 曼彻斯特皮卡迪利至布里斯托尔圣殿草地
 /386A19614D9CE7633804D5B600886235,1V63 1603 Manchester Picc to Bristol TM,1V63 1603 曼彻斯特皮卡至布里斯托尔圣殿草地
-/35B141CF41F55CC8C1F19E88A2704A20,1V65 1703 Manchester Picc to Bristol TM,1V65 1703 曼彻斯特皮卡火车站至布里斯托尔圣殿草地
+/35B141CF41F55CC8C1F19E88A2704A20,1V65 1703 Manchester Picc to Bristol TM,1V65 1703 曼彻斯特皮卡迪利至布里斯托尔圣殿草地
 /1A459DF34EE641D2B13A44811D7D1E96,1V94 2025 Manchester Picc to Reading,1V94 2025 曼彻斯特皮卡迪夫火车站至雷丁站
 /58F614D04CAEABEB8BE14990158248B0,1W02 - Coventry to London Euston,1W02 - 考文垂至伦敦尤斯顿
 /8D45A1164EEAAD20B170299215805905,1W02 Coventry to London Euston,1W02 考文垂至伦敦尤斯顿
@@ -741,10 +741,10 @@
 /29FC466E45DD3DD8C5F12BBD8F71C1C8,1Y77 -London Euston to Northampton,1Y77 - 伦敦尤斯顿至北安普顿
 /29A865DB41CD69C7E9C4589B6E1C444C,1Y81 - London Euston to Birmingham New Street,1Y81 - 伦敦尤斯顿站至伯明翰新街站
 /167A0F984A9C43DAF91D779FB8363C7C,1Z23 0822 Birmingham NS to Liverpool,1Z23 0822 从伯明翰新街开往利物浦
-/916BF8874A6A11F7F99322A2508EC893,1Z47 - WEMBLEY FINAL SPECIAL,1Z47 - 温布利决赛特别节目
-/5E84095548BA53F1A35CE4995175952E,1Z47 - Wembley Final Special,1Z47 - 温布利决赛特别节目
+/916BF8874A6A11F7F99322A2508EC893,1Z47 - WEMBLEY FINAL SPECIAL,1Z47 - 温布利决赛特别班次
+/5E84095548BA53F1A35CE4995175952E,1Z47 - Wembley Final Special,1Z47 - 温布利决赛特别班次
 /4F7148714222EC671257C7BF5ABEA506,1Z47 Wrexham General to Wembley Central,1Z47 路从雷克瑟姆总站开往温布利中心站
-/F98C930243C55DA6E562488514803DB0,1Z60 0830 Manchester Victoria to Bristol TM,1Z60 0830 曼彻斯特维多利亚至布里斯托尔 TM
+/F98C930243C55DA6E562488514803DB0,1Z60 0830 Manchester Victoria to Bristol TM,1Z60 0830 曼彻斯特维多利亚至布里斯托尔圣殿草地
 /0CE5F9EC45B8A6564C1FD0B6563FD87A,201D-01 - Stonebridge Park Depot to Stonebridge Park,201D-01 - 石桥公园站至石桥公园
 /A6E117D142EAFB9015467AB11BFFFF41,201D-02 - Stonebridge Park to Harrow & Wealdstone,201D-02 - 斯通布里奇公园至哈罗和韦尔德斯通
 /186D60D94665B819D5454B956E4F7982,201D-03 - Harrow & Wealdstone to Elephant & Castle,201D-03 - 哈罗和威尔德斯通至象堡
@@ -1964,7 +1964,7 @@
 /1539F7774210CCD0624066B0FE71C482,5K45  - Camden CSD to London Euston,5K45 - 卡姆登客车整备段至伦敦尤斯顿车站
 /C96A4FC2477E397B1312A38F5D56D73A,5K45 1821 Stoke to Crewe Part 1,5K45 1821 斯托克至克鲁 第一部分
 /85922E7548C749AAA02D5BAC6861A751,5K45 1821 Stoke to Crewe Part 2,5K45 1821 斯托克至克鲁 第二部分
-/5005B79B4960A3B1C3B87FB4CA2D4338,5K65 2230 Manchester Picc to Crewe CS,5K65 2230 曼彻斯特皮卡迪夫至克鲁存车线
+/5005B79B4960A3B1C3B87FB4CA2D4338,5K65 2230 Manchester Picc to Crewe CS,5K65 2230 曼彻斯特皮卡迪利至克鲁存车线
 /B796C1A146FAF5287D0E2AB52916ADFA,5K68 2058 Crewe to Crewe CS,5K68 2058 克鲁至克鲁存车线
 /0F6D664F49B3A3B4BF383399EF351B65,5K72 2131 Crewe to Crewe CS,5K72 2131 克鲁至克鲁存车线
 /1C7740134F30B6CDCCFDA0864AA8D8E5,5K79 0518 Crewe to Stafford,5K79 0518 克鲁至斯塔福德
@@ -2083,8 +2083,8 @@
 /813B348345A5C70D5C1E5CB9D560681B,9G22 London Euston to Birmingham New Street,9G22 从伦敦尤斯顿站开往伯明翰新街站
 /C780FFD8457F5D32FBB434B56280988E,9G23 London Euston to Birmingham New Street,9G23 伦敦尤斯顿至伯明翰新街
 /54E798344121E847BF91F6891CE58698,9G25 - London Euston to Birmingham New Street,9G25 - 伦敦尤斯顿站至伯明翰新街站
-/0E68397B4EB1D03E7A3C459247471D5D,9G25 - TURNBACK AT WATFORD,9G25 - 沃特福德回战
-/CB795D35462667A9457CF4A1AEF03A29,9G25 - Turnback at Watford,9G25 - 在沃特福德折返
+/0E68397B4EB1D03E7A3C459247471D5D,9G25 - TURNBACK AT WATFORD,9G25 - 沃特福德折返
+/CB795D35462667A9457CF4A1AEF03A29,9G25 - Turnback at Watford,9G25 - 沃特福德折返
 /6146E06A4A19533D241327A58A7C51D6,9G25 London Euston to Birmingham New Street,9G25 伦敦尤斯顿至伯明翰新街
 /04DB73E0454FC92123C695A5561E7DBA,9G26 London Euston to Birmingham New Street,9G26 伦敦尤斯顿至伯明翰新街
 /39C166504DE0DCC6842351AAFE1F1CAE,9G30 - London Euston to Birmingham New Street,9G30 - 伦敦尤斯顿站至伯明翰新街站
@@ -2152,9 +2152,9 @@
 /0B33C34748A5AEBE47B2A090CAE2CDE8,9P47 - London Euston to Blackpool North,9P47 - 伦敦尤斯顿至布莱克浦北
 /64FA35C74AF5BF8F08A05FABDD5BE123,9P65 - London Euston to Blackpool North,9P65 - 伦敦尤斯顿至布莱克浦北
 /7A6AB45D4494F7BCDC4D0193B8EA3F2B,9R20 - Manchester Piccadilly to London Euston,9R20 - 曼彻斯特皮卡迪利火车站至伦敦尤斯顿火车站
-/5EE610A743AE08EBD979EE9B142E0CC4,9R20 0603 Manchester Picc to Euston,9R20 0603 曼彻斯特皮卡火车站至尤斯顿火车站
+/5EE610A743AE08EBD979EE9B142E0CC4,9R20 0603 Manchester Picc to Euston,9R20 0603 曼彻斯特皮卡迪利至尤斯顿火车站
 /9B9BD15C4806C0095290D39365B2566B,9R26 - Manchester Piccadilly to London Euston,9R26 - 曼彻斯特皮卡迪利站至伦敦尤斯顿站
-/9C66B82140DE2512E40006A2F6BE4ADF,9R26 0624 Manchester Picc to Euston,9R26 0624 曼彻斯特皮卡火车站至尤斯顿火车站
+/9C66B82140DE2512E40006A2F6BE4ADF,9R26 0624 Manchester Picc to Euston,9R26 0624 曼彻斯特皮卡迪利至尤斯顿火车站
 /CDCFE17945C12436B06FFC813B3D67BB,9R28 0704 Crewe to Birmingham NS,9R28 0704 克鲁至伯明翰新街
 /90046D994B0F3FD3011F0C8AF6111AF6,9S44 - BOUND FOR EDINBURGH,9S44 - 开往爱丁堡
 /4F72D10E4569C91F391E8A9207FE67D0,9S44 - Bound for Edinburgh,9S44 - 开往爱丁堡
@@ -2958,10 +2958,10 @@
 /EC1407A049F4886E6E512990C4208AA5,Drive this empty stock move Wolverhampton to Oxley.,驾驶这辆空载货车从伍尔弗汉普顿运往奥克斯利。
 /5F0AC5E540A22901816373BDFA85A805,Drive this empty stock move from Birmingham to Oxley.,驾驶这辆空车从伯明翰运往奥克斯利。
 /7B1A3F9F408CAEEAE91ABC8A6B4BCDB1,Drive this empty stock move from Birmingham to Oxley.,驾驶这辆空车从伯明翰运往奥克斯利。
-/5DEE9A8349DEE312C4C3A2BA7CD8E88A,Drive this empty stock move from Birmingham to Soho,驾驶这辆空载货车从伯明翰运往苏豪区
-/9491B232479ECEE7CD50C2A911BB3483,Drive this empty stock move from Birmingham to Soho L.M.D.,驾驶这辆空载货车从伯明翰运往伦敦苏豪区
-/C0E5FB58416A2EE498427D8689DE4D3C,Drive this empty stock move from Birmingham to Soho L.M.D.,驾驶这辆空载货车从伯明翰运往伦敦苏豪区
-/DB083B05422525B8C173B68C6D1467F2,Drive this empty stock move from Birmingham to Soho L.M.D.,驾驶这辆空载货车从伯明翰运往伦敦苏豪区
+/5DEE9A8349DEE312C4C3A2BA7CD8E88A,Drive this empty stock move from Birmingham to Soho,驾驶这辆空载货车从伯明翰运往索霍
+/9491B232479ECEE7CD50C2A911BB3483,Drive this empty stock move from Birmingham to Soho L.M.D.,驾驶这辆空载货车从伯明翰运往索霍轻型维护段
+/C0E5FB58416A2EE498427D8689DE4D3C,Drive this empty stock move from Birmingham to Soho L.M.D.,驾驶这辆空载货车从伯明翰运往索霍轻型维护段
+/DB083B05422525B8C173B68C6D1467F2,Drive this empty stock move from Birmingham to Soho L.M.D.,驾驶这辆空载货车从伯明翰运往索霍轻型维护段
 /4DF7158D4BCE0D4F9DD747ABC2E20DDB,Drive this empty stock move from Birmingham to Wolverhampton Carriage Sidings.,驾驶这列空载货车从伯明翰运往伍尔弗汉普顿客车支线。
 /78028F694105DAD0F6BE01AC26739B1A,Drive this empty stock move from Crewe to Stafford.,驾驶这辆空载货车从克鲁运往斯塔福德。
 /1E5EF7724BF353CD098CC2ADB0A017C2,Drive this empty stock move from Oxley to Birmingham.,驾驶这辆空车从奥克斯利运往伯明翰。
@@ -3172,13 +3172,13 @@
 /5576B74142BA358758B9CEABBBC7F443,Empty engineer's train from Basford Hall to Stafford,从巴斯福德霍尔到斯塔福德的空载工程师列车
 /6A44A2B247C2416A9276BCA19E027DF8,Empty stock from Crewe to Crewe Headshunt.,从克鲁到克鲁枢纽站的空车厢。
 /D7CBCF654B5869AD2A74CCBDBD7FB70A,Empty stock from Crewe to Crewe Headshunt.,从克鲁到克鲁枢纽站的空车厢。
-/AA6D78094200678C745C988A21BFB61C,Empty stock move from Birmingham to Soho,空载货物从伯明翰运往苏豪区
+/AA6D78094200678C745C988A21BFB61C,Empty stock move from Birmingham to Soho,空载货物从伯明翰运往索霍
 /3FA73D24415A0A47D96C9DAA4FE8B95C,Empty stock move from Bushbury Jn to Crewe.,空载货物从布什伯里枢纽站运往克鲁。
 /52EFFE8840DA58CA308A7EBFC9609B3C,Empty stock move from Crewe Headshunt to Crewe.,空载货物从克鲁枢纽站运往克鲁。
 /F7094CC84014E3F603DE3897B92FA0B3,Empty stock move from Crewe Headshunt to Crewe.,空载货物从克鲁枢纽站运往克鲁。
 /4749D9C74187304204F646B6A310B7DF,Empty stock move from Crewe to Crewe Carriage Sidings.,空车从克鲁运往克鲁客车侧线。
 /DD51C5784CE2F2CBBDBE6BBA24AA3195,Empty stock move from Crewe to Stafford.,空载货物从克鲁运往斯塔福德。
-/6BA70DE8412B9DF1BBEC43B7B63C1479,Empty stock move from Soho to Birmingham,空置库存从苏豪区运往伯明翰
+/6BA70DE8412B9DF1BBEC43B7B63C1479,Empty stock move from Soho to Birmingham,空置库存从索霍运往伯明翰
 /AF5B99CB4403C0CC662BCFA9B20F4DEB,Empty stock move from Stafford to Crewe.,空载货物从斯塔福德运往克鲁。
 /565530E3454CC6584198F99059F1E759,Empty stock move from the carriage sidings to Crewe.,空车厢从客车侧线运往克鲁。
 /D9A916DF45D756009B4D3AA9717B096F,Empty stock move from the carriage sidings to Crewe.,空车厢从客车侧线运往克鲁。
@@ -3334,7 +3334,7 @@
 /324D268A4BDBDFD0A400EFAF0A692DE5,Freightliner Diesel Coal,Freightliner 柴油煤炭
 /8C26035945F90D19B407458834590833,Freightliner Diesel Intermodal,Freightliner 柴油联运
 /FE909A774A65400CC39751A8632EAFAE,GET MOVING,动起来！
-/879D26A3446A65B873D7DEBFCB3C7973,GJR: Modern Timetable,大枢纽铁路：现代时刻表
+/879D26A3446A65B873D7DEBFCB3C7973,GJR: Modern Timetable,大交汇铁路：2025 时刻表
 /7CCCB1C84F25C86BF276B3B27943C4F2,GO VIA LOCATION,通过地点
 /FDB252664F1E2501EA59CE803923E0A2,Get the train to 10 mph (16 km/h),将列车速度提升至 10 英里/小时（16 公里/小时）。
 /DA96CFF8457A96BB62A3ADBFEF66892C,HEADLIGHT CHECK,前照灯检查
@@ -3395,7 +3395,7 @@
 /06F8DB364AD4B23A9980708ADE42EB38,Open the cab door,打开驾驶室门
 /0B6176B94B4EC5D1BE7F34A843C21EF6,Open the left passenger doors,打开左侧乘客车门
 /8D1914BE4AC0720087841AB268657207,"Operate a Saturday London Euston to Preston service as far as Milton Keynes, taking leisure travellers home after a day in the capital. Engineering work means you'll be on the slows most of the way.",运营周六从伦敦尤斯顿到普雷斯顿，最远到达米尔顿凯恩斯的列车服务，接送休闲旅客结束在首都的一天行程回家。由于工程施工，大部分路段列车速度会比较慢。
-/D7BC37E743F3E9EA6899B1ADD45E47C8,"Operate a special charter from Milton Keynes to Wembley, taking football fans to the match for the cup final. Engineering work means a two track railway is in operation.",运营一列从米尔顿凯恩斯到温布利的包车，运送球迷前往观看杯赛决赛。由于工程施工，目前只有两条轨道铁路在运行。
+/D7BC37E743F3E9EA6899B1ADD45E47C8,"Operate a special charter from Milton Keynes to Wembley, taking football fans to the match for the cup final. Engineering work means a two track railway is in operation.",运营一列从米尔顿凯恩斯到温布利的包车，运送球迷前往观看杯赛决赛。由于工程施工，目前只有两条轨道在运行。
 /605D947744FA59862D271B9AC488290D,"Operate an early afternoon service out of London Euston bound for Birmingham New Street. Poor weather is causing issues with the overheads, so disruption is likely.",下午早些时候，将开行一班从伦敦尤斯顿开往伯明翰新街的列车。由于恶劣天气导致架空线路出现问题，因此可能会出现延误。
 /798E16F9424087D9820E0E9950C23EE3,"Operate the final leg of a service from Holyhead. A broken down train is causing disruption, and you'll be joining a queue of trains as you approach London Euston.",执行从霍利黑德出发的最后一程列车。一列火车发生故障，导致运行中断，您在接近伦敦尤斯顿车站时将加入列车排队的行列。
 /DA95920845A2429C6BB3448ECE502A81,Operate your first shift driving an Avanti West Coast class 805 from Wembley Carriage Sidings to London Euston. Carry out a cold start and perform a switch over from diesel power to electric power.,你的第一个班次是驾驶Avanti West Coast 805型列车，从温布利客车专用线开往伦敦尤斯顿车站。你需要进行冷启动，并完成从柴油动力到电力动力的切换。
@@ -3485,15 +3485,15 @@
 /40FA1F7C45493A2A0F20288D8F2A36A9,Press the R3 button to change to the External camera view.,按下 R3 按钮切换到外部摄像头视图。
 /321A67B54DEEA14937D4A383842BB174,Press the R3 button to return to the First Person view,按下 R3 键即可返回第一人称视角
 /9B34984343349E1E93DF1C91CF608BEC,Press the R3 button to return to the First Person view,按下 R3 键即可返回第一人称视角
-/ECCAADB6499D4D755A0AED86C113F306,Press the UNCOUPLE button,按下“解除配对”按钮
-/5DBA57424E6E9C48C7B8119C47238D7D,Press the front Coupler Preparation button,按下前面的耦合器准备按钮
+/ECCAADB6499D4D755A0AED86C113F306,Press the UNCOUPLE button,按下“解除连挂”按钮
+/5DBA57424E6E9C48C7B8119C47238D7D,Press the front Coupler Preparation button,按下前面的连挂准备按钮
 /40C13D654B3A22970F991CAA7925DEB4,Press triangle button to climb the ladder.,按下三角键爬梯子。
 /4677FB284001FFCCA59C9CBEDF8B3A27,Press triangle button to sit in the driver's seat.,按下三角形按钮即可坐到驾驶座上。
 /A5FC42D64FB1C06F6BAE8C93DFDF28CB,Press triangle button to stand up.,按下三角形按钮即可站立。
 /D1983E254E4A2A4A4489018EC35A5B6D,Press up button to set the Reverser to Forward.,按下向上按钮将换向器设置为前进。
 /DC51DC5E4648EE510F1BCD875A48E4B5,Press up button to set the Reverser to Forward.,按下向上按钮将换向器设置为前进。
-/F0FD173D4B48FDC4C5252D9E06FE67F6,Proof House Jn Down Derby Slow,德比慢速证明屋
-/1C478B5549BE746983A24299EA052E98,Put the Headlights to FULL,将前照灯调至最远位置
+/F0FD173D4B48FDC4C5252D9E06FE67F6,Proof House Jn Down Derby Slow,普鲁夫豪斯交汇处下行德比慢线
+/1C478B5549BE746983A24299EA052E98,Put the Headlights to FULL,将前照灯调至远光
 /44E1E76140B183A8CD21D49581BD96CE,Put the Headlights to the TAIL position,将前照灯调至尾灯位置
 /D87E42274278F77553F7B0AAF6AEC291,Put the Headlights to the TAIL position,将前照灯调至尾灯位置
 /C38F80F146425B48AF0B798B59805014,Put the PBC to Max Brake,将 主手柄 设置为最大制动
@@ -3508,7 +3508,7 @@
 /71DC3A154EE1BB51432D2AB07C5B5FA3,Put the Reverser to Neutral,将换向器置于空挡。
 /AE7ABC48448520559582BC86E86E15E2,Put the Reverser to Neutral,将换向器置于空挡。
 /DC645CAC4A95E7D757F46EA4EE6A6195,Put the Reverser to Neutral,将换向器置于空挡。
-/6B9C0F27498123B147D723A540DD4F67,"Put the Reverser to Neutral, then press the Forward Preparation button to open the coupler hatch on this unit.",将换向器置于空挡，然后按下前进准备按钮打开该装置的耦合器舱门。
+/6B9C0F27498123B147D723A540DD4F67,"Put the Reverser to Neutral, then press the Forward Preparation button to open the coupler hatch on this unit.",将换向器置于空挡，然后按下前进准备按钮打开该装置的连挂舱门。
 /41854A3D48C61273D5CE6086D3043B9D,Put the Reverser to Off,将换向器置于“关闭”位置
 /78D4C91346FAFD386CBCE7B5CB6F352E,Put the Reverser to Off,将换向器置于“关闭”位置
 /84B675184E6CCBBC96EF988DD6F38215,Put the Reverser to Off,将换向器置于“关闭”位置
@@ -3689,7 +3689,7 @@
 /1C1EB20744BF2EAE08013AA30C673393,TfW Class 150/153,威尔士交通局 150/153 级
 /5CADAE694DAD80719B427F9229B563D1,The Class 805 features a combined Power Brake Controller (PBC) that has both power and brake ranges to allow the train to accelerate and brake. Move the PBC into the power range so the train can move.,805型列车配备了动力制动控制器（主手柄），该控制器同时具备动力和制动功能，使列车能够加速和制动。将主手柄切换到动力模式，列车即可行驶。
 /F0BB1EF7493F661281C794B279A879E7,"The Class 805s are bi-mode multiple units capable of running on their onboard diesel engines and the 25kV overhead wires. Built in Kasado, Japan by Hitachi Rail - with final assembly taking place in Newton Aycliffe - the units entered service on 2 June 2024.",805型列车是双模动车组，既可使用车载柴油发动机运行，也可使用25千伏架空电线供电。该型列车由日立铁路公司在日本笠户制造，并在纽顿艾克利夫进行最终组装，于2024年6月2日投入运营。
-/77E387A049C0DDED467DB8B396436A2F,"The Class 805s consist of thirteen 5-car sets, replacing the older Class 221 'Super Voyager' units from 2002. These can be seen on services from London to Birmingham, Chester and North Wales. The units are maintained at Oxley depot near Wolverhampton.",805型列车由13列5节车厢的编组列车组成，于2002年取代了老旧的221型“超级旅行者”列车。这些列车运行于伦敦至伯明翰、切斯特和北威尔士的线路上。列车在伍尔弗汉普顿附近的奥克斯利车辆段进行维护。
+/77E387A049C0DDED467DB8B396436A2F,"The Class 805s consist of thirteen 5-car sets, replacing the older Class 221 'Super Voyager' units from 2002. These can be seen on services from London to Birmingham, Chester and North Wales. The units are maintained at Oxley depot near Wolverhampton.",805型列车由13列5节车厢的编组列车组成，取代了2002年制造的老旧221型“超级旅行者”列车。这些列车运行于伦敦至伯明翰、切斯特和北威尔士的线路上。列车在伍尔弗汉普顿附近的奥克斯利车辆段进行维护。
 /E534A192485F8D22A55C63B770CF13F8,The Final Stretch,最后冲刺阶段
 /B6A096294D3D9FF52AA063B8E8404850,The Flying Scotsman,飞翔的苏格兰人号
 /25971238496AD756D4F1278CD485F083,The coupler hatch needs opening on the other unit. Leave this cab; sit in the driver's seat on the other train and open it's coupler hatch.,另一节车厢的连接器舱门需要打开。离开这节驾驶室；坐到另一节车厢的驾驶室里，打开它的连接器舱门。
@@ -3761,7 +3761,7 @@
 /FEC4BC2F41BA746111B123B3ECF2616A,Track 22,轨道 22
 /FF6A3D254E15BC4D81981389CF49D635,Track 22,轨道 22
 /6CA7BA014EEB37508273028305BF5871,Turn off the diesel engines,关闭柴油发动机
-/A59D74DF4F827F0931B12EBDC17D2ACC,Turn on the Headlights to the MARKER position,将前照灯调至示廓灯位置
+/A59D74DF4F827F0931B12EBDC17D2ACC,Turn on the Headlights to the MARKER position,将前照灯调至标志灯位置
 /00F702864E49A632BAB03DBE7517B9B7,Turn the Headlights to the TAIL position,将前照灯转到尾灯位置
 /F845928C467FA44C54FD298DCBD15972,Turn the headlights to the FULL position,将前照灯调至全开位置
 /80D1A34849732730866313952BC509C6,Turn the headlights to the OFF position,将前照灯转到关闭位置
@@ -3772,13 +3772,13 @@
 /8FAE4A094E9389A8F46A9A95FAF4CF61,WAIT,等待
 /764EB4724BBDC192157511A8522BD345,WMR Class 170,西米德兰铁路 170 型
 /69B25F754CB533D79F3809BED1549BDE,"Wait for the fans to leave the train here at Wembley, and then take the train empty to the yard.",在温布利站等球迷们下车后，再驾驶空车前往停车场。
-/2634EAD34F699DAE085D1F97D7F117B2,Wait for the guard to reset the alarm,等待保安重置警报。
+/2634EAD34F699DAE085D1F97D7F117B2,Wait for the guard to reset the alarm,等待列车员重置警报。
 /21EAFEF64C96D4FD35A8F890122C6A93,Walk closer to the tail lights,走近尾灯
 /3BBC6C93443DC9E44C78EFA71683196D,"Walk the length of the train, checking as you go",沿着火车车厢走一圈，边走边看。
 /1E6630074AC2BCDBF5C41BA8562F58D3,Walk to the other end of the train and sit in the driver's seat.,走到火车的另一端，坐在驾驶座上。
-/FF4976144A7A6C845222298FF01206C8,Walk to your train at Central Square,步行前往中央广场搭乘火车。
+/FF4976144A7A6C845222298FF01206C8,Walk to your train at Central Square,步行前往在中央广场的列车
 /79B3E6D4410C0F6D2138A28A034C7830,Watford Calling,沃特福德停站
-/A92DC657425E5539F20856888815E2EA,Watford Junction Platform 6,沃特福德枢纽站6号站台
+/A92DC657425E5539F20856888815E2EA,Watford Junction Platform 6,沃特福德枢纽站 6 号站台
 /5A989CCC4312A5349FDAA8A6FAE5CDE1,"We are finally here, a bit behind schedule. Immobilise the cab ready for the next journey.",我们终于到了，稍微晚了点。关闭驾驶室，准备下一趟行程。
 /E59335874A77E74C5F9158AEDCFFB448,We are now going to couple these two Class 805 units together.,现在我们要把这两台 805 型机车连接在一起。
 /0D611E2941647A2666B0C497C2F6DFEA,We are now in Electric Mode. Drive over to Station One to couple to another Class 805.,我们现在处于电力驱动模式。请驶往一号站台，与另一辆805型机车连接。
@@ -3788,12 +3788,12 @@
 /75BE555F47EC3FCD3D0F9FAADD9B9D97,Wembley Reception Track 2,温布利 2 号接收线
 /32937B7A48B130F9C0004CB60F44B813,Wembley Reception Track 3,温布利 3 号接收线
 /77C1E2924427DAB5FB01E79EFA5895DE,West Coast Mainline South (Evero 2025),西海岸干线南（Evero 2025）
-/C6A6733C4881A9C3D55456B8FDA48A9E,Willesden Down Relief,威尔斯登丘陵救济
+/C6A6733C4881A9C3D55456B8FDA48A9E,Willesden Down Relief,威尔斯登丘陵下行疏解线
 /7B47E6F244535505A5AEB68EB075FE03,Willesden Up & Down Goods Track 1,威尔斯登上下行货运站 1 号轨道
 /6681030843A795BE630E34A41D414691,Willesden Up & Down Goods Track 2,威尔斯登上下行货运站 2 号轨道
 /A899A1F447C1A18E1721688D28D5807C,Willesden Up & Down Goods Track 2,威尔斯登上下行货运站 2 号轨道
 /707472F9439911E2316743959BF6EB31,Willesden Up Relief,威尔斯登上行疏解线
-/63381A6645B7BF4961807A944F72D3A5,Willesden Up Relief Line,威尔斯登上行疏解线线
+/63381A6645B7BF4961807A944F72D3A5,Willesden Up Relief Line,威尔斯登上行疏解线
 /6E374BB041F073200B45509CF84026F3,Wolverhampton 5,伍尔弗汉普顿 5
 /7251D29844E127CB5758D1B9951EDCE7,Wolverhampton 5,伍尔弗汉普顿 5
 /7528A2E74244D5A03013E6BFCF2AD38E,Wolverhampton 5,伍尔弗汉普顿 5
@@ -3837,7 +3837,7 @@
 /51CD598F45A5ECEEA1D1229ADE754682,You may find judging distances easier in the external camera by pressing 3 on the keyboard.,您可以通过按键盘上的 3 键，在外置摄像头上更容易判断距离。
 /9EF7D2C64BF371D784BECDB314802A1C,You may find judging distances easier in the external camera by pressing the R3 button.,按下 R3 按钮，您可能会发现使用外置摄像头更容易判断距离。
 /F283658E4327FACB54EDEF9CA5453855,You may find judging distances easier in the external camera by pressing the R3 button.,按下 R3 按钮，您可能会发现使用外置摄像头更容易判断距离。
-/F87F710342A8FAB99C81D586CE560B6E,You'll be on the slow lines all the way into London Euston. Keep an eye out for adverse aspects.,你将全程驾驶慢车前往伦敦尤斯顿车站。请留意可能出现的不利情况。
+/F87F710342A8FAB99C81D586CE560B6E,You'll be on the slow lines all the way into London Euston. Keep an eye out for adverse aspects.,你将全程沿慢车线行驶直至伦敦尤斯顿站。请密切留意限制性信号。
 /EAE080764B24DC3EBE2050AA594569DD,"You'll be sharing a platform with another train, so take the approach slowly.",你将与另一列火车共用一个站台，所以要慢慢驶近。
 /4232E2B043520DB6FC42EC8B07DD727E,"You're currently in the office building where you'll need to walk to your train currently waiting for you in the Central Square outside. After preparing your train, you'll drive in diesel mode to the Switch Lines, then change over to electric mode to couple to another Class 805 at Station One.",您目前身处办公楼内，需要步行前往停在楼外中央广场的列车。列车准备就绪后，您将以柴油模式行驶至调车线，然后在1号站切换至电力模式，与另一列805型机车连接。
 /9C5BCAAC4346B03FF9D2C1B3CCEAF1ED,"You're now equipped with the core skills to operate the Class 805 Evero. With the basics mastered, you're ready to take on real express duties along the West Coast Main Line.",您现在已掌握操作 805 型 Evero 列车的核心技能。掌握了基本操作后，您就可以在西海岸干线上承担真正的特快列车任务了。
@@ -3852,9 +3852,9 @@
 /4A8560E945D3659FBEEE1CBFD1F8262C,Your ability to balance speed and stopping accuracy has been proven. You've demonstrated precision on services that demand both urgency and finesse.,您已证明自己能够兼顾速度和制动精准度。您在需要兼顾紧迫性和技巧性的服务中展现了精准的操控能力。
 /470570F5424FC31E7458939F731E60B8,"You’ve mastered the Class 805 Evero across one of Britain’s busiest and most iconic main lines. From smooth departures to on-time arrivals, through all conditions and challenges, you've proven yourself a dependable driver of next-generation express services. The future of intercity travel is in capable hands — yours.",您已熟练驾驶805型Evero列车，驰骋于英国最繁忙、最具标志性的主干线之一。从平稳发车到准点到达，无论遇到何种路况和挑战，您都已证明自己是新一代特快列车服务的可靠驾驶员。城际旅行的未来掌握在您手中。
 /41FDAA004C5A4DCAC4BA47BE3CCE4A73,"You’ve shown composure and skill under pressure. No matter the challenge, you’ve kept services running smoothly and delivered passengers safely and on time.",你在压力下展现出了沉着冷静和娴熟的技能。无论面临何种挑战，你都确保了服务的顺利运行，并安全准时地将乘客送达目的地。
-/303E849D48ADC0138971A09B17684104,the 1A26 - Blocked at Camden scenario,1A26 - 卡姆登被阻堵场景
+/303E849D48ADC0138971A09B17684104,the 1A26 - Blocked at Camden scenario,1A26 - 受阻卡姆登场景
 /3ACE30114726A7978A74FE8847C368CF,the 1P07 - Saturday Night Crawl scenario,1P07 - 周六夜行者场景
 /318D6653469EF30A472AF8AD4BDC6824,the 1Z47 - Wembley Final Special scenario,1Z47 - 温布利决赛特别班次场景
-/D339F26047CFD79A063ACA870BAB3015,the 9G25 - Turnback at Watford scenario,9G25 - 沃特福德调向场景
+/D339F26047CFD79A063ACA870BAB3015,the 9G25 - Turnback at Watford scenario,9G25 - 沃特福德折返场景
 /336A32C2435770BC2A049D97E33C1EEE,the 9S44 - Bound for Edinburgh scenario,9S44 - 开往爱丁堡场景
 /C34C061949A7A662B91C62B90A98E954,the Early Start - Bi-Mode Introduction scenario,早期启动 - 双模式介绍场景
