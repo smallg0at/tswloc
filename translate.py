@@ -7,7 +7,7 @@ import re
 
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "AABS_Class350_BTP.locres.csv"
+FILE = "AABS_Class805.locres.csv"
 
 # Load Google Credential JSON, must change. DO NOT INCLUDE YOUR CREDENTIAL FILE IN PUBLIC REPO!
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = (
@@ -91,7 +91,7 @@ def translate_tsw_csv(input_file, output_file, target_lang="zh-CN"):
 
     # 4. 映射回 Translation 列
     print("Mapping translation results...")
-    df["Translation"] = df["source"].map(translated_map)
+    df["target"] = df["source"].map(translated_map)
 
     # 5. 保存结果
     df.to_csv(output_file, index=False, encoding="utf-8-sig")
