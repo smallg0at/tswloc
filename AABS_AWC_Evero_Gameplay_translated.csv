@@ -2285,7 +2285,7 @@
 /EDB291A147F5555725A2B2BE07679756,Capital Departure,首都出发
 /2AC037694CE9DEFC15B224A43F0489E8,Cargoline FCA,货运线 FCA 编组
 /C316B85A4A6A36F81EF757BA6B17FF64,Cargoline HOA,货运线 HOA 编组
-/EE253F64401A2A6B79650491FA5F6470,"Change ends here at Watford Junction. The passengers won't be happy that they're returning to London, but it's better than being stranded.",换乘到沃特福德枢纽站就结束了。乘客们虽然不乐意返回伦敦，但总比滞留伦敦要好。
+/EE253F64401A2A6B79650491FA5F6470,"Change ends here at Watford Junction. The passengers won't be happy that they're returning to London, but it's better than being stranded.",在沃特福德枢纽站这里换向吧。乘客们虽然不乐意返回伦敦，但总比滞留在这里要好。
 /0734BA694AEA529AD4F213B5F2333690,Class 323 Farewell Tour,Class 323 告别之旅
 /0B2B535C4D5F54E93F2B339D914E5848,Class 66 RHTT,Class 66 RHTT
 /2E657F5048B0809C423EDBA0B9548647,Class 710/2,Class 710/2
@@ -2304,7 +2304,7 @@
 /4263CE25409C3330B5C697AEF6F3D7CA,Continue this empty stock move around Oxley.,继续在奥克斯利附近进行空车回送。
 /4F65AE0046A988C8CA37719316CAEC44,Continue this empty stock move around Oxley.,继续在奥克斯利附近进行空车回送。
 /517D7A4746C104CCA722F890C5B80F0E,Continue this empty stock move around Oxley.,继续在奥克斯利附近进行空车回送。
-/86C47386440CDB2CB8EF6782CC67E286,"Continue to walk the length of the train, checking as you go",继续沿着火车车厢走，边走边查看。
+/86C47386440CDB2CB8EF6782CC67E286,"Continue to walk the length of the train, checking as you go",继续沿着车厢走，边走边检查。
 /CD70D35549AB11C4E46A3D8FD810B388,Crewe Avoider Down Sandbach,克鲁避让线 下行桑德巴赫线
 /346CB22147C963816FBB63B29417B7B3,Crewe Avoider Down Winsford,克鲁避让线 下行温斯福德线
 /15EBC3134013BE541906BDA19F8017E8,Crewe Basford Hall,克鲁巴斯福德霍尔
@@ -3164,11 +3164,11 @@
 /AD911A9040F79F5B63A419A166B0A2A0,Drive this stopping service from Wolverhampton to Birmingham.,驾驶这趟从伍尔弗汉普顿到伯明翰的站站停列车。
 /D7FA6D714A5787E406CB7BBA6DFC0008,Drive this stopping service from Wolverhampton to Birmingham.,驾驶这趟从伍尔弗汉普顿到伯明翰的站站停列车。
 /91458095442ADEC4A7344B940B834E2C,"Due to the likelihood of the overheads being turned off, return to London using diesel mode.",由于接触网可能被关闭，请使用内燃模式返回伦敦。
-/6C7269E24B8DAAFAD38E0FB8CC585084,EARLY START - BI-MODE INTRODUCTION,提前启动 - 双模式介绍
+/6C7269E24B8DAAFAD38E0FB8CC585084,EARLY START - BI-MODE INTRODUCTION,清晨出发——双源动力入门介绍
 /3BDBDF574E6CF77B379FC4BBE24F573E,EMT Class 158,EMT Class 158
 /9088C857408C44BE3C1E02A80F8BF617,EXTERNAL CAMERA,外置摄像头
 /E7A8C1514BF169A98FBC9B83FD2738C4,EXTERNAL CAMERA,外置摄像头
-/CD81CC844D22266B625C28B3D16A1E90,Early Start – Bi-Mode Introduction,提前启动 - 双模式介绍
+/CD81CC844D22266B625C28B3D16A1E90,Early Start – Bi-Mode Introduction,清晨出发——双源动力入门介绍
 /5576B74142BA358758B9CEABBBC7F443,Empty engineer's train from Basford Hall to Stafford,从巴斯福德霍尔到斯塔福德的空载工程师列车
 /6A44A2B247C2416A9276BCA19E027DF8,Empty stock from Crewe to Crewe Headshunt.,从克鲁到克鲁枢纽站的空车厢。
 /D7CBCF654B5869AD2A74CCBDBD7FB70A,Empty stock from Crewe to Crewe Headshunt.,从克鲁到克鲁枢纽站的空车厢。
