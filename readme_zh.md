@@ -8,6 +8,7 @@
 
 - ✅ Birmingham Cross‑City Line — Class 170 (Rivet Games)
 - ✅ West Coast Main Line: Birmingham–Crewe (AABS)
+- ✅ AWC Class 805 (AABS)
 
 包含修复：
 
@@ -37,14 +38,14 @@ Epic：将 .pak 文件放入 `<Documents>\My Games\TrainSimWorld6EGS\Saved\UserC
 - 转换、翻译与重打包
     1. 将提取出的语言文件放入本仓库的 dist 文件夹（每个 DLC 一个文件夹）。
     2. 运行：
-         - `python command_helper extract`
+         - `python command_helper.py extract`
              （将本地化文件转换为 CSV）
     3. 翻译：
          - 编辑 translate.py 中的 `TARGET_LANG` 和 `FILE`。确保 Google Cloud 已认证且 glossary 已设置。
          - 运行 translate.py，会生成新的 csv。
     4. 合并更改：
-         - `python command_helper apply`
+         - `python command_helper.py apply`
     5. 重打包：
-         - `python command_helper pack`
+         - `python command_helper.py pack`
     6. 测试：
         - 在游戏中测试，并保持打开 csv 以便修正错误。

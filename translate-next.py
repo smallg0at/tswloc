@@ -14,7 +14,7 @@ import time
 
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "CrossCity_170Pack_Gameplay.locres.csv"
+FILE = "GJL_Gameplay.locres.csv"
 
 
 def translate_gemini(input_text: str):
@@ -145,7 +145,7 @@ def translate_tsw_csv(input_file, output_file, target_lang="zh-CN"):
                 return
         # rpm=5, wait between batches
         print("Waiting to respect rate limits...")
-        time.sleep(13)
+        time.sleep(1)
 
     # 4. 映射回 Translation 列
     print("Mapping translation results...")

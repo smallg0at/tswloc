@@ -25,8 +25,14 @@ elif command == "extract":
     folder_list = os.listdir("./dist/TS2Prototype/Plugins/DLC")
     for folder_name in folder_list:
         packname = folder_name
-        path = f"dist\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
+        path = f"dist\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
+        if not os.path.exists(path):
+            print(f"Source file for {packname} not found, skipping.")
+            continue
         output_file = f"{packname}.locres.csv"
+        if os.path.exists(output_file):
+            print(f"Translation file for {packname} already exists, skipping extraction.")
+            continue
         command = f'.\\Utils\\UnrealLocres.exe export "{path}" -o "{output_file}" -f csv'
         result = os.system(command)
         if result != 0:

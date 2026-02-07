@@ -10,6 +10,7 @@ Currently localized DLCs:
 
 - ✅ Birmingham Cross‑City Line — Class 170 (Rivet Games)
 - ✅ West Coast Main Line: Birmingham–Crewe (AABS)
+- ✅ AWC Class 805 (AABS)
 
 Localization Fixes:
 
