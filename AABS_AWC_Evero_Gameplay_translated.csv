@@ -743,7 +743,7 @@
 /167A0F984A9C43DAF91D779FB8363C7C,1Z23 0822 Birmingham NS to Liverpool,1Z23 0822 从伯明翰新街开往利物浦
 /916BF8874A6A11F7F99322A2508EC893,1Z47 - WEMBLEY FINAL SPECIAL,1Z47 - 温布利决赛特别班次
 /5E84095548BA53F1A35CE4995175952E,1Z47 - Wembley Final Special,1Z47 - 温布利决赛特别班次
-/4F7148714222EC671257C7BF5ABEA506,1Z47 Wrexham General to Wembley Central,1Z47 路从雷克瑟姆总站开往温布利中央站
+/4F7148714222EC671257C7BF5ABEA506,1Z47 Wrexham General to Wembley Central,1Z47 雷克瑟姆总站开往温布利中央站
 /F98C930243C55DA6E562488514803DB0,1Z60 0830 Manchester Victoria to Bristol TM,1Z60 0830 曼彻斯特维多利亚至布里斯托尔圣殿草地
 /0CE5F9EC45B8A6564C1FD0B6563FD87A,201D-01 - Stonebridge Park Depot to Stonebridge Park,201D-01 - 石桥公园站至石桥公园
 /A6E117D142EAFB9015467AB11BFFFF41,201D-02 - Stonebridge Park to Harrow & Wealdstone,201D-02 - 斯通布里奇公园至哈罗和韦尔德斯通
@@ -1990,7 +1990,7 @@
 /E680B45349A43F0446EF0BAD9257D803,5P03 0547 Soho LMD to Birmingham NS Part 1,5P03 0547 索霍轻型维护段至伯明翰新街 第一部分
 /1C2EA2A1462D8CB72CA17C941331BFC8,5P03 0547 Soho LMD to Birmingham NS Part 2,5P03 0547 索霍轻型维护段至伯明翰新街 第二部分
 /664E9696431D332E2B1F72ABB32EB834,5P03 0547 Soho LMD to Birmingham NS Part 2,5P03 0547 索霍轻型维护段至伯明翰新街 第二部分
-/B58728A04045E5958BE96A895A11C5E6,5P47- Wembley Inter City Depot to London Euston,5P47路 - 温布利城际车辆段开往伦敦尤斯顿
+/B58728A04045E5958BE96A895A11C5E6,5P47- Wembley Inter City Depot to London Euston,5P47 - 温布利城际车辆段开往伦敦尤斯顿
 /5EB1917340327AB45335DA9D89B8C5BA,5R00 0439 Oxley CMD to Wolverhampton,5R00 0439 奥克斯利整备段至伍尔弗汉普顿
 /32CE02E64BB0AA9A484448A1F7E976FC,5R01 0508 Soho LMD to Birmingham NS Part 1,5R01 0508 索霍轻型维护段至伯明翰新街 第 1 部分
 /5271DCA14793F1D79016A5817C4707C4,5R01 0508 Soho LMD to Birmingham NS Part 2,5R01 0508 索霍轻型维护段至伯明翰新街 第 2 部分
@@ -2071,7 +2071,7 @@
 /6A3946C1436130A6243DA1ADB6708B0B,9A53 - Birmingham New Street to London Euston,9A53 - 伯明翰新街站至伦敦尤斯顿站
 /EA0886244C7EBF2D70D04A8F139D7EC9,9A53 -Blackpool North to London Euston,9A53 - 布莱克浦北站至伦敦尤斯顿站
 /74473116470DD800E5BA93915AFA3E4E,9A61 2104 Crewe to Euston,9A61 2104 克鲁至尤斯顿
-/19B9D7FF4AFDF3CCFC62D9B555E089DF,9A84 - Blackpool North to London Euston,9A84路 - 布莱克浦北站至伦敦尤斯顿站
+/19B9D7FF4AFDF3CCFC62D9B555E089DF,9A84 - Blackpool North to London Euston,9A84 - 布莱克浦北站至伦敦尤斯顿站
 /0E92EE8B4AA136A523BA2E95FEFAF6C9,9F02 0616 Euston to Liverpool,9F02 0616 尤斯顿至利物浦
 /86F4E7D0427F739E36EC5D8713C22593,9G04 - London Euston to Birmingham New Street,9G04 - 伦敦尤斯顿站至伯明翰新街站
 /30ED072E4B914B4E48646992B9284391,9G10 - London Euston to Birmingham New Street,9G10 - 伦敦尤斯顿站至伯明翰新街站
@@ -3685,7 +3685,7 @@
 /9CB358314A3F7EC50C542DB99B36CF0B,Take out the Master Key,取出主钥匙
 /ADAD1FBD4554B6C445B20CB4B7FA50E2,Take out the Master Key,取出主钥匙
 /F35AD28948EEF9B45A0A199C07E0541D,Take out the Master Key,取出主钥匙
-/1EEA2A544317D400A68219AB37BAADA0,Test the closed door by pressing the Door Open button,按下“开门”按钮测试门是否已关闭
+/1EEA2A544317D400A68219AB37BAADA0,Test the closed door by pressing the Door Open button,按下“开门”按钮测试车门
 /1C1EB20744BF2EAE08013AA30C673393,TfW Class 150/153,威尔士交通局 150/153 级
 /5CADAE694DAD80719B427F9229B563D1,The Class 805 features a combined Power Brake Controller (PBC) that has both power and brake ranges to allow the train to accelerate and brake. Move the PBC into the power range so the train can move.,805型列车配备了动力制动控制器（主手柄），该控制器同时具备动力和制动功能，使列车能够加速和制动。将主手柄切换到动力模式，列车即可行驶。
 /F0BB1EF7493F661281C794B279A879E7,"The Class 805s are bi-mode multiple units capable of running on their onboard diesel engines and the 25kV overhead wires. Built in Kasado, Japan by Hitachi Rail - with final assembly taking place in Newton Aycliffe - the units entered service on 2 June 2024.",805型列车是双模动车组，既可使用车载柴油发动机运行，也可使用25千伏架空电线供电。该型列车由日立铁路公司在日本笠户制造，并在纽顿艾克利夫进行最终组装，于2024年6月2日投入运营。
@@ -3711,7 +3711,7 @@
 /30CF1E8341A5C89E06CFE790096B0EF1,"To start the train into diesel mode, press the Diesel button to put the train into diesel mode.",要将列车切换到柴油模式，请按下柴油按钮将列车切换到柴油模式。
 /BA5264E8438763CB7570E7848282EFD1,Today you'll be learning the basics of the new Class 805 bi-mode electric multiple units. You'll learn how to drive them; change power modes; couple and uncouple two units and perform passenger duties.,今天，您将学习新型805型双模电力动车组的基本知识。您将学习如何驾驶它们；切换动力模式；连接和断开两节车厢；以及执行乘客服务任务。
 /270BE667450BFD8266C53B9E9736B15C,"Today you're driving 9G25 from London Euston to Birmingham New Street. The weather is suboptimal, and it's likely you will be caught up in disruption.",今天你要驾驶9G25从伦敦尤斯顿站开往伯明翰新街站。天气不太理想，而且你很可能会遇到交通延误或取消的情况。
-/1E7E7D3842605D2661D2C7BACD80027B,"Today you're operating the first part of 9S44, a service running all the way to Edinburgh. Perform an exterior prep of the unit and then let passengers board.",今天您负责运营9S44的第一段，该线路全程开往爱丁堡。请对车辆进行外部准备工作，然后允许乘客登车。
+/1E7E7D3842605D2661D2C7BACD80027B,"Today you're operating the first part of 9S44, a service running all the way to Edinburgh. Perform an exterior prep of the unit and then let passengers board.",今天您负责运营9S44的第一段，该车次一路开往爱丁堡。请对车辆进行外部准备工作，然后允许乘客登车。
 /5CCD2D194AE3918F293A6FAC7B8E0B7B,Track 21,轨道 21
 /5ECB59B74CC8706E1BF48099299B89D9,Track 21,轨道 21
 /01B9B00E4916B28FE5D6CCB7F24D3A0E,Track 22,轨道 22

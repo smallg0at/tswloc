@@ -14,7 +14,7 @@ import time
 
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "GJL_Gameplay.locres.csv"
+FILE = "BrightonEastbourne_171Pack_Gameplay.locres.csv"
 
 
 def translate_gemini(input_text: str):

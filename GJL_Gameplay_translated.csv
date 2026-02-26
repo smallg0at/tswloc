@@ -865,8 +865,8 @@
 /9CFD0C8E4A4810A50C6C8A915BE533CA,FL Shunt Move: FL Engine Shed to Crewe Basford Hall Part 5,FL 调车移动：FL 机车库至克鲁巴斯福德霍尔 第 5 部分
 /21DF4F7F4E20150B65D3A6A941B3396E,FL Shunt Move:2 FL Engine Shed to Crewe Basford Hall Part 2,FL 调车移动 2：FL 机车库至克鲁巴斯福德霍尔 第 2 部分
 /03DBD2894CF815B2EC53C0A4F7E75A8C,Flying Scotsman Railtour,飞翔的苏格兰人 铁路旅游列车
-/884239484FB255C9BCB892B42BA8C09B,Follow the instructions to shutdown the cab and to uncouple the two units.,按照指示关闭司机室并解编两节单元。
-/D6F4BA3946DE8F9916504EB5A4FF17AF,Follow the instructions to shutdown the cab and to uncouple the two units.,按照指示关闭司机室并解编两节单元。
+/884239484FB255C9BCB892B42BA8C09B,Follow the instructions to shutdown the cab and to uncouple the two units.,按照指示关闭司机室并解编两节列车。
+/D6F4BA3946DE8F9916504EB5A4FF17AF,Follow the instructions to shutdown the cab and to uncouple the two units.,按照指示关闭司机室并解编两节列车。
 /5BB140EC44E0A51D6A3E7DB0AF268B79,Follow the marker to your train.,跟随标记前往你的列车。
 /8D1691C841FCBF81451C4F93D053211D,Follow the marker to your train.,跟随标记前往你的列车。
 /05CAC8374F200F92AB4C0DBB7A6E6910,"For the purpose of this training module, some interactive elements are locked",为保证本训练模块效果，部分交互元素已被锁定。
@@ -890,12 +890,12 @@
 /20C1580642BE9ECCC3E8F4A106023C3B,GL9023,GL9023
 /6BFC30164994DF3D4DFB839807582820,GL9023,GL9023
 /76C797CC46ED371A1E682AB47610DA91,GL9023,GL9023
-/302CB65F439F14689BE1B8AD698BDE60,Great! Now the train is ready to move! Please pull forward and couple to the unit in front of you.,很好！现在列车准备好移动了！请向前行驶并与你前方的单元连挂。
-/C00E21904E6BB8660E80E8BD0DD96435,Great! Now the train is ready to move! Please pull forward and couple to the unit in front of you.,很好！现在列车准备好移动了！请向前行驶并与你前方的单元连挂。
-/71BB20AE4169216249D322AD41BDBF78,"Great! Now the two units are coupled, head to the front of the train and setup the cab. We can then depart for Stafford, where the rear unit will be uncoupled so it can continue along the Trent Valley.",很好！现在两节单元已连接，请前往列车最前端设置司机室。然后我们可以发车前往斯塔福德，后部单元将在那里解编，以便继续沿特伦特河谷线行驶。
+/302CB65F439F14689BE1B8AD698BDE60,Great! Now the train is ready to move! Please pull forward and couple to the unit in front of you.,很好！现在列车准备好移动了！请向前行驶并与你前方的列车连挂。
+/C00E21904E6BB8660E80E8BD0DD96435,Great! Now the train is ready to move! Please pull forward and couple to the unit in front of you.,很好！现在列车准备好移动了！请向前行驶并与你前方的列车连挂。
+/71BB20AE4169216249D322AD41BDBF78,"Great! Now the two units are coupled, head to the front of the train and setup the cab. We can then depart for Stafford, where the rear unit will be uncoupled so it can continue along the Trent Valley.",很好！现在两组动车组已连挂，请前往列车最前端设置司机室。然后我们可以发车前往斯塔福德，后部动车组将在那里解挂，以便继续沿特伦特河谷线行驶。
 /839B487743208638287C63A716E7DC47,Great! Please wait here for a few minutes for a path to Wolverhampton.,很好！请在此等候几分钟，等待开往伍尔弗汉普顿的进路。
-/5B49CCFB426AE7D3D6A17785E9B77581,Great. Now pull forward; couple to the other Class 350 unit in front of you and follow the instructions.,很好。现在向前行驶；与你前方的另一节 350 型单元连接，并遵循指示。
-/E60F13BC41F71BAD4ACB49BC8B6F203C,Great. Please pull forward and couple to the other Class 350 unit in front of you.,很好。请向前行驶并与你前方的另一节 350 型单元连接。
+/5B49CCFB426AE7D3D6A17785E9B77581,Great. Now pull forward; couple to the other Class 350 unit in front of you and follow the instructions.,很好。现在向前行驶；与你前方的另一节 350 型列车连接，并遵循指示。
+/E60F13BC41F71BAD4ACB49BC8B6F203C,Great. Please pull forward and couple to the other Class 350 unit in front of you.,很好。请向前行驶并与你前方的另一节 350 型列车连接。
 /DF1AA25E48EA9553102172A76D50708B,"Guard: ""Hello, driver. A passenger has reported a fault with the accessible toilet. I'll be investigating the issue at the next stop.""",乘务员：“你好，司机。一位乘客报告了无障碍厕所的故障。我将在下一站调查这个问题。”
 /87265F9B4325784696935E98191B9EFC,HEADLIGHTS,前照灯
 /32088C544F952359FA5B3398320F5CC8,INTERACTIVE ELEMENTS,交互元素
@@ -946,8 +946,8 @@
 /7164201C4965211E092CDCA5465A38A2,LNR Class 350/2 [Loaded],LNR 350/2 型 [载客]
 /5BB6FE3A4D2FDA6A71706396B968926E,LNR Class 350/3 [Empty],LNR 350/3 型 [空车]
 /3A1E4F01406D1E32E9852C86E7825537,LNR Class 350/3 [Loaded],LNR 350/3 型 [载客]
-/43A856E844DCB9BA45CF1EB0BD4C3E1D,"Last but not least, the Class 350/3 units were built in 2014 to provide more capacity. These are similar to the Class 350/2s with a 2+2 seating arrangement compared to 2+3 and wears an alternative LNWR livery with green stripes on the bodyside.",最后但同样重要的，350/3 型单元于 2014 年制造，以提供更大的运力。它们类似于 350/2 型，但采用 2+2 座位布置，而非 2+3，并采用侧面带有绿色条纹的 LNWR 替代涂装。
-/5A6029C049D155C63028A1A0724CCD7C,"Last but not least, the Class 350/3 units were built in 2014 to provide more capacity. These are similar to the Class 350/2s with a 2+2 seating arrangement compared to 2+3 and wears an alternative LNWR livery with green stripes on the bodyside.",最后但同样重要的，350/3 型单元于 2014 年制造，以提供更大的运力。它们类似于 350/2 型，但采用 2+2 座位布置，而非 2+3，并采用侧面带有绿色条纹的 LNWR 替代涂装。
+/43A856E844DCB9BA45CF1EB0BD4C3E1D,"Last but not least, the Class 350/3 units were built in 2014 to provide more capacity. These are similar to the Class 350/2s with a 2+2 seating arrangement compared to 2+3 and wears an alternative LNWR livery with green stripes on the bodyside.",最后但同样重要的，350/3 型列车于 2014 年制造，以提供更大的运力。它们类似于 350/2 型，但采用 2+2 座位布置，而非 2+3，并采用侧面带有绿色条纹的 LNWR 替代涂装。
+/5A6029C049D155C63028A1A0724CCD7C,"Last but not least, the Class 350/3 units were built in 2014 to provide more capacity. These are similar to the Class 350/2s with a 2+2 seating arrangement compared to 2+3 and wears an alternative LNWR livery with green stripes on the bodyside.",最后但同样重要的，350/3 型列车于 2014 年制造，以提供更大的运力。它们类似于 350/2 型，但采用 2+2 座位布置，而非 2+3，并采用侧面带有绿色条纹的 LNWR 替代涂装。
 /EF3F842D4C7C1EAEC6C5D6821CA904AB,Learn about the Grand Junction Railway between Birmingham and Crewe.,了解伯明翰至克鲁之间的大交汇铁路。
 /11BBE5BB490373CFCBC8429B45EB5E13,Learn about the safety systems on the Class 350.,了解 350 型列车上的安全系统。
 /D109723547412746F04A2DA20E4AFE9C,Learn how to operate the Class 350.,学习如何操作 350 型列车。
@@ -973,11 +973,11 @@
 /E5163A9F42EFB25BD2F256BA444BD03E,Newcastle Road Down Slow,纽卡斯尔路 下行慢线
 /1936B6BC4190F205FB25C3B45EE6BA77,"Now that we've arrived at Coseley, please open the left doors.",现在我们已经到达科斯利，请打开左侧车门。
 /E9BC854C48E5E31284E59F874A7CDA49,"Now that we've arrived at Coseley, please open the left doors.",现在我们已经到达科斯利，请打开左侧车门。
-/6E50217F48CB1295B789D9BCBC46DD2A,"Now that we've arrived at Stafford, the two units need to be separated. Please follow the instructions for how to do so.",现在我们已经到达斯塔福德，两节单元需要解编。请遵循指示进行操作。
+/6E50217F48CB1295B789D9BCBC46DD2A,"Now that we've arrived at Stafford, the two units need to be separated. Please follow the instructions for how to do so.",现在我们已经到达斯塔福德，两组动车组需要解编。请遵循指示进行操作。
 /CE3A8A484ECCD966C93CD9910481E4CF,"Now that we've arrived at Wolverhampton, please change ends so we can depart with the 13:54 service to Crewe.",现在我们已经到达伍尔弗汉普顿，请换端，以便我们可以驾驶 13:54 发车的伍尔弗汉普顿至克鲁列车发车。
 /9229165E4E1E871DB83CD5A168C7A92C,"Now that we've arrived at the loop, please talk to the MOM to make sure the train can continue.",现在我们已经到达避让线，请与现场运营主管交谈，以确保列车可以继续行驶。
-/20EDDB704C6094049BDD5C92CFBC3A8C,"Now that we've been introduced to the trains, walk down Road 1 to the rear unit and set it up.",现在我们已经完成了列车介绍，请沿着 1 号线走至后部单元并进行设置。
-/7FCC64324E2978EBF9CB4E9218CFCD0E,"Now that we've been introduced to the trains, walk down Road 1 to the rear unit and set it up.",现在我们已经完成了列车介绍，请沿着 1 号线走至后部单元并进行设置。
+/20EDDB704C6094049BDD5C92CFBC3A8C,"Now that we've been introduced to the trains, walk down Road 1 to the rear unit and set it up.",现在我们已经完成了列车介绍，请沿着 1 号线走至后部动车组并进行设置。
+/7FCC64324E2978EBF9CB4E9218CFCD0E,"Now that we've been introduced to the trains, walk down Road 1 to the rear unit and set it up.",现在我们已经完成了列车介绍，请沿着 1 号线走至后部动车组并进行设置。
 /CD3564AD4E798AB3BF9417BF780229FD,"Now that you've mastered intercity commuter services and local stopper services, it's time to take charge of the special British Transport Livery Class 350 and work some busy commuter services.",既然你已经掌握了城际通勤服务和本地站站停服务，是时候负责特殊的英国交通警察涂装 350 型列车，并运营一些繁忙的通勤服务了。
 /29D90D934C57F6E6A26D1F91B46BF370,"Now the train is setup, we can now depart for Crewe station. Please stop at the Stop board ahead so you can get the signaller's permission to leave the sidings.",列车准备就绪，我们可以开往克鲁站。请在前方停车标处停车，以便获取信号员离开侧线的许可。
 /D95EE4F7435AABBD48EA558C55FD6C26,"Now the two units are coupled, follow the instructions for shutting down this cab and opening the interconnecting doors between the two units.",两列编组现已连挂，请按照指示关闭此驾驶室，并打开两编组之间的连通门。
@@ -1646,11 +1646,11 @@
 /CA4B89194F6C9F40133557A56A3FCF0B,Select AC power.,选择交流电源。
 /AAD22ED845F2EEB616C8E9A59F8B8A16,Set the Reverser to Off,将换向手柄置于“关闭”位
 /5EABDA65412B70A451489FA25635166E,Set the Throttle/Brake to OFF.,将牵引/制动手柄置于“关闭”位
-/CE6C62FF41DE242CE7224891246C73CC,Set the headlights to the day position.,将前照灯设为“白昼”模式
+/CE6C62FF41DE242CE7224891246C73CC,Set the headlights to the day position.,将前照灯设为“日间”模式
 /3E535FD4479FFD7FA7CDBC82703B7D7D,Set the manual junction to Left,将手动道岔设为“左转”
-/7E35CD8040C0E2170C77948801450B3B,Set the manual junction to Right,将手动道岔设为“右转”
-/063AD56941FDE0AFF3818E852294224F,Set the manual junction to Right.,将手动道岔设为“右转”
-/902CEF9847AAA88D19F671BBF8120318,Set the manual junction to the RIght.,将手动道岔设为“右转”
+/7E35CD8040C0E2170C77948801450B3B,Set the manual junction to Right,将手动道岔设为“向右”
+/063AD56941FDE0AFF3818E852294224F,Set the manual junction to Right.,将手动道岔设为“向右”
+/902CEF9847AAA88D19F671BBF8120318,Set the manual junction to the RIght.,将手动道岔设为“向右”
 /B7BD5F9142A6FEEF26E3129ED29753A1,Signal SC3652,SC3652号信号机
 /DCC140374ABC87182F76D7BD22324EEF,"Signaller: ""Hello driver of 2W12 standing at signal BW4233. I understand you wish to report a fault with the accessible toilet on your train.""",信号员：“2W12次列车司机您好，您正停在BW4233号信号机前。我明白您希望报告车上无障碍卫生间的故障。”
 /7C0055B042171728BA3620B030EBAC20,"Signaller: ""Okay driver of 2W12. Please continue in service to your destination and then run empty to Wolverhampton platform 6 by using the turnback on the down line.""",信号员：“好的，2W12次列车司机。请继续营运至您的终点站，然后利用下行线的折返线空车回送至伍尔弗汉普顿6站台。”
@@ -1837,22 +1837,22 @@
 /E29D57A141805891E1440C9609E1EBFD,Turn on the battery.,开启蓄电池
 /568DFEC942B14A14C8392D99A47B6121,Turn on the headlights,开启前照灯
 /5FD61B7D440F3EBC556D819D67134EA4,Turn on the headlights,开启前照灯
-/8A28F36A43986EE2253CAA936023C78B,Turn on the headlights to the Day Light position.,将前照灯设为“白昼”模式
-/BD72648E4EE6D0977CA9D89DB7FDEF0A,Turn on the headlights to the Day Light position.,将前照灯设为“白昼”模式
-/DD609621491AA94023F2819AC3276FD8,Turn on the headlights to the Day Light position.,将前照灯设为“白昼”模式
-/E420DC8A4983D6FA0C758BB8A6DAFC0F,Turn on the headlights to the Day Light position.,将前照灯设为“白昼”模式
-/F8EA97EF47CAD71657E0C69CDC956BBA,Turn on the headlights to the Day Light position.,将前照灯设为“白昼”模式
-/0ED721EE42207AA6FB08B2AA9B6A1782,Turn on the headlights to the Day position.,将前照灯设为“白昼”模式
-/7E248C514F73D2DAB479428FC00AA2ED,Turn on the headlights to the Day position.,将前照灯设为“白昼”模式
-/6535CDE440F7E18975B4998F7A72AAA7,Turn on the headlights to the day position.,将前照灯设为“白昼”模式
-/E882DF3B4E9AEA1897352CBBDE9A29FE,Turn on the headlights to the day position.,将前照灯设为“白昼”模式
-/F94A5A89456C99F3B363F8A4F615C4D5,Turn on the headlights to the day position.,将前照灯设为“白昼”模式
+/8A28F36A43986EE2253CAA936023C78B,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
+/BD72648E4EE6D0977CA9D89DB7FDEF0A,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
+/DD609621491AA94023F2819AC3276FD8,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
+/E420DC8A4983D6FA0C758BB8A6DAFC0F,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
+/F8EA97EF47CAD71657E0C69CDC956BBA,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
+/0ED721EE42207AA6FB08B2AA9B6A1782,Turn on the headlights to the Day position.,将前照灯设为“日间”模式
+/7E248C514F73D2DAB479428FC00AA2ED,Turn on the headlights to the Day position.,将前照灯设为“日间”模式
+/6535CDE440F7E18975B4998F7A72AAA7,Turn on the headlights to the day position.,将前照灯设为“日间”模式
+/E882DF3B4E9AEA1897352CBBDE9A29FE,Turn on the headlights to the day position.,将前照灯设为“日间”模式
+/F94A5A89456C99F3B363F8A4F615C4D5,Turn on the headlights to the day position.,将前照灯设为“日间”模式
 /70E5D9F64A5972913F00AE8088845FC2,Turn on the headlights.,开启前照灯
 /82E5623B4492FC8301EA9F9D5B55B4D2,Turn on the tail lights.,开启尾灯
 /AAA93B334447DAFC4999C78300B5E211,Turn on the tail lights.,开启尾灯
 /D3160DA949BFF07C715CA498873D9884,Turn on the tail lights.,开启尾灯
 /E1E472434D88D88B52592C82EC97E20B,Turn on the taillights.,开启尾灯
-/1D777056409562648DD880AB38228631,Turn the Headlights to the Day position.,将前照灯设为“白昼”模式
+/1D777056409562648DD880AB38228631,Turn the Headlights to the Day position.,将前照灯设为“日间”模式
 /E07BEE924CD7CD148EFFA890814EF364,Turn the battery on.,开启蓄电池
 /3A83FF45414CB216FB7694915CE14135,Turn the headlights off.,关闭前照灯
 /DE48D71E4BB2C400756A67AFA98B1F57,Turn the headlights off.,关闭前照灯

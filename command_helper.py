@@ -18,14 +18,14 @@ if command == "apply":
         command = f'.\\Utils\\UnrealLocres.exe import "{path}" "{file_name}" -f csv -o "{path}"'
         result = os.system(command)
         if result != 0:
-            print(f"Error applying translation for {packname}")
+            input(f"⚠ Error applying translation for {packname}, Enter to continue...")
         else:
             print(f"Successfully applied translation for {packname}")
 elif command == "extract":
-    folder_list = os.listdir("./dist/TS2Prototype/Plugins/DLC")
+    folder_list = os.listdir("./original/TS2Prototype/Plugins/DLC")
     for folder_name in folder_list:
         packname = folder_name
-        path = f"dist\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
+        path = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en-GB\\{packname}.locres"
         if not os.path.exists(path):
             print(f"Source file for {packname} not found, skipping.")
             continue
