@@ -25,7 +25,9 @@ elif command == "extract":
     folder_list = os.listdir("./original/TS2Prototype/Plugins/DLC")
     for folder_name in folder_list:
         packname = folder_name
-        path = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en-GB\\{packname}.locres"
+        path1 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en-GB\\{packname}.locres"
+        path2 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
+        path = path1 if os.path.exists(path1) else path2
         if not os.path.exists(path):
             print(f"Source file for {packname} not found, skipping.")
             continue

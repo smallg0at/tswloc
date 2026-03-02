@@ -903,8 +903,8 @@
 /5463AC524B2D83883D7362B3E6C6FFD5,Brown,布朗
 /6C7A80BF45A976FB8D6FD68DC03F52A4,Brown,布朗
 /8025C92641C28CF8EA4EBA8F269D4B77,Brown,布朗
-/780740BF44188D367B592D996419B003,CHANGE ENDS,更换端头
-/B35A375C48F1735C356C72B9BD2CDEA4,CHANGE ENDS,更换端头
+/780740BF44188D367B592D996419B003,CHANGE ENDS,换端
+/B35A375C48F1735C356C72B9BD2CDEA4,CHANGE ENDS,换端
 /B781F96A4385243C3497BC8E85CB75A0,CLASS 171 INTRODUCTION,171型动车组介绍
 /08C6BA8048649F1A7AF85EBDE1232E1E,CLIMB ABOARD,登上列车
 /33C4CFFA4C1A0B00C7F08C92785D90D1,Carol,卡罗尔
@@ -1668,8 +1668,8 @@
 /8FE814014BF70B5984B49BBEB5418305,Hello and welcome to the Training Centre. In this training module you will be learning the operation of a Class 171 Diesel-Hydraulic Multiple Unit.,你好，欢迎来到训练中心。在本培训模块中，你将学习 Class 171 液力传动内燃动车组的操作。
 /A77BCDF44275A9E5CD20D488889BE3CF,"Hello driver of Five Foxtrot Five Three, I understand you are ready to return to Brighton. I am routing a train around you, wait for the signal to clear.",5F53 次司机你好，我知道你已准备好返回布莱顿。我正指挥一列车从你旁边绕行，请等待信号开放。
 /6FEB2B214284F6225AF5E18117F86C75,"Hello driver of Five Foxtrot Five Three, you are authorised to pass signal Tango Echo Bravo 1359 at danger to assist One Delta Zero Five, stopped at Berwick Station. Please call me once you have coupled to One Delta Zero Five.",5F53 次司机你好，你获准越过显示险阻信号的 TEB 1359 号信号机，前往救援停在贝里克站的 1D05 次列车。连挂好 1D05 后请呼叫我。
-/0DFE73944D98902375E4949803A31613,"Hello driver of Five Foxtrot Five Three, you may propel past signal Tango Echo Bravo 1361 to use the crossover. The driver of the failed train will assist you.",呼叫 5F53 次列车司机，允许你推进越过 TEB 1361 号信号机并使用渡线。故障列车的司机将会协助你。
-/E4366F6F4C741A0E11164C98A5B44240,"Hello driver, I am in the leading cab and signal Tango Echo Bravo 1361 is off. I am ready to propel past the crossover.",司机你好，我正在前端司机室，TEB 1361 号信号机已开放。我已准备好向后推进越过渡线。
+/0DFE73944D98902375E4949803A31613,"Hello driver of Five Foxtrot Five Three, you may propel past signal Tango Echo Bravo 1361 to use the crossover. The driver of the failed train will assist you.",呼叫 5F53 次列车司机，准许你推进越过 TEB 1361 号信号机并使用渡线。故障列车的司机将会协助你。
+/E4366F6F4C741A0E11164C98A5B44240,"Hello driver, I am in the leading cab and signal Tango Echo Bravo 1361 is off. I am ready to propel past the crossover.",司机你好，我已在前端司机室就位，TEB 1361 号信号机现已开放。我已准备好引导列车推进并越过渡线。
 /421127274998F21997F5228B600EBD19,"Hello driver. A train has failed at Berwick and since you're moving empty coaching stock from Selhurst Depot, you're in the best position to clear the line without disrupting passenger traffic. Please rescue the train and drag it back to Brighton.",司机你好。有一列车在贝里克发生了故障，鉴于你目前正从塞尔赫斯特车库执行空车回送任务，由你前去疏通线路最合适不过，这样也不会影响正常的客运服务。请前往救援该列车，并将其拖回布莱顿。
 /026B6C424DE6244A34581B977650A394,Hyde North,海德北
 /AF04A81046AD1C1D8F2116AA39ACCF7A,Hyde North,海德北
@@ -1973,11 +1973,11 @@
 /BFDA6A774653DAF93D91A296ADC6AF42,Set Tail Lights to OFF,将尾灯设为关闭
 /581A730C43EC463F24007F972A86E29C,Set Tail Lights to ON,将尾灯设为开启
 /4422312549E7D40FDA399C9BECDEC21E,Set the Driver's Reminder Appliance,设置驾驶员提醒装置 (DRA)
-/1439DC484136AC90E58085AED9008FAA,Set the Headlights to DAY RUNNING,将标志灯设为日间运行
-/232C93584BD98089975CD885FF287635,Set the Headlights to DAY RUNNING,将标志灯设为日间运行
-/416A09DD48591961EDCB00A180EB1EC4,Set the Headlights to DAY RUNNING,将标志灯设为日间运行
-/5BEE664349A85CB7C89DE08FCFE54A23,Set the Headlights to NIGHT RUNNING,将标志灯设为夜间运行
-/A18FE29247F80EA0B6E546B172757AFD,Set the Headlights to OFF,将标志灯设为关闭
+/1439DC484136AC90E58085AED9008FAA,Set the Headlights to DAY RUNNING,将前照灯设为日间运行
+/232C93584BD98089975CD885FF287635,Set the Headlights to DAY RUNNING,将前照灯设为日间运行
+/416A09DD48591961EDCB00A180EB1EC4,Set the Headlights to DAY RUNNING,将前照灯设为日间运行
+/5BEE664349A85CB7C89DE08FCFE54A23,Set the Headlights to NIGHT RUNNING,将前照灯设为夜间运行
+/A18FE29247F80EA0B6E546B172757AFD,Set the Headlights to OFF,将前照灯设为关闭
 /C09969F047596E2216ABD28E3F6D5F73,Set the Master Key to LOCKED,将主控制钥匙设为锁闭
 /0EDBD7B04BD9F59314A84EB35D8920B8,Set the Master Key to UNLOCKED,将主控制钥匙设为解锁状态
 /1BE11D9A4D7FECE680A4929511576E47,Set the Master Key to UNLOCKED,将主控制钥匙设为解锁状态
@@ -1998,8 +1998,8 @@
 /05BDF22F4E342C56B941BD99462F23CC,Set the Throttle/Brake to B3,将牵引/制动调节杆置于制动 3 档
 /90D65C024EB9C430B8AFD7BE30F0E00B,Set the Throttle/Brake to P3,将牵引/制动调节杆置于牵引 3 档
 /B693B86B4AC6AC76051C11A74D651F92,Set the Wiper Speed Selector to SLOW,将雨刷速度选择器设为低速
-/11E759A142A5F9285E14959A9943ABBC,Set the train’s Headlights switch to the Day Running position. Headlights are important for letting others know that this train is currently operational.,将列车标志灯开关设为日间运行位。标志灯对于让其他人知道该列车当前正在运行至关重要。
-/F7AEEF404348D8945DD171B073C75BEE,Set the train’s Headlights switch to the Day Running position. Headlights are important for letting others know that this train is currently operational.,将列车标志灯开关设为日间运行位。标志灯对于让其他人知道该列车当前正在运行至关重要。
+/11E759A142A5F9285E14959A9943ABBC,Set the train’s Headlights switch to the Day Running position. Headlights are important for letting others know that this train is currently operational.,将列车前照灯开关设为日间运行位。前照灯对于让其他人知道该列车当前正在运行至关重要。
+/F7AEEF404348D8945DD171B073C75BEE,Set the train’s Headlights switch to the Day Running position. Headlights are important for letting others know that this train is currently operational.,将列车前照灯开关设为日间运行位。前照灯对于让其他人知道该列车当前正在运行至关重要。
 /FEBD59AB4166C3EA4D695EA89307E69F,"Shut down this cab, walk to the other end of the train, and sit in the Driver's Seat",关闭此端司机室，步行前往列车另一端并就座驾驶席
 /1C0CF327444B8833BCAEE9B311DDAE22,Signal CCO 1573,信号机 CCO 1573
 /20AE48074D3C54CD3DE4A6AF7F4D8876,Signal CCO 1573,信号机 CCO 1573
