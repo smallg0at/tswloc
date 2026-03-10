@@ -538,9 +538,9 @@
 /FDDDAE9D4C3DF9B1846980BBB0519ED8,9Y78: Crewe to London Euston,9Y78 从克鲁至伦敦尤斯顿
 /D4658B5B4317FEB211BF4EB54F3E3E00,9Y80: Crewe to London Euston,9Y80 从克鲁至伦敦尤斯顿
 /5E0F36CC469B6B9C62ECC1856D8F94CB,"A Class 350 unit failed at Stafford earlier today. After attention from a fitter, the train can re-enter service. You've arrived at Stafford in a taxi to board the train to run empty to Wolverhampton, where you will form a northbound service to Crewe.",一列350型动车组早前在斯塔福德发生故障。经检修人员处理后，列车可重新投入使用。你已搭乘出租车抵达斯塔福德登车，将空车运行至伍尔弗汉普顿，并在那里担当一趟北行至克鲁的客运列车。
-/7EF0320742F7116EB6DCB3880C7212D1,"A southbound train has encountered a fault north of here. Therefore, a line block has been granted on the Down and Up Fast lines between Norton Bridge and Basford Hall Jn, which means all traffic will be sharing the slow lines.",一趟南行列车在前方北部发生故障。因此，诺顿桥与巴斯福德霍尔交汇处之间的下行快速线和上行快速线已获批线路封锁，这意味着所有列车将共用慢速线。
+/7EF0320742F7116EB6DCB3880C7212D1,"A southbound train has encountered a fault north of here. Therefore, a line block has been granted on the Down and Up Fast lines between Norton Bridge and Basford Hall Jn, which means all traffic will be sharing the slow lines.",一趟南行列车在北边发生故障。因此，诺顿桥与巴斯福德霍尔交汇处之间的下行快速线和上行快速线已获批线路封锁，这意味着所有列车将共用慢速线。
 /82BC839546853AA78D010E9893D8AD88,A train has encountered a fault and has arrived at Birmingham New St. You must prepare a replacement unit at Soho Depot and take the faulty unit to Wolverhampton.,一列发生故障的列车已抵达伯明翰新街。你必须在索霍车厂准备一列备用编组，并将故障编组送往伍尔弗汉普顿。
-/AF8DAD644A571B28AA688BBDE8C9CC7B,"A wheelflat is the fault on this unit. As a result, Control has requested the train travel no faster than 50mph and for you to meet with a Mobile Operations Manager (MOM) at Down Stour Goods. Depart when ready.",该编组的故障是车轮扁伤。因此，控制中心已要求列车行驶速度不得超过50英里每小时，并让你在下行斯陶尔货运站与现场运营主管会面。准备好后即可发车。
+/AF8DAD644A571B28AA688BBDE8C9CC7B,"A wheelflat is the fault on this unit. As a result, Control has requested the train travel no faster than 50mph and for you to meet with a Mobile Operations Manager (MOM) at Down Stour Goods. Depart when ready.",这台动车组的故障原因是车轮扁疤。因此，调度中心要求列车运行速度不得超过 50 英里/小时，并要求你前往唐斯托尔货场与移动运营经理会合。准备就绪后即可发车。
 /76DC27EC40641206BA67E0908FCD9D2C,APPLY POWER,施加动力
 /A944DABE49F02B23E9EEB08649FAB9BC,APPLY POWER,施加动力
 /40576D304938A7D5498FAA90B5A18AC0,AUTOMATIC BRAKE,自动制动
@@ -1071,32 +1071,32 @@
 /D248F2044F8A34EB45A0C79CD42CB942,Operate this CrossCountry voyager from Stafford to Birmingham New Street.,驾驶本次纵贯铁路“旅行者”列车从斯塔福德到伯明翰新街。
 /E61B3E1D4BD6C041D75BE891157DC42F,Operate this CrossCountry voyager from Stafford to Birmingham New Street.,驾驶本次纵贯铁路“旅行者”列车从斯塔福德到伯明翰新街。
 /EF845DBC4B44DCB6D5A2818FD0FE90DF,Operate this CrossCountry voyager from Stafford to Birmingham New Street.,驾驶本次纵贯铁路“旅行者”列车从斯塔福德到伯明翰新街。
-/298754B940A31220952AC8863D20C6C7,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/541EBD334C610FE6DDB5D98B477B80FD,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/61A8C4C647737835FB3EA588473889AB,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/8ED4C4FC4B5DAA80EB1BF5B765F3C396,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/A8FD323A45BD53506662F0890D0330C3,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/C17B7FAE4D0B2ACEA097CFA7FF8D35CE,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/C6C338474F0C2B03BC7BE0B91492F052,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/D5D0C9704135AC6F718D5EA073F8BC79,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/D67D83644E61A9329C77F8A2E3DB1134,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/F3FC312840098C9E7C62A4B51C318E5E,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次DB 66型货运服务 巴斯福德霍尔至斯塔福德。
-/1309485447E29C217E285B885A64EF05,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次DB 66型货运服务 斯塔福德至巴斯福德霍尔。
-/20FCFC4E4B3340FDC47172BD7BD7D477,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次DB 66型货运服务 斯塔福德至巴斯福德霍尔。
-/3D7F0B4748D041B51CCFBAA20FEC608F,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次DB 66型货运服务 斯塔福德至巴斯福德霍尔。
-/59EC3BCB482D08C886A7388E339B6225,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次DB 66型货运服务 斯塔福德至巴斯福德霍尔。
-/9CD58FA84B1B8172EFF0ECBDC370E274,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次DB 66型货运服务 斯塔福德至巴斯福德霍尔。
-/A1972EAF43E79FEF4E524586FD6C00EF,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次DB 66型货运服务 斯塔福德至巴斯福德霍尔。
-/DA4A58C24F72833929FD69818CFD7D03,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次DB 66型货运服务 斯塔福德至巴斯福德霍尔。
-/FB1FA93D4CB0BA6AE1617F9E0AE21424,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次DB 66型货运服务 斯塔福德至巴斯福德霍尔。
-/DEF98D704A42F0DA53C8F79B489AF23B,Operate this DB 66 freight service from Stafford to Crewe.,驾驶本次DB 66型货运服务从斯塔福德至克鲁。
-/4200A374412F6023AA2D0EB51A0C1BE4,Operate this DB 66 freight service to Baswich,驾驶本次DB 66型货运服务 至巴斯维奇
-/A43F60B04DC76A0E02FB87A8A8169A49,Operate this DB 66 freight service to Baswich,驾驶本次DB 66型货运服务 至巴斯维奇
+/298754B940A31220952AC8863D20C6C7,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/541EBD334C610FE6DDB5D98B477B80FD,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/61A8C4C647737835FB3EA588473889AB,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/8ED4C4FC4B5DAA80EB1BF5B765F3C396,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/A8FD323A45BD53506662F0890D0330C3,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/C17B7FAE4D0B2ACEA097CFA7FF8D35CE,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/C6C338474F0C2B03BC7BE0B91492F052,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/D5D0C9704135AC6F718D5EA073F8BC79,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/D67D83644E61A9329C77F8A2E3DB1134,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/F3FC312840098C9E7C62A4B51C318E5E,Operate this DB 66 freight service from Basford Hall to Stafford.,驾驶本次德铁 66 型货运服务 巴斯福德霍尔至斯塔福德。
+/1309485447E29C217E285B885A64EF05,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次德铁 66 型货运服务 斯塔福德至巴斯福德霍尔。
+/20FCFC4E4B3340FDC47172BD7BD7D477,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次德铁 66 型货运服务 斯塔福德至巴斯福德霍尔。
+/3D7F0B4748D041B51CCFBAA20FEC608F,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次德铁 66 型货运服务 斯塔福德至巴斯福德霍尔。
+/59EC3BCB482D08C886A7388E339B6225,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次德铁 66 型货运服务 斯塔福德至巴斯福德霍尔。
+/9CD58FA84B1B8172EFF0ECBDC370E274,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次德铁 66 型货运服务 斯塔福德至巴斯福德霍尔。
+/A1972EAF43E79FEF4E524586FD6C00EF,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次德铁 66 型货运服务 斯塔福德至巴斯福德霍尔。
+/DA4A58C24F72833929FD69818CFD7D03,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次德铁 66 型货运服务 斯塔福德至巴斯福德霍尔。
+/FB1FA93D4CB0BA6AE1617F9E0AE21424,Operate this DB 66 freight service from Stafford to Basford Hall.,驾驶本次德铁 66 型货运服务 斯塔福德至巴斯福德霍尔。
+/DEF98D704A42F0DA53C8F79B489AF23B,Operate this DB 66 freight service from Stafford to Crewe.,驾驶本次德铁 66 型货运服务从斯塔福德至克鲁。
+/4200A374412F6023AA2D0EB51A0C1BE4,Operate this DB 66 freight service to Baswich,驾驶本次德铁 66 型货运服务 至巴斯维奇
+/A43F60B04DC76A0E02FB87A8A8169A49,Operate this DB 66 freight service to Baswich,驾驶本次德铁 66 型货运服务 至巴斯维奇
 /8DDEEFDA43A323B95312E4A92A9A5EB2,Operate this DRS 66 freight service from Basford Hall to Stafford.,驾驶本次DRS 66型货运服务从巴斯福德霍尔至斯塔福德。
 /3AFE7FD74A5A125E905F6299C0CED2F3,Operate this DRS 66 freight service from Stafford to Basford Hall,驾驶本次DRS 66型货运服务从斯塔福德至巴斯福德霍尔
 /7AA5A5E24AC01D9D05B41AA545BE698A,Operate this ECS 323 movement from Birmingham New Street to Soho LMD,驾驶本次323型空车回送从伯明翰新街至索霍车辆维护场
-/635C9AB74BA7C95341AC7EAEF74FA075,Operate this ECS 323 movement to Birmingham New Street,驾驶本次323型空车回送 至伯明翰新街
-/151D00074994E513C7C531AF44B09CB8,Operate this ECS 323 movement to Birmingham New Street.,驾驶本次323型空车回送 至伯明翰新街。
+/635C9AB74BA7C95341AC7EAEF74FA075,Operate this ECS 323 movement to Birmingham New Street,驾驶本次323型空车回送至伯明翰新街
+/151D00074994E513C7C531AF44B09CB8,Operate this ECS 323 movement to Birmingham New Street.,驾驶本次323型空车回送至伯明翰新街。
 /21B272B04AA6130AA82D829D59161457,Operate this ECS 323 movement to Soho L.M.D,驾驶本次323型空车回送 至索霍车辆维护场
 /04862E504E27C67C04EE22B6C417A3CB,Operate this ECS 323 service from Birmingham Sidings to Birmingham New Street,驾驶本次323型空车回送从伯明翰侧线至伯明翰新街的服务
 /1D81072D484AC5D85ECBF5A5F18B62C6,Operate this ECS 323 service from Birmingham Sidings to Birmingham New Street,驾驶本次323型空车回送从伯明翰侧线至伯明翰新街的服务
@@ -1195,78 +1195,78 @@
 /E953552340F96FAA76420CB79FC0B2A8,Operate this Transport for Wales service to Wolverhampton,驾驶本次威尔士交通局服务 至伍尔弗汉普顿
 /F9B0738B44E9D35BFCCADB8F82A9A65D,Operate this Transport for Wales service to Wolverhampton,驾驶本次威尔士交通局服务 至伍尔弗汉普顿
 /C8282FE74641E4A24E97B7A21A279CCF,Operate this Transport for Wales service to Wolverhampton.,驾驶本次威尔士交通局服务 至伍尔弗汉普顿。
-/03B941AF4D31AE9B252009A72CAF25E0,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/045015BF4E19464DA8C9B9AF0F02802D,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/10EF7F2F49BECE28D5516FA3385D41EF,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/1A65E20E4D5B8C45E91241A827374B50,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/214555F9410F87004CC573B35271ADAA,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/237808954C9E784BBD7288B2533AA24D,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/25CDC7D341B9C36B249EA9AD3B723B58,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/27FEB53C438AA0F36C7612B529247C8D,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/28E2BA8D45AFD30EBD4ACAB86EB27264,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/2F7F379C41692B1517E8BAB3EF9603A7,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/3B5AF9174431299300A0619FDDC95510,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/4019B2DE4B36B0C6D7536EA36A3F53F7,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/40216AF145697EB8C16210AF6E6F2AF8,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/472E5CA240F4A22C5D17E9A37F1C9E9C,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/47E39D5144322F354BCF5982B0857177,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/577918734F0AF1C1D9493380C4AF2F3E,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/597EE8644B7C7036A16F37A678D4E408,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/66934E604D3C679E3DD216A14DEA27E0,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/77F3101947ED3B4F7B87459BA67CB047,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/787B2D9840C50AD547C581863B1688A5,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/8CBD0D384486F01B491201A1DAAA2F8D,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/9034AD3E4223D99FD8A6F2A9006D215E,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/918D2EF9493050A8D86525B0763D17E6,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/9BBECDD143CA85CBEBED66B1002DAC21,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/9E60D8C1416E1DF2FB16B29725D9C4F5,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/A289BFBF435F9BF8B32BF0B84C1003BB,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/B95B1164422738E529F5CCAFE84ADB48,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/BB32B91E402829720341D0A10B13C8BD,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/C869E4954EA8326D29C300B67155B5E2,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/CE50CBA541FBC4E59172D6AC479B60FC,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/D811171141011B4969D8D1BCB95B62FE,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/DD9E1D084377BE4FD2DDA7BE220B2E2B,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/DEB4A0F5425EE3B3724843AAD6EBBB55,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/DF5EE9F3464E4520EEA966A892044EF8,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/E061C44C4EDE7A06604F648DD0617A1E,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/E4089274404E3C552B3EBEA0765C7D9F,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/E47E192C41DF495576E4C38A0F2BF754,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/ED5C50F64D883A48C9ADE9B2E1966C92,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/EE7EDDAD49C18ED44300C0AA5C568597,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/F406A43740D2DBFF6B2CF5B959AE5341,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/FE78492F482428BF628D6D86FFCD174C,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路170型列车从伯明翰新街至伍尔弗汉普顿。
-/03DAB2BA4390540AF7A486B2048BAEFF,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/04889F0F4D20E9B87A4A9784F003AE32,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/0E28F9544722A1F20D5C77A1F83C60D9,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/206B54174683B863DF0237A7314B99AB,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/20BBFA1E466E06511BEE208D0C63FF11,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/2316975E423F9DE68E52AC88303FA9A1,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/2BE74E5747E5EFFB4DCBCB853DDA5722,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/35E7E0E044F7977A8123C89838ABFFD2,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/4D0FF10D4AEA3593E501719A469F65B0,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/61EB90DE4E60DFA5356129ABD0FD912E,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/68BB19C747F20E5D9E2AC690668D1DD4,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/847EB5B14347CDEA01F6DEB14B6BA476,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/8FA4212C48E831452C8E80A7CCC23268,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/A2E6A6294A948CEBF8BB0398A676053A,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/A7371DA94A80197E58A078BE16E6AB6D,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/A9CC892547C422CF1C346D9C3C5FA029,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/B1593CAA49DDEEAA7A81CBB755ACB95A,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/B700E9AF45FE69F347EFB8B36445BC24,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/CDBF47034FC64C427646AAB3168957D9,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/E64F0B9E4BBAD407416171B2812BBF09,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路170型列车从伍尔弗汉普顿至伯明翰新街。
-/ACF15C6A4ED03FF08430AC90715B28A1,Operate this WMR 323 service from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路323型列车从伯明翰新街至伍尔弗汉普顿。
-/0E35767546E75D171C6214A3C93EC0CB,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路323型列车从伍尔弗汉普顿至伯明翰新街。
-/4144E44241EB327D09BAB29ADD63CF2A,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路323型列车从伍尔弗汉普顿至伯明翰新街。
-/55EC5121482B3DB851EE028DBD6E52E9,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路323型列车从伍尔弗汉普顿至伯明翰新街。
-/7F23B19A43B5ADAAB71E33B283B0B76A,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路323型列车从伍尔弗汉普顿至伯明翰新街。
-/B15D288A4AC33D702153848A261099FC,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路323型列车从伍尔弗汉普顿至伯明翰新街。
-/C2706E90462D332759EF6EB0F7DAB445,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路323型列车从伍尔弗汉普顿至伯明翰新街。
-/D8D9F2E34DE6A421105434A558B5372A,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路323型列车从伍尔弗汉普顿至伯明翰新街。
-/2F080B254A712F9BD8A16DB3E5535BE4,Operate this WMR 350 service from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路350型列车从伯明翰新街至伍尔弗汉普顿。
-/35C0C54743662489D5FE058EAE035588,Operate this WMR 350 service from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路350型列车从伯明翰新街至伍尔弗汉普顿。
-/2A8EB9F94D238D0E7C89EF899C65D9FA,Operate this WMR 350 service from Wolverhampton to Birmingham New Street,驾驶本次西米德兰兹铁路350型列车从伍尔弗汉普顿至伯明翰新街
+/03B941AF4D31AE9B252009A72CAF25E0,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/045015BF4E19464DA8C9B9AF0F02802D,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/10EF7F2F49BECE28D5516FA3385D41EF,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/1A65E20E4D5B8C45E91241A827374B50,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/214555F9410F87004CC573B35271ADAA,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/237808954C9E784BBD7288B2533AA24D,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/25CDC7D341B9C36B249EA9AD3B723B58,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/27FEB53C438AA0F36C7612B529247C8D,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/28E2BA8D45AFD30EBD4ACAB86EB27264,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/2F7F379C41692B1517E8BAB3EF9603A7,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/3B5AF9174431299300A0619FDDC95510,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/4019B2DE4B36B0C6D7536EA36A3F53F7,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/40216AF145697EB8C16210AF6E6F2AF8,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/472E5CA240F4A22C5D17E9A37F1C9E9C,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/47E39D5144322F354BCF5982B0857177,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/577918734F0AF1C1D9493380C4AF2F3E,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/597EE8644B7C7036A16F37A678D4E408,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/66934E604D3C679E3DD216A14DEA27E0,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/77F3101947ED3B4F7B87459BA67CB047,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/787B2D9840C50AD547C581863B1688A5,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/8CBD0D384486F01B491201A1DAAA2F8D,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/9034AD3E4223D99FD8A6F2A9006D215E,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/918D2EF9493050A8D86525B0763D17E6,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/9BBECDD143CA85CBEBED66B1002DAC21,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/9E60D8C1416E1DF2FB16B29725D9C4F5,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/A289BFBF435F9BF8B32BF0B84C1003BB,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/B95B1164422738E529F5CCAFE84ADB48,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/BB32B91E402829720341D0A10B13C8BD,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/C869E4954EA8326D29C300B67155B5E2,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/CE50CBA541FBC4E59172D6AC479B60FC,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/D811171141011B4969D8D1BCB95B62FE,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/DD9E1D084377BE4FD2DDA7BE220B2E2B,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/DEB4A0F5425EE3B3724843AAD6EBBB55,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/DF5EE9F3464E4520EEA966A892044EF8,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/E061C44C4EDE7A06604F648DD0617A1E,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/E4089274404E3C552B3EBEA0765C7D9F,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/E47E192C41DF495576E4C38A0F2BF754,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/ED5C50F64D883A48C9ADE9B2E1966C92,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/EE7EDDAD49C18ED44300C0AA5C568597,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/F406A43740D2DBFF6B2CF5B959AE5341,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/FE78492F482428BF628D6D86FFCD174C,Operate this WMR 170 from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 170 型列车从伯明翰新街至伍尔弗汉普顿。
+/03DAB2BA4390540AF7A486B2048BAEFF,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/04889F0F4D20E9B87A4A9784F003AE32,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/0E28F9544722A1F20D5C77A1F83C60D9,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/206B54174683B863DF0237A7314B99AB,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/20BBFA1E466E06511BEE208D0C63FF11,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/2316975E423F9DE68E52AC88303FA9A1,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/2BE74E5747E5EFFB4DCBCB853DDA5722,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/35E7E0E044F7977A8123C89838ABFFD2,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/4D0FF10D4AEA3593E501719A469F65B0,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/61EB90DE4E60DFA5356129ABD0FD912E,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/68BB19C747F20E5D9E2AC690668D1DD4,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/847EB5B14347CDEA01F6DEB14B6BA476,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/8FA4212C48E831452C8E80A7CCC23268,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/A2E6A6294A948CEBF8BB0398A676053A,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/A7371DA94A80197E58A078BE16E6AB6D,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/A9CC892547C422CF1C346D9C3C5FA029,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/B1593CAA49DDEEAA7A81CBB755ACB95A,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/B700E9AF45FE69F347EFB8B36445BC24,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/CDBF47034FC64C427646AAB3168957D9,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/E64F0B9E4BBAD407416171B2812BBF09,Operate this WMR 170 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 170 型列车从伍尔弗汉普顿至伯明翰新街。
+/ACF15C6A4ED03FF08430AC90715B28A1,Operate this WMR 323 service from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 323 型列车从伯明翰新街至伍尔弗汉普顿。
+/0E35767546E75D171C6214A3C93EC0CB,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 323 型列车从伍尔弗汉普顿至伯明翰新街。
+/4144E44241EB327D09BAB29ADD63CF2A,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 323 型列车从伍尔弗汉普顿至伯明翰新街。
+/55EC5121482B3DB851EE028DBD6E52E9,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 323 型列车从伍尔弗汉普顿至伯明翰新街。
+/7F23B19A43B5ADAAB71E33B283B0B76A,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 323 型列车从伍尔弗汉普顿至伯明翰新街。
+/B15D288A4AC33D702153848A261099FC,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 323 型列车从伍尔弗汉普顿至伯明翰新街。
+/C2706E90462D332759EF6EB0F7DAB445,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 323 型列车从伍尔弗汉普顿至伯明翰新街。
+/D8D9F2E34DE6A421105434A558B5372A,Operate this WMR 323 service from Wolverhampton to Birmingham New Street.,驾驶本次西米德兰兹铁路 323 型列车从伍尔弗汉普顿至伯明翰新街。
+/2F080B254A712F9BD8A16DB3E5535BE4,Operate this WMR 350 service from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 350 型列车从伯明翰新街至伍尔弗汉普顿。
+/35C0C54743662489D5FE058EAE035588,Operate this WMR 350 service from Birmingham New Street to Wolverhampton.,驾驶本次西米德兰兹铁路 350 型列车从伯明翰新街至伍尔弗汉普顿。
+/2A8EB9F94D238D0E7C89EF899C65D9FA,Operate this WMR 350 service from Wolverhampton to Birmingham New Street,驾驶本次西米德兰兹铁路 350 型列车从伍尔弗汉普顿至伯明翰新街
 /2A8F1C344FC670566AFDB39A8AF67737,Operate this WMR 350 service to Birmingham New Street,驾驶本次西米德兰兹铁路 350型 至伯明翰新街的服务
 /B234D6BF454AE1CFC33E22A2BEA7A43A,Operate this WMR 350 service to Birmingham New Street,驾驶本次西米德兰兹铁路 350型 至伯明翰新街的服务
 /06E224B6418197093D7505BD720DC161,Operate this WMR Class 350 from Birmingham New Street to Wolverhampton,驾驶本次西米德兰兹铁路 350型 伯明翰新街至伍尔弗汉普顿
@@ -1495,18 +1495,18 @@
 /0FBBE0FA40611B4C342E4F965E34B6B5,Press up button to set the Reverser to Forward,按上键将换向器置于前进位
 /2AAADE4C472EEE9F7D8AEABBD852876A,Press up button to set the Reverser to Forward,按上键将换向器置于前进位
 /416F64B74CC2176371FF65BEFF32A355,Press up button to set the Reverser to Forward,按上键将换向器置于前进位
-/2BE88F5C4AC2E70676B967AF58B8E153,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/408E61144950473A1D8134A92F9BA386,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/4A86F41B47581C06C51E80A38A48654A,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/60D2DB0A4FFEB3F4A9DEC68862709ED6,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/6E6FE8A646C2F55F7140C5829C5B8021,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/744DE2AC45EFA5D466DEC4A98FD2145F,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/747DE1D24AFEF3516CB51C9C64A0A153,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/B42AE634453B1CB419AA9980E57E9430,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/DC864AE348995660591C23974074E77C,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/DD4A3BD04EE3A35AC879DBABBEE8638B,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/E421BBB84836796D693068A14E4C72FE,Put the PBC to max brake,将客车制动控制器置于最大制动位
-/FC05D3D64D0C5601A75ED3996C625643,Put the PBC to max brake,将客车制动控制器置于最大制动位
+/2BE88F5C4AC2E70676B967AF58B8E153,Put the PBC to max brake,将主手柄置于最大制动位
+/408E61144950473A1D8134A92F9BA386,Put the PBC to max brake,将主手柄置于最大制动位
+/4A86F41B47581C06C51E80A38A48654A,Put the PBC to max brake,将主手柄置于最大制动位
+/60D2DB0A4FFEB3F4A9DEC68862709ED6,Put the PBC to max brake,将主手柄置于最大制动位
+/6E6FE8A646C2F55F7140C5829C5B8021,Put the PBC to max brake,将主手柄置于最大制动位
+/744DE2AC45EFA5D466DEC4A98FD2145F,Put the PBC to max brake,将主手柄置于最大制动位
+/747DE1D24AFEF3516CB51C9C64A0A153,Put the PBC to max brake,将主手柄置于最大制动位
+/B42AE634453B1CB419AA9980E57E9430,Put the PBC to max brake,将主手柄置于最大制动位
+/DC864AE348995660591C23974074E77C,Put the PBC to max brake,将主手柄置于最大制动位
+/DD4A3BD04EE3A35AC879DBABBEE8638B,Put the PBC to max brake,将主手柄置于最大制动位
+/E421BBB84836796D693068A14E4C72FE,Put the PBC to max brake,将主手柄置于最大制动位
+/FC05D3D64D0C5601A75ED3996C625643,Put the PBC to max brake,将主手柄置于最大制动位
 /5C005B6746BE0FC0A0F46BB11B0DAB2C,Put the Reverser to Forward,将换向器置于前进位
 /D779BC6F4062B2896378698482E8F2FB,Put the Reverser to Forward,将换向器置于前进位
 /04FCACE840B28A74301C69A2C596C0BA,Put the Reverser to Forward.,将换向器置于前进位。
@@ -1924,57 +1924,57 @@
 /34708D4C40204893296ECA802FD576F4,Walk to Wolverhampton station,走向伍尔弗汉普顿车站，
 /914C43D94EDA96DEA84913BD949E93BF,Walk to Wolverhampton station,走向伍尔弗汉普顿车站，
 /B8ECA04C4F660B5F7A04E5A1710B091E,Walk to Wolverhampton station,走向伍尔弗汉普顿车站，
-/213FD9944638750A36179680D28818B9,Walk to the Class 350/1 on Road 7.,走向第7股道上的350/1型电力动车组。
-/A87156B94DE133C78465CFA231A9A6AE,Walk to the Class 350/1 on Road 7.,走向第7股道上的350/1型电力动车组。
-/4A532A8E46BA39B9A9975EB204326E6B,Walk to the Class 350/2 on Road 5.,走向第5股道上的350/2型电力动车组。
-/580D976D4A2E03AE341B1CB4B38AF56B,Walk to the Class 350/3 on Road 1.,走向第1股道上的350/3型电力动车组。
+/213FD9944638750A36179680D28818B9,Walk to the Class 350/1 on Road 7.,走向第 7 股道上的350/1型电力动车组。
+/A87156B94DE133C78465CFA231A9A6AE,Walk to the Class 350/1 on Road 7.,走向第 7 股道上的350/1型电力动车组。
+/4A532A8E46BA39B9A9975EB204326E6B,Walk to the Class 350/2 on Road 5.,走向第 5 股道上的350/2型电力动车组。
+/580D976D4A2E03AE341B1CB4B38AF56B,Walk to the Class 350/3 on Road 1.,走向第 1 股道上的350/3型电力动车组。
 /A11353A84B83CB864F03A0AA0048E9FA,Walk to the manual junction,走向手动道岔，
 /FF61311A489C412C6E895B9EAA64F237,Walk to the manual junction,走向手动道岔，
 /1DCC67A844BA9E9C8E9820B065B40ADF,Walk to the manual junction.,走向手动道岔。
 /BF2558654E93D4187931A78A5B405CA2,Walk to the manual junction.,走向手动道岔。
 /34011C5F4625FB0A56B1C7BECC8739D0,Walk to the marker on platform 12 to finish off with.,走向12号站台上的标记以完成任务。
-/18622BEB4AEBD4EBC6E423BBD7B2FCA6,Walk to the newspaper stand on platform 12,走向12号站台上的报摊，
-/659864C846317356A9D8C38FFE676073,Walk to the rear unit on Road 1.,走向第1股道上的尾部编组。
-/C796E872480D3828DD01CD9C2323F81B,Walk to the rear unit on Road 1.,走向第1股道上的尾部编组。
-/1BF1D327441C4CF05D47CFBE0B9C3994,Walk to your train in No. 3 Road,走向第3股道上的您的列车，
-/AC3ACC1E4589DA456E36B39CC8DF3AEC,Walk to your train in No. 3 Road,走向第3股道上的您的列车，
-/CDBEF5834FB72F613DDB7EBBD0D15AA2,Walk to your train in No. 3 Road,走向第3股道上的您的列车，
-/D3C6253D4C1BDC6353FD15BF3F942EA1,Walk to your train in No. 3 Road,走向第3股道上的您的列车，
-/00648F5E4C5C522C60B4ED969D5C6D52,Walk to your train on Platform 6.,走向6号站台上的您的列车。
-/4AB266404A3F2BCF7038B5BDF3AE9328,Walk to your train on Platform 6.,走向6号站台上的您的列车。
-/85B3240B408FBD2C707B8EAB58D0049B,Walk to your train on Platform 6.,走向6号站台上的您的列车。
-/98C7C8E84EF1A0472C7848A973EDB5F1,Walk to your train on Platform 6.,走向6号站台上的您的列车。
-/BCED737542D6865A994CEC968310F5B1,Walk to your train on Platform 6.,走向6号站台上的您的列车。
-/FAF87F664233A8E84A2743A95D13089A,Walk to your train on Platform 6.,走向6号站台上的您的列车。
-/FD78DD864D97CDB7EDDFF2888FBD24A5,Walk to your train on Platform 6.,走向6号站台上的您的列车。
-/0A7673EC45AD6A97C7A634BF03D90005,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/254250BE4350550D1A8D0F8BF1C01E2F,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/2AE76AF14BA7BF2A336520AC78646044,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/61D7EB0547D86420C4D7C384A6746863,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/82EC40AD4895B55C876EEAA203C76FEC,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/99A04C6A400A48D028023085A5C95413,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/A55CBD63497935C13C92BE837DCA3FE6,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/AEB9BBC04E30487D91F521A9A24255F5,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/CB2FCF4843A1B2EE4F75E28FED78780D,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/F45E75EC41137CAA0C417D9F04FB4563,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/F4F9C4D94A621FFAEA1F4F9214CAB2E2,Walk to your train on platform 12.,走向12号站台上的您的列车。
-/2525B93844ECE5223533FDBE9188FC8F,Walk to your train on platform 2.,走向2号站台上的您的列车。
-/E95F58C5496E092F007F30814B7BA8A6,Walk to your train on platform 2.,走向2号站台上的您的列车。
-/EA6E662743E0646903B1B49CBB83D75B,Walk to your train on platform 2.,走向2号站台上的您的列车。
-/EF12AFB942AA46BC09A8EDA3BA823FC3,Walk to your train on platform 2.,走向2号站台上的您的列车。
-/01C8068E4ADDAEFDFF237B9EED299334,Walk to your train on platform 7,走向7号站台上的您的列车，
-/7E5C797F444B3290EA6D8486283ECC42,Walk to your train on platform 7,走向7号站台上的您的列车，
-/9795292F4D0D9D34A2034E945C9EEB2F,Walk to your train on platform 7,走向7号站台上的您的列车，
-/C3F0E56C43108D6B74F48EBD3880B4FD,Walk to your train on platform 7,走向7号站台上的您的列车，
-/ED1E14014796701BF43129AF6B106888,Walk to your train on platform 7,走向7号站台上的您的列车，
-/F9685F2C4D5357A6457292B00760BB2C,Walk to your train on platform 7,走向7号站台上的您的列车，
+/18622BEB4AEBD4EBC6E423BBD7B2FCA6,Walk to the newspaper stand on platform 12,走向12号站台上的报摊
+/659864C846317356A9D8C38FFE676073,Walk to the rear unit on Road 1.,走向第 1 股道上的尾部编组。
+/C796E872480D3828DD01CD9C2323F81B,Walk to the rear unit on Road 1.,走向第 1 股道上的尾部编组。
+/1BF1D327441C4CF05D47CFBE0B9C3994,Walk to your train in No. 3 Road,走向第 3 股道上的您的列车。
+/AC3ACC1E4589DA456E36B39CC8DF3AEC,Walk to your train in No. 3 Road,走向第 3 股道上的您的列车。
+/CDBEF5834FB72F613DDB7EBBD0D15AA2,Walk to your train in No. 3 Road,走向第 3 股道上的您的列车。
+/D3C6253D4C1BDC6353FD15BF3F942EA1,Walk to your train in No. 3 Road,走向第 3 股道上的您的列车。
+/00648F5E4C5C522C60B4ED969D5C6D52,Walk to your train on Platform 6.,走向 6 号站台上的您的列车。
+/4AB266404A3F2BCF7038B5BDF3AE9328,Walk to your train on Platform 6.,走向 6 号站台上的您的列车。
+/85B3240B408FBD2C707B8EAB58D0049B,Walk to your train on Platform 6.,走向 6 号站台上的您的列车。
+/98C7C8E84EF1A0472C7848A973EDB5F1,Walk to your train on Platform 6.,走向 6 号站台上的您的列车。
+/BCED737542D6865A994CEC968310F5B1,Walk to your train on Platform 6.,走向 6 号站台上的您的列车。
+/FAF87F664233A8E84A2743A95D13089A,Walk to your train on Platform 6.,走向 6 号站台上的您的列车。
+/FD78DD864D97CDB7EDDFF2888FBD24A5,Walk to your train on Platform 6.,走向 6 号站台上的您的列车。
+/0A7673EC45AD6A97C7A634BF03D90005,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/254250BE4350550D1A8D0F8BF1C01E2F,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/2AE76AF14BA7BF2A336520AC78646044,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/61D7EB0547D86420C4D7C384A6746863,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/82EC40AD4895B55C876EEAA203C76FEC,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/99A04C6A400A48D028023085A5C95413,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/A55CBD63497935C13C92BE837DCA3FE6,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/AEB9BBC04E30487D91F521A9A24255F5,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/CB2FCF4843A1B2EE4F75E28FED78780D,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/F45E75EC41137CAA0C417D9F04FB4563,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/F4F9C4D94A621FFAEA1F4F9214CAB2E2,Walk to your train on platform 12.,走向 12 号站台上的您的列车。
+/2525B93844ECE5223533FDBE9188FC8F,Walk to your train on platform 2.,走向 2 号站台上的您的列车。
+/E95F58C5496E092F007F30814B7BA8A6,Walk to your train on platform 2.,走向 2 号站台上的您的列车。
+/EA6E662743E0646903B1B49CBB83D75B,Walk to your train on platform 2.,走向 2 号站台上的您的列车。
+/EF12AFB942AA46BC09A8EDA3BA823FC3,Walk to your train on platform 2.,走向 2 号站台上的您的列车。
+/01C8068E4ADDAEFDFF237B9EED299334,Walk to your train on platform 7,走向 7 号站台上的您的列车，
+/7E5C797F444B3290EA6D8486283ECC42,Walk to your train on platform 7,走向 7 号站台上的您的列车，
+/9795292F4D0D9D34A2034E945C9EEB2F,Walk to your train on platform 7,走向 7 号站台上的您的列车，
+/C3F0E56C43108D6B74F48EBD3880B4FD,Walk to your train on platform 7,走向 7 号站台上的您的列车，
+/ED1E14014796701BF43129AF6B106888,Walk to your train on platform 7,走向 7 号站台上的您的列车，
+/F9685F2C4D5357A6457292B00760BB2C,Walk to your train on platform 7,走向 7 号站台上的您的列车，
 /741E529C4DECA7879D1FB5BE581D7E1D,We can now depart for Crewe station; arriving into platform 12. Stop in the station and follow the instructions for how to uncouple the two units.,我们现在可以出发前往克鲁车站，到达12号站台。在站内停车，并按照指示进行两列编组的解挂操作。
 /E4EC7CEF4BFC9CB819B6C59BFCAD5146,We can now depart for Crewe station; arriving into platform 12. Stop in the station and follow the instructions for how to uncouple the two units.,我们现在可以出发前往克鲁车站，到达12号站台。在站内停车，并按照指示进行两列编组的解挂操作。
 /53D6461D486975325D18899F5469296F,"Welcome to Crewe Carriage Sidings! In this tutorial, we're going to have a look at the different variations that come with the Birmingham to Crewe route. Follow the objective markers to learn about the units, finishing with learning how to couple and uncouple two units.",欢迎来到克鲁客车侧线！在本教程中，我们将了解伯明翰至克鲁线路上配备的不同型号列车。请跟随目标标记了解这些编组，最后学习如何进行两列编组的连挂和解挂操作。
 /BFC769064192B624A1A9A191B8C69CCB,"Welcome to Crewe Carriage Sidings! In this tutorial, we're going to have a look at the different variations that come with the Birmingham to Crewe route. Follow the objective markers to learn about the units, finishing with learning how to couple and uncouple two units.",欢迎来到克鲁客车侧线！在本教程中，我们将了解伯明翰至克鲁线路上配备的不同型号列车。请跟随目标标记了解这些编组，最后学习如何进行两列编组的连挂和解挂操作。
 /08943F7747C2F2AB8911B58449BE16E2,"Welcome to this route introduction for the West Coast Mainline: Birmingham to Crewe route. You are currently at Crewe, the northernmost station on the route.",欢迎来到西海岸干线：伯明翰至克鲁路线介绍。您当前位于克鲁，这是本路线最北端的车站。
 /8C4B1CA9454BE008B191F9BD7EB24AF3,"Welcome to this route introduction for the West Coast Mainline: Birmingham to Crewe route. You are currently at Crewe, the northernmost station on the route.",欢迎来到西海岸干线：伯明翰至克鲁路线介绍。您当前位于克鲁，这是本路线最北端的车站。
-/0C5255AD494E7462842600A94C83B47A,"Well done! Another driver will be along shortly to take the train's next southbound service. As for you, please make your way over to Platform 7 and setup the faulty train for departure.",干得好！稍后将有另一位司机前来接手列车的下一趟南行服务。至于您，请前往7号站台，准备有故障的列车发车。
+/0C5255AD494E7462842600A94C83B47A,"Well done! Another driver will be along shortly to take the train's next southbound service. As for you, please make your way over to Platform 7 and setup the faulty train for departure.",做得好！另一名司机很快就会过来接手这列车的下一班南行列次。至于你，请前往 7 号站台，为那列故障列车的出发做好整备。
 /243636AE42276F0B836EC28AB8E9F472,"Well done! The train has reached Crewe, where it will terminate. Time for a coffee!",干得好！列车已抵达克鲁，本次服务在此终到。是时候喝杯咖啡了！
 /7F9DC524427D26C9F19371918BA4CF8B,Well done! The unit has arrived at Wolverhampton to stable for the night. Hopefully soon it can get to a wheel lathe.,干得好！该编组已抵达伍尔弗汉普顿，准备夜间停放。希望它很快就能送去车轮镟床处理。
 /B0478A9147DB02434211E8A4D9CA18F3,"With the units having a maximum speed of 110mph (177km/h), they are adequately suitable to operate commuter and express services out of London Euston to multiple stations along the West Coast Mainline (WCML) to Northampton, Birmingham, Crewe and Liverpool.",这些编组的最高速度为110英里/小时（177公里/小时），完全适合运营从伦敦尤斯顿出发，沿西海岸干线（WCML）至北安普顿、伯明翰、克鲁和利物浦等多个车站的通勤和快速服务。
