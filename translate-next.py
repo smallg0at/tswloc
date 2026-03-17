@@ -12,13 +12,13 @@ from google.genai import types
 import json
 import time
 
-SYSTEM_ROLE = "你是一个精通《模拟火车世界》(Train Sim World) 和捷克铁路规程的专业翻译官。"
+SYSTEM_ROLE = "你是一个精通《模拟火车世界》(Train Sim World) 和德国铁路规程与机车的专业翻译官。"
 
 SYSTEM_RULES = [
     "将输入文本翻译成中文，使用专业铁路用语。",
     "除非原文包含，或部分重度缩写地名如 DIRFT，避免使用括号。",
-    "对于车次，使用如下格式：<列车种别> <车次号> <原文这两个后面的任意附加信息（如有）>",
-    "列车种别不翻译。",
+    "对于车次，使用如下格式：<列车种别> (<车次号>) <始发站>—<终到站>",
+    "列车种别不翻译。{ }包裹的内容为占位符，不要翻译但要保留花括号。",
     "站场、避让线、维护设施、货运站等的缩写（如 FLT）需要翻译。",
     "地点名称不保留英文名称；站名中仅货运公司名称保留原文。",
     "Part X 翻译为第 X 部分。",
@@ -57,8 +57,8 @@ def build_system_instruction() -> str:
     return (
         f"{SYSTEM_ROLE}\n"
         f"任务要求：\n{rule_lines}\n"
-        "请在翻译时严格遵守以下站名固定译名：\n"
-        f"{station_lines}"
+        # "请在翻译时严格遵守以下站名固定译名：\n"
+        # f"{station_lines}"
     )
 
 
@@ -66,7 +66,7 @@ SYSTEM_INSTRUCTION = build_system_instruction()
 
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "Liberec_StaraPaka_Route_Gameplay.locres.csv"
+FILE = "CRG_DB_BR145_Expert_Gameplay.145pack.locres.csv"
 
 
 def translate_gemini(input_text: str):

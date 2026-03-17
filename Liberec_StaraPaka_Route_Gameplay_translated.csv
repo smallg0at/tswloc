@@ -589,7 +589,7 @@
 /CBC445CF413F8781C73F629D425FEF90,From 18 to 24a and 16 occupied.,从 18 号前往 24a 号及已占用的 16 号轨道。
 /3015767747FCAE10DBDBFEA0E8179F0D,From 22 to 24a and 18 occupied.,从 22 号前往 24a 号及已占用的 18 号轨道。
 /EB792A3E4EE959A04531CB83400D9247,From 24 to 24a and 22 occupied.,从 24 号前往 24a 号及已占用的 22 号轨道。
-/DFB472274F68EB1B066939A4404482D1,From Factory To Factory,厂际运输
+/DFB472274F68EB1B066939A4404482D1,From Factory To Factory,厂区取送
 /8607BE504925617615BE51B9CC06D237,From track 20 to the hump and then track 24 occupied.,从 20 号轨道前往驼峰，然后前往已占用的 24 号轨道。
 /2B8EB9E640305141B262B6A3A1FEB8CA,GET A SHUNTING CLEARANCE,获取调车许可
 /BA896821463C9EC19BB364AA146102E6,GET A SHUNTING CLEARANCE,获取调车许可
@@ -608,7 +608,7 @@
 /2CC582584C74F517A9553F904D405E82,GO VIA LOCATION,经由地点
 /61F4B0F240B9F6BC9E9E18A9ACAF9927,GO VIA LOCATION,经由地点
 /714D154F40188EE1F5E855B1E90550D2,GO VIA LOCATION,经由地点
-/82B3A715404689E237F2819443734F34,GOODBYE,再见
+/82B3A715404689E237F2819443734F34,GOODBYE,告别时刻
 /06937ADD457ABB1D276CC2B396C0A512,Generate Braking Report,生成制动报告
 /FB2649454A66BBE2312CFABAAEA8D282,Generate Braking Report,生成制动报告
 /7C05D1FA4AF767BB18ACCDB03F749A49,Get Started!,开始吧！
@@ -681,9 +681,9 @@
 /832881A1430B7A359E523F8435726BDE,HEADLIGHTS,前照灯
 /A6AB77E247928295C77C08B8AE659D01,Harris,哈里斯
 /ED8E22134BE59EA58E4EC08DDD971905,Helen,海伦
-/51C248B94156AFBE94657B8CFC2D73D9,"Hello 1272, here Jermanice dispatcher. I haven't expected you here so quickly. You'll need to wait for a meet with the opposing express. But he is not even on the block post. So, 5 minutes?",1272 次请讲，这里是耶日马尼采调度员。没想到你这么快就到了。你需要等待与对向快车交会，但他还没进入闭塞区间。你得等上大概 5 分钟？
-/F5ECC2C24448BEE9D5E0C28B217CF2AD,"Hello 1272, here Sychrov dispatcher. There is a traffic running in front of you. and it is getting overheated so it runs slow. You'll pass him at Hodkovice. Probably. Perhaps. I hope.",1272 次请讲，这里是锡赫罗夫调度员。你前方有车在运行，由于过热导致运行缓慢。你应该会在莫黑尔卡河畔霍德科维采超过他。大概吧。也许。我希望如此。
-/02B1B96B45D1FF6BEBD1CC98F9384217,"Hello 1275, dispatcher here. You'll meet a freight in Košťálov, and it is approaching already. I know I just stopped you, but.could you clear the junction area as soon as possible so he can pass without stopping?",1275 次请讲，我是调度员。你将在科什佳洛夫与一列货车交会，它已经接近了。我知道我刚让你停下，但……你能尽快驶离道岔区域吗，以便让他不停车通过？
+/51C248B94156AFBE94657B8CFC2D73D9,"Hello 1272, here Jermanice dispatcher. I haven't expected you here so quickly. You'll need to wait for a meet with the opposing express. But he is not even on the block post. So, 5 minutes?",1272 次你好，这里是耶日马尼采调度员。没想到你这么快就到了。你需要等待与对向快车交会，但他还没进入闭塞区间。你得等上大概 5 分钟？
+/F5ECC2C24448BEE9D5E0C28B217CF2AD,"Hello 1272, here Sychrov dispatcher. There is a traffic running in front of you. and it is getting overheated so it runs slow. You'll pass him at Hodkovice. Probably. Perhaps. I hope.",1272 次你好，这里是锡赫罗夫调度员。你前方有车在运行，由于过热导致运行缓慢。你应该会在莫黑尔卡河畔霍德科维采超过他。大概吧。也许。我希望如此。
+/02B1B96B45D1FF6BEBD1CC98F9384217,"Hello 1275, dispatcher here. You'll meet a freight in Košťálov, and it is approaching already. I know I just stopped you, but.could you clear the junction area as soon as possible so he can pass without stopping?",1275 次你好，我是调度员。你将在科什佳洛夫与一列货车交会，它已经接近了。我知道我刚让你停下，但……你能尽快驶离道岔区域吗，以便让他不停车通过？
 /CA3D79ED47C71C01CE3F63B9281C1D99,"Hello Driver, welcome to the Training Center. Today we will explore the Class 750 Locomotive and you will get to know some new and interesting things about it. Start by approaching the locomotive. Begin our walkaround by checking the exterior of the locomotive. Check that the buffers aren't pushed inside. Continue by looking under the locomotive and checking that nothing is hanging from the bogies. Also check that the drainage valves are closed and the fuel caps aren't missing.",你好司机，欢迎来到训练中心。今天我们将探索 Class 750 机车，你会了解到一些关于它的新奇有趣的知识。首先请靠近机车。从检查机车外部开始我们的绕车检查。检查缓冲器是否没有缩进。继续检查机车下方，确认转向架上没有挂着东西。同时检查排水阀是否关闭，燃油盖是否完好。
 /D03E0B6B401FCE35E1D3D1B22BACD690,"Hello Driver, welcome to the Training Center. Today we will explore the Class 750 Locomotive and you will get to know some new and interesting things about it. Start by approaching the locomotive. Begin our walkaround by checking the exterior of the locomotive. Check that the buffers aren't pushed inside. Continue by looking under the locomotive and checking that nothing is hanging from the bogies. Also check that the drainage valves are closed and the fuel caps aren't missing.",你好司机，欢迎来到训练中心。今天我们将探索 Class 750 机车，你会了解到一些关于它的新奇有趣的知识。首先请靠近机车。从检查机车外部开始我们的绕车检查。检查缓冲器是否没有缩进。继续检查机车下方，确认转向架上没有挂着东西。同时检查排水阀是否关闭，燃油盖是否完好。
 /4712DB3045568B68173805A0DA97EF33,"Hello Driver, welcome to the Training Center. Today we will explore the Class 843 and you will get to know some new and interesting things about it. Start by approaching the train.",你好司机，欢迎来到训练中心。今天我们将探索 Class 843，你会了解到一些关于它的新奇有趣的知识。首先请靠近列车。
@@ -718,7 +718,7 @@
 /501E611742C20166020395991DD0A4D7,"Here you see the voltage and amper meters, check the leftmost amper meter after starting if the batteries are charging. The most important switch below is the second one from the left, as this switch can turn off the electrodynamic brake. Use this when you have issues with the electrodynamic brake.",这里你可以看到电压表和电流表，启动后请检查最左边的电流表以确认电池是否正在充电。下方最重要的开关是左起第二个，因为该开关可以关闭电阻制动。当电阻制动出现问题时请使用此开关。
 /D58AAC3748E63C04D42FE190AE32DF14,"Here you see the voltage and amper meters, check the leftmost amper meter after starting if the batteries are charging. The most important switch below is the second one from the left, as this switch can turn off the electrodynamic brake. Use this when you have issues with the electrodynamic brake.",这里你可以看到电压表和电流表，启动后请检查最左边的电流表以确认电池是否正在充电。下方最重要的开关是左起第二个，因为该开关可以关闭电阻制动。当电阻制动出现问题时请使用此开关。
 /4738AE684EC8218FEC4CF896A7F6E8D4,"Hi, dispatcher here. You will be crossing with another train at Košťálov so You can slow down a bit.",你好，我是调度员。你将在科什佳洛夫与另一列车交会，所以你可以稍微减速。
-/9A82FFF747C1A6EFCE9F9FADDB3C295E,"Hi, driver of diesel locomotive at track 10b at northern junction area in Liberec. I'd like to request a shunting route from track 10b to the hump.",你好，利贝雷茨北侧道岔区的 10b 轨道内燃机车司机请讲。我想请求一条从 10b 轨道前往驼峰的调车路径。
+/9A82FFF747C1A6EFCE9F9FADDB3C295E,"Hi, driver of diesel locomotive at track 10b at northern junction area in Liberec. I'd like to request a shunting route from track 10b to the hump.",你好，这里是位于利贝雷茨北咽喉区 10b 道的内燃机车司机。申请办理从 10b 道至驼峰的调车进路。
 /76DE680641CDFF17384506AE289B6004,"Hi, driver! I have a written order for you. At Malá Skála, you'll enter an occupied track. But you probably know. The departure route is set, so: The train 101263 from track No1 to Malá Skála, departure!",你好，司机！我有份书面命令给你。在马拉斯卡拉，你将进入一条占用轨道。但你应该已经知道了。出发路径已排好，所以：101263 次列车从 1 号轨道开往马拉斯卡拉，发车！
 /6A4AA59C441CB5AD5E15138DEB90622F,Hi. The express you are supposed to meet here is delayed. He has some problems with overheating. The meeting will happen at Malá Skála station.,你好。你原定在此交会的快车晚点了。他遇到了过热故障。交会将在马拉斯卡拉站进行。
 /AB8B68A64695EFD9122272AA9D6EDEE7,Hodkovice nad Mohelkou kolej 1,莫黑尔卡河畔霍德科维采 1 号轨道
@@ -2235,7 +2235,7 @@
 /2B07D31C4272485E2F568B8C2C0D2079,Start by inserting the reverser and setting it to the forward position.,首先插入换向手柄并将其置于前进位。
 /A6A6AAC64D99AAFEE64C8FA1A15E4B00,Start by inserting the reverser and setting it to the forward position.,首先插入换向手柄并将其置于前进位。
 /1F2C19D84286A989608B5CBE0C0C9D87,Start driving once you have released the brakes and stop after junction 601.,释放制动后开始驾驶，并在 601 号道岔后停车。
-/5FB728DA477171BA26962D8AFD8822AC,"Start driving once you have released the brakes, we will go back to the statiobn on 18th track, switch simplex channel to 26.",释放制动后开始驾驶，我们将返回车站的 18 道，将单工信道切换至 26。
+/5FB728DA477171BA26962D8AFD8822AC,"Start driving once you have released the brakes, we will go back to the statiobn on 18th track, switch simplex channel to 26.",释放制动后开始驾驶，我们将返回车站的 18 道，将单工信道切换至 21。
 /473C0ADD459D37DF6363DBA0FAF86F89,Steven,Steven
 /00A23F6844836ACB03F2ABB842270AF5,Stop after junction 601.,在 601 号道岔后停车。
 /00D398124153461B3A140881D2CA012B,Stop after junction 601.,在 601 号道岔后停车。
@@ -2730,8 +2730,8 @@
 /022E04FF4EBB58B924384C9A0E879377,the A bit of shunting part 2 scenario,调车作业第 2 部分场景
 /FA383AF449715A534E73448D7CEB7303,the Can you fix it scenario,你能修好它吗场景
 /E6CA70C34657F388A1CB5CB6810215C9,the End of day scenario,日终末班场景
-/001CA7624790C444E21C7E8FEFE6B39C,the From factory to factory scenario,厂际运输场景
-/5876E6A442311E3690D1139E74152029,the Goodbye scenario,告别场景
+/001CA7624790C444E21C7E8FEFE6B39C,the From factory to factory scenario,厂区取送场景
+/5876E6A442311E3690D1139E74152029,the Goodbye scenario,告别时刻场景
 /1096A0DF454FD9CA100C2CA2299A7683,the It couldn't be fixed scenario,无法修复场景
 /B8D5C0CD4992A2F192787AB496D7134F,the Liberec - Stará Paka route introduction,利贝雷茨 - 斯塔拉帕卡线路介绍
 /30BEC7324C2D619CEC310397972864FE,the Mudslide scenario,泥石流场景
