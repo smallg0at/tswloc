@@ -1,0 +1,22 @@
+key,source,target
+/E85CF5B64E66BD188C54ABBAD531BC7B,992,
+/338EA62B418C71010C3B9EB938FE5220,Pressed,
+/F30D256A42ADFA06B62637885775B559,Request to Cross,
+/6A20EE1C4776848BADD832A8E50F3503,"Service {Service}
+Scheduled time with lateness: {Hr}:{Min}
+Delay mins: {Delay}
+Mins until arrival {ArrivalMins}",
+/793F287E420E3F4DE82829BCE57DA636,Set (SYSTEM) SparkAudio,
+/DBDDE5B0495FB262680FAFA168475FDB,"{Index}
+ID: {ID}",
+/67A54F804E484F746F0418B7366112D2,{TextBeforeLetter}{Letter},
+Dispatcher/Denied request pass signal (junctions),Denied. Check switches.,
+Dispatcher/Denied request pass signal,Denied. Dispatcher is unable to authorize movements.,
+Dispatcher/Denied request pass signal (too far),Denied. Move up to the signal and wait.,
+Dispatcher/Denied request pass signal (no route),Denied. No route available,
+Dispatcher/Denied request pass signal (service),Denied. Service not authorized in signalled area.,
+Dispatcher/Denied request pass signal (train ahead),Denied. Train in section ahead.,
+Dispatcher/Denied request pass signal (wait signal),Denied. Wait for signal to change.,
+Dispatcher/Denied request pass signal (off path),Denied. Your train appears to be off path.,
+Dispatcher/Request pass signal: proceed,Proceed as signals indicate,
+Dispatcher/Request pass signal: proceed restricted,Proceed at Restricted Speed,

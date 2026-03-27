@@ -1,0 +1,26 @@
+﻿key,source,target
+/E85CF5B64E66BD188C54ABBAD531BC7B,992,992
+/338EA62B418C71010C3B9EB938FE5220,Pressed,已按下
+/F30D256A42ADFA06B62637885775B559,Request to Cross,请求越过
+/6A20EE1C4776848BADD832A8E50F3503,"Service {Service}
+Scheduled time with lateness: {Hr}:{Min}
+Delay mins: {Delay}
+Mins until arrival {ArrivalMins}","Service {Service}
+Scheduled time with lateness: {Hr}:{Min}
+Delay mins: {Delay}
+Mins until arrival {ArrivalMins}"
+/793F287E420E3F4DE82829BCE57DA636,Set (SYSTEM) SparkAudio,Set (SYSTEM) SparkAudio
+/DBDDE5B0495FB262680FAFA168475FDB,"{Index}
+ID: {ID}","{Index}
+ID：{ID}"
+/67A54F804E484F746F0418B7366112D2,{TextBeforeLetter}{Letter},{TextBeforeLetter}{Letter}
+Dispatcher/Denied request pass signal (junctions),Denied. Check switches.,已拒绝，请检查道岔
+Dispatcher/Denied request pass signal,Denied. Dispatcher is unable to authorize movements.,已拒绝，调度员无法授权此次调动
+Dispatcher/Denied request pass signal (too far),Denied. Move up to the signal and wait.,已拒绝，请前进至信号灯处等待
+Dispatcher/Denied request pass signal (no route),Denied. No route available,已拒绝，没有可用路径
+Dispatcher/Denied request pass signal (service),Denied. Service not authorized in signalled area.,已拒绝，信号区域内未授权提供服务
+Dispatcher/Denied request pass signal (train ahead),Denied. Train in section ahead.,已拒绝，前方区段有列车
+Dispatcher/Denied request pass signal (wait signal),Denied. Wait for signal to change.,已拒绝，请等待信号改变
+Dispatcher/Denied request pass signal (off path),Denied. Your train appears to be off path.,已拒绝，您的列车似乎偏离了预定轨道
+Dispatcher/Request pass signal: proceed,Proceed as signals indicate,依照信号指示行驶
+Dispatcher/Request pass signal: proceed restricted,Proceed at Restricted Speed,依照限速行驶

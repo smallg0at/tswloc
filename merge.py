@@ -8,7 +8,7 @@ def merge_csvs(file1, file2, output):
         reader = csv.reader(f)
         for row in reader:
             if len(row) >= 3:
-                lookup[row[0]] = row[2]
+                lookup[row[0]] = row[1]
 
     # Process first file and write output
     with open(file1, 'r', encoding='utf-8') as f_in, \

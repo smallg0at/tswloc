@@ -2,3 +2,4 @@ lithe-*
 *.pak
 *.odg#
 temp
+__pycache__

@@ -1,3 +1,7 @@
+GLOSSARY_FILE = "glossary.csv"
+TARGET_LANG = "zh-CN"
+FILE = "MedwayValley_Route_Gameplay.locres.csv"
+
 import pandas as pd
 from google.cloud import translate_v2 as translate
 import html
@@ -12,13 +16,13 @@ from google.genai import types
 import json
 import time
 
-SYSTEM_ROLE = "你是一个精通《模拟火车世界》(Train Sim World) 和德国铁路规程与机车的专业翻译官。"
+SYSTEM_ROLE = "你是一个精通《模拟火车世界》(Train Sim World) 和英国铁路规程与机车的专业翻译官。"
 
 SYSTEM_RULES = [
     "将输入文本翻译成中文，使用专业铁路用语。",
     "除非原文包含，或部分重度缩写地名如 DIRFT，避免使用括号。",
-    "对于车次，使用如下格式：<列车种别> (<车次号>) <始发站>—<终到站>",
-    "列车种别不翻译。{ }包裹的内容为占位符，不要翻译但要保留花括号。",
+    "对于车次，使用如下格式：<车次号> <始发站>—<终到站>",
+    "{ }包裹的内容为占位符，不要翻译但要保留花括号。",
     "站场、避让线、维护设施、货运站等的缩写（如 FLT）需要翻译。",
     "地点名称不保留英文名称；站名中仅货运公司名称保留原文。",
     "Part X 翻译为第 X 部分。",
@@ -26,26 +30,34 @@ SYSTEM_RULES = [
 ]
 
 STATION_TRANSLATIONS = {
-    "Stará Paka": "斯塔拉帕卡",
-    "Bělá u Staré Paky": "斯塔拉帕卡附近的别拉",
-    "Libštát": "利布什塔特",
-    "Košťálov": "科什佳洛夫",
-    "Nedvězí": "内德维济",
-    "Semily": "塞米利",
-    "Železný Brod": "热莱兹尼布罗德",
-    "Líšný": "利什尼",
-    "Malá Skála": "马拉斯卡拉",
-    "Dolánky": "多兰基",
-    "Turnov": "图尔诺夫",
-    "Doubí u Turnova": "图尔诺夫附近的道比",
-    "Sychrov": "锡赫罗夫",
-    "Sedlejovice": "塞德莱约维采",
-    "Hodkovice n. M.": "莫黑尔卡河畔霍德科维采",
-    "Rychnov u Jabl. n.n.": "尼萨河畔亚布洛内茨附近的里赫诺夫",
-    "Rádlo": "拉德洛",
-    "Jeřmanice": "耶日马尼采",
-    "Pilínkov": "皮林科夫",
-    "Liberec": "利贝雷茨",
+    "Gravesend": "格雷夫森德",
+    "Hoo Junction": "胡交汇站",
+    "Higham": "海厄姆",
+    "Strood": "斯特鲁德",
+    "Rochester": "罗切斯特",
+    "Chatham": "查塔姆",
+    "Gillingham": "吉灵厄姆",
+    "Gillingham Depot": "吉灵厄姆车辆段",
+    "Rainham": "雷纳姆",
+    "Cuxton": "卡克斯顿",
+    "Halling Cement": "哈林水泥厂",
+    "Halling": "哈林",
+    "Snodland": "斯诺德兰",
+    "New Hythe": "新海斯",
+    "Aylesford": "艾尔斯福德",
+    "Allington Sidings": "阿灵顿侧线",
+    "Maidstone Barracks": "梅德斯通营房",
+    "Maidstone West": "梅德斯通西站",
+    "East Farleigh": "东法利",
+    "Wateringbury": "沃特灵伯里",
+    "Yalding": "雅尔丁",
+    "East Peckham Tip": "东佩卡姆卸料场",
+    "Beltring": "贝尔特林",
+    "Keylands Sidings": "基兰兹侧线",
+    "Paddock Wood": "帕多克伍德",
+    "Engineers Sidings": "工程侧线",
+    "Tonbridge": "汤布里奇",
+    "Tonbridge West Yard": "汤布里奇西场",
 }
 
 
@@ -57,16 +69,12 @@ def build_system_instruction() -> str:
     return (
         f"{SYSTEM_ROLE}\n"
         f"任务要求：\n{rule_lines}\n"
-        # "请在翻译时严格遵守以下站名固定译名：\n"
-        # f"{station_lines}"
+        "请在翻译时严格遵守以下站名固定译名：\n"
+        f"{station_lines}"
     )
 
 
 SYSTEM_INSTRUCTION = build_system_instruction()
-
-GLOSSARY_FILE = "glossary.csv"
-TARGET_LANG = "zh-CN"
-FILE = "CRG_DB_BR145_Expert_Gameplay.145pack.locres.csv"
 
 
 def translate_gemini(input_text: str):
@@ -212,7 +220,7 @@ def translate_tsw_csv(input_file, output_file, target_lang="zh-CN"):
 
 if __name__ == "__main__":
     # 配置
-    file = FILE
+    file = os.path.join("csv", FILE)
     out_file = file.replace(".locres.csv", "_translated.csv")
     config = {
         "input_file": file,
