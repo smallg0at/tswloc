@@ -1,0 +1,747 @@
+﻿key,source,target
+/722B38174FE4C460C29B2DAAA09A9663,"""Arosalinie: Chur - Arosa Route Add-On"" not installed",未安装“阿罗萨线：库尔 - 阿罗萨线路扩展包” (Arosalinie: Chur - Arosa Route Add-On)
+/4664956B4F269D7172DB58A87054923B,"""Berninalinie: Tirano - Ospizio Bernina Route Add-On"" not installed",未安装“贝尔尼纳线：蒂拉诺 - 奥斯皮齐奥贝尔尼纳线路扩展包” (Berninalinie: Tirano - Ospizio Bernina Route Add-On)
+/EF4204114D0015679AC4059C5DA682D0,"""S-Bahn Zentralschweiz: Luzern - Sursee Route Add-On"" not installed",未安装“瑞士中部通勤铁路：卢塞恩 - 苏尔塞线路扩展包” (S-Bahn Zentralschweiz: Luzern - Sursee Route Add-On)
+/4F77DB2348D9B8D5677A3B9BA3B9FB8F,(Default),(默认)
+/BAC7970F41EAEA07EC2045A3BC8E1579,(Empty),(空)
+/964565054367B3B0A363029DAB9A4D33,(No BitmapTextRenderer Components found for the selected RVV),(未发现所选 RVV 的 BitmapTextRenderer 组件)
+/00CC1057434E4FF275E189B29E050358,(No Widget Components found for the selected RVV),(未发现所选 RVV 的小部件组件)
+/8519D8E24366E8058CD555B19DF4F495,(TOD3:) Fog density at which Rayleigh effect reaches its full intensity,(TOD3:) 瑞利效应 (Rayleigh effect) 达到最大强度时的雾气密度
+/EE906AAC44B9EF209A985BB632BF43D5,(TOD3:) Fog density at which to start applying Rayleigh effect (0 intensity),(TOD3:) 开始应用瑞利效应 (Rayleigh effect) 的雾气密度（0 强度）
+/1BCC31ED46A061263FDEFBAC113D35F3,(TOD3:) Minimum permitted fog density,(TOD3:) 允许的最小雾气密度
+/2A97478D404B0296EE538B915DD1BBBC,(TOD4:) Fog density at which Rayleigh effect reaches its full intensity,(TOD4:) 瑞利效应 (Rayleigh effect) 达到最大强度时的雾气密度
+/EBA71062441D5CF77344EDB95887CF16,(TOD4:) Fog density at which to start applying Rayleigh effect (0 intensity),(TOD4:) 开始应用瑞利效应 (Rayleigh effect) 的雾气密度（0 强度）
+/FBFBFB674DF34F0B672B448CC6ACA5F5,(TOD4:) Minimum permitted fog density,(TOD4:) 允许的最小雾气密度
+/3CB6B0364B0D78CF2194238CCB24EE0F,(empty),(空)
+/13DC0357464B3797C23583B7D8693F78,({Aspect}),({Aspect})
+/FB4EEF904D5B655B04AF648C565F07DF,"0: Trains containing non-passenger carrying coaching stock do not get load passenger objectives.
+>0: They do. This is if we have a block parcels train in scenario designer.","0：包含非载客车底的列车不会获得装载乘客目标。
+>0：会获得。此项用于场景编辑器中存在整列包裹快运列车的情况。"
+/F2A11CB24763618485FEA0A05DD77F92,AI,AI
+/468DD7264D50DC44BCA580B8DBD5F7B2,Ability to exit the driving seat even if you're not in that camera,即使不在该摄像机视图中也能离开驾驶席的能力
+/0371B2DD48865213337E0DBDE2C4A33D,About,关于
+/2D3ABF7341B5231621751497B035EE2D,Access token,访问令牌
+/457497F845A1997964CDACB90D26CC11,Actor,Actor
+/0882E4D74BD2F11AFA4796BD534EED8C,"Additional multiplier on lower hemisphere intensity, but which only directly affects the SkyLight",对下半球强度的附加倍率，但仅直接影响天光 (SkyLight)
+/6C10D7224E3F775F2A29AB8E30CD1084,"Additional spawn rate multiplier, for debug purposes only",附加生成率倍率，仅用于调试目的
+/E19DB97144A47D9DAE04D2B079A36C05,Addon-Manager,插件管理器
+/D738C8E648A1EA2288175C95447B9316,Adjust the size multiplier for steam particles. Default is 1.0,调整蒸汽粒子的尺寸倍率。默认值为 1.0
+/54F869A543F3F373E873679EA866CF74,Adjust the spawn rate multiplier for steam particles. Default is 1.0,调整蒸汽粒子的生成率倍率。默认值为 1.0
+/82E9405745497B2B2BC86393B8019127,Adjusts AO at bottom of clouds after sunset,调整日落后云层底部的环境光遮蔽 (AO)
+/8619032448822044CFE6548863F3708B,Adjusts AO at top of clouds after sunset,调整日落后云层顶部的环境光遮蔽 (AO)
+/F2CADEB440CB0B43264EA9904A6F0B1E,Adjusts VolumetricCloudComponent TracingMaxDistance,调整体积云组件 (VolumetricCloudComponent) 的最大追踪距离 (TracingMaxDistance)
+/5EC00ACC46ACB27E22BE3B880D8816AF,Adjusts VolumetricCloudComponent TracingStartMaxDistance,调整体积云组件 (VolumetricCloudComponent) 的起始最大追踪距离 (TracingStartMaxDistance)
+/00F4AB204D93AA99A831899314F70083,Adjusts amount of high frequency noise on volumetric clouds,调整体积云上的高频噪声量
+/EEF6567E476B2E143E12A3B7929D15FC,Adjusts base noise scale of volumetric clouds,调整体积云的基础噪声缩放
+/E74305E64540EDAFA7207FBC7284D54B,"Adjusts intensity of light pollution applied to volumetric clouds, compared to the sky",调整体积云相对于天空的光污染强度
+/D507E60245E9F2AEE63451B24F612926,Adjusts intensity of most emissive materials when using new lighting/camera setup,在使用新光照/摄像机设置时调整大多数自发光材质的强度
+/7913FA774F15DE5C901C0B9D05BA8C67,Adjusts macro noise scale of volumetric clouds,调整体积云的宏观噪声缩放
+/0DD1B8A048AEA98C942CB08EBC3B922D,Adjusts over all scale of volumetric clouds,调整体积云的整体缩放
+/6A80A9094D9D026E7793BB841C073849,Adjusts sub-noise scale of volumetric clouds,调整体积云的子噪声缩放
+/C699F6F24255F5DC92FF15BE15E6EABE,Adjusts the colour saturation of fog inscatter (excluding Rayleigh effect).,调整雾气内散射（不含瑞利效应）的色彩饱和度。
+/7A73DC6F41F92C6CB9B7ECA5E5ED521C,Adjusts the density of non-volumetric high-altitude clouds,调整非体积式高空云的密度
+/A7BD47C8472CECDB30041F874555CA38,Adjusts the distance at which directional inscatter starts to be applied.,调整定向内散射开始应用的距离。
+/503B50D547B29D06A1E0A9976C54210B,Adjusts the distance at which fog starts rendering.,调整雾气开始渲染的距离。
+/BAE2F32E49C074D350DFDD9AF6B5AC22,Adjusts the intensity of fog directional inscatter (bright region around the sun).,调整雾气定向内散射（太阳周围的明亮区域）的强度。
+/BFCBD2294F15D33B102965934B3F1DAC,Adjusts the intensity of fog inscatter.,调整雾气内散射的强度。
+/040AAB4944CCC96B1024DE827CFF1AC9,Adjusts the rate at which fog falls off with height.,调整雾气随高度衰减的速率。
+/A0AF360644889F7BA0CB5CA66F05BCCF,Adjusts tonemapper's ExpandGamut property (disabled if < 0),调整色调映射器的扩展色域 (ExpandGamut) 属性（若 < 0 则禁用）
+/6243474145101AADC557A987E12EB5AB,Adjusts tonemapper's ToneCurveAmount property (disabled if < 0),调整色调映射器的色调曲线量 (ToneCurveAmount) 属性（若 < 0 则禁用）
+/6ED819D7467A3FA335DE6AA66408C47E,Adjusts volumetric cloud sample count for reflections,调整反射的体积云采样数
+/829011A84E8180D89B6A40AD3CB59325,Adjusts volumetric cloud sample count for regular view,调整常规视图的体积云采样数
+/900274A04CE9B01AA55B4C8DF26A36EA,Adjusts volumetric cloud sample count for shadows,调整阴影的体积云采样数
+/2C190D254E236CA2E33A9DB0634B2C74,Adjusts volumetric cloud shadow tracing distance,调整体积云阴影追踪距离
+/C578B97B406A541811090EAAFEEFC343,Adjusts volumetric cloud texture mip level for the bottom (main) cloud layer,调整底部（主）云层的体积云纹理多级渐远纹理 (Mip) 等级
+/53739C2A4A758F978EC2A3BDB2FD83C3,Affects rate at which small clouds lose opacity with reduced cloud density values.,影响云密度降低时小云朵失去不透明度的速率。
+/25513AB1475F3D90319F2BA0F80A86B3,Affects the Strength of HeadTracking,影响头部追踪 (HeadTracking) 的强度
+/C03A767C4CCF95AE9D6A3C8DD3C703FC,Affects the Translation Strength of HeadTracking,影响头部追踪 (HeadTracking) 的平移强度
+/64F8045F4E90746BD82CC9862FBA80A8,Affects the intensity of motion sway,影响晃动感强度
+/322C43694B7578CC9A0FA69F0AC1110E,"Albedo (0-1) to simulate when calculating lower-hemisphere lighting intensity. Also affects SkyAtmosphere/VolumetricClouds, so should regenerate offline data after changing.",在计算下半球光照强度时模拟的反照率 (Albedo) (0-1)。也会影响大气天空/体积云，因此更改后应重新生成离线数据。
+/B391E79845B57C9D89150C9AE2B1518C,Allow the dispatcher to request entry to yards from the yard manager,允许调度员向编组场管理员请求进入编组场
+/A988A2F044EF1727E1AF97B74D035D2A,Allow the yard manager to request entering the dispatched network,允许编组场管理员请求进入调度网络
+/A6B79115410AB9910F357790537D1D77,Already Applied,已应用
+/FBA9F19E4520CE8024D1019AC6656B10,Amount by which seated passenger max draw distances are affected by the view distance scale (0-1),坐姿乘客的最大渲染距离受视距缩放影响的程度 (0-1)
+/0EAEBB1D4EAAF45ADD8AE1818C28D59F,Amount of missing passengers to hit CVarMinSpawnInterval,达到 CVarMinSpawnInterval 所需的缺失乘客数量
+/CD9303D8499232041FC8F3884A712A17,Appearance,外观
+/98AE50AF44FB8C4D1C764ABFAE08B604,Applied to Pause Menu Route Map,已应用至暂停菜单线路图
+/4F17C71E42B8BF8DA0AC4BA9C24EE9AC,Apply manually,手动应用
+/B43FC8024881F801307665BDB0068E3A,Arcing sparks speed threshold in m/s,电弧火花触发的速度阈值（米/秒）
+/48790F0444EB0DF81DA174AF457AE2E3,Attenuation radius above which lights will be regarded as headlights,光照将被视为大灯的衰减半径上限
+/4B0214AC429A06A4F802B09879DDD89F,Attenuation radius to use for legacy train headlights when using physically based lighting,使用基于物理的光照时旧版列车大灯所用的衰减半径
+/75D42DF046E078F4D21CA78078848FF5,Audio,音频
+/40E26BCF4145717F8E239BA599DD66EF,AutoExposure HighPercent adjustment (disabled if < 0),自动曝光 (AutoExposure) 高百分比调整（若 < 0 则禁用）
+/1C44480945F76F437EEEC08ED9553000,AutoExposure LowPercent adjustment (disabled if < 0),自动曝光 (AutoExposure) 低百分比调整（若 < 0 则禁用）
+/ABF10F454B0879698B47AB8102E43410,Autumn Tree,秋季树木
+/BF20D21F47C478654E6B26B13795D5EF,Available in Service Mode,在班次模式中可用
+/34C147D44C75ED982E4AA782699DFB69,Base,基础
+/50610E3A4EAC2C0DC566D093C70B8E42,Beacon State,信标状态
+/6EEADD424DC934182A1273B0D71B1FE5,BitmapTextRenderer Viewer,点阵文字渲染查看器
+/EE8795AC4191C8D9F7AA1086396CB50E,BitmapTextRenderer Viewer,点阵文字渲染查看器
+/C063D6224CB12D2C712301983BF26F1D,BitmapTextRenderers,点阵文字渲染组件
+/CE85BF46490792A504D333BC4D0AB8B4,Bloom intensity to use,使用的泛光强度
+/B1B2A7CA4FC9C2D7034A5B848188AD40,BloomIntensity adjustment (disabled if < 0),泛光强度 (BloomIntensity) 调整（若 < 0 则禁用）
+/6A03E56A4754D3F35F6DA1800AB8FF5F,Boom Camera Maximum Boom Length,摇臂摄像机最大臂长
+/40645D4549822DE8762F43B25F7ACB6D,Boom Camera Maximum Clearance,摇臂摄像机最大间隙
+/97C5524B4B2929624DF855B4BF414D65,Boom camera Mouse Wheel adjusts length (when true) or zooms FOV (when false),摇臂摄像机鼠标滚轮调整长度（为真时）或缩放视野 (FOV)（为假时）
+/209241C24FA4D98FEE699A9E873D8407,Boom camera movement alternate controls (flip ctrl state for up/down),摇臂摄像机移动替代控制（翻转 Ctrl 状态以进行上升/下降）
+/646368B04F19860B6D01109BBA46C741,Boom camera movement invert mouse (inverted mouse only between free camera and boom camera modes),摇臂摄像机移动反转鼠标（仅在自由摄像机和摇臂摄像机模式之间反转）
+/063871184474175AB387C291E2B949D8,Boom camera movement speed multiplier,摇臂摄像机移动速度倍率
+/839E031445AB8DA8AC10E991F78B58CC,By how much longer should the axis to the current point be,到当前点的轴应当加长多少
+/A62326D74FA4AFDECFE88FBDCD9A96B3,Call Scripts,调用脚本
+/985F4CA24958AC9052F3259C6E088C40,Camera,摄像机
+/86C03BFC4D68174F2095E7AF94018944,Cancels queued shader compilation jobs,取消排队中的着色器编译任务
+/D0A7F9644569A2C7DF5019AA13F3F3B2,Car time delta multiplier,汽车时间增量倍率
+/4923E5A248CF8014AD8B98A91ABA0C87,Car type length multiplier,汽车类型长度倍率
+/3B72814A48E14DD0A4B2E89913B422F4,Chance for a passenger to spawn with an accessory,乘客生成时携带配件的几率
+/EB914E244E00D7E8D26DC78441EAEC17,Change VHID dragging mode,更改虚拟人机接口设备 (VHID) 拖拽模式
+/A0DA7F3A4D957FC02E611C83E1E45C3F,Check whether a car is visible on-screen before updating its static mesh,在更新静态网格体之前检查汽车在屏幕上是否可见
+/960842D94EA1861BE7C7E785709676C7,Checking version match...,正在检查版本匹配...
+/357C0A134FA46F63DA7D22B1BB81355F,Clear the overridden aspect on a signal,清除信号机上的覆盖显示态
+/E715F22546291CD8375A4EBE2A295F1D,Clears the current autosave,清除当前的自动存档
+/C5E65A55435AB6097A2A40A37698F8C8,Click again to confirm,再次点击以确认
+/3CA42B8E43F8F47499379BA3C7CB7787,"Cloud density value below which cloud size will remain roughly consistent, and clouds will reduce in opacity instead.",云密度值，低于此值时云的大小将保持基本一致，而是不透明度会降低。
+/8E111A8E4D0145DF970248AF3B3B6ED4,Cloudiness,云量
+/CA47CDA7490827CD142B44B6F9E7D778,Coal Gauge,煤表压/煤量计
+/FA6A48FA4794C83D25AC77888096130A,Completes the current objective in a scenario,完成场景中的当前目标
+/F3E887774EE2137FCC7889A794CCCA8F,Completes the current scenario,完成当前场景
+/1EC0426D4E058DF1BCF243AC5651272C,Console,控制台
+/81C110BB4E3EA0FA3DA38B928EB11FC7,Console Commands,控制台命令
+/11B674AA40B6FABD9B355FACE31652BF,Constant bias to apply for the target autoexposure exposure value,应用于目标自动曝光 (Autoexposure) 值的常数偏移
+/64613C184376998D1E13F6B9C19B2D42,Contrast adjustment (overall) (disabled if < 0),对比度调节（整体）（若小于0则禁用）
+/20814CE443E47511698757A3F773C610,Contrast adjustment for highlights (disabled if < 0),高光对比度调节（若小于0则禁用）
+/4B903FD548984CFACE9F4C95BA4B545A,Contrast adjustment for midtones (disabled if < 0),中间调对比度调节（若小于0则禁用）
+/3C2908A04A827EE960D0D1B8AA00412A,Contrast adjustment for shadows (disabled if < 0),阴影对比度调节（若小于0则禁用）
+/500382D649694522D66153B6B83B399F,Controls approximate star intensity (nits),控制近似恒星强度 (nits)
+/EAD8D6C94AE304F5C2124B8B3EB4DE16,"Controls how much direct sunlight the lower hemisphere should reflect, independant of its albedo",控制下半球应反射多少直接阳光，与其反照率 (Albedo) 无关
+/24D8A88C49A592EB3D8580A1071408B6,Controls how much light pollution is added to the sky (and also reflected in lower hemisphere),控制添加到天空（并反射到下半球）的光污染量
+/B9CA643244A7B630586E06BF2095B4BC,"Controls the ""strength"" of volumetric cloud shadows on the ground (smaller values give softer edges), and on clouds themselves on low settings",控制地面以及低设置下云层自身的体积云 (Volumetric Cloud) 阴影“强度”（值越小边缘越柔和）
+/E218C6944EB164B6410A3D91C3583C7F,Controls the amount of SkyLight lower hemisphere lighting applied. Requires skylight recapture to take effect (ts2.dbg.UpdateSceneCapture),控制天光 (SkyLight) 下半球照明的应用量。需重新捕获天光方可生效 (ts2.dbg.UpdateSceneCapture)
+/F9E092A74E2647A5B8276384989C836A,"Controls the degree to which the current scene intensity caps the maximum emissive intensity, to avoid bloom-out.",控制当前场景强度限制最大自发光强度的程度，以避免曝光过度 (Bloom-out)
+/ECAB497C4C3390DFEEB537888C02900B,Controls the draw distance for platform passengers,控制站台乘客的渲染距离
+/EE4FB7244724BE3F9647109BFDC9258D,"Controls the extent to which height variation affects character X,Y scale.",控制高度变化对角色 X、Y 轴缩放的影响程度
+/A7CA10E74C0B8435933E748D300DB22D,Controls the max. intensity of the moon disc (nits),控制月盘最大强度 (nits)
+/B68595D7415B4315B7DCA7A97FE520EA,Controls the maximum moon intensity (lux),控制最大月光强度 (lux)
+/663BD9B74EB0D4BAB189BBB32EA441FE,Controls the maximum sun intensity (lux),控制最大阳光强度 (lux)
+/3C0CA4654B51185FD538D9A1D31FA85D,"Controls the minimum speed (Weather scenario ""Cloud Speed"") which clouds move at",控制云层移动的最低速度（天气场景中的“云速”）
+/29AE66DD4C574932AABC98A7E077701A,Controls the number of passengers that spawn at platforms and on trains,控制站台及列车上生成的乘客数量
+/CB9590C34A5A6259F2A95080F31FDD8E,Controls the number of passengers that spawn at platforms and on trains (for routes with new passenger limits),控制站台及列车上生成的乘客数量（适用于使用新乘客上限的线路）
+/9673878D45B7163BB5C20E840B57AADA,Controls the resolution of the volumetric cloud shadow map (multiplied by 512),控制体积云阴影贴图的分辨率（乘以 512）
+/5299102348295857E62E598AEA14124B,"Controls the scale of volumetric render targets, relative to screen resolution (1 = 100%)",控制体积渲染目标 (Volumetric Render Targets) 相对于屏幕分辨率的缩放 (1 = 100%)
+/4A8F6C334CDDA47BAE9072B38B77E42F,"Controls the variation in platform passenger draw distance, e.g. 0.4 would mean +/-40% draw distanceScale factor in cm2 for spawn limit",控制站台乘客渲染距离的变化，例如 0.4 表示 +/-40% 渲染距离，生成上限的缩放因子（单位：cm2）
+/EB427D62400648D65ECE7B93E8385F81,Controls the world size of the volumetric cloud shadow map (km),控制体积云阴影贴图的世界大小 (km)
+/AB9C896845D85FF7BBCE439E11EC37C5,Controls whether SkyLight real-time reflections are enabled,控制是否启用天光 (SkyLight) 实时反射
+/6DEA265249630451152A49B6B7ECA79D,Controls which volumetric render target mode to use,控制使用哪种体积渲染目标模式
+/66386417443C81443B87A08E06BBA62F,Core PIS Manager,核心乘客信息系统 (PIS) 管理器
+/15746A2E41890DB6DC2972B7B3AD050A,Correct TOD to match clamped sim time?,修正当日时间 (TOD) 以匹配限制后的模拟时间？
+/2BB20CFA469BD8EDA09624AC3A08E134,Create an autosave of the current game state,创建当前游戏状态的自动存档
+/A0835E1248252D6CE3314FA041E00C53,Currently not pinned. Click to pin,当前未置顶。点击置顶
+/5EEEA6C34BF65F00A4878B8CF242B786,Currently pinned. Click to unpin,当前已置顶。点击取消置顶
+/B61ACC25453A20E7F76FA1A81B20DCCA,DTG: Available memory (MB) below which we deem to be critical,DTG：判定为内存危机的可用内存下限 (MB)
+/F08FD109446CEB348285A782224B3F19,DTG: Available memory (MB) below which we deem to be low,DTG：判定为内存不足的可用内存下限 (MB)
+/F420F3E44E4F1D770A1C55B01FDF8B7F,"DTG: Whether to show available memory on the ""stat unit"" overlay. Potentially a slight performance impact.",DTG：是否在“stat unit”叠加层上显示可用内存。可能会有轻微性能影响。
+/096E814A40096B47E9B05581109CD613,"DTG: Whether to show virtual memory stats, rather than physical memory",DTG：是否显示虚拟内存统计数据，而非物理内存
+/2D9CFD1F45D77F865A9901A5574779B4,Date and Time,日期和时间
+/8D406DA7455CD647BCCC6380A08766A1,Debug: Continuously regenerate offline data in-editor,调试：在编辑器内持续重新生成离线数据
+/6BD98C5D4B1C0F7879282F92A7EE445D,Debug: Time to stall in the driver aid data task,调试：驾驶员辅助数据任务中的停顿时间
+/FDDB4B6048AF157756E1109F37290F29,Debug: Triggers render state for all NetworkRenderComponents to be recreated,调试：触发所有网络渲染组件 (NetworkRenderComponents) 的渲染状态重新创建
+/0662BDFF4FADC2D26FFA72A61726AA99,Debuggers,调试
+/D3D99FC9491381D1637052A805A1A515,Default FOV,默认视野 (FOV)
+/697F36A1473D708BCC74098CF47638E2,Default Timetable,默认时刻表
+/1197C3394F3C8F046DFDA2BFB1C52046,Delete all dynamic ini data,删除所有动态 ini 数据
+/AE8F11964B58E6357D3CC4AC3B6CD138,Delete current formation,删除当前编组
+/4DDBCFFB4BBDA6D867B5059B6263C038,Delete last save game,删除上次存档
+/F6CB8AC749B0123125489094B85F42EC,Deleted ✓,已删除 ✓
+/0C5DA3C441390F63C2D8E1A308FC6261,Destination,目的地
+/920E19A8406ACC0677507AB37FBB294A,Destination List,目的地列表
+/42E141C3498ADF486DA796BB4B613198,"Destroys (despawns) actors matching the given actor and level name regex patterns
+arg 0: actor name regex pattern to match (note: actor names may be automatically suffixed, e.g. BP_Cube_3)
+arg 1: level name regex pattern to match (use PersistentLevel to match the persistent level; optional, defaults to .*)","销毁（反生成）匹配给定参与者 (Actor) 和关卡名称正则表达式模式的参与者
+参数 0：匹配的参与者名称正则表达式（注意：参与者名称可能会自动添加后缀，如 BP_Cube_3）
+参数 1：匹配的关卡名称正则表达式（使用 PersistentLevel 匹配持久关卡；可选，默认为 .*）"
+/CE1D4E404E59446B410E10B310D36D3A,"Determines the resolution of the noise texture to use for volumetric clouds (0 = lowest, 2 = highest)",确定用于体积云的噪声贴图分辨率（0 = 最低，2 = 最高）
+/1F502EDD46BC0A9DFBA0988E9C3EE3BD,Digital Display Popout,数字显示屏弹窗
+/665D9202438C04A6FDFA2A82146E4290,Digital Display Popout,数字显示屏弹窗
+/9BEF0D1142EE03A9BD5CD2888A1C3503,Digital Displays,数字显示屏
+/63F6D5E64A207A28FDB609BF4D9E61F2,Dirty the dispatchers dependency map,标记调度员依赖关系图为脏 (Dirty)
+/4AB18031450FABA49182359D5684A918,Disable ticking of rail vehicle actors and their components when in the vault,在库房中禁用铁路车辆参与者及其组件的每帧更新 (Ticking)
+/0204226846AFEE75EA681A984A10154D,Disables tool tips,禁用工具提示
+/2D8238FB485DACB7E3CF3CB9A090E2AC,"Discards SkeletalMesh Adjacency data (only needed for tessellation) after loading it, to reduce memory usage",加载后丢弃骨骼网格体 (SkeletalMesh) 相邻数据（仅细分所需的），以减少内存占用
+/568C34434076885326576E82060DFF2A,Dispatcher,调度员
+/60845FA24D86E71E7A7058BD2372BC19,Dispatcher Version,调度员版本
+/0419A3E546EA69D1500773A430C17274,"Display a RVV's Widget Component's TextureRenderTarget as a seperate window
+NOTE: The updating of the TextureRenderTarget stays at the discretion of the Widget Component!","在独立窗口中显示铁路车辆 (RVV) 的组件小部件贴图渲染目标
+注意：贴图渲染目标的更新由小部件组件自行决定！"
+/F87244264D674CC71DB74295002B3394,Display debug info for VirtualHIDInteractionComponentDebug,显示 VirtualHIDInteractionComponentDebug 的调试信息
+/446C0DA240BFDFA310F25ABFA58E5B81,Display/Hides the debug UI for ScenarioManagerActor,显示/隐藏场景管理器参与者 (ScenarioManagerActor) 的调试界面
+/495453F14A8D1582CD7150B581FEA017,Displays Frames per Second (FPS) counter.,显示每秒帧数 (FPS) 计数器。
+/9822BA4E4E510FFF2039F4A8778D08D7,Displays Level Streaming information.,显示关卡流送 (Level Streaming) 信息。
+/D1AA4DBF437BA17B48FF3981DD636A50,Displays Perception System and Overall AI performance information.,显示感知系统及整体 AI 乘客性能信息。
+/7F02097244CEE03308015EB2ED176EAE,Dissipation of heat for axles,轴承散热
+/BEA33EB045520A048637D287E5B6AD87,Distance at which passengers spawn at platform,站台乘客生成的距离
+/38616EA54D1A163DBC3FC78A4CB64272,Distance at which platform passengers spawn,站台乘客生成的距离
+/C2444CF94B95A375007F22BE460A2810,Distance between volumetric cloud layers (km). Larger values are more expensive.,体积云层之间的距离 (km)。值越大开销越高。
+/F8E30CF84A6D1854E7C2AFADD4E49D7B,Distance in cm in which a train cannot trigger a level crossing if it wasn't already triggered.,列车无法触发平交道口的距离（单位：cm，若此前未触发）。
+/637EF47D403B9FDDD2C95B9B24FDCD35,Draw TSR debug cylinder,绘制临时限速 (TSR) 调试圆柱体
+/9F0C3DC74AAC7F6262D92583FC4FEF23,Draw debug basis axis for rotating interaction components,为旋转交互组件绘制调试基准轴
+/72A2B1CC4ED812CF857F42877494A9BD,Draw debug for connections,绘制连接调试信息
+/B6196B8048DAB0D96E9216AFBD158A3B,Draw debug for physics,绘制物理调试信息
+/556903034288C38317ADB28FD13382F9,Draw debug info for passengers,绘制乘客调试信息
+/CCB18998454A12CB919E83807D2EA5A0,Draw paths assigned to services,绘制分配给服务的路径
+/D3F533534B53DE247251E98CC97CB320,Draw road boundary lines and print road event information on-screen,在屏幕上绘制道路边界线并打印道路事件信息
+/31C917AC400669CF2716829FD33CEC9B,Dynamic ini,动态 ini
+/EE534A7E43A608AF02EA15B5A1445234,Dynamic ini,动态 ini
+/6D7625E74E3B3A95F2B68E9B2C971DBC,EIRENE Dialer,EIRENE 拨号器
+/B260B0B646A2CFFAD30D2C97DF538EBB,EIRENE Dialer,EIRENE 拨号器
+/FE59B4D2472B5DB971E9C4BCC7A776A2,"EIRENE Network Manager:
+{0}","EIRENE 网络管理器：
+{0}"
+/E1EDD235418CD970FC152196410CB424,Empty,空
+/EBF2152E4A6BD767D5493C9D4D9625CE,Enable debug arcing sparks,启用调试电弧火花
+/63843F224B2473D586895FB06301DD26,Enable debug info about coupler proximity,启用车钩接近调试信息
+/006AA6934AF67664E73D2A8243074E91,Enable debug water spray,启用调试水雾
+/FFF227BC4BFF98153CADABBEF5C6AFCE,Enable or disable all steam particle systems.,启用或禁用所有蒸汽粒子系统。
+/42C9FF5F4B6C55D1B797599CF37E2E33,Enable or disable debuggig for the Rail Vehicle Audio Steam component.,启用或禁用铁路车辆音频蒸汽组件的调试。
+/AFE385194713921D6AC3039AB84D4DE5,Enable or disable debuggig for the Rail Vehicle View Steam component.,启用或禁用铁路车辆视图蒸汽组件的调试。
+/46F61C3343A8B318AB3A4FB83F965D2C,Enable or disable full rail vehicle physics.,启用或禁用全物理铁路车辆模拟。
+/648EF2A84F56B0A301E201BF4B29AB5C,Enable or disable lightning effects,启用或禁用闪电效果
+/359DA66545A84FC9FCA3F8895F7753EB,Enable or disable simple rail vehicle physics.,启用或禁用简易物理铁路车辆模拟。
+/BC631C8D4493CC7B2F6B57BF02C490EC,Enable or disable steam debug text.,启用或禁用蒸汽调试文本。
+/E925156F4EA72C567BCE19BA40A9F24F,Enable overlap requirement on signal routes.,对信号路径启用重叠 (Overlap) 要求。
+/D5585EEF4A797EDE4E85A8A77137EA24,Enabled,已启用
+/87D950DA469A50D73D8BB9B1E39CBA11,"Enabled/disabled random fault activation
+0 arg: Should faults randomly activate
+1 arg: Should active faults be automatically fixed","启用/禁用随机故障激活
+参数 0：故障是否应随机激活
+参数 1：活动故障是否应自动修复"
+/B585282E4CECBEFB057177874DCB230B,Enables named events for external profilers.,为外部分析器 (Profilers) 启用命名事件。
+/4B33C98946709FE5F6B0409BA8F6257D,End distance for seated passenger max draw distance,坐姿乘客最大渲染距离的结束距离
+/0BAC8CB34E0E186BF965D493412079C9,Enter a marker name here,在此输入标记名称
+/BBF5562D4F961531B378C78E13DFF6E0,Environment Settings,环境设置
+/F6FDF932416A0C885F5F099262263A6E,Environment Settings,环境设置
+/0BD5EB204723D7D0C1159E9C1BEE983C,Environmental Commands,环境指令 (Environmental Commands)
+/F940C331449E0700B09384BE5852B2BA,European Basalt,欧洲玄武岩 (European Basalt)
+/563A79FA46D5B53026B17B9D79F8D11D,"Execute the entered console command.
+Important: GET/GETALL/SET commands do NOT work!",执行输入的控制台指令。重要提示：GET/GETALL/SET 指令无效！
+/605F3ACD40B27900A0A0C7842198FC16,Expected Data Track version,预期的轨道数据 (Data Track) 版本
+/C41A3DB64A6FEB40A0D44DBA5CAB8EF1,Expected approximate usage of the game in Kb when considering budget for subsitutions and layers,考虑替换和图层预算时，游戏预期的近似占用空间 (Kb)
+/7164E3344F82737BC1F821A0704127D1,"Exports the recorded service data for the given service. If no service name provided, exports the current service",导出指定车次的记录运行数据。如果未提供车次名称，则导出当前车次
+/0CDB904D44251087B6CFF59617245F19,External Camera Max Horizontal Distance from train car,摄像机外部视图离车辆的最大水平距离
+/CDE97B014CC05DD0D2F4B2B39239DEFE,External Camera Max Linear Distance from train car.,摄像机外部视图离车辆的最大线性距离
+/C226068D484F2F8A3474D984FDA56927,External Camera Max Vertical Depth below rail level of train car,摄像机外部视图在车辆轨道平面下的最大垂直深度
+/80A05E5A48FC993345FD7D99B42BDFAE,External Camera Max Vertical Height above rail level of train car,摄像机外部视图在车辆轨道平面上的最大垂直高度
+/6240BACE480A91B3AC1C0D90E68E96F8,External Camera Obstacle avoidance debugging display,外部视角障碍物规避调试显示
+/CC242FD544D4442B5F6813888B84C298,External Camera Obstacle avoidance return speed,外部视角障碍物规避返回速度
+/801046AE46CAC1384B2E3AA2A2D3A93F,External Camera Obstacle avoidance return wait duration,外部视角障碍物规避返回等待时长
+/04CF954C4496DF77DE435EA4D1BA8BA0,Extra view distance scale to apply for track sleepers (affects sleeper/ballast impostor transition),应用于轨枕的额外视距缩放（影响轨枕/道砟冒充体过渡）
+/05E8C46442E1D5BA40C7E58BE74557A4,Extras,工具
+/41DEB38A4E0E509046DDDF9FF4415670,FOV to load in with or to return to when pressing the middle mouse button while using Zoomier Zoom,使用更强缩放时，加载或按下鼠标中键返回时的视野范围 (FOV)
+/FD82C8654123EF019E9BD8930C392799,Failed to get {a} Actor Lat Long for GetActorGeoDelta calculation,获取用于计算 Actor 地理偏移 (GetActorGeoDelta) 的 {a} Actor 经纬度失败
+/3036B7FF4ECA7769F18C7BB7BD1F7B1C,Failed to teleport {PlayerPawn} PlayerPawn to {PlayerStart},将 {PlayerPawn} 玩家典当 (PlayerPawn) 传送到 {PlayerStart} 失败
+/73EF3EA34A56B14EAA09A9B6802112E8,Fake Log,虚拟日志
+/E1A3D6D341D29C858BC01097F8A59562,Fake Log,虚拟日志
+/EB585F2D4B038A8CE84168AC46279F54,Fault Code,故障代码
+/2AC984CB4875F6FC9A8E2DBEBDECEB1E,Favorites,收藏夹
+/DB6D3E8B4A1F925766E48CAFEAAE7693,Feature not available in the current version of God Mode,当前版本的上帝模式不提供此功能
+/859F16284140ABC17347FF8DEA9313EE,Final Destination,终点站
+/A14BD0A7480D1E88459D2DBD0AE02227,Fix doppler effect to be rooted at the origin point of the boom camera instead of at the camera pos.,将多普勒效应固定在悬臂摄像机原点而非摄像机位置
+/581291D3403FC8C9575FAC87EB175A37,Fixes and clears all currently active faults,修复并清除所有当前激活的故障
+/2E9FA3F74A3DB3B67243609DD6DC5B6F,Fog,雾
+/EBCBA7F14509B941B6A5EC9463D323D3,Fog Density,雾密度
+/44EE0EE94D9628BABC31C39C8006064A,Force a full update cycle every frame (instead of time slicing),强制每帧进行完整的更新周期（而非时间片轮转）
+/0A604AEE4736DA9C5B1BF2BBE1F03063,Force specific pathfinder flags. Set to -1 for all flags. Set to 0 for default flags,强制特定的寻路标识。设置为 -1 为所有标识，设置为 0 为默认标识
+/182BDF0D4D5855BCE0DE33AB46B2C587,Force the dispatcher to be a specific class. Leave blank for default,强制调度员 (Dispatcher) 为特定类。留空为默认值
+/6E7DC3A64F2E7952DF7EE9BA97EA7E1D,Force the loading of all view assets (but not neccesarily spawn the view actors),强制加载所有视图资源（但不一定要生成视图 Actor）
+/62A17BB947BB82C96737AF858225AF56,Force the yard manager to be a specific class. Leave blank for default,强制货场管理员 (Yard Manager) 为特定类。留空为默认值
+/251263E042B1D2AFF1079E82BEEC9381,Forces the current objective to start the conditional check,强制当前目标开始条件检查
+/26BF441947F25F8D696A5E8B7EFBBD21,Forces whether the new passenger density scale/limit is used regardless of what the route specifies. ,无论线路如何规定，强制是否使用新的乘客密度缩放/限制
+/1DAE53734FB72B719BC47D90511E5818,Frontend Starting Time,前端开始时间
+/DC4B70914E874B6A17B6848707E39B9A,Gain adjustment (overall) (disabled if < 0),增益调节（整体）（若 < 0 则禁用）
+/497CEF264F545A6C9BC36B98D0231609,Gain adjustment for highlights (disabled if < 0),高光增益调节（若 < 0 则禁用）
+/DC517FC14DA94AD792D07CBA8839E310,Gain adjustment for midtones (disabled if < 0),中间调增益调节（若 < 0 则禁用）
+/ACBCC83E4CF03D8B508C37864C2013DF,Gain adjustment for shadows (disabled if < 0),阴影增益调节（若 < 0 则禁用）
+/452476BE43D75B70D3DF8A89608F428B,Generate extended error info when dispatcher tries to acquire track sections,当调度员尝试获取轨道区间时生成扩展错误信息
+/FF81B1BE48B42733BF476885E4952224,Generates and displays a ticket as in guard mode.,像乘务员模式 (Guard Mode) 一样生成并显示一张车票
+/926EF7C04823DBB7379A9E9333440E2E,Global multiplier for adhesion,粘着力 (Adhesion) 全局系数
+/FC9F60FF44B0825398FC7FACFCB0E92F,God Mode Blue,上帝模式 (God Mode) 蓝色
+/D65BB5614D4645901C1E20A3ED954D61,Ground Snow,地面积雪
+/FCA54BEF4BA8AE77D8AB449F52DA758E,HACK - try to re-validate scenario design assets at runtime.,临时方案 (HACK) - 尝试在运行时重新验证场景设计资源
+/A8E50F2646BB84343DD544B01FCAC1CC,HighResShot resolution multiplier,高分辨率截图倍率
+/6E1F64384AB64FAEC17ECD829A009BA6,"Higher numbers = slower around corners, up to a limit.",数值越高 = 过弯越慢，存在上限
+/4AC9E0524925E9B25FDFDA90401C30D6,"How close is 'close enough' to the 'stop short' distance on a coupler that the AI should accept it, hold and do the setup.",对于挂钩上 AI 应接受、保持并进行设置的“停止距离”偏差容差是多少
+/71255C7D4353A6D4A5715BB3EE8CF5D4,How close is close enough for a car to start getting colliders/per-instance audio. Smaller numbers are cheaper with busy traffic.,车辆开始获取碰撞体/单实例音频的接近距离。在交通繁忙时较小的数值开销更低
+/0707A8D84B6D86B503FED087AA42E77B,How close passengers must be to navmesh to avoid being banished.,乘客必须离导航网格 (Navmesh) 多近才能避免被清除
+/FDB44AA345A1CCED239AF59B17366295,How frequently should we log a stopped AI in seconds?,每隔多少秒记录一次停止的 AI？
+/747AA6D3443C0227AE71A8AD96477004,How long should the basis axis for rotating interaction components be drawn for,旋转交互组件的基础轴绘制时长
+/F96402914F4CE34F7A21C7AEDA480BA6,How much the head will lean into curves at speed when sitting (Default: 200),坐下时头部随速度倾斜入弯的程度（默认：200）
+/E7381A5F46F58BF49C18A4A766391645,How much the head will lean into curves at speed when standing (Default: 160),站立时头部随速度倾斜入弯的程度（默认：160）
+/947194D344211915968DC280FB1819E7,How quickly the camera adjusts to compensate for angular velocity (Default: 7.5),摄像机补偿角速度的调整速度（默认：7.5）
+/23EE69D445FA6662925CEE8A726DD807,How quickly the camera modifier effect blends in and out (Default: 0.5),摄像机修改器效果淡入淡出的速度（默认：0.5）
+/B1B4776C4B832C7621D8C0959E9730CF,I understand the risks and would like to proceed,我了解风险并希望继续
+/925217E84465412B4ADADBB6747CA294,"If != 0, all full-physics vehicles will include their cargo mass in physics calculations. Note: Resetting this to 0 does not restore vehicle masses!",若不为 0，所有全物理车辆将在物理计算中包含货物质量。注意：将其重置为 0 不会恢复车辆初始质量！
+/5ABCD2A44D1CFB61FBB68EB40399A818,"If != 0, derailments are disabled. This does not prevent the cause of the derailment, but will stop the resulting failure state",若不为 0，禁用脱轨。这不会阻止导致脱轨的原因，但会停止由此产生的失效状态
+/5670145E4E3E205A98EDC5954BAF1154,"If != 0, destroy passengers according to the ts2.passenger.kill.* config",若不为 0，根据 ts2.passenger.kill.* 配置清除乘客
+/BE73D5E74B671B1638C07C9CA63C5B84,"If != 0, repeating rewards can be achieved multiple times.",若不为 0，重复奖励可以多次获得
+/471E0C65428ED17DB18650BA8B3FAE52,"If a traffic spline ends within this distance (squared) of another traffic spline's start, they are candidates for spline linking.",如果一条交通样条线的终点在另一条样条线起点的此平方距离内，则它们可作为样条线连接候选
+/64E864244027FEAA4026078210EDE88E,"If set, clicking on a signal while in the route map will increment it's assigned route index by 1.",若设置，在路线图中点击信号机将使其分配的路径索引增加 1
+/B663A60340886F4890188D9F39271E33,"If set, generic button icons will be used in UI button prompts.",若设置，UI 按钮提示中将使用通用按钮图标
+/08F86C3241D0C53DFD4D1689F2E9B16C,"If set, shows some on-screen data about what components the audio occlusion system is seeing.",若设置，在屏幕上显示关于音频遮挡系统检测到的组件数据
+/3E00B7CD4567DD90E8A020866701408F,"If set, train spawner actors will force stream textures after vehicle creation.",若设置，列车生成器 Actor 将在车辆创建后强制流送纹理
+/8658F7E146C10D13A1522E8DB0CE76C1,"If set, we reserve the sections for formations ready for service as if they were active formations. Ensures that trains don't get the wrong routes cleared for them when they come into service. TSW2-23633",若设置，我们将为待命车次预留区间，视其为活动编组。确保列车投入运行阶段时不会清除错误的路径。TSW2-23633
+/EF9089934C72C1BE74E12DBA6D138FF5,"If set, we'll try to (conventionally) avoid showing values in the confusing short/long tons, and always go with kg/Tonnes",若设置，我们将尝试（按惯例）避免显示容易混淆的短吨/长吨，始终使用公斤/公吨
+/CC054D364F0F5AC62EBDDCA18C0D36B7,"If set, widget proximity components can tick.",若设置，控件邻近组件可以执行 Tick 更新
+/647F3B194D50AEE21AA24FABE580D786,If true child component transforms are updated concurrently,若为 True，子组件变换将并发更新
+/BBED3663403F546835DCE7BCC42DCD78,"If true manual entry of the marker/portal name for the ""Route me to..."" function is forced. If false a dropdown field containing all markers and portals will be available.",若为 True，强制手动输入“导航至...”功能的标记/传送门名称。若为 False，将提供包含所有标记和传送门的下拉列表
+/ECC8C25E40D4B2E278C5DD931E9CB657,If true reestimate frame length after async step physics and potentially do extra step(s) asynchronously,若为 True，在异步物理步骤后重新估计帧长，并可能异步执行额外步骤
+/69D9C95A466E4CA91ACCC09411B09135,If true sim physics is kicked off asynchronously and all but the interpolation stage is done in an asynchronous task,若为 True，模拟物理将异步启动，除插值阶段外的所有操作都在异步任务中完成
+/A10618374E4C23F6ED6DDEA19E578787,If true sim physics tasks are done concurrently in Parallel,若为 True，模拟物理任务将以并行 (Parallel) 方式并发执行
+/7F4CEC8D4F9E0AC4C8A943BAD31814C3,If true simulation tasks are scheduled from sim physics named thread rather than on a task thread,若为 True，模拟任务将从模拟物理命名的线程而非任务线程调度
+/A4DF7DD2497BDB18284E7681C28EC80A,If true simulation tasks are scheduled in groups rather than as parallel for,若为 True，模拟任务将以组为单位调度，而非并行循环 (Parallel For)
+/63C41E3944E32A0C0059F59F5041AB17,If true simulation tasks are sorted by priority,若为 True，模拟任务将按优先级排序
+/56CF174843B1D01A1E5484B44A50E6A0,Ignore the flag bHasValidTrackData and use whatever incomplete data exists,忽略 bHasValidTrackData 标识并使用任何现有的不完整数据
+/9343C0504F26B476D8DE29BF13AACA46,"Indicates whether the current TOD system uses a physically-based lighting setup.
+(read-only)",指示当前的时刻 (TOD) 系统是否使用基于物理的照明设置。（只读）
+/92721A504F7CBDFEA22BAF8D227FCD9E,Initial,初始 (Initial)
+/4343BAE6467C3E555B20D384062A2886,"Insert ini-formatted console variables here, which you always want to see executed as soon as God Mode is loaded, but which can be overriden afterwards by the fields above.
+You should use this field to set default values for overrides from the other fields above, so that when switching between routes no unintended settings are carried over.
+This field is seperate from the usual Engine.ini file in the Config folder.","Insert ini-formatted console variables here, which you always want to see executed as soon as God Mode is loaded, but which can be overriden afterwards by the fields above.
+You should use this field to set default values for overrides from the other fields above, so that when switching between routes no unintended settings are carried over.
+This field is seperate from the usual Engine.ini file in the Config folder."
+/8F64B7154680F6849C7B189BC717F0DB,"Insert ini-formatted console variables here, which you only want to see executed on the specified route.
+Not all routes are automatically available in the dropdown, only the current route and routes which already have Dynamic ini data saved.","Insert ini-formatted console variables here, which you only want to see executed on the specified route.
+Not all routes are automatically available in the dropdown, only the current route and routes which already have Dynamic ini data saved."
+/BB6E94F44183238EE30BCBA41E632C64,"Insert ini-formatted console variables here, which you want to see executed depending on the use of Physically Based Lighting. Physically Based Lighting was introduced with TSW3 and TODv4 (Time Of Day System version 4), which uses realistic brightness values for light sources and depends on Eye Adaptation.","Insert ini-formatted console variables here, which you want to see executed depending on the use of Physically Based Lighting. Physically Based Lighting was introduced with TSW3 and TODv4 (Time Of Day System version 4), which uses realistic brightness values for light sources and depends on Eye Adaptation."
+/7874714A417FA9A9C2D77DA22E17DBF4,Intensity (candela) to use for bright legacy train headlights when using physically based lighting,使用基于物理的照明时，用于高亮旧版列车头灯的强度（坎德拉）
+/6D7CC8E840E7E6B6D92D6A85B0F5E674,Intensity (candela) to use for dim legacy train headlights when using physically based lighting,使用基于物理的照明时，用于暗光旧版列车头灯的强度（坎德拉）
+/3D2DF2534D1AF5177961ED9682073BF6,Intensity multiplier to use for physically based non-headlight lights when using legacy lighting,使用旧版照明时，用于基于物理的非头灯光源的强度倍率
+/FE3A8111403ADD579BDDCB897BF94E62,Intensity multiplier to use for physically based train headlights when using legacy lighting,使用旧版照明时，用于基于物理的列车头灯的强度倍率
+/A182D9D54E6EDECACC5EF3A274FA9795,Invalid Ticket,无效车票
+/3C4224E14CFBD729700EF89E7F706571,Is checkpointing enabled?,是否启用检查点？
+/80E3CE20455D518D4CFA1C8EEC3DFDCD,Jump to a lat long,跳转到经纬度
+/2BCE4D464D9643A4245BD1B9B0A5625B,Jump to a rail vehicle,跳转到轨道车辆
+/89601D6745F49C8D86792FA7DFEA9486,Jump to a service,跳转到车次
+/ECD4910E47056C213C0D9B84A431A7DF,Jump to a signal by it's name (can use wildcards) or by it's GUID,通过信号机名称（可使用通配符）或其 GUID 跳转
+/D81419FC413851C79A6CAC9EF4A90B66,Jump to a tile index,跳转到图块索引
+/0611FDBD4ABE7877B58087B5BF0D33A6,Jump!,跳转！
+/CC6AED524F21F65CB378ACA9568C9C79,Jump!,跳转！
+/CE7CC9E74F9E19B576AABB9D7117AFE5,Jump!,跳转！
+/DE26C95742693B6B696F83918202112F,Jump!,跳转！
+/E7C559F241BB07C4FF0BDAA5D6732F0A,Jump!,跳转！
+/F81C927647BA83CFAEC0638AFA84326E,Keeps volumetric cloud height relative to the component/player. Also affects SkyAtmosphere,保持体积云高度相对于组件/玩家。同时影响天空大气 (SkyAtmosphere)
+/6AFD791340DD4888FF972EBD76E5671B,Kickup,扬尘 (Kickup)
+/CDD2630D4A5A062035DEF29F7387C3BA,Kickup speed threshold in m/s,扬尘速度阈值 (m/s)
+/98A894FB4531878E0459EC91B497FE36,L.E.A. 1 [A],L.E.A. 1 [A]
+/79C8EDED42B464A05F36A8941A69FC17,L.E.A. 1 [B],L.E.A. 1 [B]
+/D9CA38414EDD9F558C6F5DA9611979B5,L.E.A. 1 [G],L.E.A. 1 [G]
+/93E2B5654AF6A5F4CBB3CF8C4978E18A,L.E.A. 1 [R],L.E.A. 1 [R]
+/6C7780AB4EEDC8BE620C7EADCB052775,L.E.A. 2 [A],L.E.A. 2 [A]
+/0522EA6C4B133427ABCCBAB5708D5C65,L.E.A. 2 [B],L.E.A. 2 [B]
+/F18BAEFC4E9F746762A3EAB5E155DA6E,L.E.A. 2 [G],L.E.A. 2 [G]
+/845734284E31EB2C2CC3CDAAD6F11C2A,L.E.A. 2 [R],L.E.A. 2 [R]
+/782634F2418148C010F7418F0CCA38E2,Latitude,纬度
+/AC46AE63462D585BF06364BD1703FBAB,Latitude Longitude,经纬度
+/7A0378904747A63CB5849AB4270A8841,Launch a Digital Display,启动数字显示器
+/A2B41F954C12E1BEF4DFB081CABBEF75,Leave blank for default,留空则使用默认值
+/892DE2C24357BFF7D2304A9678253B3D,"Legacy Emissive Adjustments 1, Alpha Channel
+
+If this channel is >0 the Physically Based Lighting emissive mode is active. Under this mode this channel acts as a global emissive scalar.","旧版自发光调整 1 (Legacy Emissive Adjustments 1)，Alpha 通道
+
+如果此通道大于 0，则激活基于物理的光照自发光模式。在此模式下，此通道作为全局自发光标量。"
+/A256D042499E8A07D9E4B186402AC57D,"Legacy Emissive Adjustments 1, Blue Channel
+
+This channel is a master emissive scalar.","旧版自发光调整 1 (Legacy Emissive Adjustments 1)，蓝色通道
+
+此通道是主自发光标量。"
+/D5F3F7534839054C2346F1BCD54E216E,"Legacy Emissive Adjustments 1, Green Channel
+
+Under Physically Based Lighting this channel controls the base colour brightness of emissives.","旧版自发光调整 1 (Legacy Emissive Adjustments 1)，绿色通道
+
+在基于物理的光照下，此通道控制自发光的基色亮度。"
+/3AE5A9AB4A8B588DFF33DD9DC7D8FEF3,"Legacy Emissive Adjustments 1, Red Channel
+
+Under Physically Based Lighting this channel controls the brightness of headlights.","旧版自发光调整 1 (Legacy Emissive Adjustments 1)，红色通道
+
+在基于物理的光照下，此通道控制前照灯的亮度。"
+/A44DF06C41BA149131A9C7A331DCF4F6,"Legacy Emissive Adjustments 2, Alpha Channel
+
+This channel is used in many ways by different vehicles.","旧版自发光调整 2 (Legacy Emissive Adjustments 2)，Alpha 通道
+
+此通道被不同载具以多种方式使用。"
+/3577AB5848584D99AFF92DB9D058F33C,"Legacy Emissive Adjustments 2, Blue Channel
+
+This channel is used in many ways by different vehicles.","旧版自发光调整 2 (Legacy Emissive Adjustments 2)，蓝色通道
+
+此通道被不同载具以多种方式使用。"
+/194A4233408ECC0682F418948FEAE6E1,"Legacy Emissive Adjustments 2, Green Channel
+
+This channel is used in many ways by different vehicles.","旧版自发光调整 2 (Legacy Emissive Adjustments 2)，绿色通道
+
+此通道被不同载具以多种方式使用。"
+/519714AE4112008E626576861E9ED88A,"Legacy Emissive Adjustments 2, Red Channel
+
+This channel is used in many ways by different vehicles.","旧版自发光调整 2 (Legacy Emissive Adjustments 2)，红色通道
+
+此通道被不同载具以多种方式使用。"
+/B11363A84BDF799E94E3C6AF7E63E768,Level Crossings,平交道口
+/10196EF44093A98B78D4298BA3B2D8AE,Lighting,光照
+/A1BD9AB2477902015AC8908603518CC4,Livery Exporter,涂装导出
+/A393FB7742C6C8DA7075B298F1968485,Livery Exporter,涂装导出
+/CC19F27C4F4805BFC797A5B20BF08092,Load,加载
+/CBCA8B5C43CDF43D2FA532A968E4DC04,Load Timetable,加载时刻表
+/2FF13CFC42B91921A030408F024C78B3,"Load a route timetable. This UI may not show all timetables, in that case use the console with the following parameters:
+LoadTimetableParameters: [Timetable package] <PlayerStart location> <Time>","加载线路时刻表。此界面可能无法显示所有时刻表，在这种情况下请使用包含以下参数的控制台：
+LoadTimetableParameters: [时刻表包] <玩家起点位置> <时间>"
+/CC9321EA4D27173CD770BE865C6B1B2A,Load last save game,加载最近的存档
+/B2F4F3324D349628E1F154ACA533F532,Loads the current default autosave,加载当前默认的自动存档
+/A35CF31F4537393981AD979E99F19E5E,Log status for a service(s) AI,记录服务 AI 的状态日志
+/69D3DF11492DE427C2E7428684CFD0F9,Longitude,经度
+/8CC608464977EE8F44333D887E85FED9,Looping,循环
+/94ED8B214C73DD0AFDD86DAF2C08F92E,Mapbox,Mapbox
+/6FE4CA4E4D542B07F29D0EA86C709780,Mark the given service's instruction as complete and move onto the next one,将给定服务的指令标记为已完成并移至下一条
+/E32A87E749171AA85364C0A2303000F2,Materials,材质
+/8AF9CE2443374C8C4958279808ECD3DA,Max Deflection Changes Before Reset,重置前最大偏转更改次数
+/C2D70D524C9A4E233AB08EA66D1A5144,Max heat energy for axles,车轴最大热能
+/9C2DADDF429BDFC62D2132B36C21BA78,"Max number of timesteps, or 0 for no limit (Default: 0)",最大时间步数，0 为无限制（默认：0）
+/BE7D7C9649832F0C701286934D3743DA,"Maximum (deterministic) random distance offset which will be applied to each seat, to provide stability and a dithering-style effect",应用于每个座位的最大（确定性）随机距离偏移，用于提供稳定性及抖动风格效果
+/1BEFAAA248AEF07915AF9FA9D2125338,Maximum acceleration in turns per second per second of turntables,转盘每秒每秒转动的最大加速度
+/469649984FF347C6BD85608C55C754C2,Maximum acceleration speed (default: 2048),最大加速速度（默认：2048）
+/432C0C88481F9540BE81DCA94BBE5E55,Maximum allowed number of reskins per timetable,每份时刻表允许的最大重绘 (Reskin) 数量
+/1379E2E24027A4A681DC349732AA7188,Maximum angular speed in turns per second for turntables,转盘每秒转动的最大角速度
+/BB06933842594489AE2DD69162C9A1D1,Maximum brightness/exposure level the camera can adjust to,相机可调整的最大亮度/曝光水平
+/D5DDF56943B9BAE5F793718CB52029C1,Maximum crouch speed (default: 60),最大蹲下速度（默认：60）
+/46E4E7A24F94DE6745E2668B867E1CB6,Maximum distance (cm) from the camera at which passengers should have navigation enabled if they are visible.,若乘客可见，应启用导航功能的距离相机的最大距离（厘米）。
+/1984CB6347D5FB4751A330AC6FF70F9D,Maximum distance at which to allow seated characters to spawn,允许坐下的角色生成的最大距离
+/8DFE525B450A273C80B25FADB6ECAA4A,Maximum distance from the driver pawn or drivable rail vehicle in cm.,距离玩家角色或可驾驶轨道车辆的最大距离（厘米）。
+/B05A4B3143B766EE981C14B1E29A3E2E,"Maximum final view distance scale, to avoid aliasing at high global view distance scales",最大最终视距缩放，以避免在高全局视距缩放时出现锯齿
+/AAA7E8FA474EFCDF91A73D85513A62A0,Maximum fly speed (default: 600),最大飞行速度（默认：600）
+/1CE08CFB49F599610F9BB49A40A77741,Maximum interval between passenger spawns,乘客生成的最大间隔
+/99B6D6064C7E4CE0B8C68F9124E88B8A,Maximum number of character meshes to combine per second,每秒组合的角色网格体最大数量
+/0DD868FB45E8398CDF87DCA8B929E9A0,Maximum number of character meshes to hold in memory at once (per character collection),内存中同时保留的角色网格体最大数量（每个角色集合）
+/5A0520DB4611044B965ACEAB25F84987,Maximum number of platform characters in the world (will get scaled by the passenger density scale),世界中站台角色的最大数量（将根据乘客密度缩放进行调整）
+/433525BF44FE81655AE8408D6C4B2149,Maximum number of times a character can be pulled from the pool before it is discarded. Set to -1 for infinite reuse,一个角色从池中提取并被弃用前的最大次数。设置为 -1 表示无限重复使用
+/EA0841424A9A2AA14072F5A71442899F,Maximum number of times to fulfill reuest from the pool per frame effects performance,每帧从池中满足请求的最大次数，会影响性能
+/076AB83B4934F5E348808FBCAB2F103B,Maximum rate at which fog density should be adjusted for fog occlusion volumes (fog occlusion strength/second),雾效遮挡体积调整雾气密度的最大速率（雾效遮挡强度/秒）
+/9B8CB8B4407DA5DAC34627A490CD1663,Maximum run crouch speed (default: 120),最大蹲下奔跑速度（默认：120）
+/7CFA1B6D4B64FFB3897FB4A9A48F23BA,Maximum run speed (default: 300),最大奔跑速度（默认：300）
+/10F2BEA04824650A3094098B5673F0C0,Maximum speed in m/s for angular compensation to take effect (Default: 13.4112),角度补偿生效的最大速度，单位 m/s（默认：13.4112）
+/578B28CD4976489441BA8FA422DB755A,"Maximum speed, after which we send passengers to the shadow realm. In square space for a quick comparison.",超过此速度后我们将乘客送往阴影位面 (Shadow Realm)。使用平方空间进行快速比较。
+/7C7694994A1775FF2A72B0AE84891474,Maximum total number of seated characters which can be spawned/exist at once,可同时生成/存在的坐姿角色最大总数
+/FC44054942AE90BB481B6685D0432D18,Maximum walk speed (default: 130),最大步行速度（默认：130）
+/87AD97DF4002A89BF430299189E2495B,Minimalist,极简
+/9120190D4B92451A2CBC8995BB3CF61C,Minimum brightness/exposure level the camera can adjust to,相机可调整的最小亮度/曝光水平
+/DF2BB6884B9D423F17CBE0AED31C2C22,Minimum budget in Kb for layers and substitutions,图层和替换件的最小预算 (Kb)
+/0227B56F4492FBCEE8D54CBB8CB8BEA3,Minimum height at which passengers can randomly be set to (to increase variation).,乘客随机设置的最小高度（用以增加多样性）。
+/EA66031B4045E864245076869E401C9B,Minimum interval between passenger spawns,乘客生成的最小间隔
+/C3D642864BF6A8C1E0E751B2FD7C851D,Minimum speed in m/s for angular compensation to take effect (Default: 2.2352),角度补偿生效的最小速度，单位 m/s（默认：2.2352）
+/52A13BC74BEA636CB7BBABA37115B512,Minimum speed of the base component for motion sway to take effect (Default: 20),运动摇摆生效的基准组件最小速度（默认：20）
+/71EDD2D645B94E544FB7B59FAC66D853,Minimum speed used to approach stop points that lie close to signals,用于接近靠近信号机的停车点时的最小速度
+/86E445CC4A0418D2A783F3AAE499AB87,Modder's Log,模组日志
+/EECB029249001485B751019A4B780817,Modder's Log,模组日志
+/BAC95B624B03EA0D2D142794416AB5FC,Mods detected,检测到模组
+/234F6CE64876A57A3A32ADBFF41B8A98,More Options,更多选项
+/2C6B73194C8681C9663A0B849E3F838C,Movement Speeds,移动速度
+/4EAF6012456D6D0CE2C049B56D75BECA,NULL ROUTE,无效线路
+/C30AAD7D4FEA0F10C95C8185C3BA4BF4,Network,网络
+/1CC991C24D9BCAE9C3378E8D9E419DC2,Network Equipment Emulator,路网设备模拟
+/380454E34A07790A9B1F21B94DA87762,Network Equipment Emulator,路网设备模拟
+/52C672E447F33B96136AAEBA2613CB00,No Data Track found!,未找到数据轨道！
+/F4A0D26E4FF77304044DFEACBD421F83,No valid EIRENE Network Manager found!,未找到有效的 EIRENE 网络管理器！
+/05C5D6EF48B7FA4509845295851540F2,Not implemented,未实现
+/FEEC3F6C4DAD266CF90733B2B50F3E3F,Number of frames over which the spawning/despawning part of the update cycle is spread over,更新周期中生成/取消生成部分所跨越的帧数
+/E3420A5F4DC147255CE8459B8FCE8898,Number of volumetric cloud layers - either 1 or 2,体积云层数 - 1 层或 2 层
+/3B77003944849F7AE432E78E41D25E9D,Numbering Manager,编号管理
+/EC17375E4BF0C22757B09C9E6E0A602F,Numbering Manager,编号管理
+/CDEC81314D5D174AC4A74FBFCB8FB72D,Objectives,目标
+/5F02EA2A41837B8EB6A6C18202A0B876,Origin,起点
+/B5C45FB64505D8EA7281ACBB799A3422,Origin Station,始发站
+/B992DD91436646B5296358859D7BEF5B,"Overall frame time as well as the game thread, rendering thread, and GPU times. ",总帧时间以及游戏线程、渲染线程和 GPU 时间。
+/FED88DF24058A52846AADDAF71F3DCFA,Override StationManager's expected number of passenger spawns via spawn volume,通过生成体积覆盖车站管理器 (StationManager) 的预期乘客生成数量
+/FA584BF14758F390C556B7B9D6BFCC62,Override for forcing passenger spawning at station,覆盖以强制在车站生成乘客
+/002E572C466C9D429DACD7A674305F91,Override the maximum number of car types which can spawn,覆盖可生成的车型最大数量
+/CE69EAFE464D3FF3B97226A76951925A,Override the maximum number of cars allowed across all roads,覆盖所有道路上允许的最大车辆数量
+/4B8759F04E30D6EBFB4576AA98A4AD67,"Override train velocity to set a custom value. 0 disables the override. Doesn't actually change speed of train, just the value passed to kickup particle systems",覆盖列车速度以设置自定义值。0 表示禁用覆盖。实际上不会改变列车速度，仅改变传递给扬尘粒子系统的值
+/C93F9C364E54B9D5CD5581B48924457F,Overrides the number of material instances per car type,覆盖每种车型的材质实例数量
+/692233024F16F1B692D12CBBABD237A2,Padding for hot spawning threshold,热生成阈值的边距
+/62E20AA14C796EAFB81DFE83C50ECAFA,Photo Mode (TSW 4+),照片模式（仅 TSW 4 及以上）
+/F48E92A541F60C78C0CAF8A30195941C,Piled Snow,积雪
+/A606C5564E7D6143245F299348EDB5A0,Platform Detector debugging display,站台探测器调试显示
+/C3C71C0D4CF40973A8690E9C763BA7DE,Platform Step-Up Height Fudge Factor,站台梯级高度修正系数
+/170CEB6A47B85D0D1E2B33A36DDA2F53,Player Start,玩家起点
+/1A455B1341866ECAD891CA9E3FD58AF6,Precipitation,降水
+/4FC2680B4DCE137686F7218FC98F69A5,Press RETURN to commit,按回车键 (RETURN) 提交
+/768AB01A4DA7C55C1E43F588159C44D6,Press again to confrim,再次按下以确认
+/A09EE57E4020E6F7EDC25F8D13BAB090,Press on any Rail Vehicle Definition listed below to spawn it on the closest ribbon to you (5m search radius).,点击下方列出的任何铁路车辆定义 (Rail Vehicle Definition)，即可在距离你最近的线路 (5米搜索半径) 上生成它。
+/B49F7A0B49866AF7B0C12CA4EE336C9C,Press on any formation listed below to spawn it on the closest ribbon to you (5m search radius).,点击下方列出的任何编组 (Formation)，即可在距离你最近的线路 (5米搜索半径) 上生成它。
+/60A76068470A9FA63BCC29BF3F086721,Press to delete all data,点击以删除所有数据
+/72CB5F304837A35989D2E098EDFF5BE9,Press to delete all data,点击以删除所有数据
+/F772F65742C10D97E33294812A9DC8DD,Press to delete all data,点击以删除所有数据
+/0434EB9149CCA34ACDBE2CA4C9A4BB63,Prevent in-game videos from being played.,防止播放游戏内视频。
+/B309842D4CD7D3F75093DBA514975151,Prevent render thread commands being queued from game thread.,防止渲染线程命令从游戏线程排队。
+/AA46F98447186FB625CE0D81CA760EA3,Preview,预览
+/88312C95453CC347FDA69A8B7C7D0A63,Print all DLCs currently mounted by Addon-Mananger to the Modder's Log,将插件管理器 (Addon-Manager) 当前挂载的所有 DLC 打印到模组制作者日志 (Modder's Log)
+/546D6584448AF3E1D8445E982C7B912A,Print all DLCs detected by Addon-Mananger to the Modder's Log,将插件管理器 (Addon-Manager) 检测到的所有 DLC 打印到模组制作者日志 (Modder's Log)
+/E98AC5E44F6F1B1E5231F8848BBCF8CC,Print cached DLCs,打印缓存的 DLC
+/5B32F94B4642D4F0132E2FA49118D89E,Print failed pak-files,打印失败的 pak 文件
+/B5A3936A47046C765193E2ABB443CEA2,Print mounted DLCs,打印已挂载的 DLC
+/B22CDD4146501148F9ECC79F8B6B5A31,Prints the driver stat name and value to the screen,在屏幕上打印司机统计名称和数值
+/1C83D3F847BF64759915B2804B053077,"Prints the route name, stat name and value to the screen",在屏幕上打印线路名称、统计名称和数值
+/2DBD650D42F092923816D09DA44FB72F,Priority,优先级
+/68CF6C264CCEB6DFB6E90197E5B3188B,Pushes some game state data to the clipboard for testing and debugging purposes.,将一些游戏状态数据推送到剪贴板，用于测试和调试目的。
+/E08B19E8461E4A8F2AA408838D3D7DB4,Pushes some game state data to the console for testing and debugging purposes.,将一些游戏状态数据推送到控制台，用于测试和调试目的。
+/34CF21E3465C60CAD9C5F9B0D63F6E3E,RVV,RVV
+/A16569314E4EB39653991287DA68894D,RVV,RVV
+/601A5EA0437FC63B841E5FB66DFEE422,Radius around the player that we show debug info for ribbons when in `showdebug timetable`,在 `showdebug timetable` 模式下，显示样条线调试信息的玩家周围半径
+/70DEBEEE4B106FFCA635B99CB88E3B2F,Rail Vehicle,铁路车辆
+/7A31DF104AB5CD615383E89C04B45E36,Random l-r offset of cars on splines.,样条线上车厢的随机左右偏移。
+/2BC5B01647996E1D1D48F9ADBD1CDD6C,Range to look for approach release section breaks close to the specified approach release distance on the signal. In Centimeters,在信号机上寻找接近释放 (Approach Release) 区间断开点的范围，该范围接近指定的接近释放距离。单位：厘米
+/EE3966D042E2EC50859199988C66B7BD,Reapply auto lighting adjustments to all RVVs,对所有 RVV 重新应用自动光照调整
+/1AC7652E4C25B79B2474109E9FCD4EC7,Recreates all view actors in the world,重建世界中的所有视图 Actor
+/644F60D64A26108124A9549D5D2083D0,Refresh,刷新
+/95D745A646EF79FB90EB92983C2A5E7C,Reinitializes the current TimeOfDaySystem,重新初始化当前的时间系统 (TimeOfDaySystem)
+/9785E2384AD2A26C52ED24AAD1041BA6,Relinquish current service to an AI driver,将当前任务移交给 AI 司机
+/E754FEAA402A5F9944C5BFB40337C25A,"Removes the current train from the track, placing it in the vault. Probably a really bad thing to do to a player controlled train.",将当前列车从轨道上移除并放入存储库。对玩家控制的列车执行此操作不会有什么好结果。
+/BA46D426437E5636622E8E9D49E4917F,Request to enter the dispatched network,请求进入调度网络
+/D7A511734CC50216B628C2ACA2A59640,Request to pass signal at danger,请求越过危险信号
+/1785CE7341202C7C8CF4CDBDD9D02B66,Resets all collectables to their uncollected state on the current route,将当前线路上的所有收集品重置为未收集状态
+/40A6B64D4A064827675CEB971A4F802C,Resets the progress based steam achievements in the core game (Distance travelled etc.),重置核心游戏中的基于进度的 Steam 成就 (如行驶距离等)
+/E2DDFED24238C8FE2A0B02BA80741ED3,"Resets weather variables to default behavior
+When the above sliders are moved by the user, the new values will be held constant, independent of other weather variables. This button returns the control over all values to the game.",将天气变量重置为默认行为。当用户移动上述滑块时，新值将保持恒定，不受其他天气变量影响。此按钮将所有数值的控制权交回给游戏。
+/02C784274466DCD090B8668A963300CE,Restart current weather scenario,重新启动当前天气情景
+/4E518F9140A14A4709B45BBAA43EB29A,Reward notifications marked as LowImpact will show the full-size display instead.,标记为低影响 (LowImpact) 的奖励通知将改为显示全尺寸画面。
+/D648CC104B697998144F6F90A4806DF6,Route,线路
+/12C36EFA4D2698ED0F2D7B89515FEB40,Route Map,线路图
+/99D186844997C51CEA4664A5BFA85724,Route me to...,导航至...
+/41C9B5CD4B55FD4C7FE605A5B7B23D66,Runtime Timetabling,运行时时刻表
+/5AF9607842EB3242AD42E7AD6705975A,Runtime Timetabling,运行时时刻表
+/CD0168794C4CA93C7529818E6DE08421,Runtime Timetabling,运行时时刻表
+/C3767E2040B3A1FB113529AC48368111,"Same as STAT Unit but with colours, because the graph does not render",与 STAT Unit 相同但带有颜色，因为图表不渲染
+/5C9B6F384C0B4E1699C2519D2E3BFCF0,Save game,保存游戏
+/D2E1A68D473C72383E54DDB9B991149E,Save the rail driver device settings to the config file,将 RailDriver 设备设置保存到配置文件
+/1603350846E5B6792C2E4983406D644B,Saves cubemap to a png file,将立方体贴图 (Cubemap) 保存为 png 文件
+/A3C224DD4E09410C6F7AA281E73C04E1,Saves the active player profile,保存活动玩家配置文件
+/6A85AE274B39862BC0018AA26C43BA1A,Scale,缩放
+/B602247E4BE4C6A9AF32D1A4804A3090,Scale,缩放
+/A5156BAE4391F4374F8E728CC5253204,Scales intensity of legacy lamp emissive materials in physically-based lighting environment.,缩放基于物理的光照环境中传统灯具发光材料的强度。
+/24FE973C45B255E74F513895E19D7C46,Scales intensity of legacy non-lamp emissive materials in physically-based lighting environment.,缩放基于物理的光照环境中传统非灯具发光材料的强度。
+/B1D3E2E94F86FBF44FC560B9DC1E2EE6,Scales the amount of directional light reaching the ground/scenery.,缩放到达地面/布景的定向光总量。
+/93202411438EB782C47FDD823B717632,Scales the depth of the junction gaps,缩放道岔间隙的深度
+/6B379F81458DCB4E07E82D91AA20FE09,Scales the fraction of the junction gaps at the max depth,缩放最大深度处道岔间隙的比例
+/ECB3677849425E8A440760B1598BA222,Scales the length of the junction gaps,缩放道岔间隙的长度
+/2D11A20D4C78F12AB59877876CA93B44,Scales the volumetric cloud noise texture,缩放体积云噪声纹理
+/CCEBD23640BF356B98816EA928860484,Scales up the height of the volumetric cloud layer,缩放体积云层的高度
+/4D24113F45C8B579578EFC9352B44868,Scene intensity (EV100) at which the camera modifier should begin to take effect,摄像机修正器开始生效时的场景强度 (EV100)
+/90DC602B4DEFC1EF5BFFE1A5249019FA,Scene intensity (EV100) at which the camera modifier should reach full effect,摄像机修正器达到全效时的场景强度 (EV100)
+/56F067D14D6F257B5A32CA87F222B8D0,Search distance for adjacent stations (m),相邻车站的搜索距离 (米)
+/BEC248374647F2B16D118FA1C0BBED60,Search for Numbers,搜索编号
+/0398815E4AE1589195AA75BC9D19F8E5,Search for a Formation,搜索编组
+/3847FB8E4393F315EA0FD787CDA7F74D,Search for a Rail Vehicle Definition,搜索铁路车辆定义
+/0CED8DC34A12A7309281E0B07259DDF5,Select Action also activates Transitions,选择操作同时激活过渡 (Transitions)
+/72EF5EAC4A1439B01C40E78263A52C66,Select a RVM on which to toggle driver permission,选择一个 RVM 以切换司机权限
+/5246BFEA4FA7C59AA9D802A45E170EF2,Select a Rail Vehicle,选择一辆铁路车辆
+/CB7B5E7D4DEC95A1F80F74BF93D1C8C1,Send Beacon State '0',发送信标状态 '0'
+/094EF1E34068A0582D8C4CBE390184A3,Sensitivity when moving the driver camera,移动驾驶员摄像机时的灵敏度
+/FC23FA5648B709BDAA49B7B06F4C6143,Sensitivity when panning the fly camera,平移飞行摄像机时的灵敏度
+/0982BEBA471B32016A90DE8DE7E40CE5,Service,任务/班次 (Service)
+/ED610CDF4EF5E328E1DEE6AEB3D193CC,Service,任务/班次 (Service)
+/83ED19D14D3980375F7676B9475CCC29,Service Name,任务名称
+/46194C864E6F0D34205F21A977F00E11,Service Number,任务编号
+/469F3BDE485C7C2A3EE07FA7B675B020,Set Local Date Time,设置本地日期时间
+/A52A22294B1CA9135A80938DBFD39AB5,Set World Date Time,设置世界日期时间
+/C0C15E9A4323820C91FAA6BAF38C0B98,Set a route for the player train to a destination,为玩家列车设置前往目的地的路径
+/8FA05EBC479E8F6A8F5B84A5312543DA,Set a route on a signal,在信号机上设置路径
+/06A4F66247AA5B011B527D9E0AF5B83B,Set a signal track section as occupied,将信号机轨道区间设置为占用
+/587CB589401FDB3D61FDE6BA8C42E312,Set a signal track section as unoccupied,将信号机轨道区间设置为非占用
+/1070BF14444ED89AEAC5E39C2A210354,Set all routes repeatedly on a signal to test performance,在信号机上重复设置所有路径以测试性能
+/523CA07148FBB28709637D822A0D5603,Set all signal track sections as unoccupied,将所有信号机轨道区间设置为非占用
+/17123BBA4F1903402029459A1BD28052,Set environment lights on/off,开启/关闭环境光
+/4DF7607A46DAA6E01EAAFAAD979FDF58,Set if nearby vehicles can produce dynamic audio.,设置附近车辆是否可以产生动态音频。
+/5FE194234A510509016A79943569CD33,Set if vehicles should have collisions with the player/cameras.,设置车辆是否应与玩家/摄像机发生碰撞。
+/28C1AE87440391CC2036AEBD35E96F5E,Set if vehicles should use two spline samples for positioning. Smooths out splines!,设置车辆是否应使用两个样条线样本进行定位。使样条线过渡平滑！
+/1851272644054268DE623E8DFF819F28,Set path request status,设置路径请求状态
+/0C4378CA4B423E973873DF91471EA364,Set random behaviour seed,设置随机行为种子
+/05D6846F4E57518330C44489A0FFA312,Set random behaviour signal distance,设置随机行为信号距离
+/8A87EDC44E2DA1259F70E2859B6F13CD,"Set t.HitchFrameTimeThreshold to define the time in seconds that is considered a hitch. Will also dump all hitches to the log/visual studio debug, for example [0327.87] LogEngine:Warning: HITCH @ 00m:01s:643ms,1643,72,2.","设置 t.HitchFrameTimeThreshold 以定义被视为卡顿 (Hitch) 的时间（秒）。同时会将所有卡顿转储到日志/Visual Studio 调试，例如 [0327.87] LogEngine:Warning: HITCH @ 00m:01s:643ms,1643,72,2。"
+/1760AFA248100AE0635F64A092105969,Set the current train speed. This sets the speed on each vehicle in the current formation. Warning: This is an approximation!,设置当前列车速度。这将设置当前编组中每辆车辆的速度。警告：这是近似值！
+/5C61FFB044044D6494B01292A3BB03BB,Set the debug AI's drivable actor to the current player's drivable actor,将调试 AI 的可驾驶 Actor 设置为当前玩家的可驾驶 Actor
+/ADE433624C82BEC7069FF7B80A7A8258,Set the debug AI's target velocity,设置调试 AI 的目标速度
+/9814F077410C1155CCC03BBDF19EA5D7,Set the heat effect's debug mode,设置热浪效果的调试模式
+/F21C76FC49F06056C88A52A92749A848,"Set the maximum timestep for SimPhysics
+None = 0
+15fps = 0.06667s
+30fps = 0.03333s
+60fps = 0.01667s",设置模拟物理 (SimPhysics) 的最大时间步。无 = 0，15fps = 0.06667s，30fps = 0.03333s，60fps = 0.01667s
+/E0664B3148F3CE4DEE9039848640B772,Set the overridden aspect on a signal,设置信号机上的覆盖显示内容
+/2E37550746B67823544AFBA56114AFEC,Set the simple physics power or brake globally,全局设置简单物理的牵引力或制动力
+/3972134F4A7E3F2FDF4747B10370F370,"Set the timestep for SimPhysics
+15fps = 0.06667s
+30fps = 0.03333s
+60fps = 0.01667s",设置模拟物理 (SimPhysics) 的时间步。15fps = 0.06667s，30fps = 0.03333s，60fps = 0.01667s
+/11F0CB7E47ED5E36F1628BA8BB70D4F8,Sets a bool type driver statistic,设置布尔型司机统计数据
+/155C546F4541319CAD45338EF87EAF07,Sets a bool type route statistic,设置布尔型线路统计数据
+/87EA697C4B6B17A68BBF51ABD08B9BB3,Sets a float type driver statistic,设置浮点型司机统计数据
+/4DF978FA422B0F0CCEBC96B85379BCA8,Sets a float type route statistic,设置浮点型线路统计数据
+/896C894A45D79FD660C6B09E7DD5EAD7,Sets a level crossing (first arg) to close (1) or to default state (0),设置平交道口（第一个参数）为关闭 (1) 或默认状态 (0)
+/8BD6B0434F9A3F459145748242F40ADF,Sets an int type driver statistic,设置整数型司机统计数据
+/3910BA6A4A098250F9E41FA446599C41,Sets an int type route statistic,设置整数型线路统计数据
+/0152D32241C981ED691C27AABD878715,Sets length of the audio occlusion trace. Needs to be set to the height of the largest interior volumes in use. Has some performance impact.,设置音频遮挡追踪的长度。需要设置为所使用的最大内部空间的高度。对性能有一定影响。
+/DCDFE2824AF0292AE30895AD83333256,Sets the driver level to the specified number (can only go up!),将司机等级设置为指定数字（只能增加！）
+/7B109FBE4997DD82212137A87CF99985,Sets the specified rail vehicle level to the specified number (can only go up!),将指定的轨道车辆等级设置为指定数值（只能增加！）
+/2EDB5971463DA9542005A59174F14484,Sets the specified route level to the specified number (can only go up!),将指定的线路等级设置为指定数值（只能增加！）
+/9A1EA0EE48B02AF2AB30678BA53F48BC,"Sets uh, road block state.",设置道路路障状态。
+/5656568A4AB5FBE3D2F319BFF5A1F42C,Should checkpoints be written to disk or held in memory,检查点（Checkpoints）应写入磁盘还是保留在内存中
+/8A89301A44A07234DA5D08AC7BE3F59F,Should path re-requests on instruction complete clear the overriden path direction supplied by the timetable descriptor,当指令完成后重新请求路径时，是否应清除时刻表描述符（Timetable Descriptor）提供的覆盖路径方向
+/133B59D54E4A7E06CFB25F91A407AE61,Should path request be done asynchronously to avoid stalls,路径请求是否应异步进行以避免卡顿
+/2C00F2B74CBCE847D34805AE25624D1D,Should we log the state of stopped AI services?,我们是否应该记录停止运行的AI车次（AI Services）状态？
+/2598E105432518E8386DFCBEE8205717,Should we manipulate cursor position for centring / end of interaction? (def: 1),我们是否应该操纵光标位置以进行居中或结束交互？（默认值：1）
+/F069E8E041020B6BD44D458EB3304AD5,Should we override the target velocity?,我们是否应该覆盖目标速度？
+/ED5957004E4BBBB87086BBA6E5540D80,Should we skip testing for assets when loading a save game? Useful for debug in editor,加载存档时是否应跳过资产测试？适用于编辑器调试
+/2375F7C64FE992217BF153881A879C33,Should we use the new air mass flow equations,我们是否应该使用新的空气质量流方程
+/DA6D83FA41A72B4407156D8192040ADD,Show a breakdown of the target volume/pitch of the engine audio control system.,显示发动机音频控制系统的目标音量/音高分解视图。
+/479A3E8840ECF1ED4E6C43AD600430AA,Show all Ribbons on Route Map,在线路图上显示所有线路
+/5DE133B94908054EDDAEC6AF12B6F86C,Show clickable diamonds for ancillary properties on the route map.,在线路图上显示辅助属性的可点击菱形标记。
+/6174F81D417E8B5697555496E06AF231,Show mesh build construction lines on last mesh rebuilt,在最后一次网格体重建时显示网格构建辅助线
+/64E594024464954E9799E7963E7AB165,Show sleeper construction lines on last mesh built,在最后一次网格重建时显示枕木构建辅助线
+/766155BF4C2BD9B753F96D8EE0186049,"Show the real datetime on screen, to sync with log files",在屏幕上显示实时日期时间，以便与日志文件同步
+/366FAF7A412DBF1E099CA1BE61DB1058,Shows the coupler Distance,显示车钩距离
+/65B1DADF492812CE7AD88ABE2772224E,Shows the debug text for train velocity and the centre position for each emitter.,显示列车速度的调试文本以及每个发射器的中心位置。
+/5679A975482B448D78C5FE88CAA84ABE,Shows the raw return texture from all BitmapTextRenderer components in a RVV or a station DestinationDisplayBoard.,显示来自RVV或车站目的地显示屏中所有位图文本渲染器组件的原始返回纹理。
+/0EFA67FD4563AD6331124A92EE93A794,Signal,信号机
+/1AC1EACD454720C4340B6C9737D57706,Signal,信号机
+/6E1EF7924121CB4E0728A8BA92D6D042,Signal Model,信号机模型
+/63D9375D4BAFD547C4B1C1AED822124F,Signaling,信号系统
+/DCDDB54F4B74B35A6C3D62A79C4BDB3A,Signals,信号机
+/0B42799B4FD6D4EDC6651CA9E9B9C348,Simulated with version,模拟版本
+/97AD92BF4FAB442F5CF9CB949D1F8F7D,Simulation Time Range,模拟时间范围
+/FE83D65A4FA4DAC88F2E2FACC4CFBB46,Sitting pivot Z offset for adjusting cam rotation amount (Default: -200),坐姿枢轴Z轴偏移，用于调整摄像机旋转量（默认值：-200）
+/52F15432472189634CFCBEA04AE2DC50,Sitting spring K constant for X (Default: 17),坐姿弹簧X轴K常数（默认值：17）
+/7E3A99CA4D9CFF6036C703867FE6A02B,Sitting spring K constant for Y (Default: 15),坐姿弹簧Y轴K常数（默认值：15）
+/38D6E07E4562C98E6C98D990220350AC,Sitting spring K constant for Z (Default: 50),坐姿弹簧Z轴K常数（默认值：50）
+/3DE7AF6D4C67E6CA9CF72DBC96346B8E,Sitting spring L constant for X (Default: 4),坐姿弹簧X轴L常数（默认值：4）
+/F8BA0DB245EA1A1C1705888AE55F076C,Sitting spring L constant for Y (Default: 2),坐姿弹簧Y轴L常数（默认值：2）
+/E7FE6E2147BCD6D1C8FA26B37BA98F9D,Sitting spring L constant for Z (Default: 8),坐姿弹簧Z轴L常数（默认值：8）
+/C8ECA6CC466928898145FBB75298034D,Skip the first time experience. Game will boot up to the route selection screen directly if set,跳过首次启动体验。如果设置，游戏将直接启动到线路选择界面
+/D425B6034AE7FC17F66456808E7EC2E4,Skylight Intensity,天光强度
+/00308F4C44B333864A40F6A92D5E3E9E,Spawn Formation,生成编组
+/D98F4A4C4884223961001699650C1ECD,Spawn HDX Jeep,生成《节日特快》吉普车
+/E633CDD64EA7B22E240FEE92F35CE1A2,Spawn RVD,生成 RVD
+/DCA5E7C8481ABA6D0D607BB1C67E1A46,Speed at which autoexposure should transition from dark to light scenes,自动曝光从暗场景过渡到亮场景的速度
+/1449949E42ACC44C09A9CCBAAF0AFA6F,Speed at which autoexposure should transition from light to dark scenes,自动曝光从亮场景过渡到暗场景的速度
+/A678F19A405943184B3BFCA4CC187C6D,Standing pivot Z offset for adjusting cam rotation amount (Default: -300),站姿枢轴Z轴偏移，用于调整摄像机旋转量（默认值：-300）
+/CADEFEB94DAB31E7656BD0A0B4DFE026,Standing spring K constant for X (Default: 60),站姿弹簧X轴K常数（默认值：60）
+/0BC57C014CEE604B6D5DB08DB0555D82,Standing spring K constant for Y (Default: 60),站姿弹簧Y轴K常数（默认值：60）
+/734D79144E6FD67F25A3D095C49DAE2B,Standing spring K constant for Z (Default: 60),站姿弹簧Z轴K常数（默认值：60）
+/BC858D504C5AFCCA5900E8A21ECCC382,Standing spring L constant for X (Default: 5),站姿弹簧X轴L常数（默认值：5）
+/A17365424107BF044F1624AE71CC74B4,Standing spring L constant for Z (Default: 5),站姿弹簧Z轴L常数（默认值：5）
+/71949C4E4FCD88AE863EE88AD55B4FDD,Start distance for seated passenger max draw distance,坐姿乘客最大渲染距离的起始距离
+/121C1EAA4A87DCA92A9F4593262DBA0F,Starts next weather scenario,启动下一个天气情景
+/B95184B24FB56C6EF226938081D35FFC,Static Images API request URL,静态图像API请求URL
+/1EA14DE347D47F843B9187A576D23356,StationStops,车站停靠
+/4D6D92794CC1ABC7E67AC391479456FF,Steam,蒸汽机车
+/76367CD040474A13FE9D6FAD3E806E58,Switch to automatic mode,切换到自动模式
+/4AFE588E4274E7F78B81AEA8B0ADA7A1,Switches between old/new TOD systems,在新旧 TOD 系统之间切换
+/C0BA48934CEF8D8B8E62229DD1FEAF75,TOD,TOD
+/FC71F0184A8B59FB4DB9D78724B94B7C,TSW God Mode {0} by Foobian,《模拟火车世界》上帝模式 {0} 由 Foobian 开发
+/AAADCECD441123220DA6AAB84F7EDDD8,TVM/LZB,TVM/LZB
+/3242F0184710080B23FB5EBFE29EFAF0,Teleport to Player Start,传送到玩家起点
+/A5A747854B8CF53AA264B5B2BC0340C1,Teleport to Player Start,传送到玩家起点
+/0F085ACD40F3772D48AE3D8EA45EACCA,Temperature,温度
+/22C47AFC4355F328424ABF84AB8AD4A8,Temperature in °C. Press RETURN to commit,温度（摄氏度）。按回车键确定
+/4103B8AE49E760016195A9ACA31BDFAD,Test friction for axles,测试轴箱摩擦力
+/11144E14435AD8C11128AAA7816194D6,Test signal tables match up as expected,测试信号表是否按预期匹配
+/11846FD2461360C4E21886ABE03C732F,"The AI will aim to stop this many centimetres back from an instruction destination, to avoid a tiny overshoot resulting in the AI just driving forward until it runs out of path.",AI将目标停留在指令目的地后方这么多厘米处，以避免因微小的超调导致AI在路径耗尽前持续向前驱动。
+/8C4AF485405ED3B25429BEAE5C839307,The Render Target of this Widget has not been initalized yet. Make sure to load the screen in some way and then re-select the RVV in the dropdown to make this popout available.,该控件的渲染目标（Render Target）尚未初始化。请确保以某种方式加载屏幕，然后在下拉菜单中重新选择RVV以使此弹出窗口可用。
+/D29E5B974A53E30399F2D694F333CA52,The actions resulting from these commands could persist between game sessions by altering your current player profile. Are you sure you want to proceed?,这些命令产生的操作可能会通过更改您当前的玩家档案而在游戏会话之间持久化。确定要继续吗？
+/DF280294447F57CF2077769910688A4A,The idx to use for the InteradtionDirection,用于交互方向（InteractionDirection）的索引（idx）
+/A3BA9F5B41CDADEC8C38C5A2900AE8FE,The world's outside temperature in Kelvin,世界室外温度（开尔文）
+/4B2B5EC745E852247823E0AB314039BE,Theme,主题
+/37F85D1A4BDBFD7E6D59F1BFE83E9F08,Tile,区块
+/A7E7AC3A4C068ECFD9D2568F65C33976,Time,时间
+/100A3C834DBBFF6A63B3BAB5F6C0866E,Time before the lock/unlock doors task cancels itself.,开关门任务自行取消前的时间。
+/96EEDC994CAA23570E45668173D75D70,"Time before we test objective completion for a service, after spawning that service. This is to allow AI trains to get moving if they spawn partially over an objective",生成车次后、测试车次任务完成情况前的时间。这是为了让在目标位置部分生成的AI列车能够开始移动
+/E67A10C14E5EF89FE1D8EE93D4A99756,Time delay between updating which passengers are considered nearby for navigation.,更新哪些乘客被视为导航附近的延迟时间。
+/CD2C29C84C1AB3E33230349ACDD330B2,Time limit for path finding per frame,每帧路径寻找的时间限制
+/A7A79DEA43744169599CDE84BAB75F30,Time taken for one pulse of the passenger boarding check to occur.,乘客上车检测的单次脉冲间隔时间。
+/A6CC974147D292105EF7818DD13AA070,Time to fade the camera modifier in/out over (seconds),摄像机修正器淡入/淡出的持续时间（秒）
+/6F15685349BBCE8E145A71A4124B9F9D,Timeout after which we send passengers to the shadow realm.,超时此时间后我们将乘客送往虚空。
+/684ECD3F45E999F8525407AF7DAB7B9B,Timestep length in seconds (Default: 0.01667),时间步长（秒）（默认值：0.01667）
+/904F62F84F115197313320832FDC91A1,Timetable,时刻表
+/AD6EAF1F4AF57B755C31E79D00523128,Timetable,时刻表
+/EDEF49B74E6079B44EFDF79DCE179317,Timetable Version,时刻表版本
+/2BEBA7754D5136D26650F38F2EADCC8A,Toggle fake light baking message,切换模拟光照烘焙消息
+/CA3D20E342C8C16EFE7266A2177C093F,Toggle labels on route map.,切换线路图上的标签。
+/F4B546664D20741CBBC4F1B0D84086D0,Toggles HeadTracking on or off,开启或关闭头部追踪
+/853503294A0D2EE2CAE3FD99354CB690,Toggles camera motion sway on or off,开启或关闭摄像机晃动感
+/1D83683D441FEAD74812378E5A004AC3,Toggless the driver persmission on the drivable actor,切换可驾驶参与者（Drivable Actor）的驾驶员权限
+/D722929F41D49A21578802AACD5D042D,Train Sim Community,Train Sim Community 社区
+/B3E2BEBD4ACB1DAD910C1AA608789606,Train Sim World - Alpha,模拟火车世界 - 红色
+/32DB7A774F360D0FD351399AE836B108,Train Sim World - Amber,模拟火车世界 - 琥珀色
+/9B52562342044D8D6D5454890BC4D649,Train Sim World - Green,模拟火车世界 - 绿色
+/85763B0D41309C2A03032C8AB1F5E27B,Train Sim World - Rush Hour Orange,模拟火车世界 - 尖峰时刻橙
+/CAD6AC3845A767F5A03B26AF0D2DDF1F,Train Sim World - Teal,模拟火车世界 - 青色
+/6915FE3548CAB752849B259DBECC4C6E,Train Sim World - Yellow,模拟火车世界 - 黄色
+/2AD865ED4C3DA3ECAEB19E850BA12682,Train Sim World Route Map,线路图
+/84B539AF45F67430C28936BCA1E7AF34,Train Sim World: Spark Hour,模拟火车世界：闪耀时刻
+/4AF596364FD4D61C994D839D75739F46,Trigger Fault Reset,触发故障复位
+/44D8C05849779E496032E3B8548F763C,Trigger LZB Transmit Failure,触发 LZB 传输故障
+/B0019A4D4EA06F182064589F1CC5332E,"Trigger a specified fault on a vehicle in the current formation
+0 arg: Index of fault to trigger in loco fault table
+1 arg: Index of component to fault from components to fault list within the specified fault
+2 arg: Index of Vehicle in formation to target, defaults to current player driven vehicle
+3 arg: Bool force the fault to apply regardless of requirement criteria. ",触发当前编组中车辆的指定故障。参数0：机车故障表中要触发的故障索引；参数1：指定故障内要触发的组件索引；参数2：目标编组中的车辆索引，默认为当前玩家驾驶的车辆；参数3：布尔值，是否忽略需求准则强制应用故障。
+/D1D9F85C4F59F5AD0A1BB6B651F8A0D3,Triggers a new scene capture,触发新的场景捕获
+/1E5C89554BC9E94D0D5999B61ED384C4,Try to create a service for your active train that routes you to the given marker. This does not work if there already is a service assigned to the train you are trying to route.,尝试为您的活动列车创建一个引导您前往给定标记的车次。如果尝试引导的列车已分配车次，则此操作无效。
+/5D3E65BC4E280FFF73ABE8A70AA6D219,Try to set and lock junctions for a given service,尝试为特定车次设置并锁定道岔
+/0B4DBA424CFD37D9F896D99785DCD623,Universal Electrification,全线电气化
+/6F01B8A640967E5ADE78219C34B1D794,"Universal Electrification / Off the Rails
+The availability of supply to Current Collector components.","全线电气化 / 自由轨道
+受电组件的供电可用性。"
+/BA5718BD4AD798FE3D5287A7767B1EEB,Use 2 capsule instead of 4 spheres for wheels and flange,使用2个胶囊体代替4个球体作为车轮和轮缘
+/8144C0A348953DFAEF511E99F2D2277F,Use a fixed body for axles and bogie,车轴和转向架使用固定刚体
+/501B1C4747D7A22FF0C9FD991CD3AC1D,Use formation ranges cached for the current frame,使用当前帧缓存的编组范围
+/CF4BF84240AF8734835D9B88541732C5,Use text box for marker input,使用文本框输入标记
+/FEDBDB8A4FF7BC929497DEB7634FEDC6,Valid Ticket,有效车票
+/3646297A42C0A9481E77D9B58CC06EE3,Version mismatch! Actual version is {ver},版本不匹配！实际版本为 {ver}
+/F97A1BE44C88E7B607798493592EEAFD,Wait time in seconds between the reminder messages that appear if you have abandoned a service that is allocated to you.,如果您放弃了已分配的任务，各条提醒消息之间等待的时间（秒）。
+/16E60EA8428C8CBEEF314C83AC6E9294,Weather,天气
+/6DECA7D04B8417DCEB586AB1B53B7AD7,Weight multiplier to use for dark screen pixels (below DarkPixelLuminance),用于深色屏幕像素（低于 DarkPixelLuminance）的权重倍率
+/A5C35A374CE79D4BDA4645AA659DEEA4,Wetness,湿度
+/83E95E714A48CCE06118D2B4887AC27D,"When enabled (1), always use material for 2 cloud layers, even when using only 1 cloud layer",启用 (1) 时，即使仅使用1层云，也始终为2层云使用材质
+/C9DA6E2843AD18D9A614D08C066304B9,"When set to 1, all journey mode chapters will be unlocked regardless of completion status.",设置为1时，所有旅程模式章节都将解锁，无论完成状态如何。
+/482A6C70429AAC419896DD8952E14F93,Whether RVV lighting auto adjustments are enabled,是否启用 RVV 照明自动调节
+/14E577C74243C085A666BDA9963E8505,"Whether TODv3 should use DesiredDensity value in weather scenarios (0 = use ""Density"", intended for TODv2)","TODv3 是否应在天气场景中使用 DesiredDensity 值（0 = 使用 ""Density""，专为 TODv2 设计）"
+/A12603234DFA651712357C8385B1921E,Whether clouds shadows are enabled (currently volumetric sky only),是否启用云阴影（目前仅限体积云天空）
+/0A57C17B40F1180E1C91B7BB8233AEE6,Whether low-light camera modifier should be enabled (where appropriate),是否应启用低光照摄像机修正器（在适当情况下）
+/5DBB7B0A45A1B4B2D4EC3B8C5F8DB833,Whether text regions are always considered dirty/will re-render on texture updates.,文本区域是否始终被视为脏标记/将在纹理更新时重新渲染。
+/CFB8892944BB7AD6911C56A3DB08F003,Whether text rendering requests will be performed.,是否执行文本渲染请求。
+/8F6AE2254E3745F836263393E4DBC1E8,Whether the driver perspective camera modifier should be enabled (where appropriate),是否应启用司机视角摄像机修正器（在适当情况下）
+/CC5E298C4749A61FC89FA7ADA2C50D6F,"Whether the game thread should wait for the driver aid data task to complete, to ensure it's updated every frame",游戏线程是否应等待驾驶辅助数据任务完成，以确保其每一帧都得到更新
+/79FEC640462FC54175750CB9800D0C4A,Whether to always stream non-essential tile types (increases memory usage during load).,是否始终流送非必需的瓦片类型（增加加载时的内存占用）。
+/55FD427E4CD49275CF8720B4257FABBC,Whether to avoid keeping network proxy geometry data on CPU after uploading to GPU (in non-editor builds),在上传到 GPU 后，是否避免在 CPU 上保留网络代理几何体数据（在非编辑器版本中）
+/1A8E97854792AE6F2BE8C3A30DBE6D5F,Whether to disable all SeatedCharacterManager updates,是否禁用所有坐姿角色管理器 (SeatedCharacterManager) 更新
+/DDF71EF64865750498D2CFB149695F18,Whether to disable updating of TimeOfDaySystem properties,是否禁用时刻表系统 (TimeOfDaySystem) 属性更新
+/9312DF474603B5ADB665B480ED963E77,Whether to enable ground contribution in the volumetric cloud material,是否在体积云材质中启用地面贡献
+/D290F0E3496467AC011403A7DBDC3A15,Whether to enable ray marched shadows in the volumetric cloud material,是否在体积云材质中启用光线步进阴影 (Ray Marched Shadows)
+/56932E2E46266A00E50096AEE57F3CB4,Whether to force routes to use the C2020 character collection from core.,是否强制线路使用核心内容中的 C2020 角色合集。
+/C3CA76A4447BFFDE55A85FA899653B8E,Whether to ignore the game mode restrictions on route hopping actors,是否忽略线路跳转参与者 (Route Hopping Actors) 的游戏模式限制
+/A8128EEE4CC01596B13C76BD14111EEF,"Whether to initialize shaders near the player when loading into a route, by rendering a cubemap.",在加载进入线路时，是否通过渲染立方体贴图来初始化玩家附近的着色器。
+/0301C426476B543DC30DA096FA7FC9E2,Whether to regularly update bounds for RVV components in the texture streaming system,是否在纹理流送系统中定期更新 RVV 组件的边界
+/4DA41BD54806556AB4BB4EABF206A0A7,"Whether to update textures in one large region, rather than multiple smaller regions (uses preserved buffer).",是否在一个大区域内更新纹理，而不是多个小区域（使用保留缓冲区）。
+/AD97A2EE4DAC7E8A9627EAA68FBC6227,Whether to use seat component locations rather than exact seat locations,是否使用座位组件位置而不是精确的座位位置
+/C01168F74BD1501D59A689B92286C9EA,"Whether to use the SeatedCharacterManager, rather than legacy seated character spawning behaviour. Reload the route for this to take full effect.",是否使用坐姿角色管理器 (SeatedCharacterManager)，而不是传统的坐姿角色生成行为。重新加载线路以使其完全生效。
+/AAE2D02849248A921273E884CD8ECCC5,Whether to use the autoexposure bias curve,是否使用自动曝光偏差曲线
+/832E6D6E48A23957CCD5F9BC80D42FFB,Whether to use the cloud shadow approx occlusion curve - used to adjust forward shaded materials to account for lack of cloud shadowing,是否使用云阴影近似遮蔽曲线 - 用于调整前向渲染材质以补偿云阴影的缺失
+/F6F171024C031D222FE8B5A68F3BE4AA,Whether we try to keep the camera upright considering gravity and angular velocity,考虑到重力和角速度，我们是否尝试保持摄像机垂直
+/61BE3AEC48B08B288F52E7927ECAAEC4,Widgets,控件
+/98DF9EEC487C65CEA8A7CCBE738B5A7F,Wind Angle,风向角
+/F0389F404A4CDD44692889BBBF511E93,Wind Strength,风力强度
+/4F5324114D4E6BEA012E679CAFEE7185,Window Opacity,窗口不透明度
+/FEB409A54AE423B7DFA302A8CBC03086,Winter Tree,冬季树木
+/1AC818224E13CB5186C006A61C6D95BF,With multi-day support,支持多日
+/082B1B6C4FF2EE38DE0250926C372535,With multi-occupancy recorder,配有载客记录器
+/CD69D12347C029EF38442394076B0A3B,Yard Manager Version,编组场管理器 (Yard Manager) 版本
+/61BF128D418C7CF9B9839DB79A8515D0,Your Mapbox access token,您的 Mapbox 访问令牌
+/275297074B5B7B34D589049A3E4C160F,"[<0|1>] (spawn new AI, def: 0). Enables spawning of AI drivers",[<0|1>] (生成新 AI，默认：0)。启用 AI 司机的生成
+/2B81C755411FC9A9526C348CCF607503,debug stats for sleep,睡眠调试统计
+/231CC1284667DC0AB789E28FAF6D7F07,extHUD,扩展抬头显示
+/D08C3E1843B55E85D93B3FB5E1094284,✔,✔
+/B6550AE340A65EE872A97E9DC24BA3A8,✖,✖
+UMG/TextBlockDefaultValue,Text Block,文本块

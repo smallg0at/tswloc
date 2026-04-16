@@ -1,0 +1,751 @@
+﻿key,source,target
+/5A677BD74B7A934CB8E6A281F2E680E6,1L76 Swansea to London Paddington,1L76 斯旺西—伦敦帕丁顿
+/9BFE9C644A69172AB3E9F2A9614A568B,1U80 London Paddington to Bristol Temple Meads,1U80 伦敦帕丁顿—布里斯托尔圣殿草地
+/02E6956949F484CE96578396EC31A5DD,2T54 London Paddington to Heathrow Airport,2T54 伦敦帕丁顿—希思罗机场
+/BB4B9C0C4659098A5501199818B3D7F5,2Y50 Heathrow Airport to London Paddington,2Y50 希思罗机场—伦敦帕丁顿
+/5FE65A74438CB57B345D7BB54B3D358D,3 HST sets have arrived at Plymouth to mark the end of GWR’s HST services.,3 列 HST 编组已抵达普利茅斯，标志着大西部铁路的 HST 服务正式结束。
+/560D73E24B21EC1840D041B685393644,AUTOMATIC BRAKE,自动制动器
+/98B6B80B4E62CB432B642884F17A7FFC,AUTOMATIC BRAKE,自动制动器
+/688A90BB4028B6288CE04C994F7DCE9F,"All three trains will sound their horns as a way to say goodbye. On your mark, sound the horn a few times and the rest will follow your lead.",三列火车都将鸣笛以示告别。准备——鸣笛几声，其余的火车会跟在后面鸣笛。
+/1BED23524A713060C79070A659307594,And that's the last HST departed. They had a long run and they will be missed by many. Head to the station exit to finish the scenario.,这就是最后一班HST列车了。它们服役已久，许多人都会怀念它们。请前往车站出口以结束本次场景。
+/5BA10D444757616826DE2FAF4C830DD2,Andrew,安德鲁
+/EF2E6CC146344851D8524E9B8BD9242A,Ann,安
+/07C233844D29A67F2AD9FD89C17C7D8C,Apply power to get moving,施加动力以起步
+/67BC3C9F4DD2EDB632A53D841B317F1C,Apply power to get moving,施加动力以起步
+/8C40E3824073F576D0661D9B35BB9E46,Apply power to get moving,施加动力以起步
+/945C60014732C5399070D6AD30E3DE7A,Apply power to get moving,施加动力以起步
+/B8A968FC47BC093FC9E870AC9E301CEE,Apply power to get moving,施加动力以起步
+/C12E5B914FBB9D8828B9DBB355B3B40D,Apply power to get moving,施加动力以起步
+/E164332548DA1C5E39738A92CAF7C0E1,Apply power to get moving,施加动力以起步
+/ED0049A14CF9DAF9BF4106B4709B4F80,Apply power to get moving,施加动力以起步
+/F99E51824AC7119D0B6E20ABF4594978,Apply power to get moving,施加动力以起步
+/FA2335FB462370C8F6BA92A60D3F1376,Apply power to get moving,施加动力以起步
+/FAF0628A4F4D1F7C0B89C3808067ECE4,Apply power to get moving,施加动力以起步
+/97F7D4264C4C7A8AC09416A30514C76F,Apply some more power and reach a speed of 160 KM/H (100 MPH),进一步施加动力并达到 160 公里/小时（100 英里/小时）的速度
+/B4ED6B144D791F244E4DCA92E07035FA,Apply some power to get moving,施加动力以起步
+/8C001CA540601BB2B28BF88985C20426,Apply the Train Brake,施加列车制动
+/950FB72549D65F9C208B1C83D58E94B2,Attach the Buckeye coupler,安装巴克艾式车钩
+/A86DD38C405863CFE3DD438515C18E0D,Attach the rear tail lamp,挂上尾灯
+/7BD04B2A47AA3F9524156BBE23612F25,BACK IN BLUE,重现蓝色涂装
+/9CEFAD264D91FB500ED8FE900CC1DF06,BR Mk1 HST Barrier Coach Blue,英国铁路 Mk1 HST 蓝色隔离车厢
+/3D9F077A4404659925149EA0B6CEF26A,BR Mk1 HST Barrier Coach Green,英国铁路 Mk1 HST 绿色隔离车厢
+/9875376B4901FC64A3AF40BE1A224135,Back,返回
+/543CC1A748979FA4C79005A16EF0E7C1,Back in Blue,重现蓝色涂装
+/187A36B8477A153D5E8A6D859E251C5A,"Before coupling the trains together, you will need to open the exterior coupler hatch and attach the buckeye coupler on both power cars.",在将列车连挂在一起之前，你需要打开外部车钩盖并在两辆动车上安装巴克艾式车钩。
+/5ED897384EB257AED833FBABF36EC5D3,"Before you take control of the power car, walk to the rear of the power car and attach the tail lamp. This is an important safety device which wil be needed when driving around the depot.",在你接管动车之前，走向动车尾部并挂上尾灯。这是在机务段内行驶时所需的重要安全装置。
+/431A03B147B574193222878961206B4D,Board the train,登上列车
+/5E58E39848B9D602206D879109CD437F,Board the train,登上列车
+/7C241ABC404B9373265890BAFAE2363E,Board the train,登上列车
+/B27F3B884A15321150F70DA04327F1F6,Board the train,登上列车
+/C78024BC4D44E506581982AE186F0289,Board the train,登上列车
+/E9296A164F111D92FCDBE1B2A851464C,Board the train,登上列车
+/B505E87C45159AFB3663608F308B2D68,Brown,布朗
+/0D7C823D4C47347A4285B09FFA8AC396,CHANGE ENDS,换端
+/9214690544124550A78FC0AADAA30940,CHANGE ENDS,换端
+/BBF5E7B94BEF3E8A892D3D9896B8077A,CHANGE ENDS,换端
+/616CE1964D77006FB269409E3CEEB0CD,CLASS 43 INTRODUCTION,43 型机车介绍
+/1D70DC3548878D2432E1C289E5B7A51B,CLIMB ABOARD,登上列车
+/4102DC3846431797F66781A4D8DAB009,CLIMB ABOARD,登上列车
+/428784834748498EC2847B8DCBBDAEEA,CLIMB ABOARD,登上列车
+/571017C64374C617DB3F9E8425D44E5A,CLIMB ABOARD,登上列车
+/69FAB04549193FA9D29E06B759567A41,CLIMB ABOARD,登上列车
+/7257B60340C33153EC6ACE9C41F7A909,CLIMB ABOARD,登上列车
+/736A1A26456761B1944967805A092336,CLIMB ABOARD,登上列车
+/75F9977949282B9A07EAA88EFF518CDE,CLIMB ABOARD,登上列车
+/7ACAB32743A51D46CAC4D2B9248296E4,CLIMB ABOARD,登上列车
+/823CBD0641C393B1E90F018B9C779143,CLIMB ABOARD,登上列车
+/980EDA2244A4EE9ED09C9B9128E6FFBA,CLIMB ABOARD,登上列车
+/9A2A0E6745E656E4882126AAA6A82884,CLIMB ABOARD,登上列车
+/A27122734AB346510C1A16B46BB6B4AD,CLIMB ABOARD,登上列车
+/A4028C6A479F79165AE2919009D4C7B3,CLIMB ABOARD,登上列车
+/CBF486194CDE7F223AE39585DB5A78F3,CLIMB ABOARD,登上列车
+/CFA1354F4197CB1EAC6407A6F6B331A6,CLIMB ABOARD,登上列车
+/DC5509B344916A088B17998681A8DD53,CLIMB ABOARD,登上列车
+/E98E6910488C6A45C8C8919DEA7E9F2C,CLIMB ABOARD,登上列车
+/C267C62643CFCCEF5089008B63CD0CB6,COASTING,惰性运行
+/F13DB8844DA22C1C5F5BD4B2E6795F08,CONTACT SIGNALLER,联系信号员
+/CB1A866C4FA3295DB535078AFB0422CE,COUPLE,连挂
+/640C361948B11CED1DEB0DB4EB549412,Carol,卡罗尔
+/DCCB7B2F415BFF5339B1E1887C5F4A7D,Claire,克莱尔
+/49AFEF754B7110972F9F8187B13492C9,Class 43 Introduction,43 型机车介绍
+/3933CB084C907106C56C7B8654043943,Click the Right Mouse button to switch between Look and Control modes,点击鼠标右键在观察和控制模式之间切换
+/1D5F91BF4FD0AE5F05C194B7604A9CCE,Continue your journey as a driver on the Great Western Main Line with the GWR HST.,驾驶大西部铁路 HST 继续你在大西部干线上的司机职业生涯。
+/0C1F28B940FDDB5E4441109BD9400163,Continue your journey as a driver on the Riviera Line with the GWR HST.,驾驶大西部铁路 HST 继续你在里维埃拉线上的司机职业生涯。
+/9F05C54E42374150E4A9679E99E16814,DOWN BY DAWLISH,道利什之行
+/5DF76FED477CDB0FC86193BB37261BDA,David,大卫
+/2209CC614A284683CA39AE83D6BF72E9,Davies,戴维斯
+/4DFFCC5649BDCD19FC126C96C0404B99,Dawlish Platform 2,道利什 2 号站台
+/CB801D384623B29B31BF13932FAC0880,"Decide which service you want to drive, then talk to the Content Creator",决定你想驾驶的车次，然后与内容创作者交谈
+/082B0132454D2EB73A55DF80CD76E297,Detach the tail lamp from the failed power car,从故障动车上摘下尾灯
+/E6BFFBA0413E4C0F172E39985589F19A,Detach the tail lamp from the power car,从动车上摘下尾灯
+/F0F89A0C48A0FC26254B4AB74B3A8857,Down by Dawlish,道利什之行
+/64A1630F4E40EE38B9B98DBB3D92ADFA,Drive a few more services across the Rivera Line.,在里维埃拉线上驾驶更多车次。
+/A9A66ECB4015A2C7151CC381A83C1825,Drive a few more services along the Great Western Main Line in challenging conditions.,在具有挑战性的条件下在大西部干线上驾驶更多车次。
+/DE52A0954849EA21FFFE7389450C3397,Drive a few services across the Rivera Line.,在里维埃拉线上驾驶部分车次。
+/3C1B7E684B8E108CD24671B38AADFA63,Drive one of the final GWR HST services out of Paddington.,驾驶大西部铁路最后一批 HST 服务之一驶离帕丁顿。
+/AC4EA4884D68A3CE9FD380AF0F950019,Drive the newly painted Class 43 power car 43002 to London Paddington and prepare it for its first passenger service.,驾驶涂装焕然一新的 43 型机车 43002 号前往伦敦帕丁顿，并为它的首次客运服务做好准备。
+/1B5D40D443BBAEAD8A4886841A88839B,Drive this GWR service from London Paddington to Reading.,驾驶这趟大西部铁路车次从伦敦帕丁顿前往雷丁。
+/82A7566A4FA7688BCAE9D0AAAEF9208E,Drive this GWR service from Reading to London Paddington.,驾驶这趟大西部铁路车次从雷丁前往伦敦帕丁顿。
+/A6DB22CE482A0B262F055F85FF8FE0CD,Drive this HC service from Hayes & Harlington to London Paddington.,驾驶这趟希思罗连接车次从海斯和哈灵顿前往伦敦帕丁顿。
+/6DBB24614BAA5BE2DBD95388EBB96E92,Drive this HC service from London Paddington to Hayes & Harlington.,驾驶这趟希思罗连接车次从伦敦帕丁顿前往海斯和哈灵顿。
+/96345D714AF18B536CF96FAFE15D0B84,"Due to this, you should expect longer boarding times and a tigher schedule than usual on your journey from Paignton up to Exeter St Davids. Best hurry and get a move on.",因此，在从佩恩顿前往埃克塞特圣戴维斯的旅程中，您应做好登车时间较长、行程安排比平时更紧凑的准备。最好赶紧行动起来。
+/710E4C374195E61A3784F2A9318E5A00,EPILOGUE,尾声
+/848FE1DC403B6BCC8F96ADB24FFB13DB,EXIT,退出
+/503DA7D744D0F38AD8AED9A91BA498F9,EXTERNAL CAMERA,外部摄像机
+/F7DD85A448902FCC215029A5469246FD,EXTERNAL CAMERA,外部摄像机
+/E6D3C71941E6E960F07F91A257F25F95,Engine and Carriage Line,机车与客车线
+/6B843C38429B446C43E3F5AE2AC155D9,Enter the locomotive,进入机车
+/C972334047930BCB4146CF9EE06FA615,Enter the locomotive,进入机车
+/D52383414986BE443B2B70AE13B90A42,Enter the locomotive,进入机车
+/FE0E596640FE5B02A8AA80936D5D9AA6,Epilogue,尾声
+/84158A7544FEE6D2141944BCE6B54C8F,Evans,埃文斯
+/B0E72BD34C4907D5EAA6A1BD28AF3D82,"Evening, Driver. We've had a report of a failed HST blocking the line east of Totnes. Use the power car set inside the depot and rescue the failed train.",晚上好，司机。我们收到报告称一列故障的 HST 阻塞了托特尼斯以东的线路。使用机务段内的动车组去救援那列故障列车。
+/11DA971E4A91814524851AB5ABC858D5,"Evening, and welcome to Plymouth station. Today is the 13th of December, 2025, and it's the last day GWR will run a scheduled High Speed Train passenger service.",晚上好，欢迎来到普利茅斯站。今天是 2025 年 12 月 13 日，这是大西部铁路运行定期高速列车（HST）客运服务的最后一天。
+/B073ADD64CF9EE1D63A6F6BE4581B526,Exit Guard Panel,退出乘务员控制面板
+/09429F324BC2A68DC68E3993F7DA1564,Exit the train,离开列车
+/62192BD845F68AC8A8D3D5B404F1F42E,Exit the train,离开列车
+/73E480A24F219B48D55B8B89BE0304FB,Exit the train,离开列车
+/92A18E4A4D72C94918A2B28110743630,Exit the train,离开列车
+/C42C1A91477189D6E0547CBD0F1BD2CD,Exit the train,离开列车
+/F7924EAF4B9D717667A8E491A79AF359,Exit the train,离开列车
+/E1561C81430A38B6547FD88BC4A798FD,FAREWELL,告别
+/CAEAD6D045A556C97002ED9910684D36,FGB Class 43 '43002' + Mk3 Coaches x7 [Down Empty],FGB 43 型“43002”+ Mk3 客车 x7 [下行空送]
+/99A917E94601FCC2353418832B0FBB87,FGB Class 43 '43002' + Mk3 Coaches x7 [Down Loaded],FGB 43 型“43002”+ Mk3 客车 x7 [下行重载]
+/CE33BFC7411A81FAD0A48AB1C989AF1A,FGB Class 43 '43002' + Mk3 Coaches x7 [Up Empty],FGB 43 型“43002”+ Mk3 客车 x7 [上行空送]
+/B6D424BC4CDC9DF109A3D886127CF8B2,FGB Class 43 '43002' + Mk3 Coaches x7 [Up Loaded],FGB 43 型“43002”+ Mk3 客车 x7 [上行重载]
+/FFDD1D3F424EAE34EFFDF6854E09EB0E,FGB Class 43 '43002' + Mk3 Coaches x8 [Down Empty],FGB 43 型“43002”+ Mk3 客车 x8 [下行空送]
+/7BEE22904F446050AFA0B4AF950A749E,FGB Class 43 '43002' + Mk3 Coaches x8 [Down Loaded],FGB 43 型“43002”+ Mk3 客车 x8 [下行重载]
+/E7C087674F81C584A65FB7967761EC31,FGB Class 43 '43002' + Mk3 Coaches x8 [Up Empty],FGB 43 型“43002”+ Mk3 客车 x8 [上行空送]
+/4EF1CC664527C3304B38CF91BEDFE3FB,FGB Class 43 '43002' + Mk3 Coaches x8 [Up Loaded],FGB 43 型“43002”+ Mk3 客车 x8 [上行重载]
+/3FBA750040D2384D8CA8AB952EBE8CDB,FGB Class 43 '43185' + Mk3 Coaches x7 [Down Empty],FGB 43 型“43185”+ Mk3 客车 x7 [下行空送]
+/BE6FE7474E74733B398FF5BB16C9991A,FGB Class 43 '43185' + Mk3 Coaches x7 [Down Loaded],FGB 43 型“43185”+ Mk3 客车 x7 [下行重载]
+/7FBEB87145ED58C7D8C9E0AC38C86629,FGB Class 43 '43185' + Mk3 Coaches x7 [Up Empty],FGB 43 型“43185”+ Mk3 客车 x7 [上行空送]
+/E6601DBD47A7FFAA7C1AAD8BF69A2B11,FGB Class 43 '43185' + Mk3 Coaches x7 [Up Loaded],FGB 43 型“43185”+ Mk3 客车 x7 [上行重载]
+/9A892D884DDF3F50A3F01D86A497C0F0,FGB Class 43 '43185' + Mk3 Coaches x8 [Down Empty],FGB 43 型“43185”+ Mk3 客车 x8 [下行空送]
+/39F37AC245CFC289E7140394F95FD2ED,FGB Class 43 '43185' + Mk3 Coaches x8 [Down Loaded],FGB 43 型“43185”+ Mk3 客车 x8 [下行重载]
+/D7A966174063F523517CC291B51F6404,FGB Class 43 '43185' + Mk3 Coaches x8 [Up Empty],FGB 43 型“43185”+ Mk3 客车 x8 [上行空送]
+/00ED3A684002F231E0FEAFA868E77D8E,FGB Class 43 '43185' + Mk3 Coaches x8 [Up Loaded],FGB 43 型“43185”+ Mk3 客车 x8 [上行重载]
+/31ECC9C848A558FE2DC8C488F9B6585A,Failed Train,故障列车
+/DF459A6448E6310879BE2E96C7B12F9A,Failed Train,故障列车
+/73138BFB440172D509C5C0B144C0363A,Fairground Points,游乐场道岔
+/A7FA2B714EC15E77B81C72B75EE24D23,Farewell,告别
+/2ACC859040B868F20D0070909DE81AC4,Farewell HST,告别 HST
+/36FEE1814577736BE5C96FAD3C18CBE7,Farewell HST,告别 HST
+/83DA44DB49D1B89A86195DB6AD3FB203,"Find a spot on platform 4 or 5 to stand and watch. Power car 43187 will be the first to leave, followed by 43186 and finally 43093.",在 4 号或 5 号站台找个位置站着观看。动车 43187 号将率先离开，随后是 43186 号，最后是 43093 号。
+/28DA8E3E4B8273CC70A0B28C5F5FE0D8,"First, you need to get the engine up and running. Start by unlocking the Reverser using the Master Key.",首先，你需要启动引擎。先使用主钥匙解锁换向手柄。
+/6413FC1742A2DC4953D03485189C7354,"First, you need to get the engine up and running. Start by unlocking the Reverser using the Master Key.",首先，你需要启动引擎。先使用主钥匙解锁换向手柄。
+/115D467045FE4D8BC21CADBF0EAD5722,"For the purpose of this training module, some interactive elements are locked",出于本教学模块的目的，部分交互元素已被锁定
+/810682CD44384CBBDD06A89493C31A7D,"For the purpose of this training module, some interactive elements are locked",出于本教学模块的目的，部分交互元素已被锁定
+/CD5611484C7516A16A00D8B849B33F77,"For the purpose of this training module, some interactive elements are locked",出于本教学模块的目的，部分交互元素已被锁定
+/DB29FAE44D761F4274EC2F91CA6F472E,"For the purpose of this training module, some interactive elements are locked",出于本教学模块的目的，部分交互元素已被锁定
+/008A286A42343942217C2BA1C384ED62,GET MOVING,起步
+/012CD6484C54BB5208CE07ADA431474F,GET MOVING,起步
+/0569A7C6481B5239EF1B648A0F683DCD,GET MOVING,起步
+/13E9FA524732778FD2221AB34B34276B,GET MOVING,起步
+/3BC7ACD149E4FA3BCE6E0B8D2B560647,GET MOVING,起步
+/3F4861284D0281463EBB6BAE2DD4C117,GET MOVING,起步
+/40426BC646059B9A0135FDB9D3F42811,GET MOVING,起步
+/4399DBF3409F427A2C66999C154FD891,GET MOVING,起步
+/4E501E6A4A33D17B5C18ECBA2469E942,GET MOVING,起步
+/54E1977449ECB1F5E168AB80EF6F4DA2,GET MOVING,起步
+/775078484C285B5F7CDD8E8E8ACCD07D,GET MOVING,起步
+/7A79FE5B431005C3634F158BCA4EB975,GET MOVING,起步
+/8341B66241A57F43A30860B29366EA78,GET MOVING,起步
+/841183B14CF992AB913EB99D1218D5BA,GET MOVING,起步
+/8AD78BF64ADEFFF9162C44A849B397EC,GET MOVING,起步
+/8E5A6A13477AF96DE0AB72BECC7601D0,GET MOVING,起步
+/8FC95B0648FAF92140D1FA84AF906623,GET MOVING,起步
+/915EA2744A4738D3176B46887D47BD58,GET MOVING,起步
+/925F9A144ADFE082DDB1BE85C558DF4C,GET MOVING,起步
+/9364D349478B1497504D8EA4D83E5193,GET MOVING,起步
+/94CEB91044EF2F077456C88E4712C679,GET MOVING,起步
+/A952187A46ADB0C24678D4952772A3D1,GET MOVING,起步
+/AE0AE0074ED2B15DF065A8A815D21D29,GET MOVING,起步
+/B43E2ADD42656044A7728A959BE31B90,GET MOVING,起步
+/B7D61D1D4EB2437822626C97A0ACE874,GET MOVING,起步
+/B89624944AB17CC43A10FA99783924AB,GET MOVING,起步
+/C50B7D564A9CAEB602BE22BF8E1BC85D,GET MOVING,起步
+/D3FAEF9844BF90467AF3579C90BEE0D9,GET MOVING,起步
+/D91D059D404A45F45052C5BA0DF4C919,GET MOVING,起步
+/D93EE4594DAC6A64B4B2BEAFB15034AB,GET MOVING,起步
+/DC8EC2D74058EACB9ED80696A48512F0,GET MOVING,起步
+/DF489A1148677A424F1BE3BE0C60A77F,GET MOVING,起步
+/E3D0F82247C1458E4AC3C6BDE19014F0,GET MOVING,起步
+/E8ECC66648F39A4ADAEA44877892864C,GET MOVING,起步
+/EB34B04D4DBDFA027667AD922A1706AB,GET MOVING,起步
+/EFFB0E0D4E821FC808D2CBBFA3B118E2,GET MOVING,起步
+/6777F6004390FF7235F833ACEE08E3AA,GWR Class 43 '43002',大西部铁路 43 型“43002”
+/0830D13E4769EBC18D55CA82CCAFF9E9,GWR Class 43 '43002' + '43185',大西部铁路 43 型“43002”+“43185”
+/6F3794CF49C4A0E754F774BFFD25CCDE,GWR Class 43 '43002' + Mk3 Coaches x7 [Down Empty],大西部铁路 43 型“43002”+ Mk3 客车 x7 [下行空送]
+/D80FDBE84E4437D98BDE77BB1AC00B23,GWR Class 43 '43002' + Mk3 Coaches x7 [Down Loaded],大西部铁路 43 型“43002”+ Mk3 客车 x7 [下行重载]
+/05550D73456D656F98A987A4E8E59D53,GWR Class 43 '43002' + Mk3 Coaches x7 [Up Empty],大西部铁路 43 型“43002”+ Mk3 客车 x7 [上行空送]
+/866424074C351C80570C109A01384D37,GWR Class 43 '43002' + Mk3 Coaches x7 [Up Loaded],大西部铁路 43 型“43002”+ Mk3 客车 x7 [上行重载]
+/D63055234EDFC90FAE1F328B118503EB,GWR Class 43 '43002' + Mk3 Coaches x8 [Down Empty],大西部铁路 43 型“43002”+ Mk3 客车 x8 [下行空送]
+/246BA6924258ECC0C8FBDD963D8C4C79,GWR Class 43 '43002' + Mk3 Coaches x8 [Down Loaded],大西部铁路 43 型“43002”+ Mk3 客车 x8 [下行重载]
+/CBC86EC74FFC171D536CF8A016BE7B05,GWR Class 43 '43002' + Mk3 Coaches x8 [Up Empty],大西部铁路 43 型“43002”+ Mk3 客车 x8 [上行空送]
+/F4F166AF4BF80C92C165779F84C8C73A,GWR Class 43 '43002' + Mk3 Coaches x8 [Up Loaded],大西部铁路 43 型 '43002' + 8节Mk3客车 [上行重载]
+/FC6025C5489B738A5B3813A05E1CB062,GWR Class 43 '43093',大西部铁路 43 型 '43093'
+/21ED9B8D457E7B8F3D4FBF92ABABA44D,GWR Class 43 '43093' + Mk3 Coaches x7 [Down Empty],大西部铁路 43 型 '43093' + 7节Mk3客车 [下行空车]
+/39A31D05471FEA96F768A795A164AE11,GWR Class 43 '43093' + Mk3 Coaches x7 [Down Loaded],大西部铁路 43 型 '43093' + 7节Mk3客车 [下行重载]
+/33F7179849A005FA9D252C9A2A897DBE,GWR Class 43 '43093' + Mk3 Coaches x7 [Up Empty],大西部铁路 43 型 '43093' + 7节Mk3客车 [上行空车]
+/3B675B0C4CC085C554DC4ABBAC883BF8,GWR Class 43 '43093' + Mk3 Coaches x7 [Up Loaded],大西部铁路 43 型 '43093' + 7节Mk3客车 [上行重载]
+/0D53A23D416BBF37D2C2BABD8F0387B5,GWR Class 43 '43093' + Mk3 Coaches x8 [Down Empty],大西部铁路 43 型 '43093' + 8节Mk3客车 [下行空车]
+/46BE827F482EF08C6C5DA0BE753DF9E7,GWR Class 43 '43093' + Mk3 Coaches x8 [Down Loaded],大西部铁路 43 型 '43093' + 8节Mk3客车 [下行重载]
+/D01D01314153D2E837E683B3EFE5D237,GWR Class 43 '43093' + Mk3 Coaches x8 [Up Empty],大西部铁路 43 型 '43093' + 8节Mk3客车 [上行空车]
+/6AF64979479C8C6B225A4AAC209BCE92,GWR Class 43 '43093' + Mk3 Coaches x8 [Up Loaded],大西部铁路 43 型 '43093' + 8节Mk3客车 [上行重载]
+/1B2CC8D8426B849B04CA04BF1EED6ADA,GWR Class 43 '43185',大西部铁路 43 型 '43185'
+/CF99CE834A30D03F4F6CC5B8E2E72CC6,GWR Class 43 '43185' + Mk3 Coaches x7 [Down Empty],大西部铁路 43 型 '43185' + 7节Mk3客车 [下行空车]
+/838B322041E94B6E87874DADA44581D2,GWR Class 43 '43185' + Mk3 Coaches x7 [Down Loaded],大西部铁路 43 型 '43185' + 7节Mk3客车 [下行重载]
+/1B45F29E4D4E00160DD277BC41B12CF0,GWR Class 43 '43185' + Mk3 Coaches x7 [Up Empty],大西部铁路 43 型 '43185' + 7节Mk3客车 [上行空车]
+/7989DD2C4C66B10D231ED09DEFDBFEEF,GWR Class 43 '43185' + Mk3 Coaches x7 [Up Loaded],大西部铁路 43 型 '43185' + 7节Mk3客车 [上行重载]
+/6C72C82D47F62E92ED4468811F2E3213,GWR Class 43 '43185' + Mk3 Coaches x8 [Down Empty],大西部铁路 43 型 '43185' + 8节Mk3客车 [下行空车]
+/7C1F98414CE2986996A1EFB5E56EE8E3,GWR Class 43 '43185' + Mk3 Coaches x8 [Down Loaded],大西部铁路 43 型 '43185' + 8节Mk3客车 [下行重载]
+/8C31CF79444307F92C6B2FA1D39013ED,GWR Class 43 '43185' + Mk3 Coaches x8 [Up Empty],大西部铁路 43 型 '43185' + 8节Mk3客车 [上行空车]
+/526ED48C473A9F1FE6D8589DF6124EEB,GWR Class 43 '43185' + Mk3 Coaches x8 [Up Loaded],大西部铁路 43 型 '43185' + 8节Mk3客车 [上行重载]
+/7E043D7748D7469B8CF99F95D562037C,GWR Class 43 'Geraint Thomas',大西部铁路 43 型 “杰兰特·托马斯”
+/6EFE3C3848559903EA4DD299CE9FA57D,GWR Class 43 'Geraint Thomas' + Mk3 Coaches x7 [Down Empty],大西部铁路 43 型 “杰兰特·托马斯” + 7节Mk3客车 [下行空车]
+/5E83A86B4ED47981DBA34AA7F4815853,GWR Class 43 'Geraint Thomas' + Mk3 Coaches x7 [Down Loaded],大西部铁路 43 型 “杰兰特·托马斯” + 7节Mk3客车 [下行重载]
+/04F713E343E9206AD79600BD0D0ADFF5,GWR Class 43 'Geraint Thomas' + Mk3 Coaches x7 [Up Empty],大西部铁路 43 型 “杰兰特·托马斯” + 7节Mk3客车 [上行空车]
+/48750DFF43528159E861FEA0F943B9D2,GWR Class 43 'Geraint Thomas' + Mk3 Coaches x7 [Up Loaded],大西部铁路 43 型 “杰兰特·托马斯” + 7节Mk3客车 [上行重载]
+/6DD43AD64F47F3EF776E28981CD7853F,GWR Class 43 'Geraint Thomas' + Mk3 Coaches x8 [Down Empty],大西部铁路 43 型 “杰兰特·托马斯” + 8节Mk3客车 [下行空车]
+/69CF230A4E1730A82734938102222D8A,GWR Class 43 'Geraint Thomas' + Mk3 Coaches x8 [Down Loaded],大西部铁路 43 型 “杰兰特·托马斯” + 8节Mk3客车 [下行重载]
+/9ADB1C1C43A8952EAB117EA4C60500D8,GWR Class 43 'Geraint Thomas' + Mk3 Coaches x8 [Up Empty],大西部铁路 43 型 “杰兰特·托马斯” + 8节Mk3客车 [上行空车]
+/723D9E864BC1B667E20030BA44CCFFA5,GWR Class 43 'Geraint Thomas' + Mk3 Coaches x8 [Up Loaded],大西部铁路 43 型 “杰兰特·托马斯” + 8节Mk3客车 [上行重载]
+/E4AE01AE49F5B488DB22DCB33FFD3CF3,GWR Class 43 'The Welshman',大西部铁路 43 型 “威尔士人”
+/CC99F03E4F35640296FA6EADDD05299E,GWR Class 43 'The Welshman' + Mk3 Coaches x7 [Down Empty],大西部铁路 43 型 “威尔士人” + 7节Mk3客车 [下行空车]
+/DEAC96C848EC7C7823DE76A089BEC9E8,GWR Class 43 'The Welshman' + Mk3 Coaches x7 [Down Loaded],大西部铁路 43 型 “威尔士人” + 7节Mk3客车 [下行重载]
+/512BE211400FCB1EEDB7FAA0566CB6E0,GWR Class 43 'The Welshman' + Mk3 Coaches x7 [Up Empty],大西部铁路 43 型 “威尔士人” + 7节Mk3客车 [上行空车]
+/8161312A43E043BC1B2562B60C81FB13,GWR Class 43 'The Welshman' + Mk3 Coaches x7 [Up Loaded],大西部铁路 43 型 “威尔士人” + 7节Mk3客车 [上行重载]
+/3D275765420A7372032E26BC452D2CB8,GWR Class 43 'The Welshman' + Mk3 Coaches x8 [Down Empty],大西部铁路 43 型 “威尔士人” + 8节Mk3客车 [下行空车]
+/51F0307540CEA9BF828ECE814642C10E,GWR Class 43 'The Welshman' + Mk3 Coaches x8 [Down Loaded],大西部铁路 43 型 “威尔士人” + 8节Mk3客车 [下行重载]
+/113FA754411D9999489B37A69893C31F,GWR Class 43 'The Welshman' + Mk3 Coaches x8 [Up Empty],大西部铁路 43 型 “威尔士人” + 8节Mk3客车 [上行空车]
+/497ABBBF4FFE900BCA33C4A97FD00482,GWR Class 43 'The Welshman' + Mk3 Coaches x8 [Up Loaded],大西部铁路 43 型 “威尔士人” + 8节Mk3客车 [上行重载]
+/A895DC67460A1934E8C3DF947B5EC114,GWR Class 43 (Vinyl Logo),大西部铁路 43 型 (贴纸标志)
+/D64441EA4521ECB1BFB55C876664704A,GWR Class 43 (Vinyl Logo) + Mk3 Coaches x7 [Empty],大西部铁路 43 型 (贴纸标志) + 7节Mk3客车 [空车]
+/15D449454545CB8A68575B938BEE1C5E,GWR Class 43 (Vinyl Logo) + Mk3 Coaches x7 [Loaded],大西部铁路 43 型 (贴纸标志) + 7节Mk3客车 [重载]
+/07BA5FAC4D3AE3ECEA9836B13BFC2DDC,GWR Class 43 (Vinyl Logo) + Mk3 Coaches x8 [Empty],大西部铁路 43 型 (贴纸标志) + 8节Mk3客车 [空车]
+/1468555747D3ADD0D14FDEB733038118,GWR Class 43 (Vinyl Logo) + Mk3 Coaches x8 [Loaded],大西部铁路 43 型 (贴纸标志) + 8节Mk3客车 [重载]
+/B3800A924A75BBA179DD50909661D349,GWR Class 43 Unbranded,大西部铁路 43 型 无标志
+/2FFB9B8E4CF7F8B13E9C32834A18A69B,GWR Class 43 Unbranded + Mk3 Coaches x7 [Empty],大西部铁路 43 型 无标志 + 7节Mk3客车 [空车]
+/DB3C38994DA33688F237E3B3A2C9A9FD,GWR Class 43 Unbranded + Mk3 Coaches x7 [Loaded],大西部铁路 43 型 无标志 + 7节Mk3客车 [重载]
+/5B8311464170C1820BBDD0B26681648E,GWR Class 43 Unbranded + Mk3 Coaches x8 [Empty],大西部铁路 43 型 无标志 + 8节Mk3客车 [空车]
+/07F25A604E25E043B9EBDCBB5D7E0F10,GWR Class 43 Unbranded + Mk3 Coaches x8 [Loaded],大西部铁路 43 型 无标志 + 8节Mk3客车 [重载]
+/2289255C4242FB6E17C8EEB12DC5A351,Geoff,杰夫
+/2B72EDE744F4753A7FC817AA105FFF30,Geoff,杰夫
+/508D73CD4C9F0CE92BE0FAB7A83C3042,Geoff,杰夫
+/4666EE5B42FB978F4B7880A47F19E08A,Goodbye.,再见。
+/C37DDBD444021D337EC2F8B2333AA20A,Goodbye.,再见。
+/552141954BE2CE97F4667DA1BA37F1C0,"Great work! The HSTs have had a long run and they will be missed by many. Now, let's see how you did.",干得漂亮！HST 已经运行了很长时间，许多人都会怀念它们。现在，让我们看看你的表现如何。
+/5D08563C43C812CA03D3F286F1E95F4A,HORN,鸣笛
+/870F47584B897F3554FDB0AA4DD10C35,HORN,鸣笛
+/AB4023D840659D5B95A27BAEA5AA9DE1,HORN,鸣笛
+/D7090A3D464C3EBDE4FC018239BDC706,HORN,鸣笛
+/3D8738CA435F432F20D8A18D44471787,HST,HST
+/A6AB77E247928295C77C08B8AE659D01,Harris,哈里斯
+/ED8E22134BE59EA58E4EC08DDD971905,Helen,海伦
+/763917AD4ADF4A0E3039BC96120B3DDA,"Hello, Driver. It's a warm summers day down in the West Country, and the crowds are out to take in the nice weather and enjoy the local air show.",你好，司机。今天是西南英格兰一个温暖的夏天，人们正成群结队地出来感受美好的天气，欣赏当地的飞行表演。
+/2BA0774548EEA847298E97AB4C7385C2,"Hello, Driver. Today you will be taking the newly painted Class 43 power car '43002' to Paddington station, ready for its first passenger revenue service.",你好，司机。今天你将驾驶涂装一新的 43 型动力车 '43002' 前往帕丁顿站，为它的首次载客服务做好准备。
+/EA083BE54E513FDC91568DAB71512E14,"Hello, and welcome to Paddington station. Today is the 18th of May, 2019, the last time a scheduled HST service will leave Paddington station. There are 4 HST sets ready to depart any moment now, each one containing a celebrity power car.",你好，欢迎来到帕丁顿站。今天是 2019 年 5 月 18 日，这是 HST 定期服务最后一次离开帕丁顿站。有 4 列 HST 编组随时准备出发，每一列都包含一辆著名动力车。
+/493BDD374BEF830CFF5A57888AC9832D,Help crowds of passengers get to the air show while keeping your cool on this hot and busy day.,在繁忙而炎热的一天里，保持冷静，帮助成群结队的乘客前往飞行表演现场。
+/ECAE47DB471DEF67819A12AE78C73387,Hi! I've heard you'll be driving one of the last HSTs out of Paddington today. Can you tell me which one is yours?,嗨！我听说你今天将驾驶最后一批离开帕丁顿站的 HST 之一。你能告诉我哪一列是你的吗？
+/9051F6614277CD6EF0F42EB7F14A4601,"I'll be driving the final service out, with power cars '43198' and '43002'.",我将驾驶最后一班列车，动力车号为 '43198' 和 '43002'。
+/DF88C0AF43C0A50A2DA669A500D05BA8,"I'll be driving the first service out, with power cars '43188' and '43093'.",我将驾驶第一班列车，动力车号为 '43188' 和 '43093'。
+/1B8133E0437CF8685371D785225F9133,"I'll be driving the second service out, with power cars '43162' and '43172'.",我将驾驶第二班列车，动力车号为 '43162' 和 '43172'。
+/F7E2805E42A2DB7BFF6FEAB7D576EEF3,"I'll be driving the third service out, with power cars '43009' and '43185'.",我将驾驶第三班列车，动力车号为 '43009' 和 '43185'。
+/9B6A90CC4A93AC2C8D71CB8C066464BC,INTERACTIVE ELEMENTS,交互元素
+/36767AC3454697E78378D19A94FDF152,INTERNAL CAMERA,内部摄像头
+/56DF31194F7EB1A67FF06FBADDD09042,INTERVIEW,访谈
+/772AD81B46CFBC0CDE1275BAEC811ACD,In this training module you will be learning the operation of a Class 43 High Speed Train.,在本培训模块中，你将学习 43 型高速列车的操作。
+/80E879B446BA959EBFC2E3B6B7F7B4AB,In this training module you will be learning the operation of a Class 43 High Speed Train.,在本培训模块中，你将学习 43 型高速列车的操作。
+/938BE05E411124CC92B09CAD68A41486,"It is officially the world's fastest diesel locomotive, with power car number 43102 reaching a maximum speed of 148.5 mph (239 km/h).",它是官方认证的世界上最快的内燃机车，其中 43102 号动力车的最高时速达到了 148.5 英里/小时 (239 公里/小时)。
+/BA96DC934791F3C2FFD777BB2AB90AA7,"It is officially the world's fastest diesel locomotive, with power car number 43102 reaching a maximum speed of 148.5 mph (239 km/h).",它是官方认证的世界上最快的内燃机车，其中 43102 号动力车的最高时速达到了 148.5 英里/小时 (239 公里/小时)。
+/4CBD72584CC75A0C53A6F58AADC8150A,It's now time to prepare the power car for its first passenger service. Couple up to the rake of Mk3's waiting for you in the yard and take the complete train to Paddington. But don't forget to sound the horn for the crowd first.,现在是时候为动力车准备首次载客运行了。将其与车场里等待你的 Mk3 型车厢编组，然后驾驶整列火车前往帕丁顿。不过别忘了先向人群鸣笛致意。
+/35300B33405170D22963779923B4D125,It's time to show off the new livery. Take the power car to the marked track in front of the guest area. You will need to set the manual points yourself to get to the right track.,是时候展示新涂装了。将动力车开到嘉宾区前的指定轨道。你需要自己设置手动道岔才能进入正确的轨道。
+/F836CBF04831515CE9ECA9949D76F2ED,James,詹姆斯
+/A39B32D247329DDCD6E2ECBC7FFE113B,John,约翰
+/E6207D0D4D76F6F248DE29913415FE7D,Jones,琼斯
+/04E97BEB41D8B39576820A854D05412E,Karen,凯伦
+/20BFBF4147E383AAA86CE48613623756,Keep the train under 3 mph (5 km/h) while using the unloader,使用卸料机时将车速保持在 3 英里/小时 (5 公里/小时) 以下
+/27DCF80D42D6F6B95BE68F8E95FFC4ED,Keep the train under 3 mph (5 km/h) while using the unloader,使用卸料机时将车速保持在 3 英里/小时 (5 公里/小时) 以下
+/48AC95004FBC88E8AED80694F93172CD,Keep the train under 3 mph (5 km/h) while using the unloader,使用卸料机时将车速保持在 3 英里/小时 (5 公里/小时) 以下
+/A014A0304D4A78D1B4E059A03BEFDD2A,Keep the train under 3 mph (5 km/h) while using the unloader,使用卸料机时将车速保持在 3 英里/小时 (5 公里/小时) 以下
+/36D2F2D24EE729E5373B3194FD4E8157,Keep the train under 60 mph (96 km/h) while driving with loaded freight,挂载重载货车驾驶时将车速保持在 60 英里/小时 (96 公里/小时) 以下
+/5007D97A451526559DAAF488922F0528,Keep the train under 60 mph (96 km/h) while driving with loaded freight,挂载重载货车驾驶时将车速保持在 60 英里/小时 (96 公里/小时) 以下
+/5E26C13F4B3BB7AA1FB158B48C041E65,Keep the train under 60 mph (96 km/h) while driving with loaded freight,挂载重载货车驾驶时将车速保持在 60 英里/小时 (96 公里/小时) 以下
+/726864EC47FA5EFE2BE3C4BF4DB76465,Keep the train under 60 mph (96 km/h) while driving with loaded freight,挂载重载货车驾驶时将车速保持在 60 英里/小时 (96 公里/小时) 以下
+/0A0EC78A4D8C6988FCBE7595BA1EB36C,"Keeping to speed limits is important. If you begin over-speeding, set the Throttle to Idle and apply a small amount of braking force using the Train Brake.",遵守限速非常重要。如果你开始超速，请将牵引手柄置于怠速位，并使用列车制动器施加少量的制动力。
+/68A00D6A4EEFEA73E213FEA0C2D0B9ED,"Keeping to speed limits is important. If you begin over-speeding, set the Throttle to Idle and apply a small amount of braking force using the Train Brake.",遵守限速非常重要。如果你开始超速，请将牵引手柄置于怠速位，并使用列车制动器施加少量的制动力。
+/EC0BD132464FEE0138C9B2992801112A,LADDER,梯子
+/26C865CB426974DC9EAC68B5A1B1FA11,LEAVE THE TRAIN,离开列车
+/2FC2E4E74F0211FAA013EE99213F67CE,LEAVE THE TRAIN,离开列车
+/68BADA1E466C06923B10A793D7693617,LEAVE THE TRAIN,离开列车
+/9FD203344F5DBE485BC9248837CEA0A3,LEAVE THE TRAIN,离开列车
+/C3C460A04ACFD573F9C6469E146607BF,LEAVE THE TRAIN,离开列车
+/CCEE2B2D4ED231B6C3C277BB922605D4,LEAVE THE TRAIN,离开列车
+/ADE6D4234F931F9F8158019DCD11E081,Laura,劳拉
+/E4850FC44E7171D80D596DB5B3CED935,Learn how to operate the Class 43 HST diesel-electric train.,学习如何操作 43 型 HST 电传动内燃动车组。
+/F25F21424A3E8019DA0711A636BBD911,Learn how to operate the Class 43 High Speed Train.,学习如何操作 43 型高速列车。
+/4FE7B6A243F202BA45901E9239AF003F,Learning An Icon,致敬传奇
+/E4762DC94E03A122C4E8C982B89BECCA,Leave the station,离开车站
+/8F6142B7432F862FC5D77886E5389C48,Let's see how you did out there today.,让我们看看你今天的表现如何。
+/4D24EAC245410A991C9B8BA991F1F5F7,Looks like there's a lot of rail fans here to see the new livery. Now shut down the train and leave the cab. Another driver is on their way now to take over control of the train. ,看来有很多铁道迷来到这里看新涂装。现在关闭列车并离开驾驶室。另一名司机正在赶来接管列车。
+/BCF1CEB84E05991053C2C6906CF7B2B7,MANUAL JUNCTIONS,手动道岔
+/898AB441422A2CB3EE3DBD82C52F392E,Mary,玛丽
+/106EA4184D0B7D0C6500ADB6DD400967,Michael,迈克尔
+/8DF4652B4A1B9E6DAB585A85992D0CC4,Michelle,米歇尔
+/C426FCAB40D61B54745C3F89585B8DD3,Move to the rear power car and sit in the Driver's Seat,前往后部动力车并坐在司机座上
+/C6CA8C1F443286602D805CB511C6DE07,Move to the rear power car and sit in the Driver's Seat,前往后部动力车并坐在司机座上
+/F2F855AF408FF7916C154882F6C914EF,Move to the rear power car and sit in the Driver's Seat,前往后部动力车并坐在司机座上
+/E4A6B8CC48252991086A968FF269F063,Mr Jones,琼斯先生
+/B86EF27B43D49AEEA6EAD0B6C6796625,Mrs Jones,琼斯夫人
+/86FC346B4DDFEF509399C3B60251CF81,"Nice work getting the passengers back here safely. Hold here for a moment while we route a return to the depot. Until then, let's see how you did out there.",安全地把乘客带回来，干得好。在此等候片刻，我们要安排返回机务段的路线。在此之前，让我们看看你的表现。
+/96315E404438CAA8FF6CE9B283FA870D,Nice work making it to Exeter St Davids on time! Now shut down the train to finish the service.,准时到达埃克塞特圣戴维斯站，干得漂亮！现在关闭列车以结束本次服务。
+/59411D52413191EBCFC35F9471D10B37,Nice work! Now that the unit has stopped we can open the passenger doors.,干得好！现在列车已经停下，我们可以开启客车车门。
+/A28585B04182163F1A8DE4899C70DAC7,Nice work! Now that the unit has stopped we can open the passenger doors.,干得好！现在列车已经停下，我们可以开启客车车门。
+/086EA8794C2867065E86F5ACD1604F7F,"Nice work, Driver. Let's see how you did today.",干得好，司机。让我们看看你今天的表现。
+/3C04D194418972523F352490948ED12F,"Nice work, Driver. Let's see how you did today.",干得好，司机。让我们看看你今天的表现。
+/4200E049439EB5BF9C3FF889B5C748FD,Nice work. Hold position for a moment to let the crowd take pictures of the new livery.,做得好。原地待命片刻，让人们为新涂装拍照。
+/F8AB6FB74DC361A10B8F8FBB422F66A2,Nice work. Let's see how you did today.,干得好。让我们看看你今天的表现。
+/547EA1F3422366BF17E028BFA973A0E1,Nicely done. It's now time for the three trains to make their way to Laira Depot. Yours will be the last one to leave.,做得好。现在是这三列火车前往莱拉机务段的时候了。你的车将是最后一列离开的。
+/878950F8496F76C777E725A861E76722,North Siding Points,北侧侧线道岔
+/04C3370F45DFCF09B661659F0D175CDE,Now shut down and leave the train.,现在关停并离开列车。
+/BADEB6A64EB43196BADAE8AD7ED4ED40,"Now you've learned how to operate the Class 43 High Speed Train, drive a few services along the Great Western Main Line.",现在你已学习了如何操作 43 型高速列车，请在大西部干线上驾驶几趟车次。
+/32A2EA204386001613C2EB8B454F4AF1,OPEN DAY,开放日
+/B6DB0B79481BCBDDD62F9BA7CD59C257,Old Reliable,老伙计
+/3F27D33249B13C5F06E0C69FD6C52B2A,"On level grades you can coast to maintain your speed, reducing energy consumption and stress on the motors. When coasting always remain vigilant of the grade, as changes could cause the train to speed up or slow down.",在平直道上你可以进行惯性滑行以保持速度，从而减少能耗和牵引发电机负担。滑行时请务必警惕坡度变化，因为坡度起伏会导致列车加速或减速。
+/90CDC3554393814E4EA46CAB45D47BF1,"On level grades you can coast to maintain your speed, reducing energy consumption and stress on the motors. When coasting always remain vigilant of the grade, as changes could cause the train to speed up or slow down.",在平直道上你可以进行惯性滑行以保持速度，从而减少能耗和牵引发电机负担。滑行时请务必警惕坡度变化，因为坡度起伏会导致列车加速或减速。
+/3A6D5FC845493E8E5BCBD78E95E561DD,Open Day,开放日
+/CE3B40C44132208A1327AEA0C57445F4,Open the Coupler Hatch,打开车钩盖
+/578D930048C943C4F5B0CEAB1D111F04,PASSENGER DOORS,乘客车门
+/5E7E81C144D8EBBD8310B388CBC79B76,PASSENGER DOORS,乘客车门
+/A54CCD114EB21A6E4BA201B052806543,PASSENGER DOORS,乘客车门
+/B8362E0E48B01514B6C3B5ADD9F6337C,PASSENGER DOORS,乘客车门
+/1CF60D5D4AFB66E3A5B2BDB15B87DA30,PAUSE MENU,暂停菜单
+/CA7663624BCCAB8800C1FF904E49579C,POWER HANDLE,功率手柄
+/8B3793AF4A602FFE60F8D6B2FC6399F6,PRECISION CONTROL ,精准控制
+/1130862F4ACB29BC7FA933941C83ECFC,"Passengers are still on board and the snow storm is only going to get worse, so time is of the essence.",乘客们仍在车上，而暴风雪势必会愈演愈烈，因此分秒必争。
+/890F4B48428938C6EF165E959B8CF0DF,Paul,保罗
+/413C33304AC553D67A0A09AB9FBCB059,Peter,彼得
+/72C7C7B24DA0B214236AB18D16779C4C,Press Ctrl + W to set the Reverser Handle,按下 Ctrl + W 以设置换向手柄
+/E7B1544B4A96FB889117DCB0E57B1132,Press E to climb the ladder,按下 E 键爬上梯子
+/296ECD7B4710AE8934774ABB8FC64DDA,Press E to exit Guard Panel view,按下 E 键退出列车员控制面板视图
+/692B75214A18097D82D184975BC17409,Press E to sit in the driver's seat,按下 E 键就座
+/23B4A378434FB56C7D720F81DAF335FE,Press E to stand up,按下 E 键站起
+/407B5F384EB929F5979861A790BA2150,"Press Esc to bring up the pause menu, if you miss anything",如果你遗漏了任何内容，请按下 Esc 键打开暂停菜单
+/3DF099B9413933280610C5965FC0F76C,"Press Menu button to bring up the pause menu, if you miss anything",如果你遗漏了任何内容，请按下菜单按钮打开暂停菜单
+/27E01BF343ABDF3205CF5CBCE1ACC6DB,"Press OPTIONS button to bring up the pause menu, if you miss anything",如果你遗漏了任何内容，请按下选项按钮打开暂停菜单
+/DBCA6B6C4CEA79A5EB48D78AE35CEE9B,Press W to set the Reverser to Forward,按下 W 键将换向器设置为前进位
+/F3D2351C4E61AC47428F2A908DD8CE4F,Press Y button to climb the ladder,按下 Y 键爬上梯子
+/78AB92CE44C5CC8BAB3BA6B39633567D,Press Y button to exit Guard Panel view,按下 Y 键退出列车员控制面板视图
+/DD96ABF64B064B4857D578BB8B48E88B,Press Y button to sit in the driver's seat,按下 Y 键就座
+/BD8B21AE45E9EF89ADABFC93E4725D65,Press Y button to stand up,按下 Y 键站起
+/1086135F455185E76CCBF48AD769F141,Press and hold the Engine Start button for 3 seconds,按住发动机启动按钮 3 秒钟
+/63A9B8304D87AA801B5EA0894206D2F1,Press and hold the Engine Start button for 3 seconds,按住发动机启动按钮 3 秒钟
+/B8628A1348B202170B1839988C45F477,Press and hold the Engine Start button for 3 seconds,按住发动机启动按钮 3 秒钟
+/E50AEAF148A56444FF41D0BBE5C07B63,Press and hold the Engine Stop button for 3 seconds,按住发动机停止按钮 3 秒钟
+/EBC23D6E461E220C17ECF2B1FA79B982,Press and hold the Engine Stop button for 3 seconds,按住发动机停止按钮 3 秒钟
+/B40A3FC34EAFFE2BEC914C86AE2C3F8E,Press left D-pad to close the left side passenger doors,按下方向键左以关闭左侧乘客车门
+/CB6EF76347F7E41609FFA28FE80E7295,Press left D-pad to open the left side passenger doors,按下方向键左以开启左侧乘客车门
+/0711CDA44704D54ED70590BF703CBFBB,Press left button to close the left side passenger doors,按下左键以关闭左侧乘客车门
+/26DC9A15477F1C97ACB85C9A051D72CD,Press left button to close the left side passenger doors,按下左键以关闭左侧乘客车门
+/1062FDE14CF2240A3622429C6CDE3092,Press left button to open the left side passenger doors,按下左键以开启左侧乘客车门
+/8F54107B474E9C65CB0F9FA9FEC3DC78,Press left button to open the left side passenger doors,按下左键以开启左侧乘客车门
+/B53796374E0C9432377D789FCDED6CB3,"Press options button to bring up the pause menu, if you miss anything",如果你遗漏了任何内容，请按下选项按钮打开暂停菜单
+/AC29512940F03ED9B18F8AACD29123B5,Press right D-pad to close the right side passenger doors,按下方向键右以关闭右侧乘客车门
+/FF6AD6324A30D962A295468DDE6B978C,Press right D-pad to open the right side passenger doors,按下方向键右以开启右侧乘客车门
+/D9FFBC2346397DF19A826A85CD479F21,Press right button to close the right side passenger doors,按下右键以关闭右侧乘客车门
+/FB3A29E2417B5E49336EE5916CE1C868,Press right button to close the right side passenger doors,按下右键以关闭右侧乘客车门
+/23E611D94522BED3B0B8DC83120ECA33,Press right button to open the right side passenger doors,按下右键以开启右侧乘客车门
+/A78588464F87B354E16138971A43E1E0,Press right button to open the right side passenger doors,按下右键以开启右侧乘客车门
+/C90BEE0048594B971A1FBBBF62F1AC33,Press the Parking Brake Off button,按下停放制动缓解按钮
+/D06FA8BA4158BA5C513604A05CF2BC30,Press the Parking Brake Off button,按下停放制动缓解按钮
+/925B056A4DEE2FF57F49CA95B39EE057,Press the R3 button to change to the External camera view,按下 R3 键切换至外部摄像机视图
+/FF75542F431F2DDF1F57E89EF17FBA4B,Press the R3 button to change to the External camera view,按下 R3 键切换至外部摄像机视图
+/41D9A2324F8EAD1F1E14B7B0F7EA456B,Press the R3 button to return to the First Person view,按下 R3 键返回第一人称视图
+/AA6CC999472339FAD9DC5C8FB777EF73,Press the R3 button to return to the First Person view,按下 R3 键返回第一人称视图
+/5915F20C4F8CB20E1EF472A9A51FE281,Press triangle button to climb the ladder,按下三角键爬上梯子
+/69148B92417A16D17DAD18B11B82F391,Press triangle button to climb the ladder,按下三角键爬上梯子
+/25C041034FEE0708834D4F9851A92A66,Press triangle button to exit Guard Panel view,按下三角键退出列车员控制面板视图
+/E48D5A9C44DD5515907EBEA8FD4C2052,Press triangle button to exit Guard Panel view,按下三角键退出列车员控制面板视图
+/8B1A04534F2C0BF69E5F60B0A84042DE,Press triangle button to sit in the driver's seat,按下三角键就座
+/CE480596497D74BA6F18E7812B4AC6A1,Press triangle button to sit in the driver's seat,按下三角键就座
+/DE0F44A5497E5060C7C5C08D2CF092C3,Press triangle button to stand up,按下三角键站起
+/EDB75FD6427F36EDE1BAD3A88AF30A6D,Press triangle button to stand up,按下三角键站起
+/269F2DCE449D7CBDC8FADDB570E8F21B,Press up D-pad to set the Reverser to Forward,按下方向键上以将换向器设置为前进位
+/12352B514F700ED9A79EE191A220CDF9,Press up button to set the Reverser to Forward,按下上键以将换向器设置为前进位
+/F6C0722A48E6CFECB918F3B6479E3FA0,Press up button to set the Reverser to Forward,按下上键以将换向器设置为前进位
+/8656EC5B4D33BE3C2F6536906BC20CD7,REACH SPEED,达到速度
+/63C562204CE1AFD9CB071293D35DF286,REVERSER,反向器
+/809ACDF84B0AFD0AF01A208DF7F1393D,REVERSER HANDLE,换向手柄
+/46E261334EA015A5B5166FA8418E93A9,RIVIERA RESCUE,里维埃拉救援
+/AEAD929B48C310B8D9295FA4DBE50A70,Richard,理查德
+/5C4721224D8763FB514385BC2BD5E8E3,Riviera Rescue,里维埃拉救援
+/9892145348C32B8334AFA48814B70305,Riviera Runner,里维埃拉快车
+/B9CA59184DCADD0F2898F1B9AD596907,Robert,罗伯特
+/03208A8340CF6BD114565F93330310F0,SET JUNCTION,设置道岔
+/0B554AB14B1A23A3487594B53A4CE832,SET JUNCTION,设置道岔
+/29DB5CDB4D84A4B59833E4BF059883FE,SET JUNCTION,设置道岔
+/A11FC8B04FCE9C883A92628DC7EDF71A,SET JUNCTION,设置道岔
+/1C53556E4158496FFED1338D9B273C96,SET JUNCTIONS,设置道岔
+/485566EA4B4239753E109E9A4C230180,SET JUNCTIONS,设置道岔
+/97E1B278437BF9627271F29105A0A49E,SET JUNCTIONS,设置道岔
+/0ADC1911401985CDA946DEB184A7212E,SET UP TRAIN,列车整备
+/0D617B344691FB37BDC1248F226ABDF4,SET UP TRAIN,列车整备
+/1736B5674D86650ED505D387C14ABFAA,SET UP TRAIN,列车整备
+/188A598A484D58E9ACD2B981E0EEE0B0,SET UP TRAIN,列车整备
+/1C5956A0426F1796CC1882A8161859B0,SET UP TRAIN,列车整备
+/255720AE43BD180E25A2748DAE83E40B,SET UP TRAIN,列车整备
+/362D1F334821FB245B26459ABCA6BC7B,SET UP TRAIN,列车整备
+/381C34484A52B261AB4E3E92B84FFFE4,SET UP TRAIN,列车整备
+/3AE30FE244F2B6D4D65D16BAEC4DD694,SET UP TRAIN,列车整备
+/446552C941163F3D466FC5B1189EB7EE,SET UP TRAIN,列车整备
+/45E7ACE24751283A672F7EA1CE24E9C8,SET UP TRAIN,列车整备
+/4A2E12F242449DF133FEBFAF619A8A96,SET UP TRAIN,列车整备
+/4F5A01404B4BA66ED480959CC609A2DF,SET UP TRAIN,列车整备
+/580F7A9C4319C82E82D5FEB2C653215D,SET UP TRAIN,列车整备
+/5AB0650C431B04248F84A9BB7DF5C838,SET UP TRAIN,列车整备
+/5D6BFCDD4D00DC75EBFE51BCBD3DC1A3,SET UP TRAIN,列车整备
+/697D4B53412C237C333BD9985B85DC4F,SET UP TRAIN,列车整备
+/6AAA0CDD418B43BADE990085365BFFD9,SET UP TRAIN,列车整备
+/6D4BBE494A36A9EB84CF1792DD3DA1F9,SET UP TRAIN,列车整备
+/73ED3F964C744C3E8E2839AF18827280,SET UP TRAIN,列车整备
+/754AD16748E81F2CFA3B0CA0618C0410,SET UP TRAIN,列车整备
+/8DE1F9A949A6C91AF67F428FBAA55BDE,SET UP TRAIN,列车整备
+/91B45633420F50DDDA86389FACCE8F18,SET UP TRAIN,列车整备
+/9455A9F7498EAA00F980D38F1A68FE57,SET UP TRAIN,列车整备
+/96C6490F431F7A878BB7308EA9B321D9,SET UP TRAIN,列车整备
+/A658D4214014FF79A1B322A176ACC32E,SET UP TRAIN,列车整备
+/AF8F623747ED19E2074B329E8B790CEA,SET UP TRAIN,列车整备
+/B00B7BBD48B6617DAF3376B9F388D02B,SET UP TRAIN,列车整备
+/B46E26C84A3189F51576DBB9AB1FB487,SET UP TRAIN,列车整备
+/C7E2741F4F011A9EC88F7480CA853E71,SET UP TRAIN,列车整备
+/D3125ACB4543826329CCC795BFDC1508,SET UP TRAIN,列车整备
+/E3C6740646D356C4E260669640736792,SET UP TRAIN,列车整备
+/ECDC47024C390687BC5C6B92065720F7,SET UP TRAIN,列车整备
+/F3B8EFD74019D581FFA64DA48D79DDF2,SET UP TRAIN,列车整备
+/F69B3FBB4AD138A864D3888B06DCC9AD,SET UP TRAIN,列车整备
+/FA97F5DE4FB843F65A06A988C1CE77A1,SET UP TRAIN,列车整备
+/FB02378F46D377D87F8D16ACC820A53C,SET UP TRAIN,列车整备
+/FFD9424A4F2198E7FF7149A1F657EFD4,SET UP TRAIN,列车整备
+/298E907F4C31620271294CA1CED227EF,SHUT DOWN CAB,关闭司机室
+/350C51704153CD69D649108C10931783,SHUT DOWN CAB,关闭司机室
+/3ECFE6C0401AE545E854349C263B423C,SHUT DOWN CAB,关闭司机室
+/5563A7264DAB5419B3ED48B47C48291F,SHUT DOWN CAB,关闭司机室
+/59B253C942F8B0FC492ED79B567EE3B7,SHUT DOWN CAB,关闭司机室
+/5E8E118F443AA42705931E881259D788,SHUT DOWN CAB,关闭司机室
+/6528E7CF43652386EF18DD9A228EC4CF,SHUT DOWN CAB,关闭司机室
+/6DCE139B492BA9D339BCB19F1DEC1785,SHUT DOWN CAB,关闭司机室
+/6ED42CB9462B5E869FAFB2B73591AE59,SHUT DOWN CAB,关闭司机室
+/6EE2FCA3477955DA3C7D8AB4254E1556,SHUT DOWN CAB,关闭司机室
+/741FB4AE49ADD2CBE8EF87840C26C7AD,SHUT DOWN CAB,关闭司机室
+/86DDC8EA4E4DB15E5E93DDB098BE0BEA,SHUT DOWN CAB,关闭司机室
+/97F96F914405E332D5DC9B82F8893F9D,SHUT DOWN CAB,关闭司机室
+/9AF7B4D747965C76645AF2AA31C8FAD4,SHUT DOWN CAB,关闭司机室
+/A3B61C1F4CB5537D919526AD37647770,SHUT DOWN CAB,关闭司机室
+/A516DAE6417B94F52A7A5194A7B6E93E,SHUT DOWN CAB,关闭司机室
+/A53FD61146A8CE06AF9B7F8FD4E56DBB,SHUT DOWN CAB,关闭司机室
+/C0111EF44E2C6A0497AFE087D4B8AFA2,SHUT DOWN CAB,关闭司机室
+/CB8CDE9D40F602E7AA84EF9A3E46F597,SHUT DOWN CAB,关闭司机室
+/D49081F24643756EA55BCB82ACF21435,SHUT DOWN CAB,关闭司机室
+/EA221CF4415F61ABFB9814AC3F26B3EB,SHUT DOWN CAB,关闭司机室
+/F40E4DAE42B7B194E65517943C4F9482,SHUT DOWN CAB,关闭司机室
+/FE5E46D8481D19D3C87480AC2004797D,SHUT DOWN CAB,关闭司机室
+/0BA40C484C4CF41B9FA6B1B3C8EFD03A,SHUT DOWN TRAIN,关闭列车电源
+/0F0A50B940543E69E7A0A288F606B932,SHUT DOWN TRAIN,关闭列车电源
+/126694884630A81CCBC39188B511A56C,SHUT DOWN TRAIN,关闭列车电源
+/1B2E81D745EFBECCEB165FA159106169,SHUT DOWN TRAIN,关闭列车电源
+/4441F8284AAADB561B73E9AFC73CFD37,SHUT DOWN TRAIN,关闭列车电源
+/63393E554106058F6B70DC911065F79D,SHUT DOWN TRAIN,关闭列车电源
+/7602E196410440D9DB7C28ABDECF27C9,SHUT DOWN TRAIN,关闭列车电源
+/873DE45246A2B1153966BCA67802A4E1,SHUT DOWN TRAIN,关闭列车电源
+/9B08A788496D5F49C01AECA00217A337,SHUT DOWN TRAIN,关闭列车电源
+/A8E37BDA4B22ACBD9BBB3E9AF344B84E,SHUT DOWN TRAIN,关闭列车电源
+/C23794C348980C5F0962FCA4810A4A92,SHUT DOWN TRAIN,关闭列车电源
+/C7E35191466D26E5BE2847B25FDD0A65,SHUT DOWN TRAIN,关闭列车电源
+/CDA3083F4C3786031B5C2AA052ED238B,SHUT DOWN TRAIN,关闭列车电源
+/E70BB0E547F3A407448A0D9E7727B1DA,SHUT DOWN TRAIN,关闭列车电源
+/E87A1F374B412176C516C39D1B54B744,SHUT DOWN TRAIN,关闭列车电源
+/EEFA413F4CFE463C28AD0B801784C87C,SHUT DOWN TRAIN,关闭列车电源
+/EF157151466663EAC33D20A7BEF671D0,SHUT DOWN TRAIN,关闭列车电源
+/F82597E944A9A78D7C94C9B77EAE92AA,SHUT DOWN TRAIN,关闭列车电源
+/4C1B97CC4E7507549C089EA3FEE37893,SIGNALLER,信号员
+/7074CCF0463332AF6F7D01B9A2A3533E,SIT IN SEAT,就座
+/236A2A434EAD3AEF6B531AAFBC010307,SLOW DOWN,减速
+/BE4375C44975781B8E36E581F97D6AEB,SLOW DOWN,减速
+/5D3168B64CB143C6E1146ABFD56F5209,SPEED RESTRICTION,限速
+/3B3D2ED64B0241F34ABECD801BCFB10B,STAND UP,站起
+/7935DB7A47B8E4B4F27C43938758CEA2,STOP AT LOCATION,在指定位置停车
+/C55F054449CD1F5D004A7FB482FC482A,STOP AT LOCATION,在指定位置停车
+/968588BE47F1AACE1EBEA8AC1DF6B61B,STOPPED SHORT,停车未到位
+/D2382EF6475FE31A9147FBBDF8802C9E,Sarah,莎拉
+/E410072A4BB30AE3F69AF3914E1043F4,Sea Breeze,海风
+/759A6CD84661CAF9EA9C9D8ED333D6C1,Seat,座位
+/9F6BC24943CA1D184AEFEB8F8FF37E4D,Seat,座位
+/A6E69CC44F42BE9D9D498099D42C017E,Select,选择
+/2DDDD41E47594A0C65EBABA4FF34D82E,Set Headlights to DAY HEADLAMP & MARKERS,将头灯设置为日间前照灯和标志灯
+/415245A04ED9BD7565A389881AFDEED0,Set Headlights to DAY HEADLAMP & MARKERS,将头灯设置为日间前照灯和标志灯
+/59D1A7BA42F2511DD8174BAE4FA9D095,Set Headlights to DAY HEADLAMP & MARKERS,将头灯设置为日间前照灯和标志灯
+/9BF34073416BEDEA97DD56BA0FC1A57C,Set Headlights to DAY HEADLAMP & MARKERS,将头灯设置为日间前照灯和标志灯
+/BEEEB9154978832B8BB26D909A0971BE,Set Headlights to DAY HEADLAMP & MARKERS,将头灯设置为日间前照灯和标志灯
+/D6CB3A9145182EF610195C8AA70D7E38,Set Headlights to DAY HEADLAMP & MARKERS,将头灯设置为日间前照灯和标志灯
+/DBB6199C41AC38000933308C7B2F18D6,Set Headlights to DAY HEADLAMP & MARKERS,将头灯设置为日间前照灯和标志灯
+/FCEFD81A4D0492FA893BBA92FD1A6295,Set Headlights to DAY HEADLAMP & MARKERS,将头灯设置为日间前照灯和标志灯
+/5C918EEB4FF86D472F3F1EB25A99D327,Set Headlights to NIGHT HEADLAMP & MARKERS,将头灯设置为夜间前照灯和标志灯
+/BF2B6B4F40EC9104699237AF3D058ADF,Set Headlights to NIGHT HEADLAMP & MARKERS,将头灯设置为夜间前照灯和标志灯
+/DD7D49FA4CC63F19A348EEAB4B069A47,Set Headlights to NIGHT HEADLAMP & MARKERS,将头灯设置为夜间前照灯和标志灯
+/A15AA5C84EAD9589E13B9790290FA954,Set Headlights to OFF,将头灯设置为关闭
+/08CEC18748442890FF8B84B83C347651,Set Headlights to TAILLIGHTS,将头灯设置为尾灯
+/32AE35274363A162FB5B4894EC2E1A7E,Set Headlights to TAILLIGHTS,将头灯设置为尾灯
+/546A081447875037F8F310B14B51C73C,Set Headlights to TAILLIGHTS,将头灯设置为尾灯
+/ACD464C94509AAD81C99AEA70D853C40,Set Headlights to TAILLIGHTS,将头灯设置为尾灯
+/AFEB4B734C247CCDF9F4D5A9931A57E7,Set Headlights to TAILLIGHTS,将头灯设置为尾灯
+/099FA23545D32A060690C2BC08593D6F,Set the Junction,设置道岔
+/70BAAE9546386FB8D11979928BB819C2,Set the Junction,设置道岔
+/881E608F414AB13BE29E64867298E05B,Set the Junction,设置道岔
+/E26C4A1A4E6DF75AB531E99BFEE4D80C,Set the Junction,设置道岔
+/04D0F4364D160468C29F99992833A242,Set the Master Key to LOCKED,将主钥匙设置为锁定
+/13FAE35742B941688EC52FB4891D64DD,Set the Master Key to LOCKED,将主钥匙设置为锁定
+/1A32DE014BFE7511C3949A9B65562571,Set the Master Key to LOCKED,将主钥匙设置为锁定
+/465C4F2A435FDA6C98F659A122D52B54,Set the Master Key to LOCKED,将主钥匙设置为锁定
+/5893AFF642929316763DEEB39129D9CB,Set the Master Key to LOCKED,将主钥匙设置为锁定
+/7319E29748EAE39D0FAC8F8D2D8D7EBE,Set the Master Key to LOCKED,将主钥匙设置为锁定
+/BB5FB9764169A1054DE1F98C3F47B760,Set the Master Key to LOCKED,将主钥匙设置为锁定
+/F2DA02C947FCF3EE8617478D1DABF642,Set the Master Key to LOCKED,将主钥匙设置为锁定
+/0A567AE2473291BBFD26F28F7212D86A,Set the Master Key to ON,将主钥匙设置为开启
+/07CA8D464BE8FD1125F889B8835E5096,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/18D741594DFDC74E617891BA189A65A2,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/3C98331649898A8F9770499B62B2F3BD,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/3F417211463556265D808FB8E45631F1,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/593D4B054752A7BE43CDC69A205EB2B5,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/5FE2BD9342B55089667B17B50EE37E18,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/88D469424473FCE8B1E75C833FE9F616,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/A7BB54CC4F2296D3740E4CB80492C2E5,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/C778A1A4455C2EB28F1F2FA558ABDA25,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/E4CCA4E04ACEB6E12061A59DA174B42E,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/F255656349480FDD8EB8D98BA74F7B5A,Set the Master Key to UNLOCKED,将主钥匙设置为解锁
+/760E3C9149875895F62385AA52053DF5,Set the Reverser handle into the Neutral position.,将换向手柄置于中立位。
+/FE5231C34390408099F395A78C84BE7F,Set the Reverser handle into the Neutral position.,将换向手柄置于中立位。
+/112AAAC24782380EE615F48D2AFF93CD,Set the Reverser to ENGINE OFF,将换向器设置为发动机熄火位
+/1398C7F24F8496A9C144BB97621C782C,Set the Reverser to ENGINE OFF,将换向器设置为发动机熄火位
+/273784C74E8D7F1493BAFCBBCBEDB4B2,Set the Reverser to ENGINE OFF,将换向器设置为发动机熄火位
+/40D2A21349D55377EC029C88C705AC55,Set the Reverser to ENGINE OFF,将换向器设置为发动机熄火位
+/4EE483074BFD2DD1566C289BFD4CB785,Set the Reverser to ENGINE OFF,将换向器设置为发动机熄火位
+/C0E86B5240CC9233EB0BE493551518C4,Set the Reverser to ENGINE OFF,将换向器设置为发动机熄火位
+/D7068E7848DF4D76039C9BB808D5DA10,Set the Reverser to ENGINE OFF,将换向器设置为发动机熄火位
+/E8AEE5A142DFE4955F02C1ACA7FABC11,Set the Reverser to ENGINE OFF,将换向器设置为发动机熄火位
+/0C61ADCD4BBC238AAE501C830941514C,Set the Reverser to FORWARD,将换向器设置为前进位
+/0FE5CE00446C2D5B06DB7C83D7D4EB6F,Set the Reverser to FORWARD,将换向器设置为前进位
+/1162D94443693E828510849B60F01F84,Set the Reverser to FORWARD,将换向器设置为前进位
+/2158E048437C23FFB630108C4A265B9D,Set the Reverser to FORWARD,将换向器设置为前进位
+/2A553D904D3FCEDEF403E991F8BAC307,Set the Reverser to FORWARD,将换向器设置为前进位
+/2CEFB3ED44ECE73A848C5ABBA8573698,Set the Reverser to FORWARD,将换向器设置为前进位
+/3A8D0C664C792317786927B2CEE12E1F,Set the Reverser to FORWARD,将换向器设置为前进位
+/8F14C82342B9D448D4400680245C3F36,Set the Reverser to FORWARD,将换向器设置为前进位
+/CB252BF24734A79D7B0C88B3649C9415,Set the Reverser to FORWARD,将换向器设置为前进位
+/D0428B0348461933507B2496A381C963,Set the Reverser to FORWARD,将换向器设置为前进位
+/E9E3496A4501ADC41FCCFAA93126F492,Set the Reverser to FORWARD,将换向器设置为前进位
+/ECFC5AB149A68C13EEA7C39F4A419B75,Set the Reverser to FORWARD,将换向器设置为前进位
+/35D038BA46270500784C4F967BC22D5D,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/474D79BE49886A92E2F1C2A18AF89BF2,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/569E7F20477EB1D365620687350690B2,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/5A0256214EE281D2132735907063BF4B,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/8C261DF44734DC789F636ABF5FCB0AF8,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/8C9F61394D4E561C7F99DDACC8E20261,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/8FC272474AA26685B669E99537DD1D1A,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/98B384424CAAD4B49D085B8FFA022615,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/A923AC6C48F2A5EB2BA024AC400AD88B,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/AD4F8663410CDBD493A71E847B95CFF4,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/B545CB8349C5C8EE564F688F8B4729E6,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/C594C8004768814B959FD39EF82D1F74,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/D490B2214509995F1CAE6192DBA133C2,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/DA9B28BF41560736775616914DE9A8C8,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/E8355B4846D47352F01C12BB79854483,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/E8BB106F4DCB47227D1636B015133135,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/FDFE75FC42104E6F7A1886BACADC4CE6,Set the Reverser to NEUTRAL,将换向器设置为中立位
+/05BCF67E4EF14C6FFF48359D7E7F769B,Set the Throttle to IDLE,将节流阀设置为怠速位
+/4B71C7BB4A4F66B19D6772A3641E5145,Set the Throttle to IDLE,将节流阀设置为怠速位
+/7E208FC74B577351E214379CA87F9721,Set the Throttle to IDLE,将节流阀设置为怠速位
+/A223ED934949BC842227D48D435C9A28,Set the Throttle to IDLE,将节流阀设置为怠速位
+/B8D29E3E44A3D6988D86578B5752F777,Set the Throttle to IDLE,将节流阀设置为怠速位
+/B9953D7F466776A7D58172B65790FD8B,Set the Throttle to IDLE,将节流阀设置为怠速位
+/BBE6D2BF4068C04E3F8FEC9F7638E284,Set the Throttle to IDLE,将节流阀设置为怠速位
+/DD14836F4903FC28C0142D8F20D23C8C,Set the Throttle to IDLE,将节流阀设置为怠速位
+/F0444FC940B3BFE305C31D9E46ADF0FB,Set the Throttle to IDLE,将节流阀设置为怠速位
+/B68418014327A4A4E35F579600EC0B14,Set the Throttle to OFF,将节流阀设置为关闭位
+/A1E9E67844669E8187230CABDECD3C36,Set the Train Brake handle to Running to release the brakes and then apply some power to get moving.,将列车制动手柄置于运行位以缓解制动，然后加大动力以开始行驶。
+/E91BC58D40651B793515B2921D6133DD,Set the Train Brake handle to Running to release the brakes and then apply some power to get moving.,将列车制动手柄置于运行位以缓解制动，然后加大动力以开始行驶。
+/2913741948BD978B7E40C9AF755152C0,Set the Train Brake to FULL SERVICE,将列车制动设置为全服务制动
+/33A6092B4EB874EDABDFD6B52A01B410,Set the Train Brake to FULL SERVICE,将列车制动设置为全服务制动
+/36E9B323456DB28158EF90A18BEE8B97,Set the Train Brake to FULL SERVICE,将列车制动设置为全服务制动
+/3EDA7BAE4C8A325AEE29C3B27EF6929C,Set the Train Brake to FULL SERVICE,将列车制动设置为全服务制动
+/4A238B28453B7E0E7ED11A874A147DFD,Set the Train Brake to FULL SERVICE,将列车制动设置为全服务制动
+/6E25B946485368B1138F948F60F369D2,Set the Train Brake to FULL SERVICE,将列车制动设置为全服务制动
+/8EC128F449BC57A7C558FA8A6E2384FA,Set the Train Brake to FULL SERVICE,将列车制动设置为全服务制动
+/B2CBD6E64D5299BBEE13CEAA72D872DD,Set the Train Brake to FULL SERVICE,将列车制动设置为全服务制动
+/011D375B4B6E33FE5889ACAD62F08A3A,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/115FBCC44B8887DD1CEDB8B5D79B0E8C,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/454F47774ECBBBB15A42A5B55FE7E364,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/4B243785440B67F587474A91788357C3,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/60960BBD413DDB054C70228F9F8446E2,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/948280A34344D51B3D2F38A858188C1A,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/CC269E4649AA92D489094AADEE718709,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/CF8E5F1D474EABDC6A54288D2FAEBA9C,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/D11AA6B84793AFD598D95B9DC65CB46F,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/DAB39E1D469A4EB2933324B3D9D8A1B6,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/EC62AB494038F67760B8ECABA5323059,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/F34C587045F70DDCEDD836B0DE5C19A2,Set the Train Brake to RUNNING,将列车制动设置为运行位
+/200BD094466FFD933F67F196200BB1ED,Set the junctions to create a path for the power car,设置道岔以为动力车开通进路
+/D911D50142A07A82C529FAA71FA7843B,Set the junctions to create a path for the train,设置道岔以为列车开通进路
+/A074CB9E4ACE411DEF0EE0A1BCA25531,Set the train’s Headlights to the Day Headlamp & Markers position. Headlights are important for letting others know that this train is currently operational.,将列车的头灯设置为日间头灯和标志灯位置。头灯对于告知他人本列车正在运行至关重要。
+/E1AB31DA46239B570C30C790A1003AF4,Set the train’s Headlights to the Day Headlamp & Markers position. Headlights are important for letting others know that this train is currently operational.,将列车的头灯设置为日间头灯和标志灯位置。头灯对于告知他人本列车正在运行至关重要。
+/BE44D8734A221E6738A6F092991C9AFF,Signal E3,信号机 E3
+/E81D82E64F1EC80BF610D893CD548EE7,Signal SN80,信号机 SN80
+/29296E7142684F665F460C9FA3E66683,Sit,就座
+/A34865994A6A1900D7B31EA20F52E903,Sit,就座
+/166FE2C34D8D55160313F1B623E7ED14,Sit in the Driver's Seat,坐在司机席上
+/8DE966FD495774F0F32258959C11F957,Sit in the Driver's Seat,坐在司机席上
+/983A16EF4ED617A7FF26C1BF070457E8,Sit in the Driver's Seat,坐在司机席上
+/9ABA10D24F9780E8051C9498A2E54B45,Sit in the Driver's Seat,坐在司机席上
+/ACC701494005C3EA6933A0AD4247EE04,Sit in the Driver's Seat,坐在司机席上
+/CF1C4C4F483AA2474B6768A11D80DB69,Sit in the Driver's Seat,坐在司机席上
+/D990A986447F15B6C603ADB34BB6A862,Sit in the Driver's Seat,坐在司机席上
+/EA122E7A4AE9FF2463E8C5A8C234F329,Sit in the Driver's Seat,坐在司机席上
+/EA6E718341DE91AA6A1602B419E2A9AC,Sit in the Driver's Seat,坐在司机席上
+/625CFA5747FB5187F8A657B4C655CCDE,Slowly apply more power by using the Throttle until you reach the speed indicated.,通过节流阀缓慢增加动力，直到达到指示速度。
+/DA07712F4D1BF63A72A1FDB84274618F,Slowly apply more power by using the Throttle until you reach the speed indicated.,通过节流阀缓慢增加动力，直到达到指示速度。
+/E1689E0F484F346304A951ABE4FB892E,Smith,史密斯
+/9AB3C6194567CA3DC6009C83097BA2E5,"Some services are running behind today, so try to make up any lost time if you are held up by another train.",今天部分车次晚点，如果被其他列车耽搁，请尝试补回失去的时间。
+/3933D64443A905EA3C1B57B79BB98ACD,Sound the horn,鸣笛
+/6178F1B04B5D24EAAAB983A8108BBCE1,Sound the horn,鸣笛
+/E264EFCF44D9E48534552B88A3FB4C2B,Sound the horn,鸣笛
+/F0AE5E764F60777D99EB52A8B39F44E7,Sound the horn,鸣笛
+/4792C8F243DA76B6D73C4EB901D12475,Sounded horn for Rail Fans,为铁道迷鸣笛
+/28824BDB444E20AB056EFB872743E852,South Siding Points,南侧侧线道岔
+/242A64374B4924D12C41AD83B9D3EC0C,Speak to the Signaller and request permission to proceed,联络信号员并请求通过许可
+/714BCD4B4ADDF592363BB19E556EC581,Station One Platform 2,一号车站 2 号站台
+/473C0ADD459D37DF6363DBA0FAF86F89,Steven,史蒂文
+/606B162E42DE57C338BF1FA9AC22CB64,Susan,苏珊
+/442AF7D745FFDF4F65E04C9983D9045C,TAIL LAMP,尾灯
+/6A6EB4ED4765C2BA3C816FBA79FA599D,TAIL LAMP,尾灯
+/47B539C441ED3C4918F41B8A2AFF6376,THROTTLE,牵引
+/56D03BD94965F9E7A4F15DA7828C6F03,TRAIN BRAKE,列车制动器
+/84E8C25F4F9FFB090EC09898E8BA0F6B,TRAIN BRAKE,列车制动器
+/278C97774997F201CC469CBFC79E9F2C,Take part in the Old Oak Common Depot open day and unveil the new livery for the Class 43 power car '43093'.,参加老橡树公地机务段开放日，为 43 型动力车“43093”的新涂装揭幕。
+/48226D7E4E432ADE698CCAA340467D09,Talk to,与某人交谈
+/928FFE3E4CAC075C1E2F6C9FD08B6E10,Taylor,泰勒
+/73CFC379410AF388F1BD01A0FDB39500,That Retro Look,复古外观
+/4ADEFD1846C4592EFB2C8FB24FC8777A,That concludes all of the basics for operating this train.,此列车的所有基础操作教学到此结束。
+/DC92A8954008AD3020F3AE820AAE20FE,That concludes all of the basics for operating this train.,此列车的所有基础操作教学到此结束。
+/C33A695544BF4024D5F0928B280CE59C,"The Class 43's were originally paired with a rake of 7 or 8 Mark 3 coaches, with a Class 43 power car at each end, to form trainsets known as the InterCity 125 or HST (High Speed Train).",43 型动力车最初与 7 或 8 节 Mark 3 型客车编组，列车两端各有一台 43 型动力车，这种列车编组被称为 InterCity 125 或 HST（高速列车）。
+/DDA9811748B34D94429125A88996B762,"The Class 43's were originally paired with a rake of 7 or 8 Mark 3 coaches, with a Class 43 power car at each end, to form trainsets known as the InterCity 125 or HST (High Speed Train).",43 型动力车最初与 7 或 8 节 Mark 3 型客车编组，列车两端各有一台 43 型动力车，这种列车编组被称为 InterCity 125 或 HST（高速列车）。
+/900F23AC418FD49561C1ACB2EFD430CD,The signaller has requested you wait here so a passenger service can pass. You can then cross over to the other track and move up to the failed train once the signal ahead allows you to proceed.,信号员要求你在此等候，让一列客运列车先行通过。待前方信号允许后，你可以切换至另一条轨道并靠近故障列车。
+/DE3D8C5F489D02AB2BB6F28032C2617A,The train is now complete and ready for service. Shut down the cab and switch to the power car at the other end of the train before proceeding to Paddington station.,列车现已编组完毕并准备好投入运营。在前往帕丁顿车站前，请关闭本端驾驶室并切换至列车另一端的动力车。
+/13833AAD4CFA0D4D86A617BDB96D087D,The train is now ready to move. Set the Reverser to the Forward position.,列车现已准备好运行。将方向手柄置于向前位。
+/E54B786A4317276A272AB2A14B699125,The train is now ready to move. Set the Reverser to the Forward position.,列车现已准备好运行。将方向手柄置于向前位。
+/BF017F15416AB9C67BFF26BD51B0403E,"The trains are now coupled together. Shut down this cab and take control of the power car behind. Once you are ready, bring the failed train to Plymouth station.",列车现已连挂。关闭本端驾驶室并前往后方的动力车进行操控。准备就绪后，将故障列车牵引至普利茅斯车站。
+/7DFE7CD249E16C0A3915268EB27C43B0,"There are diversions onto the relief line just after Slough due to a signal issue on the fast line near Hayes. However, the rest of your journey should be smooth.",由于海斯附近的快车道发生信号故障，列车将在经过斯劳后绕行至慢车道。不过，后续行程应该会非常顺利。
+/470A7C2F4C8158E657F61385FADC0A5D,There's a passenger blocking the train from departing. Wait for the station staff to move them out the way and whistle the all clear.,有乘客阻碍列车发车。请等待车站工作人员将该乘客移开并吹响出发哨声。
+/81F73A514C1C23A27DCAEEBE719BA933,"This is a Class 43 diesel-electric power car, built by British Rail Engineering Limited between the years 1975 and 1982.",本车是 43 型柴油电力动力车，由 British Rail Engineering Limited 在 1975 年至 1982 年间建造。
+/BE3EB25741D208D57868AEBC66A3E932,"This is a Class 43 diesel-electric power car, built by British Rail Engineering Limited between the years 1975 and 1982.",本车是 43 型柴油电力动力车，由 British Rail Engineering Limited 在 1975 年至 1982 年间建造。
+/9CF97FDE4A752BADC0D5A784A1A638D7,Three HST sets have arrived at Plymouth station to mark the occasion. Head on over to platform 4 and take control of power car 43093. This will be the final HST to depart out of the 3.,三组 HST 列车已抵达普利茅斯车站以纪念这一时刻。请前往 4 号站台并接管 43093 号动力车。这将是三列车中最后一列出发的 HST。
+/17CDD7974AE3C9E1A27C7280B61E5B4E,"Three HST sets have arrived at Plymouth station to mark the occasion. In a moment, all three trains will sound their horns as a way to say goodbye.",三组 HST 列车已抵达普利茅斯车站以纪念这一时刻。片刻后，三列火车将同时鸣笛以示告别。
+/1978858741E58A6FB4329997E0CBEBFB,"To mark the occasion, the Class 43 power car '43093' has been given a special livery, which you will be unveiling to the public today. Head on over to the power car and prepare it for the event.",为纪念这一时刻，43 型动力车“43093”换上了特殊涂装，你将在今天向公众揭幕。请前往该动力车并为活动做好准备。
+/972073F54D05CA0D573E5E9C3F499E6B,UNLOADER,卸载器
+/2FB30DFE4FD7A1048147DCBE655B0D50,Use a set of Class 43 power cars to rescue a failed HST during a snowstorm.,在暴风雪中使用一组 43 型动力车救援故障的 HST。
+/26DB2841403E2D1F69E2F6BBA9A497A2,Viewing Area,观景区
+/3D8CE71F44810AAF041338BCC8119A77,WAIT,等待
+/705DCDA74F588ED7C501BF9BED72B155,WAIT,等待
+/71673DD5487F441D520DA78827892CA1,WAIT,等待
+/FD8D318B45B0896607D08194AC680FE0,WAIT,等待
+/174A36B6423127E98FFF3A923DB1914D,WALK,步行
+/347F9BAE42977FC4AB9327972DF19BDB,WALK,步行
+/84EC34954C9FAFE4371BDA866031266A,WALK,步行
+/ABDB111A4EF3A471BACCF0A44F60F28D,WALK,步行
+/ACBD7C114574B7C16B60C8A17BA7B57D,Wait for signal T1690,等待 T1690 号信号灯
+/DC37A30849EF2733FF5BB38C78D91241,Wait for the other HSTs to depart,等待其他 HST 列车出发
+/43CD8B1148CCBD7A5289E681C877339B,Wait for the passenger to be moved,等待乘客被移开
+/51CC1CF644C3A9C72DBF0A86DE3E6A56,Wait for the track ahead to clear,等待前方轨道清空
+/5428D9404CA0B372D36099B89FC1EFC8,Walk to power car '43093',步行至动力车“43093”
+/E1CD870A48E9C8C177B845B3001287DC,Walk to the front of the train,步行至列车前端
+/4AF632804DBCFA99D4EEE2920D8E38C6,Walk to the power car,步行至动力车
+/7A52097F4249F7F6846C278DD374DEE1,Walk to the power car,步行至动力车
+/662489BF4091493EC82E5A9C17D2B194,Welcome to Reading. We have another driver who will be driving the rest of the journey from here. Shut down the cab and prepare to hand over the controls.,欢迎来到雷丁。后续行程将由另一名司机接手。请关闭本端驾驶室并准备交接控制权。
+/7B94120F4640AA99B1FE2F87D9927E6B,"Welcome to the Old Oak Common depot open day, where today we are celebrating the 111th anniversary of the depot, which opened in 1906.",欢迎来到老橡树公地机务段开放日，今天我们在这里庆祝该机务段落成 111 周年，它于 1906 年投入使用。
+/97D8484A4437E3691348D9B2A61A3EE5,White,白色
+/FFC7014D4358DC2B25EDAEACEE2A8A80,Williams,威廉姆斯
+/5C899BDD4BCFB9F29DCF42A6F89B2DD3,Wilson,威尔逊
+/EBE7B98544A0148DFD5DD19522E621B8,You are about to be diverted onto the relief line. Be ready to reduce your speed and keep a look out for any track side workers close to the line.,你即将被分流至慢车道。请准备减速，并留意轨道附近工作的路工。
+/5EA6C0B64B68B1AB72E7A0A7A7DBD3EF,"You are now approaching the station. Set the Throttle to Idle and use the Train Brake to gradually apply more braking effort and come to a stop at the station. Don't worry if you miss the platform, you are free to go around this loop as many times as you want.",你正接近车站。将牵引力控制手柄置于怠速位，并使用列车制动器逐渐增加制动力，使列车停在车站。如果错过站台也不必担心，你可以根据需要多次绕行此环线。
+/F41DF60146E5A057D5DF9EBD8D18B20D,"You are now approaching the station. Set the Throttle to Idle and use the Train Brake to gradually apply more braking effort and come to a stop at the station. Don't worry if you miss the platform, you are free to go around this loop as many times as you want.",你正接近车站。将牵引力控制手柄置于怠速位，并使用列车制动器逐渐增加制动力，使列车停在车站。如果错过站台也不必担心，你可以根据需要多次绕行此环线。
+/798013C2470FC99D0836C995D014A8EF,You arrived later than scheduled to Exeter St Davids. Shut down the train to finish the service.,你到达埃克塞特圣戴维斯站的时间晚于计划时间。请关闭列车以结束本次服务。
+/63BB08E24D9A654E2E632FA37787285C,You can access the external camera by clicking the right stick,你可以通过点击右摇杆来使用外部摄像机
+/6C0534E641D5D847872C4880019CBB41,You can access the external camera by pressing 3 on the keyboard,你可以通过按下键盘上的 3 来使用外部摄像机
+/1648866C437074A10FF605A603BAB5C6,You can access the internal camera by clicking the right stick,你可以通过点击右摇杆来使用内部摄像机
+/AAE280D54161E932268D3BB8C3409718,You can access the internal camera by pressing 1 on the keyboard,你可以通过按下键盘上的 1 来使用内部摄像机
+/D54632164B615E85EDAE99BBFE645A1B,You can also hold ; to release the brakes,你也可以按住 ; 来缓解制动
+/0AEEA6F345D66CE832D0AABB2FA1AE49,You can also hold left bumper to release the brakes,你也可以按住左肩键来缓解制动
+/FCC49F7B4ACC22F5C8FA3EB69A5E6B8F,You can also press U to close the right hand side passenger doors,你也可以按下 U 来关闭右侧客车门
+/1CAA1D4B4A3B993734F943B927F28C65,You can also press U to open the right hand side passenger doors,你也可以按下 U 来开启右侧客车门
+/C8A0ECDE4EDEDCB482A9AA98A81759B4,You can also press Y to close the left hand side passenger doors,你也可以按下 Y 来关闭左侧客车门
+/4AEA17CA4EE2F3FEDEAC388E144BBF4F,You can also press Y to open the left hand side passenger doors,你也可以按下 Y 来开启左侧客车门
+/C17CB94E485E7AA8D7CA5D8EE968A5F6,You can also use ' to apply Braking,你也可以使用 ' 来实施制动
+/57BD24DB4108D9A245AB50932EC013C5,You can also use ' to increase the Train Brake,你也可以使用 ' 来增加列车制动力
+/0E47210744CD8B5552B81E829150FACE,You can also use ; to decrease the Train Brake,你也可以使用 ; 来减小列车制动力
+/287CB57C4744F5DAFB979FA267E17100,You can also use A to increase the Power Handle,你也可以使用 A 来增加牵引力手柄
+/57D0038E490857C50793A395D5534B5F,You can also use D to decrease the Throttle,你也可以使用 D 来减小牵引力控制手柄
+/5AEFACD74666914D975767BFBC725AF3,You can also use L1 button to decrease the Train Brake,你也可以使用 L1 键来减小列车制动力
+/B1E4E05A40790D356111CA817C0DA660,You can also use L1 button to decrease the Train Brake,你也可以使用 L1 键来减小列车制动力
+/CD735BBE4B2E1E62E5E2D2921CB93507,You can also use L1 button to release the brakes,你也可以使用 L1 键来缓解制动
+/E58201D74ACA9D3EFAEB0E83C2FE262E,You can also use L1 button to release the brakes,你也可以使用 L1 键来缓解制动
+/5E76E96F4B6836356646C583B46E4F88,You can also use L2 button to apply Braking,你也可以使用 L2 键来实施制动
+/856A82FE45E1FCF7E1DE3BAC637BEEC3,You can also use L2 button to apply Braking,你也可以使用 L2 键来实施制动
+/9E92566C40A7CE28B77FEAAC40E44181,You can also use L2 button to increase the Train Brake,你也可以使用 L2 键来增加列车制动力
+/BA18154A41263AEA8DC0609EF2EFD92E,You can also use L2 button to increase the Train Brake,你也可以使用 L2 键来增加列车制动力
+/34F14B28405BE93E3A030C8D21796557,You can also use Left Bumper to decrease the Train Brake,你也可以使用左肩键来减小列车制动力
+/6015B2354142D689159E768FA535BFA2,You can also use Left Trigger to increase the Train Brake,你也可以使用左扳机键来增加列车制动力
+/487371FA4AEEC45592E45984B36C7B61,You can also use R1 button to decrease the Throttle,你也可以使用 R1 键来减小牵引力控制手柄
+/8D6A040444F82A2CBAE41A955497F963,You can also use R1 button to decrease the Throttle,你也可以使用 R1 键来减小牵引力控制手柄
+/8983D6B942F8AB3AA75B26982DD5A784,You can also use R2 button to increase the Power Handle,你也可以使用 R2 键来增加牵引力手柄
+/CE199BBE440ECCDE50C7C6AF182D2A4B,You can also use R2 button to increase the Power Handle,你也可以使用 R2 键来增加牵引力手柄
+/C327457548AFAB08A4FF99A42D79F211,You can also use left trigger to apply Braking,你也可以使用左扳机键来实施制动
+/7CA0A0AE4FD86617B7B10C8BD3B83AD1,You can also use right bumper to decrease the Throttle,你也可以使用右肩键来减小牵引力控制手柄
+/BEB4C1464D5D7362A7CFCABF3D968F1A,You can also use right trigger to increase the Power Handle,你也可以使用右扳机键来增加牵引力手柄
+/25D8D39549FACFCDBEE37B915401958B,You can contact the signaller by pressing B,你可以通过按下 B 联络信号员
+/BB78FE3B400A4D3BFDAB95A5FA50B1E4,You can contact the signaller by pressing TAB,你可以通过按下 TAB 联络信号员
+/635B4F4547D355EA4E6BBFBE2171C4FB,You can contact the signaller by pressing circle button,你可以通过按下圆圈键联络信号员
+/D673B580490C1E5C379A048CA4A94DC9,You can contact the signaller by pressing circle button,你可以通过按下圆圈键联络信号员
+/2523C77F438883A27A9135A6B3CB897B,You can set the direction of manual junctions by either selecting them in the live map or by interacting with them on foot,你可以通过在实时地图中选择手动道岔或步行与道岔交互来设置其方向
+/575959CD4710E0CEC6279C9C61D28459,You can set the direction of manual junctions by either selecting them in the live map or by interacting with them on foot,你可以通过在实时地图中选择手动道岔或步行与道岔交互来设置其方向
+/8A11DE044720AF9771C89B8C30F40155,You can set the direction of manual junctions by either selecting them in the live map or by interacting with them on foot,你可以通过在实时地图中选择手动道岔或步行与道岔交互来设置其方向
+/B44619584F6A179D851B718FC2A57420,You can set the direction of manual junctions by either selecting them in the live map or by interacting with them on foot,你可以通过在实时地图中选择手动道岔或步行与道岔交互来设置其方向
+/BD079AA04AB38B73CED0FE964B4996DC,You drove a few more services across the Rivera Line.,你又在里维埃拉线上驾驶了几次班次。
+/66D270664E52E506770C8AA7240C07F4,You drove a few more services along the Great Western Main Line in challenging conditions.,你在恶劣天气下沿大西部干线驾驶了几次班次。
+/22C73F63433F60219F58EEA53076B466,You drove a few services across the Rivera Line.,你在里维埃拉线上驾驶了几次班次。
+/F51F6F024C37DF156ED167ACCDBD5530,You drove the Class 43 High Speed Train on some services along the Great Western Main Line.,你沿大西部干线驾驶 43 型高速列车执行了几次班次。
+/ABF84B004AB0ADF34E4E0AB9AF32AB95,"You have the privilege of deciding which service you would like to drive out of the last 4. When you have decided, head over to the railway journalist who will ask you about the service you picked. You have a few minutes to decide.",你有幸决定最后 4 个班次中你想驾驶哪一个。决定后，请前往铁路记者处，他会询问你选择的班次。你有几分钟时间考虑。
+/E7E3816143681AE2DA3163B272163282,"You have the privilege of deciding which service you would like to drive out of the last 4. When you're ready, head over to the power car you would like to drive and sit in the driver's seat. You have a few minutes to decide. ",你有幸决定最后 4 个班次中你想驾驶哪一个。准备好后，请前往你想驾驶的动力车并坐在司机座上。你有几分钟时间考虑。
+/2F74431F42D0D46F93B4BEB0663826B7,You learned how to operate the Class 43 High Speed Train.,你学会了如何操作 43 型高速列车。
+/11375F5B4812FE9C21B0FEA89B07D4D2,You mastered your journey as a driver on the Great Western Main Line with the GWR HST.,你作为司机操控 GWR HST 精通了大西部干线的旅程。
+/0CEF891647B9A8D8843A10B8E7FB288F,You mastered your journey as a driver on the Riviera Line with the GWR HST.,你作为司机操控 GWR HST 精通了里维埃拉线的旅程。
+/CD65FC484E59872C0F45B29DEAAFC9A9,You may find judging distances easier in the external camera by clicking the right stick,你可以通过点击右摇杆切换到外部摄像机，这样可能更容易判断距离
+/8646FFBC4A294F24FAC07A8F3AAAE799,You may find judging distances easier in the external camera by pressing 3 on the keyboard,你可以通过按下键盘上的 3 切换到外部摄像机，这样可能更容易判断距离
+/7A869A1C4EAB33530E4D5C941E9D95E6,You may find judging distances easier in the external camera by pressing the R3 button,你可以通过按下 R3 键切换到外部摄像机，这样可能更容易判断距离
+/A425D81A4E014F0F1068B5AED5579A98,You may find judging distances easier in the external camera by pressing the R3 button,你可以通过按下 R3 键切换到外部摄像机，这样可能更容易判断距离
+/F0DB72AC417CCA603BD91BBC306B3501,You should be given the all clear to start your journey any moment now. Prepare the train for depature and proceed when the signal allows. And watch out for keen rail fans trying to get a picture of the new livery.,你随时可能获得出发许可。请为发车做好准备，并在信号允许时前行。留意那些试图拍摄新涂装的热心铁道迷。
+/576E0C1B45F58FEE21E2E2A71DC5E11E,You will be moved back onto the fast line now for the rest of the journey into Paddington.,你现在将回到快车道，完成前往帕丁顿的余下行程。
+/CCCC18334E26B149F90BB89891264C5F,You will be taken through the critical driving controls and performing passenger operations.,你将学习关键的驾驶控制以及执行客运操作。
+/F8AB62FB455AD5A9EB7EAE842457805B,You will be taken through the critical driving controls and performing passenger operations.,你将学习关键的驾驶控制以及执行客运操作。
+/4AFC51F64194334CE6770E898E4B3C4F,"You're all clear to Reading. Enjoy the drive and make the most of your last time in a HST from Paddington. If you see any Rail Fans along the way, why not sound the horn for them.",你可以一路畅通地前往雷丁。享受这次驾驶，尽情体验最后一次从帕丁顿出发的 HST 旅程。如果沿途看到铁道迷，不妨为他们鸣笛。
+/54315577487F0CCAA53FEA987711F819,You're now clear to proceed to Laira depot.,你现在可以前往莱拉机务段。
+/09600A45490F6A9FEA66ED9ABF2BAE42,You've stopped short of the couple range. Release the brakes and apply power to move closer,你在连挂范围外就停车了。请缓解制动并施加动力以靠近。
+/5FD013B147FE4D1B4FC48AB811D2E121,You've stopped short of the couple range. Release the brakes and apply power to move closer,你在连挂范围外就停车了。请缓解制动并施加动力以靠近。
+/8685F1DA4DBBE7A8E842F79D950200EA,You've stopped short of the couple range. Release the brakes and apply power to move closer,你在连挂范围外就停车了。请缓解制动并施加动力以靠近。
+/9A9AAF094EC90E6D690FBC89FA75AD3F,You've stopped short of the couple range. Release the brakes and apply power to move closer,你在连挂范围外就停车了。请缓解制动并施加动力以靠近。
+/54C60C74446481965FC7989730D48012,the Back In Blue scenario,“重返蓝色”场景
+/B190B1EF48DE62AC692793B9F0EDDAEB,the Class 43 Introduction,43 型机车简介
+/ECD01FCB4B27FEB3EC12719E424E3B99,the Down by Dawlish scenario,“道利什之行”场景
+/1758D70542B97CEB0250BA9906911143,the Epilogue scenario,“尾声”场景
+/07AA79164D4E1D4DF1A12293B032348B,the Farewell scenario,“告别”场景
+/5DB84BB4452746C14002549A09F49A4A,the Open Day scenario,“开放日”场景
+/0308214B41AFDE8416EF42ACF34AEDAE,the Riviera Rescue scenario,“里维埃拉救援”场景
+/57247F2842AA23B4F6E0AB942FF6F973,{FirstName} {LastName},{FirstName} {LastName}

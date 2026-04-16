@@ -54,6 +54,10 @@ elif command == "extract":
         path1 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en-GB\\{packname}.locres"
         path2 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
         path = path1 if os.path.exists(path1) else path2
+        # skip godmode also.
+        if packname == "Foob_GodMode":
+            print(f"Skipping {packname}")
+            continue
         if not os.path.exists(path):
             print(f"Source file for {packname} not found, skipping.")
             continue
@@ -98,6 +102,64 @@ elif command == "pack-riviera":
         print(f"Error packing ZHLoc-riviera-fix.pak. You need repak installed.")
     else:
         print(f"Successfully packed ZHLoc-riviera-fix.pak")
+elif command == "godmode-apply":
+    # Apply godmode translation
+    packname = "Foob_GodMode"
+    csv_file = f"./csv/csv_godmode/{packname}_translated.csv"
+    if not os.path.exists(csv_file):
+        print(f"Translation file {csv_file} not found.")
+    else:
+        path = f"dist_godmode\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
+        command_str = f'.\\Utils\\UnrealLocres.exe import "{path}" "{csv_file}" -f csv -o "{path}"'
+        result = os.system(command_str)
+        if result != 0:
+            input(f"⚠ Error applying translation for {packname}, Enter to continue...")
+        else:
+            print(f"Successfully applied translation for {packname}")
+# elif command == "godmode-extract":
+#     # Extract godmode translation from original
+#     packname = "Foob_GodMode"
+#     path1 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en-GB\\{packname}.locres"
+#     path2 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
+#     path = path1 if os.path.exists(path1) else path2
+#     if not os.path.exists(path):
+#         print(f"Source file for {packname} not found.")
+#     else:
+#         output_file = f"./csv/{packname}.locres.csv"
+#         if os.path.exists(output_file):
+#             print(f"Translation file for {packname} already exists.")
+#         else:
+#             command_str = f'.\\Utils\\UnrealLocres.exe export "{path}" -o "{output_file}" -f csv'
+#             result = os.system(command_str)
+#             if result != 0:
+#                 print(f"Error extracting translation for {packname}")
+#             else:
+#                 print(f"Successfully extracted translation for {packname}")
+elif command == "godmode-pack":
+    result = os.system(f"repak pack ./dist_godmode/ ./ZHLoc-GodMode.pak --version V11")
+    if result != 0:
+        print(f"Error packing ZHLoc-GodMode.pak. You need repak installed.")
+    else:
+        print(f"Successfully packed ZHLoc-GodMode.pak")
+        # Copy the packed .pak to TSW6 UserContent.
+        source_file = os.path.abspath("./ZHLoc-GodMode.pak")
+        documents_dir = get_documents_path()
+        user_content_dir = os.path.join(
+            documents_dir, "My Games", "TrainSimWorld6", "Saved", "UserContent"
+        )
+        target_file = os.path.join(user_content_dir, "ZHLoc-GodMode.pak")
+
+        try:
+            os.makedirs(user_content_dir, exist_ok=True)
+            shutil.copy2(source_file, target_file)
+            print(f"Successfully copied ZHLoc-GodMode.pak to \"{user_content_dir}\"")
+        except Exception as exc:
+            print(
+                f"Error copying ZHLoc-GodMode.pak to UserContent folder ({user_content_dir}): {exc}"
+            )
+            print(
+                f"Please copy it manually from {source_file} to {user_content_dir}"
+            )
 elif command == "merge":
     # Find a pack with both en and zh locres, extract them all and add the missing translation from zh version.
     folder_list = os.listdir("./original/TS2Prototype/Plugins/DLC")
@@ -126,4 +188,4 @@ elif command == "merge":
         merge_csvs(f"./temp/{output_file}.en.csv", f"./temp/{output_file}.zh.csv", f"./csv/{output_file}_translated.csv")
         print(f"Successfully merged translation for {packname}")
 else:
-    print("Usage: python command_helper.py [apply|extract|pack|pack-riviera|merge]")
+    print("Usage: python command_helper.py [apply|extract|pack|pack-riviera|merge|godmode-apply|godmode-extract|godmode-pack]")
