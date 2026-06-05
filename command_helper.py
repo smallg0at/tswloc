@@ -62,9 +62,9 @@ elif command == "extract":
             print(f"Source file for {packname} not found, skipping.")
             continue
         output_file = f"./csv/{packname}.locres.csv"
-        if os.path.exists(output_file):
-            print(f"Translation file for {packname} already exists, skipping extraction.")
-            continue
+        # if os.path.exists(output_file):
+        #     print(f"Translation file for {packname} already exists, skipping extraction.")
+        #     continue
         command = f'.\\Utils\\UnrealLocres.exe export "{path}" -o "{output_file}" -f csv'
         result = os.system(command)
         if result != 0:
@@ -109,7 +109,7 @@ elif command == "godmode-apply":
     if not os.path.exists(csv_file):
         print(f"Translation file {csv_file} not found.")
     else:
-        path = f"dist_godmode\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
+        path = f"dist_godmode\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
         command_str = f'.\\Utils\\UnrealLocres.exe import "{path}" "{csv_file}" -f csv -o "{path}"'
         result = os.system(command_str)
         if result != 0:
@@ -167,14 +167,24 @@ elif command == "merge":
         packname = folder_name
         path_en1 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en-GB\\{packname}.locres"
         path_en2 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
-        path_zh = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
+        path_zh = f"dist\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
         path_en = path_en2 if os.path.exists(path_en2) else path_en1
         if not os.path.exists(path_en) or not os.path.exists(path_zh):
             print(f"Source files for {packname} not found, skipping.")
-            continue
+
         output_file = f"{packname}"
+        if "CRG" in packname:
+            # Skip BR145
+            continue
         if os.path.exists(f"./csv/{output_file}_translated.csv"):
             print(f"Merged translation file for {packname} already exists, skipping.")
+            if (
+                input(f"Override and try to merge {packname} anyway? (y/N) ").lower()
+                != "y"
+            ):
+                continue
+        else:
+            print(f"target file for {packname} not found.")
             continue
         # extract them separately and merge the results
         command_en = f'.\\Utils\\UnrealLocres.exe export "{path_en}" -o "./temp/{output_file}.en.csv" -f csv'
@@ -187,5 +197,24 @@ elif command == "merge":
         # call merge.pymerge the two csv files, prefer zh translation if en text matches
         merge_csvs(f"./temp/{output_file}.en.csv", f"./temp/{output_file}.zh.csv", f"./csv/{output_file}_translated.csv")
         print(f"Successfully merged translation for {packname}")
+elif command == "override":
+    # override all source english file to respective place for dist to merge stuff
+    # We need the target file to exist.
+    folder_list = os.listdir("./original/TS2Prototype/Plugins/DLC")
+    for folder_name in folder_list:
+        packname = folder_name
+        path_en1 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en-GB\\{packname}.locres"
+        path_en2 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
+        path_zh = f"dist\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
+        path_en = path_en2 if os.path.exists(path_en2) else path_en1
+        if not os.path.exists(path_en) or not os.path.exists(path_zh):
+            print(f"Source files for {packname} not found, skipping.")
+            continue
+        command_override = f'copy "{path_en}" "{path_zh}" /Y'
+        result_override = os.system(command_override)
+        if result_override != 0:
+            print(f"Error overriding english locres for {packname}")
+            continue
+        print(f"Successfully overridden english locres for {packname}")
 else:
     print("Usage: python command_helper.py [apply|extract|pack|pack-riviera|merge|godmode-apply|godmode-extract|godmode-pack]")

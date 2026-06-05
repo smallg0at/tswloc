@@ -26,6 +26,8 @@ def merge_csvs(file1, file2, output):
                     row[2] = value
                 else:
                     row.append(value)
+                if key == "key":
+                    row = ["key", "source", "target"]
             writer.writerow(row)
 
 if __name__ == "__main__":

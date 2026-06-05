@@ -1,4 +1,4 @@
-﻿key,source,target
+key,source,target
 /6D16B3724673166F7FE291AAFBB219FE,'Evero' Class 805,“Evero” 805型
 /F6B29972456B218B669A1CAC0983E6F8,'Evero' Class 805,“Evero” 805型
 /AC7223BB4A54091D2D8CB5AACB7F8BE3,0,0
@@ -28,7 +28,7 @@
 /D12F69064E56BD737A82F7A86F9AEBE0,A TPWS Overspeed has caused a penalty brake application. Acknowledge the alarm by pressing the Overspeed button on the TPWS control panel.,TPWS 超速警报已触发惩罚性制动。请按下TPWS控制面板上的超速按钮确认警报。
 /DEF29A7446A3491613FD38B060D31049,A TPWS SPAD has caused a penalty brake application. Acknowledge the alarm by pressing the SPAD button on the TPWS control panel.,TPWS SPAD 系统触发了惩罚制动。请按下 TPWS 控制面板上的 SPAD 按钮确认警报。
 /7DC753F148A153159BD254AA9A25352E,"A Vigilance warning was not acknowledged in time and has caused a penalty brake application. Wait for the train to come to a stop and the 60 second timer to elapse, the brakes will then release allowing you to continue.",由于未及时响应警示，列车已启动惩罚性制动。请等待列车完全停稳且60秒倒计时结束后，制动系统将自动解除，您即可继续行驶。
-/1DE452444ABE0FD36F0B0AA740D39925,A passenger door has become stuck. Indentify and manually operate the door to unstick it.,乘客车门卡住了。请找到该车门并手动操作，使其脱离卡住状态。
+/1DE452444ABE0FD36F0B0AA740D39925,A passenger door has become stuck. Identify and manually operate the door to unstick it.,乘客车门卡住了。请找到该车门并手动操作，使其脱离卡住状态。
 /A4FF980347028C09AFE42EBFAD9CAC88,AWC Class 805,AWC 805型
 /FA76408B40EF4006386772A61E9B9BFF,AWC Class 805,AWC 805型
 /A4B390984F7B1E53E5357F9A9F54BABE,AWS,AWS
@@ -416,7 +416,7 @@
 /0DA103C447AE83A5EFCCECB9A80358F6,"The Pantograph has dropped. Bring the train to a stop. Once stopped, set reverser to neutral and then try raising the pantograph.",受电弓已落下。请将列车停稳。停车后，将换向器置于空挡，然后尝试升起受电弓。
 /842C6D38457725D270FC86A185D4F9AA,The Windshield Wiper appears to have become stuck.,雨刮器好像卡住了。
 /2E31D363492442ECF22BB288CE790797,The fault has been fixed.,故障已修复。
-/AFC1BB2E4935666AFEEC3CA682C02987,This passenger door has been unstuck.,这扇乘客车门已经修好了。
+/AFC1BB2E4935666AFEEC3CA682C02987,This passenger door has been fixed.,这扇乘客车门已经修好了。
 /8A59037F48907E9AB51B8E90EFD5F96D,Traction Motor 1 Fuse,牵引电机 1 保险丝
 /BE7DD4AA4F42E08911C6E5A196DF4ED7,Traction Motor 2 Fuse,牵引电机 2 保险丝
 /1DECFA8040EB13AE772464BE929EF412,Train Door Control,列车车门控制
