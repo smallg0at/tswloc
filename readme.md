@@ -4,19 +4,19 @@
 
 This repository is the working source for my TSW Simplified Chinese localization project.
 
+The translations within this repository are made by @smallg0at, @ibox233, Saber_Pike and archetype.
+
 ## Current Repository Status
 
 - Root currently contains 25 `*.locres.csv` source tables and 25 `*_translated.csv` tables.
 - Main build output is `ZHLoc.pak`.
 - Extra patch build output is `ZHLoc-riviera-fix.pak` (Riviera display/title fix).
-- `ZHLoc-145.pak` and `!145_PartialTranslate.pak` are packaged artifacts only.
-- Important: BR145 translation content is not my translation source work in this repo, so there are no BR145 translation CSV files in the root.
+- Important: The localization sources of some packs are not seen here and you should not assume the csvs for them exist.
 
 ## Coverage in This Repo
 
-The repository includes localization/fix content for multiple third-party DLC packs (for example AWC 805, Birmingham-Crewe related content, Class 170 related content, Southern 171/377-3, Liberec-Stara Paka, and others visible in the CSV list).
+The repository includes localization/fix content for multiple third-party DLC packs. The specific list can be seen here:
 
-This matches the public mod direction and ongoing updates on Train Sim Community:
 https://www.trainsimcommunity.com/mods/c3-train-sim-world/c19-patches/i7144-dlc-145br145-third-party-dlc-simplified-chinese-localisation-and-fixes-145
 
 ## Installation
@@ -84,7 +84,7 @@ Do not unpack the entire DLC pak. First list paths and filter for localization f
 
 #### Automatic
 
-Copy getlocresscript.ps1 to the DLC folder, edit the params on the top and run it.
+Find getlocresscript.ps1, set `Set-Location` to the DLC folder, edit the params on the top and run it.
 
 You may have to tweak script running policy.
 
@@ -215,7 +215,6 @@ Enable mods in game settings (Advanced -> Enable Mods).
 ## Notes
 
 - Manuals/Liberec-Stara_Paka_Manual contains manual translation assets (including zh-CN outputs).
-- BR145 translation source CSV is intentionally not included in root because BR145 localization content is from third-party contributors; related files here are package artifacts only.
 
 ## License
 
