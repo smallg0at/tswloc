@@ -29,8 +29,8 @@ key,source,target
 /DEF29A7446A3491613FD38B060D31049,A TPWS SPAD has caused a penalty brake application. Acknowledge the alarm by pressing the SPAD button on the TPWS control panel.,TPWS SPAD 系统触发了惩罚制动。请按下 TPWS 控制面板上的 SPAD 按钮确认警报。
 /7DC753F148A153159BD254AA9A25352E,"A Vigilance warning was not acknowledged in time and has caused a penalty brake application. Wait for the train to come to a stop and the 60 second timer to elapse, the brakes will then release allowing you to continue.",由于未及时响应警示，列车已启动惩罚性制动。请等待列车完全停稳且60秒倒计时结束后，制动系统将自动解除，您即可继续行驶。
 /1DE452444ABE0FD36F0B0AA740D39925,A passenger door has become stuck. Identify and manually operate the door to unstick it.,乘客车门卡住了。请找到该车门并手动操作，使其脱离卡住状态。
-/A4FF980347028C09AFE42EBFAD9CAC88,AWC Class 805,AWC 805型
-/FA76408B40EF4006386772A61E9B9BFF,AWC Class 805,AWC 805型
+/A4FF980347028C09AFE42EBFAD9CAC88,AWC Class 805,阿万蒂西海岸 805 型
+/FA76408B40EF4006386772A61E9B9BFF,AWC Class 805,阿万蒂西海岸 805 型
 /A4B390984F7B1E53E5357F9A9F54BABE,AWS,AWS
 /F80019AD47C9AFA856DF6FA6CDBEB6B0,AWS Acknowledge,AWS 确认
 /F74DA2414C221B38EB6A6D8609D5EF2A,AWS Isolation,AWS 隔离
