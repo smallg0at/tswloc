@@ -72,7 +72,9 @@ elif command == "extract":
         else:
             print(f"Successfully extracted translation for {packname}")
 elif command == "pack":
-    result = os.system(f"repak pack ./dist/ ./ZHLoc.pak --version V11")
+    result = os.system(
+        f"repak pack ./dist/ ./ZHLoc.pak --version V11  --compression Zlib"
+    )
     if result != 0:
         print(f"Error packing ZHLoc.pak. You need repak installed.")
     else:
