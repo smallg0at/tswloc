@@ -209,9 +209,12 @@ elif command == "override":
         path_en2 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
         path_zh = f"dist\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
         path_en = path_en2 if os.path.exists(path_en2) else path_en1
-        if not os.path.exists(path_en) or not os.path.exists(path_zh):
+        if not os.path.exists(path_en):
             print(f"Source files for {packname} not found, skipping.")
             continue
+        if not os.path.exists(path_zh):
+            # Create the folder if not exist to avoid copy error.
+            os.makedirs(os.path.dirname(path_zh), exist_ok=True)
         command_override = f'copy "{path_en}" "{path_zh}" /Y'
         result_override = os.system(command_override)
         if result_override != 0:
