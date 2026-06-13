@@ -1002,7 +1002,7 @@
 /5E07D1C34DB52F1EC279428CB236CDDD,Navigation Hub Track 3,导航枢纽3号股道
 /74D54C724ED477EABE7276A4BD32E8CF,New Bilton Sidings Entry,新比尔顿避让线入口
 /6A6012E04CAD3C89F48C2DB6D3A94014,"Next, press the RA (Right Away) button on the TRTS. This will give the driver the indication to depart.",接下来，按下 TRTS 上的 RA（发车）按钮。这将向司机发出允许发车的信号。
-/4D87CD8144C1DA6DBC298AB2D4998E6F,"Now TRTS is active, wait for the train’s booked departure time before starting the dispatch procedure.",现在发车准备就绪信号系统（TRTS）已激活，请等待到列车规定的发车时间，然后开始发车程序。
+/4D87CD8144C1DA6DBC298AB2D4998E6F,"Now TRTS is active, wait for the train’s booked departure time before starting the dispatch procedure.",现在 TRTS 已激活，请等待到列车规定的发车时间，然后开始发车程序。
 /CCA011FD43AE35930818F389208F8A7E,"Now the train is set up, we can now depart. Due to a blanket emergency speed restriction, your train will be limited to 50 mph.",现在列车已准备就绪，我们可以出发了。由于区间临时限速，您的列车限速为 50 英里/小时。
 /520726FE4572FA7ABAC2C2B7DB241568,Nuneaton Platform 2,纽尼顿2号站台
 /77CB577F4D1623E711277987FE91338E,Nuneaton Platform 4,纽尼顿4号站台
@@ -1784,7 +1784,7 @@
 /8A9CCF5947DD0CCFF0816E8105A44BAB,TRTS,列车就绪发车信号
 /D1E29A6C4DB04B3F3123D786FE7A6EC4,TRTS,列车就绪发车信号
 /DCC440BA4488EE366890DEBB6B7C7EF8,TRTS,列车就绪发车信号
-/5AC705654C7AE66C8B33B3822BC75239,Take on the tasks as a platform dispatcher at Rugby using TRTS.,利用列车就绪发车信号扮演拉格比站的站台调度员任务。
+/5AC705654C7AE66C8B33B3822BC75239,Take on the tasks as a platform dispatcher at Rugby using TRTS.,利用 TRTS 执行拉格比站的站台调度任务。
 /46352EA54FE73558FD0B91959E88D132,Take out the Master Key,拔出主钥匙
 /14567C484AB9692EA73B348672D0A0FA,Take out the Master Key.,拔出主钥匙。
 /23E7BDB64AD325ED00C62A8AEB98850F,Take out the Master Key.,拔出主钥匙。
@@ -2015,7 +2015,7 @@
 /EEAC6182459B4EDB543E5F8C78839B39,Walk over to your train and set it up so you can depart northbound to rescue the train at Polesworth.,走到您的列车旁并进行整备，以便您可以向北出发去救援在波尔斯沃思的故障列车。
 /6D1F2F54439F9920F4D015A9D4432BA9,Walk to platform 6.,步行至6站台。
 /C6ED964A47F05BDBE3B6499E522083A9,Walk to the Breakroom.,步行至休息室。
-/F97D04314212CE377F6370B51EBBE026,Walk to the TRTS box on platform 2.,步行至2站台的站台发车查询终端（TDEU）箱。
+/F97D04314212CE377F6370B51EBBE026,Walk to the TRTS box on platform 2.,步行至2站台的 TRTS 箱。
 /5F35A94A43A17AB99CCC4A95D3EB1673,Walk to the dispatch point on platform 4.,步行至4站台的发车点。
 /1A1598294079265E2AA20FA7CF5D2758,Walk to the dispatch point.,步行至发车点。
 /62C54B1A44FA3E9F1732A7980649C2CA,Walk to the dispatch point.,步行至发车点。
