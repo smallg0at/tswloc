@@ -1,6 +1,6 @@
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "GJL_Gameplay_translated.csv"
+FILE = "csv_godmode/Foob_GodMode_translated.csv"
 
 import pandas as pd
 from google.cloud import translate_v2 as translate

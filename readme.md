@@ -225,12 +225,12 @@ Enable mods in game settings (Advanced -> Enable Mods).
 
     > [!WARNING]
     > Matching is by key only, not by text diff. If the patch edits the English text under a key that already existed, `merge` still carries over the *old* translation under that key without flagging it. Spot check if you suspect in-place text edits.
-3. Run `python command_helper.py override`. This force-copies the (now updated) en/en-GB locres over the zh slot in `dist/` for every pack, rebuilding each one's key structure to match current `original/` content. This is safe now because step 2 already pulled every translation you care about into the csvs — `override` only touches the `dist/` binaries, never the csvs.
+3. Run `python command_helper.py override` (or `godmode-override` for Foob_GodMode). This force-copies the (now updated) en/en-GB locres over the zh slot in `dist/` (or `dist_godmode/`) for every pack, rebuilding each one's key structure to match current `original/` content. This is safe now because step 2 already pulled every translation you care about into the csvs — `override`/`godmode-override` only touch the dist binaries, never the csvs.
 4. Fill in the new `TBT` rows in `./csv/<PackName>_translated.csv`:
    - `python reprocess.py ./csv/<PackName>_translated.csv` first — fills any `TBT` row whose `source` text exactly matches another row that's already translated, for free.
    - Then set `FILE = "<PackName>_translated.csv"` in translate-next-tbt.py and run it — it AI-translates only the rows still marked `TBT` and overwrites the same file in place, leaving everything else untouched.
    - Manually QA the newly translated rows (see steps 7-8).
-5. `python command_helper.py apply` then `python command_helper.py pack` (or the `godmode-*` equivalents for Foob_GodMode, using `godmode-extract` in place of `merge` in step 2).
+5. `python command_helper.py apply` then `python command_helper.py pack` (or the `godmode-*` equivalents for Foob_GodMode: `godmode-extract` in place of `merge` in step 2, `godmode-apply`, `godmode-pack`).
 
 ## command_helper.py Command Reference
 
@@ -241,10 +241,11 @@ Run `python command_helper.py` with no arguments to print this list.
 | `extract` | Exports en/en-GB locres from `original/` into `./csv/<PackName>.locres.csv` for every pack (skips `Foob_GodMode`). |
 | `apply` | Imports every `./csv/*_translated.csv` back into `dist/.../zh/<PackName>.locres`. |
 | `merge` | For a pack that already has a `./csv/<PackName>_translated.csv`, re-exports both the en and the current zh locres and merges them, preferring the existing zh text where the en source still matches. Useful after a DLC update added new strings to re-sync without losing existing translations. Asks for confirmation before overwriting, and skips packs with no existing translated csv. |
-| `override` | Force-copies the en/en-GB locres over the zh slot in `dist/` for every pack, unconditionally and without confirmation. Rebuilds each pack's key structure to match current `original/` content — required after a DLC patch adds new strings, and only safe to run after `merge` has harvested existing translations into the csvs (see section 12). |
+| `override` | Force-copies the en/en-GB locres over the zh slot in `dist/` for every pack (skips `Foob_GodMode`), unconditionally and without confirmation. Rebuilds each pack's key structure to match current `original/` content — required after a DLC patch adds new strings, and only safe to run after `merge` has harvested existing translations into the csvs (see section 12). |
 | `pack` | Runs `repak` on `dist/` to build `ZHLoc.pak`, then copies it into the TSW6 UserContent folder. |
 | `pack-riviera` | Runs `repak` on `riviera_patch/` to build `ZHLoc-riviera-fix.pak`. |
 | `godmode-extract` | Same idea as `merge`, scoped to the `Foob_GodMode` pack: merges `original/` (en) and `dist_godmode/` (zh) into `./csv/csv_godmode/Foob_GodMode_translated.csv`. |
+| `godmode-override` | Same idea as `override`, scoped to the `Foob_GodMode` pack: force-copies en/en-GB locres over the zh slot in `dist_godmode/`. |
 | `godmode-apply` | Imports `./csv/csv_godmode/Foob_GodMode_translated.csv` into `dist_godmode/.../zh/Foob_GodMode.locres`. |
 | `godmode-pack` | Runs `repak` on `dist_godmode/` to build `ZHLoc-GodMode.pak`, then copies it into the TSW6 UserContent folder. |
 

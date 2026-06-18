@@ -147,6 +147,25 @@ elif command == "godmode-extract":
             else:
                 merge_csvs(f"./temp/{packname}.en.csv", f"./temp/{packname}.zh.csv", output_file)
                 print(f"Successfully merged translation for {packname}")
+elif command == "godmode-override":
+    # override godmode's source english locres into dist_godmode, rebuilding its key structure
+    # so a subsequent godmode-apply can write newly added keys (see "override" for the non-godmode equivalent).
+    packname = "Foob_GodMode"
+    path_en1 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en-GB\\{packname}.locres"
+    path_en2 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
+    path_zh = f"dist_godmode\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
+    path_en = path_en2 if os.path.exists(path_en2) else path_en1
+    if not os.path.exists(path_en):
+        print(f"Source files for {packname} not found.")
+    else:
+        if not os.path.exists(path_zh):
+            os.makedirs(os.path.dirname(path_zh), exist_ok=True)
+        command_override = f'copy "{path_en}" "{path_zh}" /Y'
+        result_override = os.system(command_override)
+        if result_override != 0:
+            print(f"Error overriding english locres for {packname}")
+        else:
+            print(f"Successfully overridden english locres for {packname}")
 elif command == "godmode-pack":
     result = os.system(f"repak pack ./dist_godmode/ ./ZHLoc-GodMode.pak --version V11")
     if result != 0:
@@ -220,6 +239,10 @@ elif command == "override":
         path_en2 = f"original\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\en\\{packname}.locres"
         path_zh = f"dist\\TS2Prototype\\Plugins\\DLC\\{packname}\\Content\\Localization\\{packname}\\zh\\{packname}.locres"
         path_en = path_en2 if os.path.exists(path_en2) else path_en1
+        # skip godmode, it uses a separate dist_godmode tree (see godmode-override).
+        if packname == "Foob_GodMode":
+            print(f"Skipping {packname}")
+            continue
         if not os.path.exists(path_en):
             print(f"Source files for {packname} not found, skipping.")
             continue
@@ -239,9 +262,10 @@ else:
     print("  extract          Export en/en-GB locres from original/ into ./csv/<PackName>.locres.csv (skips Foob_GodMode)")
     print("  apply            Import every ./csv/*_translated.csv back into dist/.../zh/<PackName>.locres")
     print("  merge            Re-export en+zh locres for a pack and merge into ./csv/<PackName>_translated.csv, preferring existing zh text over en")
-    print("  override         Copy en/en-GB locres over the zh slot in dist/ (placeholder before translation exists)")
+    print("  override         Force-copy en/en-GB locres over the zh slot in dist/ for every pack (skips Foob_GodMode), rebuilding key structure after a DLC patch")
     print("  pack             repak dist/ into ZHLoc.pak and copy it to the TSW6 UserContent folder")
     print("  pack-riviera     repak riviera_patch/ into ZHLoc-riviera-fix.pak")
     print("  godmode-extract  Same as merge, but for the Foob_GodMode pack (original/ + dist_godmode/ -> ./csv/csv_godmode/)")
+    print("  godmode-override Same as override, but for the Foob_GodMode pack (original/ -> dist_godmode/)")
     print("  godmode-apply    Import ./csv/csv_godmode/Foob_GodMode_translated.csv into dist_godmode/.../zh/Foob_GodMode.locres")
     print("  godmode-pack     repak dist_godmode/ into ZHLoc-GodMode.pak and copy it to the TSW6 UserContent folder")

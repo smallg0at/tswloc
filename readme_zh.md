@@ -225,12 +225,12 @@ Epic：
 
     > [!WARNING]
     > 匹配只按 `key` 进行，不会比较文本内容。如果补丁修改了某个已存在 key 下的英文文本，`merge` 仍会把*旧*翻译原样保留在该 key 下，而不会有任何提示。如果你怀疑有原地修改文本的情况，请手动抽查。
-3. 运行 `python command_helper.py override`。它会把（已更新的）en/en-GB locres 强制复制到 `dist/` 中每一个 DLC 的 zh 槽位，重建每个 DLC 的 key 结构以匹配当前 original/ 的内容。此时这样做是安全的，因为第 2 步已经把你关心的所有翻译都收集进了 csv 中——`override` 只会改动 `dist/` 里的二进制文件，不会动 csv。
+3. 运行 `python command_helper.py override`（如果是 Foob_GodMode，则运行 `godmode-override`）。它会把（已更新的）en/en-GB locres 强制复制到 `dist/`（或 `dist_godmode/`）中每一个 DLC 的 zh 槽位，重建每个 DLC 的 key 结构以匹配当前 original/ 的内容。此时这样做是安全的，因为第 2 步已经把你关心的所有翻译都收集进了 csv 中——`override`/`godmode-override` 只会改动 dist 里的二进制文件，不会动 csv。
 4. 填写 `./csv/<PackName>_translated.csv` 中新增的 `TBT` 行：
    - 先运行 `python reprocess.py ./csv/<PackName>_translated.csv`——它会免费填充那些 `source` 文本与某一行已翻译内容完全相同的 `TBT` 行。
    - 然后在 translate-next-tbt.py 中设置 `FILE = "<PackName>_translated.csv"` 并运行——它只会用 AI 翻译仍标记为 `TBT` 的行，并原地覆盖同一个文件，其余内容保持不变。
    - 对新翻译的行进行人工质检（参见第 7-8 节）。
-5. 依次运行 `python command_helper.py apply` 和 `python command_helper.py pack`（如果是 Foob_GodMode，则使用对应的 `godmode-*` 命令，并在第 2 步中用 `godmode-extract` 代替 `merge`）。
+5. 依次运行 `python command_helper.py apply` 和 `python command_helper.py pack`（如果是 Foob_GodMode，则依次使用 `godmode-extract`（代替第 2 步中的 `merge`）、`godmode-apply`、`godmode-pack`）。
 
 ## command_helper.py 命令参考
 
@@ -241,10 +241,11 @@ Epic：
 | `extract` | 将 `original/` 中的 en/en-GB locres 导出为每个 DLC 对应的 `./csv/<PackName>.locres.csv`（跳过 `Foob_GodMode`）。 |
 | `apply` | 将每个 `./csv/*_translated.csv` 导入回 `dist/.../zh/<PackName>.locres`。 |
 | `merge` | 对于已存在 `./csv/<PackName>_translated.csv` 的 DLC，重新导出 en 和当前的 zh locres 并合并，在 en 源文本仍匹配的情况下优先保留已有的 zh 文本。适用于 DLC 更新新增字符串后的重新同步，不会丢失已有翻译。覆盖前会要求确认，并跳过没有已存在翻译 csv 的 DLC。 |
-| `override` | 无条件地、不经确认地将 en/en-GB locres 强制复制到 `dist/` 中每一个 DLC 的 zh 槽位。重建每个 DLC 的 key 结构以匹配当前 `original/` 内容——在 DLC 补丁新增字符串后必须运行，且只有在 `merge` 已经把现有翻译收集进 csv 之后才能安全运行（见第 12 节）。 |
+| `override` | 无条件地、不经确认地将 en/en-GB locres 强制复制到 `dist/` 中每一个 DLC 的 zh 槽位（跳过 `Foob_GodMode`）。重建每个 DLC 的 key 结构以匹配当前 `original/` 内容——在 DLC 补丁新增字符串后必须运行，且只有在 `merge` 已经把现有翻译收集进 csv 之后才能安全运行（见第 12 节）。 |
 | `pack` | 对 `dist/` 运行 `repak` 构建 `ZHLoc.pak`，然后将其复制到 TSW6 的 UserContent 文件夹。 |
 | `pack-riviera` | 对 `riviera_patch/` 运行 `repak` 构建 `ZHLoc-riviera-fix.pak`。 |
 | `godmode-extract` | 与 `merge` 思路相同，专门针对 `Foob_GodMode`：将 `original/`（en）与 `dist_godmode/`（zh）合并为 `./csv/csv_godmode/Foob_GodMode_translated.csv`。 |
+| `godmode-override` | 与 `override` 思路相同，专门针对 `Foob_GodMode`：将 en/en-GB locres 强制复制到 `dist_godmode/` 的 zh 槽位。 |
 | `godmode-apply` | 将 `./csv/csv_godmode/Foob_GodMode_translated.csv` 导入 `dist_godmode/.../zh/Foob_GodMode.locres`。 |
 | `godmode-pack` | 对 `dist_godmode/` 运行 `repak` 构建 `ZHLoc-GodMode.pak`，然后将其复制到 TSW6 的 UserContent 文件夹。 |
 
