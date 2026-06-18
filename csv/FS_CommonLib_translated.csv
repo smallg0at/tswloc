@@ -1,7 +1,20 @@
 ﻿key,source,target
 /E85CF5B64E66BD188C54ABBAD531BC7B,992,992
+/6A147EE2458FF1B9077A87A9A27B053D,Become Dispatcher,担任站台发车员
+/9E10E6C94729F80107AAC598C68052FF,Can't Dispatch Here!,无法在此处发车！
+/195728EC4A1FD24EBF52A89F5A025D33,"Ensure that all doors are closed, the platform is clear, and that the signal ahead showing a Proceed aspect before clearing the train for departure.",在准许列车发车前，请确保所有车门均已关闭、站台安全无虞且前方信号机显示进行信号。
+/F81378C44A8D5ADA3F02CB9194B6A0A7,Platform Dispatcher,站台发车员
+/49AC31634AB51191B2E599B18C827F2D,Platform Dispatcher - Active,站台发车员 - 进行中
+/4DAB69ED43046F693E8F60A0E0EF0E0F,Platform Dispatcher - Complete,站台发车员 - 已完成
+/C21B75584DA11DA10DF9D581A4A5B45C,Platform Dispatcher - Next Step,站台发车员 - 下一步
+/1CD034D44685CDAE8A9EA3A9B6DED60E,Platform Dispatcher Session Ended,站台发车员任务已结束
+/780F6B054AEDD46292F13BBF5CD95F85,Platform Dispatcher Session Ended,站台发车员任务已结束
+/9B1A86FD40C32912692F3F8F1F2488EE,Platform Dispatcher Session Ended,站台发车员任务已结束
+/BE7A533E4E285EBF7A3C949449C35DEB,Platform Dispatcher Session Ended,站台发车员任务已结束
+/E6720EEB48CDF558DEF7D8A55C1F45AF,Press [button] to signal that it's safe to close the doors.,按 [button] 确认可以安全关闭车门。
+/0D8820AF476432A5E68058BE2CC047AE,Press [button] to signal that it's safe to depart.,按 [button] 确认可以安全发车。
 /338EA62B418C71010C3B9EB938FE5220,Pressed,已按下
-/F30D256A42ADFA06B62637885775B559,Request to Cross,请求越过
+/F30D256A42ADFA06B62637885775B559,Request to Cross,请求通过
 /6A20EE1C4776848BADD832A8E50F3503,"Service {Service}
 Scheduled time with lateness: {Hr}:{Min}
 Delay mins: {Delay}
@@ -10,6 +23,18 @@ Scheduled time with lateness: {Hr}:{Min}
 Delay mins: {Delay}
 Mins until arrival {ArrivalMins}"
 /793F287E420E3F4DE82829BCE57DA636,Set (SYSTEM) SparkAudio,Set (SYSTEM) SparkAudio
+/25AAA333486409B477B6D68FCEE4084B,Stop Dispatching,停止发车工作
+/BDF252D34CECD7C1E97B66B41AAD5169,"Well done, this train will now depart.
+Keep an eye on it as it leaves the station, then your duties for this train are complete.","做得好，这趟列车现在将要发车。
+在列车驶离车站时密切关注其状态，随后你对该列车的工作便宣告完成。"
+/3BEFC9C94C528CA7F3A43ABA8F910472,You are now a platform dispatcher! Ensure passenger safety and a safe dispatch for trains leaving this platform.,你现在是一名站台发车员！请确保旅客安全并保证从该站台驶离的列车安全发车。
+/41FC407F4329C9809FB84D9EB1BC8F68,You can't start dispatching as you are currently driving a service.,由于你当前正在驾驶列车，因此无法开始发车工作。
+/F5DE513A4B0C49DED2358C93C3177415,You can't start dispatching as you are currently in Guard Mode.,由于你当前处于乘务员模式，因此无法开始发车工作。
+/14AA1A254E8CFB1A484401B76A8E0AB3,You can't start dispatching at this platform as you are still dispatching at another location. Put your equipment away and try again.,你无法在此站台开始发车工作，因为你仍在另一地点执行发车任务。请收起你的装备并重试。
+/EECC970A42C2D4743476A7946190D333,Your dispatcher session has ended as you entered Guard Mode.,由于你进入了乘务员模式，你的发车员任务已结束。
+/76BBD306472DDB08DEEED596F2227BD7,Your dispatcher session has ended as you have started driving a train.,由于你已开始驾驶列车，你的发车员任务已结束。
+/94D8EE0649B1F992188911AEFF0B0BD0,Your dispatcher session has ended as you have travelled too far away from the station.,由于你距离车站过远，你的发车员任务已结束。
+/8283094C439547AFA952C084D9726315,Your next train is due to depart at {HH}:{MM}.,你的下一班列车预定于 {HH}:{MM} 发车。
 /DBDDE5B0495FB262680FAFA168475FDB,"{Index}
 ID: {ID}","{Index}
 ID：{ID}"

@@ -20,7 +20,7 @@ key,source,target
 /189FC3E0462085C6DB9C968419753064,================,================
 /40FB8F0440A561B9ECA7CA879B107B89,====================,====================
 /4C162780489CDB7D23D4D8A9BE61616B,====================,====================
-/1DE452444ABE0FD36F0B0AA740D39925,A passenger door has become stuck. Indentify and manually operate the door to unstick it.,乘客侧车门卡住了。请找到该车门并手动操作，使其脱离卡住状态。
+/1DE452444ABE0FD36F0B0AA740D39925,A passenger door has become stuck. Identify and manually operate the door to unstick it.,乘客侧车门卡住了。请找到该车门并手动操作，使其脱离卡住状态。
 /3DCB07BE4CC64F8C1CC5D2937F413D00,AC Power,交流电源
 /4863A3B94CEAB3BB51E4459FA637B4DE,AWS Acknowledge,AWS 确认
 /1DE8D435434011EAEF0906B19531BEB0,"AWS has forced a penalty brake, reset AWS and wait until penalty duration times out to begin taking power again.",AWS 已强制执行惩罚性制动，将重置 AWS 并等待惩罚持续时间结束后再开始恢复供电。
@@ -406,7 +406,7 @@ key,source,target
 /2E31D363492442ECF22BB288CE790797,The fault has been fixed.,故障已修复。
 /0CA57BBB4EF64115C43EFD9E43DC8938,The pantograph is blocked. Bring the train to a stop and try dropping the pantograph then raising it again.,受电弓被卡住了。请将列车停下，然后尝试放下受电弓再将其升起。
 /733434AB48B77263C4ED8CBFDE49FBD0,Third Rail Collector,第三轨集电装置
-/AFC1BB2E4935666AFEEC3CA682C02987,This passenger door has been unstuck.,这扇乘客车门已经修好了。
+/AFC1BB2E4935666AFEEC3CA682C02987,This passenger door has been fixed.,这扇乘客车门已经修好了。
 /2F8D34094F40DD3C50FADBBA0C87365A,Traction lock will not release while the passenger doors are open or unlocked.,当乘客车门打开或解锁时，牵引锁不会解除。
 /D9C808B648913ED421C878BC03E734F2,Traction lock will not release whilst either cab door is open.,当驾驶室任一车门打开时，牵引锁将不会解除。
 /1BEAE7AD40895E318A5EADB6DB705C94,Train Management System,列车管理系统

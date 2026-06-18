@@ -1,4 +1,4 @@
-key,source,target
+﻿key,source,target
 /734474AA437A2A7268F454852B3CB96E,1A15: Liverpool Lime Street to London Euston,1A15 利物浦莱姆街至伦敦尤斯顿
 /CFA50CC14D15F5CE7BA2FAB612331C47,1A20: Liverpool Lime Street to London Euston,1A20 利物浦莱姆街至伦敦尤斯顿
 /D9E20BD640338E81BBEB32872C841E69,1A25: Liverpool Lime Street to London Euston,1A25 利物浦莱姆街至伦敦尤斯顿
@@ -261,14 +261,16 @@ key,source,target
 /690C7665459DAEA07B40C6A699A9E579,1V69: Manchester Piccadilly to Bristol Temple Meads,1V69 曼彻斯特皮卡迪利至布里斯托圣殿草地
 /480F4A0247985FC5AEA5DBAF3A253E0E,1W99: London Euston to Crewe,1W99 伦敦尤斯顿至克鲁
 /A5FD1CEF4AF708B99CAD18A93556E97A,1Y04: Wolverhampton to London Euston,1Y04 伍尔弗汉普顿至伦敦尤斯顿
-/C56A27C54475DA1DA43124848154F8D3,1Z01: London Paddington to Liverpool Lime Street,1Z01 伦敦帕丁顿至利物浦莱姆街
+/55009FBB4470729F7F167A8E4DC649AC,1Z01: London Paddington to Liverpool Lime Street,1Z01 伦敦帕丁顿至利物浦莱姆街
+/B03D6C9C43B89C50C6FD3785B3F427E2,1Z01: London Paddington to Liverpool Lime Street,1Z01 伦敦帕丁顿至利物浦莱姆街
+/B04C6712490705698CFD65A51FE6EAA2,1Z01: London Paddington to Liverpool Lime Street,1Z01 伦敦帕丁顿至利物浦莱姆街
 /91615A7B4ABCE2A6FB7B329CBB236E93,1Z21: Wolverhampton to London Euston,1Z21 伍尔弗汉普顿至伦敦尤斯顿
-/B1FCAEEF48405E1BB10B638F8FD37B3C,1Z60: Birmingham New Street to Glasgow Central,1Z60 伯明翰新街至格拉斯哥中央
-/F4FFB36744434289FB71239792898F06,1Z60: Birmingham New Street to Glasgow Central,1Z60 伯明翰新街至格拉斯哥中央
-/C49CCDD04FE1C03EE17166B505FA9EA3,1Z82: Barrow-in-Furness to London Euston,1Z82 巴罗因弗内斯至伦敦尤斯顿
-/FE717D004ACBABB7FA4368922B30F678,1Z83: London Euston to Barrow-in-Furness,1Z83 伦敦尤斯顿至巴罗因弗内斯
-/0EF3CB3E4F9BC7AF6EE6E4B01539E525,1Z98: London Euston to Carlisle,1Z98 伦敦尤斯顿至卡莱尔
-/521A328B413CF06E5C8564B66ED240DC,1Z99: Carlisle to London Euston,1Z99 卡莱尔至伦敦尤斯顿
+/063C307245B8BE3E09DBFBB7C7E6FE36,1Z60: Birmingham New Street to Glasgow Central,1Z60 伯明翰新街至格拉斯哥中央
+/446FCE5B462F8B6979589CA34061457D,1Z60: Birmingham New Street to Glasgow Central,1Z60 伯明翰新街至格拉斯哥中央
+/9C20B1AB4D2046D4299A4E9CF33DC5C1,1Z82: Barrow-in-Furness to London Euston,1Z82 巴罗因弗内斯至伦敦尤斯顿
+/0B8259A342A62728A356389FCE7EE0EB,1Z83: London Euston to Barrow-in-Furness,1Z83 伦敦尤斯顿至巴罗因弗内斯
+/48D51DCE4D157ADD1210689ECE177A3A,1Z98: London Euston to Carlisle,1Z98 伦敦尤斯顿至卡莱尔
+/A1AF554447B351F3D5912D95D556039B,1Z99: Carlisle to London Euston,1Z99 卡莱尔至伦敦尤斯顿
 /47D0D989443281169830BFA1D9BE218D,2019 Weekday Timetable Services,2019年工作日时刻表服务
 /6AADBB3A47D7BC357E0E7B82741E9943,2A02: Shrewsbury to Walsall,2A02 什鲁斯伯里至沃尔索尔
 /730544E1436865C90AB6ECB88CB6C1E1,2A06: Shrewsbury to Walsall,2A06 什鲁斯伯里至沃尔索尔
@@ -445,9 +447,10 @@ key,source,target
 /7155855044D50F57A6F15B9F7F19AE3F,5W82 Pt.1: Birmingham New Street to Soho LMD,5W82 第 1 部分 伯明翰新街至索霍机车维护段
 /AD05F3184FBABCF46E718087E33AA683,5W82 Pt.2: Birmingham New Street to Soho LMD,5W82 第 2 部分 伯明翰新街至索霍机车维护段
 /8A3597D24A683B4435D50F957778BA88,5Y78: Crewe C.S to Crewe,5Y78 克鲁车辆段至克鲁
-/368279D64F5329D1A0010A81D5CC8E6A,5Z60: Crewe to Birmingham New Street,5Z60 克鲁至伯明翰新街
-/8FE095FC4D1247D4408E7586F8A7D7C6,5Z60: Crewe to Birmingham New Street,5Z60 克鲁至伯明翰新街
-/CD462A9A4C2DA653909B5EAF1CE02ED7,5Z60: Crewe to Birmingham New Street,5Z60 克鲁至伯明翰新街
+/290513FF42A8851CBA30FBAA131D13AF,5Z60: Crewe to Birmingham New Street,5Z60 克鲁至伯明翰新街
+/6DF2F8884AA212B2DF89A3967D62FEED,5Z60: Crewe to Birmingham New Street,5Z60 克鲁至伯明翰新街
+/B48D05C943268EEBFCF697B4A1FAF1AB,5Z60: Crewe to Birmingham New Street,5Z60 克鲁至伯明翰新街
+/DB03319D4968E356157D41B2057F475D,5Z60: Crewe to Birmingham New Street,5Z60 克鲁至伯明翰新街
 /637B8DC3428B2DDAEB943CA9D8023429,6H11: DB Cargo Fan A & B SDGS to Dowlow Briggs SDGS,6H11 DB Cargo Bescot 场站 A & B 扇形编组线 至 Dowlow Briggs 侧线
 /981043AB4835752ABEC15D9FF18D63BB,6V11: Dowlow Briggs SDGS to Theale Hope Cement,6V11 道洛布里格斯专用侧线至西奥尔希普水泥终端
 /F857133C4B1EA5D30B43A4A0AE0AF896,6V51: Tunstead SDGS to Park Royal Marcon,6V51 滕斯特德专用侧线至公园皇家马康
@@ -773,10 +776,10 @@ key,source,target
 /18135DA34AF787FFC0D642AD6B76367C,CONTACT SIGNALLER,联系信号员
 /1DC436504B7CE969505126866200E1DF,CONTACT SIGNALLER,联系信号员
 /B87C32614A9EEE253EF9539736635509,CONTINGENCY MEASURES,应急措施
-/C808FC5446EDD0FABAFCEF849C21D7D0,Class 220 XC Voyager,220型XC Voyager
-/9E70C4454B2DE62341498CB7B398BA5E,Class 350/1 [Loaded],350/1型 满载
-/243CE49E4AB0B37DEDF48FA8B21F7D41,Class 86 Railtour,86型 铁路旅游列车
-/65A8899B4621282EF2BCA498C164EDF1,Class 87 Railtour,87型 铁路旅游列车
+/C808FC5446EDD0FABAFCEF849C21D7D0,Class 220 XC Voyager,220 型XC Voyager
+/9E70C4454B2DE62341498CB7B398BA5E,Class 350/1 [Loaded],350/1 型 [载客]
+/C2365C3641D3F45DB66589815A97F9D7,Class 86 Railtour,86 型电力机车铁路巡游
+/F4FA8141463B604DA84E96844BB4223A,Class 87 Railtour,87 型电力机车铁路巡游
 /54AECAEB445FD1BCA8DFCF9A91E3083D,Click the Right Mouse button to switch between Look and Control modes,点击鼠标右键可在观察模式和控制模式之间切换
 /DECB4972407E6D1B556D7DAFFA1A559B,Click the Right Mouse button to switch between Look and Control modes,点击鼠标右键可在观察模式和控制模式之间切换
 /EC58AED14BBBFEED8F7612912AB51925,Click the Right Mouse button to switch between Look and Control modes,点击鼠标右键可在观察模式和控制模式之间切换
@@ -866,7 +869,7 @@ key,source,target
 /F33C2BE145AE80AFF4436AAB0CBCEE7F,FL Shunt Move: FL Engine Shed to Crewe Basford Hall Part 4,FL 调车移动：FL 机车库至克鲁巴斯福德霍尔 第 4 部分
 /9CFD0C8E4A4810A50C6C8A915BE533CA,FL Shunt Move: FL Engine Shed to Crewe Basford Hall Part 5,FL 调车移动：FL 机车库至克鲁巴斯福德霍尔 第 5 部分
 /21DF4F7F4E20150B65D3A6A941B3396E,FL Shunt Move:2 FL Engine Shed to Crewe Basford Hall Part 2,FL 调车移动 2：FL 机车库至克鲁巴斯福德霍尔 第 2 部分
-/03DBD2894CF815B2EC53C0A4F7E75A8C,Flying Scotsman Railtour,飞翔的苏格兰人 铁路旅游列车
+/12740EB7465BC0BA2F005288F5982687,Flying Scotsman Railtour,飞天苏格兰人号铁路巡游
 /884239484FB255C9BCB892B42BA8C09B,Follow the instructions to shutdown the cab and to uncouple the two units.,按照指示关闭司机室并解编两节列车。
 /D6F4BA3946DE8F9916504EB5A4FF17AF,Follow the instructions to shutdown the cab and to uncouple the two units.,按照指示关闭司机室并解编两节列车。
 /5BB140EC44E0A51D6A3E7DB0AF268B79,Follow the marker to your train.,跟随标记前往你的列车。
@@ -937,7 +940,7 @@ key,source,target
 /DA5EB2624DDD16833BD62F849A5D903F,LADDER,梯子
 /E6AFAF8243B07E73E48BF585921F7D75,LADDER,梯子
 /F55F95E440A140721782FDB57D41249B,LADDER,梯子
-/F2B1E3064E8E8052E5B2B8AA80BBEB84,LMS Jubilee Railtour,LMS 银禧型 铁路旅游列车
+/F98FE9024B2530E112EB369678815E47,LMS Jubilee Railtour,LMS 银禧型蒸汽机车铁路巡游
 /3449579A4E0B9CE0E735BA98A7CECF75,LNR Class 350/1 [8 Car] [Empty] ,LNR 350/1 型 [8 编组] [空车]
 /36D648974DFB9BD282C28996557AEBF5,LNR Class 350/1 [Empty],LNR 350/1 型 [空车]
 /215D0967497A455565E37D8D7BEAC103,LNR Class 350/1 [Loaded],LNR 350/1 型 [载客]
@@ -1117,7 +1120,7 @@ key,source,target
 /4A6F55814A8DE7C6C2323BA4F6C99CAF,Operate this ECS Class 350 service from Crewe to Stafford,驾驶本次350型空车回送从克鲁至斯塔福德的服务
 /D3FD603F4217A3F7C51FF08755BD7849,Operate this ECS move from Wolverhampton to Oxley Car M.D.,驾驶本次空车回送从伍尔弗汉普顿至奥克斯利车辆维护场。
 /479FED2A463BEE3E37FC1481F68A0413,Operate this ECS movement from Crewe C.S to Crewe,驾驶本次空车回送从克鲁客车侧线至克鲁
-/913164704A1F11F44FF8F99D21E922A9,Operate this ECS movement from Crewe to Wolverhampton.,驾驶本次空车回送从克鲁至伍尔弗汉普顿。
+/4FC73F864440D23DBEC38CBE774BA3D4,Operate this ECS movement from Crewe to Wolverhampton.,驾驶这趟空客车底回送列车从克鲁前往伍尔弗汉普顿。
 /92956522418A13E797EBE79DF054B6A9,Operate this ECS service from Crewe to Wolverhampton,驾驶本次空车回送从克鲁至伍尔弗汉普顿的服务
 /DC7EC84A4969BC90B16F63B84E753632,Operate this ECS service to Birmingham New Street,驾驶本次空车回送至伯明翰新街的服务
 /86B9AC734398C79FFA5622A8B00653D5,Operate this ECS service to Oxley Car M.D,驾驶本次空车回送至奥克斯利车辆维护场的服务
@@ -1315,10 +1318,12 @@ key,source,target
 /EF2BA2FF41ACBA26506BB1A9BD267ADD,Operate this XC Voyager service from Birmingham New Street to Stafford.,驾驶本次纵贯铁路“旅行者”列车从伯明翰新街至斯塔福德。
 /FAD0FE0E47575E6ECB07CFB089FE5649,Operate this XC Voyager service from Birmingham New Street to Stafford.,驾驶本次纵贯铁路“旅行者”列车从伯明翰新街至斯塔福德。
 /FC2110A241A1EA7A80296AA443B86C0D,Operate this XC Voyager service from Birmingham New Street to Stafford.,驾驶本次纵贯铁路“旅行者”列车从伯明翰新街至斯塔福德。
-/DDAC0AD74A50739EEA84FFAF27850777,Operate this special railtour from Birmingham New Street to Crewe,驾驶本次特别铁路旅游专列从伯明翰新街至克鲁
-/B8D566634FACCE78E3E196ACE0046B9E,Operate this special railtour service from Birmingham New Street to Crewe.,驾驶本次特别铁路旅游专列服务从伯明翰新街至克鲁。
-/715F3CEF431FE53010ADBCA88294D017,Operate this special railtour service from Crewe to Birmingham New Street.,驾驶本次特别铁路旅游专列服务从克鲁至伯明翰新街。
-/AEC9A24E418C06116DCE7A9E7CF79751,Operate this special railtour service from Stafford to Crewe.,驾驶本次特别铁路旅游专列服务从斯塔福德至克鲁。
+/53B6B9754C0B7BE921746F95030B91CA,Operate this special railtour from Birmingham New Street to Crewe,驾驶这趟特别铁路巡游列车从伯明翰新街前往克鲁
+/F513F5EC49A570DF5F8C558056C52B99,Operate this special railtour service from Birmingham New Street to Crewe.,驾驶这趟特别铁路巡游客运列车从伯明翰新街前往克鲁。
+/904C1EF4457B5BDAB0701197D15859BC,Operate this special railtour service from Crewe to Birmingham New Street.,驾驶这趟特别铁路巡游客运列车从克鲁前往伯明翰新街。
+/D65EF15A45685D7B403E58B4D315CAB3,Operate this special railtour service from Crewe to Birmingham New Street.,驾驶这趟特别铁路巡游客运列车从克鲁前往伯明翰新街。
+/51D062C14C4151ABC13688A7407357BF,Operate this special railtour service from Stafford to Crewe.,驾驶这趟特别铁路巡游客运列车从斯塔福德前往克鲁。
+/9A6F81334293FB89AB8253B3112A0B66,Operate this special railtour service from Stafford to Crewe.,驾驶这趟特别铁路巡游客运列车从斯塔福德前往克鲁。
 /0747D58744FA587CD1BC3C9CCD7AFF05,PASSENGER DOORS,乘客车门
 /258F72594216DAFAF2EA89BE7A94A633,PASSENGER DOORS,乘客车门
 /3465428848BD2DFBD64B4C8921AAD0AA,PASSENGER DOORS,乘客车门
@@ -1400,6 +1405,7 @@ key,source,target
 /1AF315974BEB93FC3E2D3C8EFE0D39F5,Press Right D-Pad to open the right side passenger doors,按右方向键打开右侧乘客车门
 /48CE1CDA4F75A7F203F48CA2AD7F820B,Press Right D-Pad to open the right side passenger doors,按右方向键打开右侧乘客车门
 /C3AFD7B64C230F0379A690BE526FB1A5,Press Right D-Pad to open the right side passenger doors,按右方向键打开右侧乘客车门
+/BC77FAE34EE2D0A510376F9823A5BA5F,Press S to set the Reverser to Forward,按下 S 键将方向手柄置于向前位
 /222A95E54F51F3B8AF2EB3B445434414,Press Square Button to switch brakes to direct brakes and use L1 Button to release the brakes,按方块键切换至直通制动，并使用 L1 键缓解制动
 /6A8A199C4BF7C56AA7F182A34C1DBA20,Press Square Button to switch brakes to direct brakes and use L1 Button to release the brakes,按方块键切换至直通制动，并使用 L1 键缓解制动
 /706CAECD4F819527D5A986BC781CDA7A,Press Square Button to switch brakes to direct brakes and use L1 Button to release the brakes,按方块键切换至直通制动，并使用 L1 键缓解制动
@@ -1441,6 +1447,9 @@ key,source,target
 /60B398F5472D8F7346BD7C970B1296AA,Press Y to stand up,按 Y 键起立
 /0D1169CE42755756A4F423A3D302D767,Press cross button to set and unset the DRA,按叉号键设置和解除司机提示器
 /B2B0E761448C78556001F0997533CC97,Press cross button to set and unset the DRA,按叉号键设置和解除司机提示器
+/9B440F2C41BA147EA19079AF8B0DCE7D,Press down D-pad to set the Reverser to Forward,按下方向键下将方向手柄置于向前位
+/40B1085D4A8F04451ACA8F827379E41D,Press down button to set the Reverser to Forward,按下方向下键将方向手柄置于向前位
+/448F9A9C4F907DBBF48FEC8069920900,Press down button to set the Reverser to Forward,按下方向下键将方向手柄置于向前位
 /174969D94E4CFE23140DE3B76297F70C,Press left Button to open the left side passenger doors,按左键打开左侧乘客车门
 /45B1735F495661384F9C70ADCBCE304C,Press left Button to open the left side passenger doors,按左键打开左侧乘客车门
 /045CFED6447B6F97013E4E85459439EE,Press left button to close the left side passenger doors,按左键关闭左侧乘客车门
@@ -1497,6 +1506,22 @@ key,source,target
 /0FBBE0FA40611B4C342E4F965E34B6B5,Press up button to set the Reverser to Forward,按上键将换向器置于前进位
 /2AAADE4C472EEE9F7D8AEABBD852876A,Press up button to set the Reverser to Forward,按上键将换向器置于前进位
 /416F64B74CC2176371FF65BEFF32A355,Press up button to set the Reverser to Forward,按上键将换向器置于前进位
+/0ED721EE42207AA6FB08B2AA9B6A1782,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/382AB48445781B625AC363B9305C2E1C,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/568DFEC942B14A14C8392D99A47B6121,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/5FD61B7D440F3EBC556D819D67134EA4,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/6535CDE440F7E18975B4998F7A72AAA7,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/70E5D9F64A5972913F00AE8088845FC2,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/8A28F36A43986EE2253CAA936023C78B,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/BD72648E4EE6D0977CA9D89DB7FDEF0A,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/CE6C62FF41DE242CE7224891246C73CC,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/DD609621491AA94023F2819AC3276FD8,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/DD979CED433F6848248E73835713E1FA,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/E420DC8A4983D6FA0C758BB8A6DAFC0F,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/E882DF3B4E9AEA1897352CBBDE9A29FE,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/F8EA97EF47CAD71657E0C69CDC956BBA,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/F94A5A89456C99F3B363F8A4F615C4D5,Put the Headlights to the Day Light position.,将前照灯设为“日间”模式
+/F2C4C5E54451B68E364B4891ECBC4017,Put the Headlights to the Markers Only position.,将前照灯置于标记灯位。
 /965A80D44C3E123EAC0A5CB9F1E4355E,Put the PBC to Max Brake.,将主手柄置于最大制动位
 /2BE88F5C4AC2E70676B967AF58B8E153,Put the PBC to max brake,将主手柄置于最大制动位
 /408E61144950473A1D8134A92F9BA386,Put the PBC to max brake,将主手柄置于最大制动位
@@ -1568,18 +1593,15 @@ key,source,target
 /F684A6664578C75A690F2B8144A326DD,Put the Reverser to Off.,将换向器置于关闭位。
 /F71A2BF94E8F98F4F9B9628C1BBF9F75,Put the Reverser to Off.,将换向器置于关闭位。
 /4023C0AE4957A0A26928EA94EF28B383,Put the headlights on to the Marker position.,将前照灯置于标记灯位。
-/382AB48445781B625AC363B9305C2E1C,Put the headlights on to the marker position,将前照灯置于标记灯位
-/DD979CED433F6848248E73835713E1FA,Put the headlights to the Day position.,将前照灯置于日间位。
-/F2C4C5E54451B68E364B4891ECBC4017,Put the headlights to the marker position.,将前照灯置于标记灯位。
 /5D6D175A43C7EF8E9F4322A99A24A869,Put the reverser to Neutral.,将换向器置于空挡位。
 /1C5655B141CAD9FE2CC90AA09BA4A752,REACH SPEED,达到速度
+/4E01C8B84D66EF525FFF91B21E3E06B3,REVERSER,反向器
 /6172AC6B4A0056A0A89F06B53B4B30BB,REVERSER,反向器
 /63C562204CE1AFD9CB071293D35DF286,REVERSER,反向器
 /D22B28F64EC484A9181364B5EC89ECBA,REVERSER,反向器
 /16C5B72D42C2A1143C0C7DB559E1846C,REVERSER HANDLE,换向手柄
 /A41CD9364CC61776BDA05B80709E4A4B,REVERSER HANDLE,换向手柄
 /C978C7A145D99AD5D049818E14F17F3B,REVERSER HANDLE,换向手柄
-/52A9447940EC18302824A197A5B261ED,RHTT,轨道表面处理列车
 /7DF012B1488752F43F100EB598E4D08F,ROG Class 37,ROG 37型机车
 /382ECA3746B7200DEE0A5FB03087F3AA,Raise the pantograph,升弓
 /814871D24A51CA0382BA66A356411DAB,Raise the pantograph,升弓
@@ -1599,6 +1621,7 @@ key,source,target
 /762EF1A64735405BFA8502B8091186B4,Rush Hour,高峰时段
 /C50C339940910B267B5C6DB7FD4C7211,SB4697,SB4697
 /27EED0674057CB36E75C699E92107241,SET JUNCTION,设置道岔
+/5E727455408D4B6470574596F9AC3515,SET JUNCTION,设置道岔
 /74FF3F6F4B4EC5FB9377ECB5076894EE,SET JUNCTION,设置道岔
 /9CAB47014C9A6C6F8C4CD8958D43D2E2,SET JUNCTION,设置道岔
 /B824D5F145492BEE5A96FFA76DD03895,SET JUNCTION,设置道岔
@@ -1649,12 +1672,12 @@ key,source,target
 /CA4B89194F6C9F40133557A56A3FCF0B,Select AC power.,选择交流电源。
 /AAD22ED845F2EEB616C8E9A59F8B8A16,Set the Reverser to Off,将换向手柄置于“关闭”位
 /5EABDA65412B70A451489FA25635166E,Set the Throttle/Brake to OFF.,将牵引/制动手柄置于“关闭”位
-/CE6C62FF41DE242CE7224891246C73CC,Set the headlights to the day position.,将前照灯设为“日间”模式
 /3E535FD4479FFD7FA7CDBC82703B7D7D,Set the manual junction to Left,将手动道岔设为“左转”
 /7E35CD8040C0E2170C77948801450B3B,Set the manual junction to Right,将手动道岔设为“向右”
 /063AD56941FDE0AFF3818E852294224F,Set the manual junction to Right.,将手动道岔设为“向右”
+/D5EC837D4992AF3F5D8EF6B00BCF0B04,Set the manual junction to Right.,将手动道岔设为“向右”
 /902CEF9847AAA88D19F671BBF8120318,Set the manual junction to the RIght.,将手动道岔设为“向右”
-/B7BD5F9142A6FEEF26E3129ED29753A1,Signal SC3652,SC3652号信号机
+/B7BD5F9142A6FEEF26E3129ED29753A1,Signal SC3652,SC3652 号信号机
 /DCC140374ABC87182F76D7BD22324EEF,"Signaller: ""Hello driver of 2W12 standing at signal BW4233. I understand you wish to report a fault with the accessible toilet on your train.""",信号员：“2W12次列车司机您好，您正停在BW4233号信号机前。我明白您希望报告车上无障碍卫生间的故障。”
 /7C0055B042171728BA3620B030EBAC20,"Signaller: ""Okay driver of 2W12. Please continue in service to your destination and then run empty to Wolverhampton platform 6 by using the turnback on the down line.""",信号员：“好的，2W12次列车司机。请继续营运至您的终点站，然后利用下行线的折返线空车回送至伍尔弗汉普顿6站台。”
 /294442AB4C0E469A154FF88B7B40BC93,"Signaller: ""Yes, that is correct. Signaller out.""",信号员：“是的，没错。信号员通话结束。”
@@ -1838,19 +1861,7 @@ key,source,target
 /D6563279485B388331E896B577C5CFD1,Turn on the battery.,开启蓄电池
 /DB7D34494D8265D12E0578BFAF271DBA,Turn on the battery.,开启蓄电池
 /E29D57A141805891E1440C9609E1EBFD,Turn on the battery.,开启蓄电池
-/568DFEC942B14A14C8392D99A47B6121,Turn on the headlights,开启前照灯
-/5FD61B7D440F3EBC556D819D67134EA4,Turn on the headlights,开启前照灯
-/8A28F36A43986EE2253CAA936023C78B,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
-/BD72648E4EE6D0977CA9D89DB7FDEF0A,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
-/DD609621491AA94023F2819AC3276FD8,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
-/E420DC8A4983D6FA0C758BB8A6DAFC0F,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
-/F8EA97EF47CAD71657E0C69CDC956BBA,Turn on the headlights to the Day Light position.,将前照灯设为“日间”模式
-/0ED721EE42207AA6FB08B2AA9B6A1782,Turn on the headlights to the Day position.,将前照灯设为“日间”模式
 /7E248C514F73D2DAB479428FC00AA2ED,Turn on the headlights to the Day position.,将前照灯设为“日间”模式
-/6535CDE440F7E18975B4998F7A72AAA7,Turn on the headlights to the day position.,将前照灯设为“日间”模式
-/E882DF3B4E9AEA1897352CBBDE9A29FE,Turn on the headlights to the day position.,将前照灯设为“日间”模式
-/F94A5A89456C99F3B363F8A4F615C4D5,Turn on the headlights to the day position.,将前照灯设为“日间”模式
-/70E5D9F64A5972913F00AE8088845FC2,Turn on the headlights.,开启前照灯
 /82E5623B4492FC8301EA9F9D5B55B4D2,Turn on the tail lights.,开启尾灯
 /AAA93B334447DAFC4999C78300B5E211,Turn on the tail lights.,开启尾灯
 /D3160DA949BFF07C715CA498873D9884,Turn on the tail lights.,开启尾灯
