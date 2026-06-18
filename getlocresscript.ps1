@@ -3,6 +3,7 @@ $pakFile = "Foob_GodMode_0-7-0_TSW5-6.pak"
 $outDir = "original/"
 # find the absolute path of the original folder
 $outDir = Join-Path (Get-Location) $outDir
+$srcdir = Get-Location
 Set-Location "D:\SteamLibrary\steamapps\common\Train Sim World 6\WindowsNoEditor\TS2Prototype\Content\DLC"
 
 $locresPaths = repak list $pakFile |
@@ -26,4 +27,4 @@ else {
 	Write-Host "No locres files found in $pakFile." -ForegroundColor Yellow
 }
 # Restore the original location from the beginning of the script
-Set-Location -Path (Get-Location).Path
+Set-Location -Path ($srcdir).Path

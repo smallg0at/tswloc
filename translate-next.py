@@ -66,6 +66,7 @@ SYSTEM_INSTRUCTION = build_system_instruction()
 
 
 def translate_gemini(input_text: str):
+    # Technically replacable with other APIs.
     client = genai.Client(
         api_key=os.environ.get("GEMINI_API_KEY"),
     )
