@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   build-pak:
-    name: Build ZHLoc pak
+    name: Build ZHLoc paks
     runs-on: windows-latest
 
     steps:
@@ -51,35 +51,54 @@ jobs:
           $repak.Directory.FullName | Out-File -FilePath $env:GITHUB_PATH -Append
           & $repak.FullName --version
 
-      - name: Verify dist
+      - name: Verify source folders
         shell: pwsh
         run: |
           $ErrorActionPreference = "Stop"
-          if (-not (Test-Path -Path dist -PathType Container)) {
-            throw "dist/ does not exist."
+
+          $sourceFolders = @(
+            "dist",
+            "dist_godmode",
+            "riviera_patch"
+          )
+
+          foreach ($folder in $sourceFolders) {
+            if (-not (Test-Path -Path $folder -PathType Container)) {
+              throw "$folder/ does not exist."
+            }
+
+            $fileCount = (Get-ChildItem -Path $folder -Recurse -File | Measure-Object).Count
+            if ($fileCount -eq 0) {
+              throw "$folder/ is empty."
+            }
+
+            Write-Host "$folder/ contains $fileCount files."
           }
 
-          $fileCount = (Get-ChildItem -Path dist -Recurse -File | Measure-Object).Count
-          if ($fileCount -eq 0) {
-            throw "dist/ is empty."
-          }
-
-          Write-Host "dist/ contains $fileCount files."
-
-      - name: Build ZHLoc.pak
+      - name: Build pak files
         shell: pwsh
-        run: repak pack ./dist/ ./ZHLoc.pak --version V11 --compression Zlib
+        run: |
+          $ErrorActionPreference = "Stop"
+          repak pack ./dist/ ./ZHLoc.pak --version V11 --compression Zlib
+          repak pack ./dist_godmode/ ./ZHLoc-GodMode.pak --version V11
+          repak pack ./riviera_patch/ ./ZHLoc-riviera-fix.pak --version V11
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ZHLoc-${{ github.ref_name }}
-          path: ZHLoc.pak
+          name: ZHLoc-paks-${{ github.ref_name }}
+          path: |
+            ZHLoc.pak
+            ZHLoc-GodMode.pak
+            ZHLoc-riviera-fix.pak
           if-no-files-found: error
 
       - name: Publish release
         if: startsWith(github.ref, 'refs/tags/')
         uses: softprops/action-gh-release@v2
         with:
-          files: ZHLoc.pak
+          files: |
+            ZHLoc.pak
+            ZHLoc-GodMode.pak
+            ZHLoc-riviera-fix.pak
           generate_release_notes: true
