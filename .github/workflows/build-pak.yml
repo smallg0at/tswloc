@@ -1,0 +1,85 @@
+name: Build Pak
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-pak:
+    name: Build ZHLoc pak
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install repak
+        shell: pwsh
+        env:
+          REPAK_VERSION: v0.2.3
+        run: |
+          $ErrorActionPreference = "Stop"
+          $headers = @{ "User-Agent" = "github-actions" }
+          $release = Invoke-RestMethod `
+            -Uri "https://api.github.com/repos/trumank/repak/releases/tags/$env:REPAK_VERSION" `
+            -Headers $headers
+
+          $asset = $release.assets |
+            Where-Object { $_.name -eq "repak_cli-x86_64-pc-windows-msvc.zip" } |
+            Select-Object -First 1
+
+          if (-not $asset) {
+            throw "Could not find repak Windows zip asset in the latest release."
+          }
+
+          New-Item -ItemType Directory -Path tools/repak -Force | Out-Null
+          Invoke-WebRequest -Uri $asset.browser_download_url -OutFile tools/repak.zip -Headers $headers
+          Expand-Archive -Path tools/repak.zip -DestinationPath tools/repak -Force
+
+          $repak = Get-ChildItem -Path tools/repak -Recurse -Filter repak.exe |
+            Select-Object -First 1
+
+          if (-not $repak) {
+            throw "repak.exe was not found after extracting the release zip."
+          }
+
+          $repak.Directory.FullName | Out-File -FilePath $env:GITHUB_PATH -Append
+          & $repak.FullName --version
+
+      - name: Verify dist
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+          if (-not (Test-Path -Path dist -PathType Container)) {
+            throw "dist/ does not exist."
+          }
+
+          $fileCount = (Get-ChildItem -Path dist -Recurse -File | Measure-Object).Count
+          if ($fileCount -eq 0) {
+            throw "dist/ is empty."
+          }
+
+          Write-Host "dist/ contains $fileCount files."
+
+      - name: Build ZHLoc.pak
+        shell: pwsh
+        run: repak pack ./dist/ ./ZHLoc.pak --version V11 --compression Zlib
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ZHLoc-${{ github.ref_name }}
+          path: ZHLoc.pak
+          if-no-files-found: error
+
+      - name: Publish release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ZHLoc.pak
+          generate_release_notes: true
