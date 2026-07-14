@@ -1,5 +1,5 @@
 # CHANGE THOSE VARIABLES TO YOUR OWN VALUES
-$pakFile = "Foob_GodMode_0-7-0_TSW5-6.pak"
+$pakFile = "TS2Prototype-WindowsNoEditor-LiberecStaraPaka.pak"
 $outDir = "original/"
 # find the absolute path of the original folder
 $outDir = Join-Path (Get-Location) $outDir

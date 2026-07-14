@@ -834,8 +834,8 @@
 /2C95A9804DDA78B0757F17A6B5B4EB6F,DT123,DT123
 /5DF76FED477CDB0FC86193BB37261BDA,David,大卫
 /2209CC614A284683CA39AE83D6BF72E9,Davies,戴维斯
-/F6536ACE4595CBF228BE7C8DD2810C8F,"Debris has been reported on the Up Slow and Up Fast lines between here and Tamworth. As a result, you’ll be running on the bi-directional Down Fast, reversing at Lichfield North Junction. Change ends here so you can reach the Down Fast.",有报告称，在此处与塔姆沃思之间的上行慢车线和上行快车线上发现碎屑。因此，您将运行于双向运行的下行快车线，并在利奇菲尔德北交汇处换向。请在此处换端，以便进入下行快车线。
-/2DDD44E64F12B73EE9426983C52ED027,Debris is blocking the Down Slow and Down Fast lines.,碎屑阻断了下行慢车线和下行快车线。
+/F6536ACE4595CBF228BE7C8DD2810C8F,"Debris has been reported on the Up Slow and Up Fast lines between here and Tamworth. As a result, you’ll be running on the bi-directional Down Fast, reversing at Lichfield North Junction. Change ends here so you can reach the Down Fast.",有报告称，在此处与塔姆沃思之间的上行慢线和上行快线上发现碎屑。因此，您将运行于双向运行的下行快线，并在利奇菲尔德北交汇处换向。请在此处换端，以便进入下行快线。
+/2DDD44E64F12B73EE9426983C52ED027,Debris is blocking the Down Slow and Down Fast lines.,碎屑阻断了下行慢线和下行快线。
 /F75613D94A1DEA0AEDB2BD9ABFC538D3,Departure Time:,出发时间：
 /82B299F64AD2B3BEC41C28BE920FC3AB,Destination:,终到站：
 /715AFF814B5A6E06587227AF9F48F547,Dispatch Train,发车
@@ -845,16 +845,16 @@
 /7E33BF6B45C0AFAA30550BAA658FB7AE,Dotted around the route are model Class 807s to represent Avanti’s new fleet and to signify the current infrastructure improvements being undertaken on the Trent Valley line.,沿线散落着807型动车组的模型，代表着阿凡提西海岸的新车队，并标志着目前特伦特谷线上正在进行的线路设施改造工程。
 /9866E3714C71F065889FDB9E64AF5FD9,Drive the Class 323 Farewell Railtour from Birmingham to Crewe.,驾驶323型告别铁路旅行专列从伯明翰开往克鲁。
 /4B5D541D45EDB02C23D08E82529E5C53,Driver: “A member of train staff has identified a wheelflat on my train. I am going to stop at Polesworth station to undertake a visual inspection.”,司机：“一名列车乘务人员发现我的列车有车辆踏面损伤。我将在波尔斯沃思站停车进行外观检查。”
-/C968E61A4CBABCC1C64F7CB84BDFD6C3,Driver: “Debris has built-up across the Down Slow and Down Fast lines and I am unable to go further.”,司机：“下行慢车线和下行快车线上堆积了瓦砾，我无法继续前行。”
+/C968E61A4CBABCC1C64F7CB84BDFD6C3,Driver: “Debris has built-up across the Down Slow and Down Fast lines and I am unable to go further.”,司机：“下行慢线和下行快线上堆积了瓦砾，我无法继续前行。”
 /F72A9F724F17C80C13E57CA72D7D03FD,Driver: “Hello Colwich Signaller. This is the driver of 1Z97 standing at signal NL9450 on the Down Fast Trent Valley.”,司机：“你好，科尔威奇信号员。我是1Z97次列车的司机，目前停在下行快车特伦特谷线的NL9450号信号机前。”
 /50FA5706464449511F96B597F1E06AC0,Driver: “Hello Colwich signaller. This is the driver of 1U41 standing at the Polesworth station platform. I have visually inspected my train and can confirm my train is fit to move.”,司机：“你好，科尔威奇信号员。我是1U41次列车的司机，目前停在波尔斯沃思站站台。我已经对我的列车进行了外观检查，可以确认列车具备运行条件。”
-/4690580B41A717E0B97605B0BDAE4F00,Driver: “Hello Colwich signaller. This is the driver of 1U41 standing on the Trent Valley Down Slow.”,司机：“你好，科尔威奇信号员。我是1U41次列车的司机，目前停在特伦特谷下行慢车线上。”
+/4690580B41A717E0B97605B0BDAE4F00,Driver: “Hello Colwich signaller. This is the driver of 1U41 standing on the Trent Valley Down Slow.”,司机：“你好，科尔威奇信号员。我是1U41次列车的司机，目前停在特伦特谷下行慢线上。”
 /448961E04046A74188DF319D14C0270E,Driver: “Hello Colwich signaller. This is the driver of 1Z99 at Polesworth station. I have coupled to the failed train and I’m waiting for further instructions.”,司机：“你好，科尔威奇信号员。我是1Z99次列车的司机，目前在波尔斯沃思站。我已与故障列车重联，正在等待进一步指示。”
-/36A464E849867E595730D0969415DA3F,"Driver: “Hello Colwich signaller. This is the driver of 1Z99 standing at signal NL5473 on the Down Trent Valley Slow, requesting permission to enter the occupied section to couple to the failed train in Polesworth station.”",司机：“你好，科尔威奇信号员。我是1Z99次列车的司机，目前停在下行特伦特谷慢车线的NL5473号信号机前，申请进入已占用区间，以与波尔斯沃思站内的故障列车重联。”
+/36A464E849867E595730D0969415DA3F,"Driver: “Hello Colwich signaller. This is the driver of 1Z99 standing at signal NL5473 on the Down Trent Valley Slow, requesting permission to enter the occupied section to couple to the failed train in Polesworth station.”",司机：“你好，科尔威奇信号员。我是1Z99次列车的司机，目前停在下行特伦特谷慢线的NL5473号信号机前，申请进入已占用区间，以与波尔斯沃思站内的故障列车重联。”
 /0A1523E74BBB51E1CA2E67B4C83113F4,Driver: “I am to continue to Tamworth and detach the damaged unit there.”,司机：“我将继续前往塔姆沃思，并在那里解编受损的编组。”
-/560B6F434F8675BA77AC07B2AF9ACE29,"Driver: “I am to depart when ready with service 5Z35 to Northampton Depot, reversing at Tamworth station.”",司机：“我将在准备就绪后驾驶5Z35次列车前往北安普顿车段，在塔姆沃思站换向。”
+/560B6F434F8675BA77AC07B2AF9ACE29,"Driver: “I am to depart when ready with service 5Z35 to Northampton Depot, reversing at Tamworth station.”",司机：“我将在准备就绪后驾驶5Z35次列车前往北安普顿车辆段，在塔姆沃思站换向。”
 /F17E3EF44D939D1E1DA58AA0FAC37E58,Driver: “I am to shut down my train and remain at my current position.”,司机：“我要将我的列车停机并保持在当前位置。”
-/FC0D4F0F4DD2413739058FBD64BE57D0,Driver: “I understand that I have permission to pass signal NL5473 at danger and to proceed at caution to couple to the failed train in Polesworth station.”,司机：“我明白我已获得允许，可以越过显示红灯的NL5473号信号机，并谨慎运行以与波尔斯沃思站内的故障列车重联。”
+/FC0D4F0F4DD2413739058FBD64BE57D0,Driver: “I understand that I have permission to pass signal NL5473 at danger and to proceed at caution to couple to the failed train in Polesworth station.”,司机：“明白，我已被准许越过显示红灯的 NL5473 号信号机，并以目视行车速度运行，前往波尔斯沃思车站与故障列车挂车。”
 /21E01B1F443840FA7A1152AE6A456E05,Driver: “Yes that is correct.”,司机：“是的，没错。”
 /0940013D4478848A03CB74B55AE24879,"Driver: “Yes, that is correct.”",司机：“是的，没错。”
 /37FE0CF44F98C5F4037F72B25214D5FD,"Driver: “Yes, that is correct.”",司机：“是的，没错。”
@@ -1222,7 +1222,7 @@
 /82E4659B4FA77600B74BBF9696EEEEDE,Operate this ECS movement from Crewe to Wolverton.,驾驶这班空载客车从克鲁开往伍尔弗顿。
 /04097B1243ECD9ED25E4A9B405A57FFC,Operate this ECS movement from Nuneaton to Crewe.,驾驶这班空载客车从纽尼顿开往克鲁。
 /F07EECC049881ADA62F814B82B770F86,Operate this ECS movement from Wolverton Centre Sidings to Crewe.,驾驶这班空载客车从伍尔弗顿中央避让线开往克鲁。
-/146BEC1D43F19CF2D64BD19B639CD65B,Operate this ECS movement from Wolverton Works Up Slow Reversal to Wolverton Centre Sidings.,驾驶这班空载客车从伍尔弗顿车辆段上行慢车线折返段开往伍尔弗顿中央避让线。
+/146BEC1D43F19CF2D64BD19B639CD65B,Operate this ECS movement from Wolverton Works Up Slow Reversal to Wolverton Centre Sidings.,驾驶这班空载客车从伍尔弗顿车辆段上行慢线折返段开往伍尔弗顿中央避让线。
 /1B117BF9496D948843BBBDBE9CC9A825,Operate this Freightliner aggregates service from Basford Hall to Rugby.,驾驶这班 Freightliner 骨料货运列车，从巴斯福德大厅前往拉格比。
 /EEA50D4E449E027C2D55AC9D9F2B1E72,Operate this Freightliner building materials service from Rugby to Nuneaton.,驾驶这班 Freightliner 建材货运列车，从拉格比前往纽尼顿。
 /3701FC6543D9FABBA9C02791FEC43529,Operate this Freightliner container service from BAsford Hall to Milton Keynes.,驾驶这班 Freightliner 集装箱货运列车，从巴斯福德大厅前往米尔顿凯恩斯中央站。
@@ -1325,7 +1325,7 @@
 /6C33E6F34F567A71CB2F0A8EDD3E8BD7,Platform:,站台：
 /2CF9DB814A49235FB08B72A9C457FE38,Please close the doors on the right-hand side.,请关闭右侧车门。
 /D4164F364ADCA461BE7D089BD9A32743,Please close the doors on the right-hand side.,请关闭右侧车门。
-/9E5970794E81C41A0EA74F832862A006,Please contact the signaller so they can allow you to enter the occupied signal block where the failed train is.,请联系信号员，以便他们允许你进入故障列车所在的被占用信号分区。
+/9E5970794E81C41A0EA74F832862A006,Please contact the signaller so they can allow you to enter the occupied signal block where the failed train is.,请联系信号员，以便他们允许你进入故障列车所在的占用闭塞区间。
 /0EE015B4431D14729126D3B5EC7641C0,"Please follow the instructions for changing cab ends, then we will learn the passenger door operations.",请按照说明更换驾驶端，然后我们将学习列车车门的操作。
 /914D201C4C1F97708CC533B87715FEF0,"Please follow the instructions for changing cab ends, then we will learn the passenger door operations.",请按照说明更换驾驶端，然后我们将学习列车车门的操作。
 /0D8ACBF5465538548633409FE39728C2,Please follow the instructions to close the intermediate cab doors and uncouple the two units. Make sure to close the intermediate cab doors behind you as you walk through the gangway.,请按照说明关闭中间主控室车门并解挂这两组列车。在穿过贯通道时，请确保关闭身后的中间主控室车门。
@@ -1335,12 +1335,12 @@
 /75F2DEDA470E713D2BB2A9905F16781D,Please make your way over to platform six and sit in the driver’s seat at the front of the train.,请前往六号站台，坐在列车前方的司机座椅上。
 /115E942D4A94974E49C63189A97E3205,Please open the doors on the right-hand side.,请打开右侧车门。
 /355AEF204263587D9287E581D5D02595,Please open the doors on the right-hand side.,请打开右侧车门。
-/6972AECA47E418C8BA7654871D77CF21,Polesworth Down Slow,波尔斯沃思下行慢车线
+/6972AECA47E418C8BA7654871D77CF21,Polesworth Down Slow,波尔斯沃思下行慢线
 /541431944A26C9726C0A678A26FBD565,Polesworth MOM,波尔斯沃思移动维护（MOM）
 /86C931374B4823F2CD7A0CB8019CE98D,Polesworth Platform 1,波尔斯沃思 1 号站台
 /712F4B9443A262E7738B349384029ACE,Polesworth Recovery,波尔斯沃思救援
-/3550F0EA48136C0A5817E2B6CF8EF825,Portal - Bletchley Down Fast,传送点 - 布莱切利下行快车线
-/2A7DC37A4784B5A5B90944BD7FC4A3F1,Portal - Bletchley Up Fast,传送点 - 布莱切利上行快车线
+/3550F0EA48136C0A5817E2B6CF8EF825,Portal - Bletchley Down Fast,传送点 - 布莱切利下行快线
+/2A7DC37A4784B5A5B90944BD7FC4A3F1,Portal - Bletchley Up Fast,传送点 - 布莱切利上行快线
 /7CAD192B49A940981921BBA959C5E62A,Portal - From Chatterley,传送点 - 来自查特利
 /6240E7784D79EAEBCA9C5ABFB7EAC22A,Portal - From Chester,传送点 - 来自切斯特
 /7F5CD903411792E2574036A8C4DC0958,Portal - From Coventry,传送点 - 来自考文垂
@@ -1354,8 +1354,8 @@
 /26747A6D47EDCB60E650FEAC370B0F3D,Portal - To Long Buckby,传送点 - 前往朗巴克比
 /76DBB9C84A0BB592BFE22BB12CDB2039,Portal - To Penkridge,传送点 - 前往彭克里奇
 /0F34391A40B0617E752F6D90177FDBF1,Portal - To Stone,传送点 - 前往斯通
-/B52151F04E8C5550190C148425A8F59F,Portal - Winsford Down Fast,传送点 - 温斯福德下行快车线
-/C4DDB18245387C63946043BDFFF0623F,Portal - Winsford Up Fast,传送点 - 温斯福德上行快车线
+/B52151F04E8C5550190C148425A8F59F,Portal - Winsford Down Fast,传送点 - 温斯福德下行快线
+/C4DDB18245387C63946043BDFFF0623F,Portal - Winsford Up Fast,传送点 - 温斯福德上行快线
 /F8DEBF7E4AE10A3B7C5BA59DF13F0184,Power Notches,动力档位
 /9AF01AFE4126D7D7E6CE8BBDD2AE8267,Press Ctrl + W to insert the Master Key.,按下 Ctrl + W 插入主钥匙。
 /0ED4BAB84547FDF025AEC0AAB217B11A,Press E to climb the ladder.,按下 E 爬上梯子。
@@ -1402,8 +1402,8 @@
 /3134CFDE4E985F53A4D1C1AE600A99C0,Press the TDEU Right Away button.,按下TDEU发车按钮。
 /64B740FE4B2B46E7025D12A8292A955F,Press the TDEU Right Away button.,按下TDEU发车按钮。
 /E7712C70433A41C6BA69C8B4A46EBF34,Press the TDEU Right Away button.,按下TDEU发车按钮。
-/A33C95D94BE425D4585262A054B416A3,Press the Train Stop Override button.,按下列车停止越行按钮。
-/2711BC1A42DDD53508E332A04B44905B,Press the Trainstop Override button to pass the signal at danger.,按下列车停止越行按钮以越过红灯。
+/A33C95D94BE425D4585262A054B416A3,Press the Train Stop Override button.,按下列车停车超驰按钮。
+/2711BC1A42DDD53508E332A04B44905B,Press the Trainstop Override button to pass the signal at danger.,按下列车停车超驰按钮以越过红灯。
 /AA304AD04F268235B3F2259531066611,Press the emergency brake plunger,按下紧急制动阀柱塞
 /4CF243A64BF8FB4773F6FFB8EE10C124,Press the emergency brake plunger.,按下紧急制动阀柱塞。
 /2A1DC1FF44334530BB27558878CE4846,Press the uncouple button.,按下解挂按钮。
@@ -1672,22 +1672,22 @@
 /82CBD3F54B987766A46F8895E2C8ECF1,Signaller: “Colwich signaller.”,信号员：“科尔威奇信号员。”
 /8CC8ABE44E3F598F34FE5E99686687A8,Signaller: “Colwich signaller.”,信号员：“科尔威奇信号员。”
 /825450A2470714509D3F298B2077C5FF,Signaller: “Hello driver of 1U41 standing at the Polesworth station platform. I understand you have visually inspected your train and it is fit to move.”,信号员：“你好，停在波尔斯沃思车站站台的 1U41 次列车司机。我知道你已经对列车进行了外观检查，且该列车适合运行。”
-/DF7FFFD840C858F24207F79542D97FD2,Signaller: “Hello driver of 1U41 standing on the Trent Valley Down Slow.”,信号员：“你好，停在特伦特谷下行慢车线上的 1U41 次列车司机。”
-/4FB00BDC415EF7D78BA5478C5ACC3354,Signaller: “Hello driver of 1Z97 standing at NL9450 on the Down Fast Trent Valley.”,信号员：“你好，停在特伦特谷下行快车线信号机 NL9450 处的 1Z97 次列车司机。”
+/DF7FFFD840C858F24207F79542D97FD2,Signaller: “Hello driver of 1U41 standing on the Trent Valley Down Slow.”,信号员：“你好，停在特伦特谷下行慢线上的 1U41 次列车司机。”
+/4FB00BDC415EF7D78BA5478C5ACC3354,Signaller: “Hello driver of 1Z97 standing at NL9450 on the Down Fast Trent Valley.”,信号员：“你好，停在特伦特谷下行快线信号机 NL9450 处的 1Z97 次列车司机。”
 /279A66BD4CC94ABBDB81D6AABA642AE1,Signaller: “Hello driver of 1Z99 at Polesworth station. You have coupled to the failed train at the station and are waiting for further instructions.”,信号员：“你好，停在波尔斯沃思车站的 1Z99 次列车司机。你已经与车站内发生故障的列车连挂，正在等待进一步指示。”
-/D64D07EB45DFC87948C2E5BD1472D8B6,Signaller: “Hello driver of 1Z99 standing at signal NL5473 on the Down Trent Valley Slow. I give you permission to pass NL5473 at danger. Then proceed at caution to couple to the failed train in Polesworth station.”,信号员：“你好，停在下行特伦特谷慢车线信号机 NL5473 处的 1Z99 次列车司机。我特许你越过显示险阻信号的 NL5473。然后以谨慎速度前进，与波尔斯沃思车站内发生故障的列车连挂。”
+/D64D07EB45DFC87948C2E5BD1472D8B6,Signaller: “Hello driver of 1Z99 standing at signal NL5473 on the Down Trent Valley Slow. I give you permission to pass NL5473 at danger. Then proceed at caution to couple to the failed train in Polesworth station.”,信号员：“呼叫停在下行特伦特河谷慢线 NL5473 号信号机前的 1Z99 次列车司机。准许你越过显示险阻信号的 NL5473 号信号机。随后请以目视行车速度运行，前往波尔斯沃思车站与故障列车挂车。”
 /DB410CC441B99B6D0749ED9209C8A447,Signaller: “I understand you have a wheelflat on your train and wish to stop at Polesworth station for a visual inspection.”,信号员：“我知道你的列车车轮有擦伤，并希望在波尔斯沃思车站停车进行外观检查。”
-/B6F6426D4C5FD1F7F9FB05BF83C71F84,"Signaller: “Ok driver, I understand that debris is blocking the Down Slow and Down Fast lines and you are unable to progress.”",信号员：“好的，司机。我明白瓦砾阻断了下行慢车线和下行快车线，你无法继续前进。”
-/0C3761CD4EBD435F133D628E70F28AA2,"Signaller: “Ok, driver. Please detach the damaged unit at Tamworth and another driver will return it to the depot.”",信号员：“好的，司机。请在塔姆沃思解编受损的动车组，另一位司机将把它送回车段。”
+/B6F6426D4C5FD1F7F9FB05BF83C71F84,"Signaller: “Ok driver, I understand that debris is blocking the Down Slow and Down Fast lines and you are unable to progress.”",信号员：“好的，司机。我明白瓦砾阻断了下行慢线和下行快线，你无法继续前进。”
+/0C3761CD4EBD435F133D628E70F28AA2,"Signaller: “Ok, driver. Please detach the damaged unit at Tamworth and another driver will return it to the depot.”",信号员：“好的，司机。请在塔姆沃思解编受损的动车组，另一位司机将把它送回车辆段。”
 /55780A98462125D722F54E88AE561224,"Signaller: “Ok, driver. Signaller out.”",信号员：“好的，司机。信号员通话完毕。”
-/ECD6BDB34ACD8AC38882CDBF71AF9D13,"Signaller: “Ok. Depart when ready with service 5Z35 to Northampton Depot, reversing at Tamworth station.”",信号员：“好的。准备好后，驾驶 5Z35 班次列车出发前往北安普顿车段，在塔姆沃思车站折返。”
+/ECD6BDB34ACD8AC38882CDBF71AF9D13,"Signaller: “Ok. Depart when ready with service 5Z35 to Northampton Depot, reversing at Tamworth station.”",信号员：“好的。准备好后，驾驶 5Z35 班次列车出发前往北安普顿车辆段，在塔姆沃思车站折返。”
 /CE2890DD48FC29718F7346AE7D2B843C,"Signaller: “Thank you, driver. Shut down your train and remain at your current position.”",信号员：“谢谢你，司机。关闭你的列车并保持在当前位置。”
 /242E94C54AEE9F64AEFDCCB64236F63B,Signaller: “That is correct. Signaller out.”,信号员：“正确。信号员通话完毕。”
 /35C2B0894DA6AD090FE2EF83A5FC8081,Signaller: “That is correct. Signaller out.”,信号员：“正确。信号员通话完毕。”
 /4A40C040434A5B3DCCF4C3AE8A983CA8,Signaller: “That is correct. Signaller out.”,信号员：“正确。信号员通话完毕。”
 /E847B84F4C0EFD43093E419461D60C61,Signaller: “That is correct. Signaller out.”,信号员：“正确。信号员通话完毕。”
-/AA3620D84E8D31858A3542A6F5F8CF8B,Signaller: “This is the signaller at Colwich. The Up Slow between Amington Jn and Nuneaton is closed due to emergency engineering works. Trains running on this line will be diverted on to the Up Fast.”,信号员：“我是科尔威奇的信号员。由于紧急工程施工，阿明顿分歧点与纽尼顿之间的上行慢车线已关闭。在该线路上运行的列车将改道至上行快车线。”
-/883B00CD45CFAA46E89C5F9A078BA22A,"Signaller: “This is the signaller at Rugby. Due to emergency engineering work, the Up and Down Fast lines are closed between Hanslope Jn and Milton Keynes Central. Trains on these lines will be diverted on to the Up and Down Slow lines.”",信号员：“我是拉格比的信号员。由于紧急工程施工，汉斯洛普分歧点与米尔顿凯恩斯中央站之间的上行和下行快车线已关闭。在这些线路上运行的列车将改道至上行和下行慢车线。”
+/AA3620D84E8D31858A3542A6F5F8CF8B,Signaller: “This is the signaller at Colwich. The Up Slow between Amington Jn and Nuneaton is closed due to emergency engineering works. Trains running on this line will be diverted on to the Up Fast.”,信号员：“我是科尔威奇的信号员。由于紧急工程施工，阿明顿分歧点与纽尼顿之间的上行慢线已关闭。在该线路上运行的列车将改道至上行快线。”
+/883B00CD45CFAA46E89C5F9A078BA22A,"Signaller: “This is the signaller at Rugby. Due to emergency engineering work, the Up and Down Fast lines are closed between Hanslope Jn and Milton Keynes Central. Trains on these lines will be diverted on to the Up and Down Slow lines.”",信号员：“我是拉格比的信号员。由于紧急工程施工，汉斯洛普分歧点与米尔顿凯恩斯中央站之间的上行和下行快线已关闭。在这些线路上运行的列车将改道至上行和下行慢线。”
 /57E5FA8A434CBA1956D53AB3CBF509B0,Sit in any available seat in the front coach.,坐在 Coach A 的任何可用座位上。
 /6DA97E0142AA202FEDA269A83F5E91E7,Sit in the Driver's seat.,坐在驾驶座上。
 /5C146FE144D4D91C584637A65985FD79,Sit in the driver's seat at the front of the train.,坐在列车前部的驾驶座上
@@ -1738,8 +1738,8 @@
 /E299DD7B42DCAF04E1C5ABBC1863FBF3,Stafford Platform 4,斯塔福德站 4 号站台
 /11761D9A4B7D624E4A972CBD42580B6D,Stafford Platform 5,斯塔福德站 5 号站台
 /F6AAD25B4A7F51E7D26F0285E38BC486,Stafford Platform 5,斯塔福德站 5 号站台
-/8160FE1440DD88C0E8E7688121C15B44,Stafford Station Down Fast,斯塔福德车站下行快车线
-/6E5035B74D2902CCF990A7829B31C575,Stafford Station Up Fast,斯塔福德车站上行快车线
+/8160FE1440DD88C0E8E7688121C15B44,Stafford Station Down Fast,斯塔福德车站下行快线
+/6E5035B74D2902CCF990A7829B31C575,Stafford Station Up Fast,斯塔福德车站上行快线
 /DEF124C241BC6750E609B1A6C2486402,Start by setting up the cab by following the instructions.,首先按照说明设置司机室。
 /36ABFB0E493D4C981A1B07995674E8A6,"Starting at Nuneaton, learn about the WCML Trent Valley route and learn what can be discovered.",从纽尼顿开始，了解西海岸干线特伦特谷路线，看看能发现些什么。
 /A89DB09F4A9D00B346FF9EA367C3BB5C,Starting the Flow,开始流动
@@ -1851,7 +1851,7 @@
 /F675879242A24CBBADC0BDA91CE8F2D6,"The Class 807s began running on the line in 2024 to work intercity services between London, Liverpool and Blackpool. It is depicted in Avanti West Coast livery.",807 型动车组于 2024 年开始在该线路上运行，执掌伦敦、利物浦和布莱克浦之间的城际班次。它采用了 Avanti West Coast 涂装。
 /4463BDAE44934119062FA08442F0D039,"The Trent Valley section of the West Coast Main Line runs for 51 miles between Rugby in the south to Stafford in the north, following the River Trent. Opening in 1847 by the London & Northwestern Railway (LNwR), it provides a more direct link between London and North West England and Scotland avoiding the congested lines around Birmingham.",西海岸干线的特伦特谷路段全长 51 英里，南起拉格比，北至斯塔福德，顺特伦特河而建。它于 1847 年由伦敦和西北铁路开通，提供了伦敦与英格兰西北部及苏格兰之间更直接的联系，避开了伯明翰周围繁忙的线路。
 /CA198187460932C25706DDB937B0F9F6,"The Trent Valley section of the West Coast Main Line runs for 51 miles between Rugby in the south to Stafford in the north, following the River Trent. Opening in 1847 by the London & Northwestern Railway (LNwR), it provides a more direct link between London and North West England and Scotland avoiding the congested lines around Birmingham.",西海岸干线的特伦特谷路段全长 51 英里，南起拉格比，北至斯塔福德，顺特伦特河而建。它于 1847 年由伦敦和西北铁路开通，提供了伦敦与英格兰西北部及苏格兰之间更直接的联系，避开了伯明翰周围繁忙的线路。
-/C059696C4B77BB2CF944C6B883085F17,"The Up Slow and Up Fast lines between Amington Junction and Nuneaton are also closed for engineering work. As a result, you’ll be travelling on the bi-directional Down Fast.",阿明顿分歧点与纽尼顿之间的上行慢车线和上行快车线也因工程施工而关闭。因此，您将在双向的下行快车线上行驶。
+/C059696C4B77BB2CF944C6B883085F17,"The Up Slow and Up Fast lines between Amington Junction and Nuneaton are also closed for engineering work. As a result, you’ll be travelling on the bi-directional Down Fast.",阿明顿分歧点与纽尼顿之间的上行慢线和上行快线也因工程施工而关闭。因此，您将在双向的下行快线上行驶。
 /45624A8A481AB38F50D2AAA4DA672556,The brake test is complete. Reset the emergency brake plunger and continue to the next station.,制动测试已完成。复位紧急制动按钮并继续前往下一站。
 /881D6F7E413E08093A5774900B42A871,"The current speed limit is shown on the Heads Up Display (HUD). The white bar around the HUD displays your current speed. This increases as your speed increases. The red mark displays the current speed limit, which you should aim to not exceed.",当前的限速显示在抬头显示上。抬头显示周围的白色光条显示您当前的速度。它随着您速度的增加而增长。红色标记显示当前的限速，您应注意不要超过它。
 /E9ABD2354A2CEDECC6E006B9540C22A0,"The current speed limit is shown on the Heads Up Display (HUD). The white bar around the HUD displays your current speed. This increases as your speed increases. The red mark displays the current speed limit, which you should aim to not exceed.",当前的限速显示在抬头显示上。抬头显示周围的白色光条显示您当前的速度。它随着您速度的增加而增长。红色标记显示当前的限速，您应注意不要超过它。
@@ -1871,7 +1871,7 @@
 /D6FCAEA14173DEA70A993696EC578602,"The platform is on the left side, so please open the left passenger doors.",站台在左侧，请打开左侧客车门。
 /9AB191BF4E73DA90326D149E26339C16,The route comes with two electric multiple units: the Class 350/4 and Class 807 to perform a mixture of commuter and intercity services on the route.,该路线带有两种电力动车组：350/4 型和 807 型，用以在该路线上执行通勤和城际班次的混合运营。
 /CA0BB7A24C950E4AFBBAB38C8C20957B,The route comes with two electric multiple units: the Class 350/4 and Class 807 to perform a mixture of commuter and intercity services on the route.,该路线带有两种电力动车组：350/4 型和 807 型，用以在该路线上执行通勤和城际班次的混合运营。
-/9B1F43024B83B5DAE52E8A9B2FBBABE3,"The slow lines are closed between Hanslope Jn and Wolverton. As a result, you’ll be using the platforms on the fast lines at Wolverton.",汉斯洛普分歧点与伍尔弗顿之间的慢车线已关闭。因此，您将使用伍尔弗顿快车线上的站台。
+/9B1F43024B83B5DAE52E8A9B2FBBABE3,"The slow lines are closed between Hanslope Jn and Wolverton. As a result, you’ll be using the platforms on the fast lines at Wolverton.",汉斯洛普分歧点与伍尔弗顿之间的慢线已关闭。因此，您将使用伍尔弗顿快线上的站台。
 /72A6815347B6CE86F25727B30544DF65,"The station also receives regular intercity Avanti West Coast services to and from Manchester Piccadilly. CrossCountry provides services to Birmingham, Leicester and Stansted Airport. LNwR provides the rest of the services to London and Crewe.",该车站还定期接收往返曼彻斯特皮卡迪利站的 Avanti West Coast 城际班次。CrossCountry 提供前往伯明翰、莱斯特和斯坦斯特德机场的班次。LNwR 提供前往伦敦和克鲁的其余班次。
 /E888E9904F67220007B26E87B06B4122,The test run is a success! The train will start heading back southbound soon.,测试运行成功！列车很快将开始向南返回。
 /5E0AE07E478337E92E4657953BF43787,"The town where the sport was invented. Opened in 1885, Rugby station sits between two major junctions on the line, resulting in the station seeing plenty of traffic stopping and passing through! The current station layout is the result of a drastic rebuild that took place between 2006 and 2008 to increase track speeds and add more platforms.",作为这项运动的诞生地，拉格比站启用干1885年，坐落在线路上的两个主要枢纽之间，这使得该站有大量的列车停靠和通过！目前的车站布局是2006年至2008年间进行的大规模重建的结果，目的是提高线路限速并增加更多站台。
@@ -2023,7 +2023,7 @@
 /7806B2F1445CC4DA6AD432878D9AE32A,Walk to the front of your train.,步行至列车前部。
 /F3084D104CA4B88ACCB35E9A5C1D7435,Walk to your train in platform 6.,步行至您停在6站台的列车。
 /5536AF9E453DA73F057A9BAAFCBD57BB,We are about to pass a worksite for High Speed 2 (HS2). HS2 will be a new high speed railway line to connect London and Birmingham with trains running at a planned speed of 205 mph (330 km/h). This will cut down on journey times between the two cities and create more capacity on the busy WCML out of London Euston.,我们即将经过2号高速铁路（HS2）的建设工地。HS2将是一条连接伦敦和伯明翰的新高速铁路，列车的设计运行速度为205英里/小时（330公里/小时）。这将缩短两座城市之间的旅行时间，并为繁忙的西海岸干线伦敦尤斯顿段腾出更多容量。
-/85AF1837453A97F4E60894A053B50F94,We can now depart for Polesworth. Please stop at signal NL5473 to contact the signaller so they can let you enter the occupied signal block.,我们现在可以出发前往波尔斯沃思了。请停在信号机NL5473前联系信号员，以便他们让您进入已被占用的信号分区。
+/85AF1837453A97F4E60894A053B50F94,We can now depart for Polesworth. Please stop at signal NL5473 to contact the signaller so they can let you enter the occupied signal block.,我们现在可以出发前往波尔斯沃思了。请停在信号机NL5473前联系信号员，以便他们让您进入已被占用闭塞区间。
 /38666DF24CBB4DCC7A6B6F9DCA7D3ECC,We will now begin the procedure to couple these two units together. Pull forward and gently couple to the other unit in front of you and follow the instructions to open the intermediate cab doors so that passengers will be able to walk through the whole train.,我们现在将开始重联这两组动车组的程序。向前推进并与您前方的另一组动车组轻轻重联，并按照说明打开中间的驾驶室通道门，以便旅客能够在整列列车中通行。
 /CA47F3F44ED99F64E2DDEC8E0BD80E7B,We will now begin the procedure to couple these two units together. Pull forward and gently couple to the other unit in front of you and follow the instructions to open the intermediate cab doors so that passengers will be able to walk through the whole train.,我们现在将开始重联这两组动车组的程序。向前推进并与您前方的另一组动车组轻轻重联，并按照说明打开中间的驾驶室通道门，以便旅客能够在整列列车中通行。
 /7E3A4ACC4C21F4EE207D9B8F97A9C09E,We're approaching Station One. Begin applying a small amount of braking force on the PBC.,我们正在接近一号站。开始在主控手柄上施加少量的制动力。
@@ -2048,7 +2048,7 @@
 /D46CC8C84E8F3FDDC3B1FB871FDC402C,"Whilst exploring the route, be sure to look out for plenty of collectibles!",在探索路线时，请务必留意丰富的收集品！
 /F75543F84BEA6BA421A2B38D95C78596,"Whilst passengers board the train, open the TDEU Cabinet and insert the key.",在旅客上车的同时，打开站台发车查询终端（TDEU）柜门并插入钥匙。
 /97D8484A4437E3691348D9B2A61A3EE5,White,白色
-/CDF373664ED466EF37521A8B0170D55D,Whittington Up Slow,惠廷顿上行慢车线
+/CDF373664ED466EF37521A8B0170D55D,Whittington Up Slow,惠廷顿上行慢线
 /FFC7014D4358DC2B25EDAEACEE2A8A80,Williams,威廉姆斯
 /5C899BDD4BCFB9F29DCF42A6F89B2DD3,Wilson,威尔逊
 /015387BF4CEC13E6216F8585BEE9712E,You can access the external camera by clicking the right stick.,你可以通过按下右摇杆来切换至外部摄像机。

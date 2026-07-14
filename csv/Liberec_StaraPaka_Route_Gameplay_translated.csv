@@ -681,9 +681,9 @@
 /832881A1430B7A359E523F8435726BDE,HEADLIGHTS,前照灯
 /A6AB77E247928295C77C08B8AE659D01,Harris,哈里斯
 /ED8E22134BE59EA58E4EC08DDD971905,Helen,海伦
+/02B1B96B45D1FF6BEBD1CC98F9384217,"Hello 1272, dispatcher here. You'll meet a freight in Košťálov, and it is approaching already. I know I just stopped you, but.could you clear the junction area as soon as possible so he can pass without stopping?",1272 次你好，我是调度员。你将在科什佳洛夫与一列货车交会，它已经接近了。我知道我刚让你停下，但……你能尽快驶离道岔区域吗，以便让他不停车通过？
 /51C248B94156AFBE94657B8CFC2D73D9,"Hello 1272, here Jermanice dispatcher. I haven't expected you here so quickly. You'll need to wait for a meet with the opposing express. But he is not even on the block post. So, 5 minutes?",1272 次你好，这里是耶日马尼采调度员。没想到你这么快就到了。你需要等待与对向快车交会，但他还没进入闭塞区间。你得等上大概 5 分钟？
 /F5ECC2C24448BEE9D5E0C28B217CF2AD,"Hello 1272, here Sychrov dispatcher. There is a traffic running in front of you. and it is getting overheated so it runs slow. You'll pass him at Hodkovice. Probably. Perhaps. I hope.",1272 次你好，这里是锡赫罗夫调度员。你前方有车在运行，由于过热导致运行缓慢。你应该会在莫黑尔卡河畔霍德科维采超过他。大概吧。也许。我希望如此。
-/02B1B96B45D1FF6BEBD1CC98F9384217,"Hello 1275, dispatcher here. You'll meet a freight in Košťálov, and it is approaching already. I know I just stopped you, but.could you clear the junction area as soon as possible so he can pass without stopping?",1275 次你好，我是调度员。你将在科什佳洛夫与一列货车交会，它已经接近了。我知道我刚让你停下，但……你能尽快驶离道岔区域吗，以便让他不停车通过？
 /CA3D79ED47C71C01CE3F63B9281C1D99,"Hello Driver, welcome to the Training Center. Today we will explore the Class 750 Locomotive and you will get to know some new and interesting things about it. Start by approaching the locomotive. Begin our walkaround by checking the exterior of the locomotive. Check that the buffers aren't pushed inside. Continue by looking under the locomotive and checking that nothing is hanging from the bogies. Also check that the drainage valves are closed and the fuel caps aren't missing.",你好司机，欢迎来到训练中心。今天我们将探索 Class 750 机车，你会了解到一些关于它的新奇有趣的知识。首先请靠近机车。从检查机车外部开始我们的绕车检查。检查缓冲器是否没有缩进。继续检查机车下方，确认转向架上没有挂着东西。同时检查排水阀是否关闭，燃油盖是否完好。
 /D03E0B6B401FCE35E1D3D1B22BACD690,"Hello Driver, welcome to the Training Center. Today we will explore the Class 750 Locomotive and you will get to know some new and interesting things about it. Start by approaching the locomotive. Begin our walkaround by checking the exterior of the locomotive. Check that the buffers aren't pushed inside. Continue by looking under the locomotive and checking that nothing is hanging from the bogies. Also check that the drainage valves are closed and the fuel caps aren't missing.",你好司机，欢迎来到训练中心。今天我们将探索 Class 750 机车，你会了解到一些关于它的新奇有趣的知识。首先请靠近机车。从检查机车外部开始我们的绕车检查。检查缓冲器是否没有缩进。继续检查机车下方，确认转向架上没有挂着东西。同时检查排水阀是否关闭，燃油盖是否完好。
 /4712DB3045568B68173805A0DA97EF33,"Hello Driver, welcome to the Training Center. Today we will explore the Class 843 and you will get to know some new and interesting things about it. Start by approaching the train.",你好司机，欢迎来到训练中心。今天我们将探索 Class 843，你会了解到一些关于它的新奇有趣的知识。首先请靠近列车。
@@ -1174,9 +1174,9 @@
 /9822657C476DD272D113758BF87CFEAF,Lv 84561 - Part 1 (Shunting),Lv 84561 第 1 部分 (调车)
 /97341B314B6AFE1DF654F28680B6869D,Lv 84561 - Part 2,Lv 84561 第 2 部分
 /6202A3CE4E3FFF616354689C1541147D,Lv 84561 - Part 3 (Shunting),Lv 84561 第 3 部分 (调车)
-/27A9ED684550C5FF5C46ECBE2F9EFBD9,Lv84561 (Shunting),Lv 84561 (调车)
 /21F4CE4D4DEBCF29A08A449DB0F83B3A,MASTER KEY,主控钥匙
 /B948BD074672589B720012948CD38D5B,MUDSLIDE,泥石流
+/0E3940674E8A92EA0E74889CEED6E70C,Mala Skala k1,马拉斯卡拉 1 道
 /9D57BD714816B2372066C9AC1CF0EBE4,Mala Skala kolej 1,马拉斯卡拉 1 道
 /16A8A0C364B44E308DC0B6B7BD8217A5,Mala Skala kolej 1 - Turnov kolej 1,马拉斯卡拉 1 道 - 图尔诺夫 1 道
 /2E6F1879D91C4BE48381634136D2AC91,Mala Skala kolej 1 - Turnov kolej 11,马拉斯卡拉 1 道 - 图尔诺夫 11 道
@@ -1836,6 +1836,7 @@
 /DE4F3D9E48DDBDD8898AF286F2E6F228,Select PROVOZ (Active) Position And Wait,选择激活位并等待
 /18476D2B4105EE07C5CEF78BE980AEE0,Select START Position And Wait,选择启动位并等待
 /22204F95496F715ED2623C8E65C911AC,Semily,塞米利
+/75044839458B4EAE4037BB8E821DC78B,Semily k1,塞米利 1 道
 /9415858E4A81DFB635E49CA0321761A7,Semily kolej 1,塞米利 1 道
 /CE6D7742D3FE4CF49AAA71C295B0C847,Semily kolej 1 - Kostalov kolej 1,塞米利 1 道 - 科什佳洛夫 1 道
 /E738BAB17D9F43098149665D9CD1BC7B,Semily kolej 1 - Kostalov kolej 2,塞米利 1 道 - 科什佳洛夫 2 道
