@@ -1,6 +1,6 @@
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "WCMLTrentValley.locres.csv"
+FILE = "IT_THB_Class165.locres.csv"
 
 import pandas as pd
 from google.cloud import translate_v2 as translate
@@ -21,7 +21,7 @@ SYSTEM_ROLE = "你是一个精通《模拟火车世界》(Train Sim World) 和�
 SYSTEM_RULES = [
     "将输入文本翻译成中文，使用专业铁路用语。",
     "除非原文包含，或部分重度缩写地名如 DIRFT，避免使用括号。",
-    "对于车次，使用如下格式：<车次号>: <始发站> - <终到站>。如果原文只包含四位车次号则按原样翻译。",
+    "对于车次，使用如下格式：<车次号> <始发站> — <终到站>。如果原文只包含四位车次号则按原样翻译。",
     "{ }包裹的内容为占位符，不要翻译但要保留花括号。",
     "站场、避让线、维护设施、货运站等的缩写（如 FLT）需要翻译。",
     "地点名称不保留英文名称；站名中仅货运公司名称保留原文。",
@@ -31,21 +31,30 @@ SYSTEM_RULES = [
 
 STATION_TRANSLATIONS = {
     # 路线标题与区间
-    # "WCML Trent Valley": "西海岸干线特伦特谷",
-    # "Milton Keynes Central - Crewe": "米尔顿凯恩斯中央 - 克鲁",
-    "Crewe": "克鲁",
-    "Crewe Basford Hall": "克鲁巴斯福德大厅",
-    "Stafford": "斯塔福德",
-    "Rugeley Trent Valley": "鲁吉利特伦特谷",
-    "Lichfield Trent Valley": "利奇菲尔德特伦特谷",
-    "Tamworth": "塔姆沃思",
-    "Polesworth": "波尔斯沃思",
-    "Atherstone": "阿瑟斯通",
-    "Nuneaton": "纽尼顿",
-    "Rugby": "拉格比",
-    "Daventry International Rail Freight Terminal": "达文特里国际铁路货运终端",
-    "Wolverton": "伍尔弗顿",
-    "Milton Keynes Central": "米尔顿凯恩斯中央站",
+    "Thames Valley Branches": "泰晤士河谷支线",
+    "Henley-on-Thames": "泰晤士河畔亨利",
+    "Henley": "亨利",
+    "Shiplake": "希普莱克",
+    "Wargrave": "沃格雷夫",
+    "Twyford": "特怀福德",
+    "Marlow": "马洛",
+    "Bourne End": "伯恩安德",
+    "Cookham": "库克汉姆",
+    "Furze Platt": "弗兹普拉特",
+    "Maidenhead": "梅登黑德",
+    "Slough": "斯劳",
+    "Windsor & Eton Central": "温莎与伊顿中央",
+    # 地图上的主要枢纽方向
+    "Reading": "雷丁",
+    "Paddington": "帕丁顿",
+}
+
+SCENARIO_TRANSLATIONS = {
+    "Divide and Conquer": "分而治之",
+    "Rescue on the Windsor Branch": "驰援温莎",
+    "Regatta Day": "赛艇盛典",
+    "The Marlow Donkey": "马洛铁驴",
+    "Wedding Bells in Windsor": "温莎喜钟",
 }
 
 
@@ -54,11 +63,16 @@ def build_system_instruction() -> str:
     station_lines = "\n".join(
         f"- {source}: {target}" for source, target in STATION_TRANSLATIONS.items()
     )
+    scenario_lines = "\n".join(
+        f"- {source}: {target}" for source, target in SCENARIO_TRANSLATIONS.items()
+    )
     return (
         f"{SYSTEM_ROLE}\n"
         f"任务要求：\n{rule_lines}\n"
         "请在翻译时严格遵守以下站名固定译名：\n"
-        f"{station_lines}"
+        f"{station_lines}\n"
+        "以及以下场景名称的固定译名：\n"
+        f"{scenario_lines}"
     )
 
 

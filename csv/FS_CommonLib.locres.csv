@@ -1,5 +1,18 @@
 key,source,target
 /E85CF5B64E66BD188C54ABBAD531BC7B,992,
+/6A147EE2458FF1B9077A87A9A27B053D,Become Dispatcher,
+/9E10E6C94729F80107AAC598C68052FF,"Can't Dispatch Here!",
+/195728EC4A1FD24EBF52A89F5A025D33,"Ensure that all doors are closed, the platform is clear, and that the signal ahead showing a Proceed aspect before clearing the train for departure.",
+/F81378C44A8D5ADA3F02CB9194B6A0A7,Platform Dispatcher,
+/49AC31634AB51191B2E599B18C827F2D,Platform Dispatcher - Active,
+/4DAB69ED43046F693E8F60A0E0EF0E0F,Platform Dispatcher - Complete,
+/C21B75584DA11DA10DF9D581A4A5B45C,Platform Dispatcher - Next Step,
+/1CD034D44685CDAE8A9EA3A9B6DED60E,Platform Dispatcher Session Ended,
+/780F6B054AEDD46292F13BBF5CD95F85,Platform Dispatcher Session Ended,
+/9B1A86FD40C32912692F3F8F1F2488EE,Platform Dispatcher Session Ended,
+/BE7A533E4E285EBF7A3C949449C35DEB,Platform Dispatcher Session Ended,
+/E6720EEB48CDF558DEF7D8A55C1F45AF,"Press [button] to signal that it's safe to close the doors.",
+/0D8820AF476432A5E68058BE2CC047AE,"Press [button] to signal that it's safe to depart.",
 /338EA62B418C71010C3B9EB938FE5220,Pressed,
 /F30D256A42ADFA06B62637885775B559,Request to Cross,
 /6A20EE1C4776848BADD832A8E50F3503,"Service {Service}
@@ -7,6 +20,17 @@ Scheduled time with lateness: {Hr}:{Min}
 Delay mins: {Delay}
 Mins until arrival {ArrivalMins}",
 /793F287E420E3F4DE82829BCE57DA636,Set (SYSTEM) SparkAudio,
+/25AAA333486409B477B6D68FCEE4084B,Stop Dispatching,
+/BDF252D34CECD7C1E97B66B41AAD5169,"Well done, this train will now depart. 
+Keep an eye on it as it leaves the station, then your duties for this train are complete.",
+/3BEFC9C94C528CA7F3A43ABA8F910472,You are now a platform dispatcher! Ensure passenger safety and a safe dispatch for trains leaving this platform.,
+/41FC407F4329C9809FB84D9EB1BC8F68,"You can't start dispatching as you are currently driving a service.",
+/F5DE513A4B0C49DED2358C93C3177415,"You can't start dispatching as you are currently in Guard Mode.",
+/14AA1A254E8CFB1A484401B76A8E0AB3,"You can't start dispatching at this platform as you are still dispatching at another location. Put your equipment away and try again.",
+/EECC970A42C2D4743476A7946190D333,Your dispatcher session has ended as you entered Guard Mode.,
+/76BBD306472DDB08DEEED596F2227BD7,Your dispatcher session has ended as you have started driving a train.,
+/94D8EE0649B1F992188911AEFF0B0BD0,Your dispatcher session has ended as you have travelled too far away from the station.,
+/8283094C439547AFA952C084D9726315,Your next train is due to depart at {HH}:{MM}.,
 /DBDDE5B0495FB262680FAFA168475FDB,"{Index}
 ID: {ID}",
 /67A54F804E484F746F0418B7366112D2,{TextBeforeLetter}{Letter},
