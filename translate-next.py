@@ -1,6 +1,6 @@
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "IT_THB_Class165.locres.csv"
+FILE = "SFS_NurnbergIngolstadt.locres.csv"
 
 import pandas as pd
 from google.cloud import translate_v2 as translate
@@ -8,6 +8,11 @@ import html
 import os
 import csv
 import re
+import sys
+
+if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
 
 import base64
 import os
@@ -21,7 +26,7 @@ SYSTEM_ROLE = "你是一个精通《模拟火车世界》(Train Sim World) 和�
 SYSTEM_RULES = [
     "将输入文本翻译成中文，使用专业铁路用语。",
     "除非原文包含，或部分重度缩写地名如 DIRFT，避免使用括号。",
-    "对于车次，使用如下格式：<车次号> <始发站> — <终到站>。如果原文只包含四位车次号则按原样翻译。",
+    "对于班次中的始发终到站部分，使用如下格式：<始发站> — <终到站>。",
     "{ }包裹的内容为占位符，不要翻译但要保留花括号。",
     "站场、避让线、维护设施、货运站等的缩写（如 FLT）需要翻译。",
     "地点名称不保留英文名称；站名中仅货运公司名称保留原文。",
@@ -30,31 +35,34 @@ SYSTEM_RULES = [
 ]
 
 STATION_TRANSLATIONS = {
-    # 路线标题与区间
-    "Thames Valley Branches": "泰晤士河谷支线",
-    "Henley-on-Thames": "泰晤士河畔亨利",
-    "Henley": "亨利",
-    "Shiplake": "希普莱克",
-    "Wargrave": "沃格雷夫",
-    "Twyford": "特怀福德",
-    "Marlow": "马洛",
-    "Bourne End": "伯恩安德",
-    "Cookham": "库克汉姆",
-    "Furze Platt": "弗兹普拉特",
-    "Maidenhead": "梅登黑德",
-    "Slough": "斯劳",
-    "Windsor & Eton Central": "温莎与伊顿中央",
-    # 地图上的主要枢纽方向
-    "Reading": "雷丁",
-    "Paddington": "帕丁顿",
+    "Schnellfahrstrecke: Nürnberg - Ingolstadt": "纽伦堡 — 因戈尔施塔特高速铁路",
+    "Allersberg": "阿勒斯贝格",
+    "Feucht": "福伊希特",
+    "Fischbach": "菲施巴赫",
+    "Ingolstadt": "因戈尔施塔特",
+    "Ingolstadt Hbf": "因戈尔施塔特主火车站",
+    "Ingolstadt Nord": "因戈尔施塔特北站",
+    "Kinding": "金丁",
+    "Nuernberg Dutzendteich": "纽伦堡杜岑泰希",
+    "Nuernberg Frankenstadion": "纽伦堡弗兰肯体育场",
+    "Nuernberg Hbf": "纽伦堡主火车站",
+    "Nuernberg-Steinbuehl": "纽伦堡施泰因比尔",
+    "Nürnberg": "纽伦堡",
+    "Nürnberg Dutzendteich": "纽伦堡杜岑泰希",
+    "Nürnberg Dürrenhof": "纽伦堡迪伦霍夫",
+    "Nürnberg Frankenstadion": "纽伦堡弗兰肯体育场",
+    "Nürnberg Gleisshammer": "纽伦堡格莱斯哈默",
+    "Nürnberg Gleißhammer": "纽伦堡格莱斯哈默",
+    "Nürnberg Hbf": "纽伦堡主火车站",
+    "Nürnberg Rothenburger Straße": "纽伦堡罗滕堡街",
 }
 
 SCENARIO_TRANSLATIONS = {
-    "Divide and Conquer": "分而治之",
-    "Rescue on the Windsor Branch": "驰援温莎",
-    "Regatta Day": "赛艇盛典",
-    "The Marlow Donkey": "马洛铁驴",
-    "Wedding Bells in Windsor": "温莎喜钟",
+    "ICE 3 Testdrive": "ICE 3 试驾",
+    "Opening Drive": "开通之旅",
+    "Head and Tails": "首尾相接",
+    "Unusual Freight": "特殊货运",
+    "Golden Hour": "黄金时刻",
 }
 
 
@@ -96,7 +104,7 @@ def translate_gemini(input_text: str):
     ]
     generate_content_config = types.GenerateContentConfig(
         thinking_config=types.ThinkingConfig(
-            thinking_budget=0,
+            thinking_budget=-1,
         ),
         response_mime_type="application/json",
         response_schema=genai.types.Schema(

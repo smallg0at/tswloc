@@ -252,6 +252,7 @@ Run `python command_helper.py` with no arguments to print this list.
 ## Notes
 
 - Manuals/Liberec-Stara_Paka_Manual contains manual translation assets (including zh-CN outputs).
+- thumbnail.odg is a local working file, not something we want new revisions of in history. After cloning, run `git update-index --skip-worktree thumbnail.odg` once so local edits to it are never picked up by `git add`/`git commit`. To intentionally commit a new template version later, run `git update-index --no-skip-worktree thumbnail.odg` first, commit, then re-run the skip-worktree command.
 
 ## License
 

@@ -252,6 +252,7 @@ Epic：
 ## 备注
 
 - Manuals/Liberec-Stara_Paka_Manual 中包含手动翻译资产（包括 zh-CN 输出）。
+- thumbnail.odg 是本地工作文件，不希望它的新版本进入历史记录。克隆后请执行一次 `git update-index --skip-worktree thumbnail.odg`，这样对它的本地修改就不会被 `git add`/`git commit` 捕获。如果之后确实想提交一个新的模板版本，先执行 `git update-index --no-skip-worktree thumbnail.odg`，提交后再重新执行 skip-worktree 命令恢复忽略状态。
 
 ## 许可证
 
