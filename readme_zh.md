@@ -53,6 +53,14 @@ Epic：将 .pak 文件放入 `<Documents>\My Games\TrainSimWorld6EGS\Saved\UserC
 > [!WARNING]
 > 切勿将你的密钥上传到 GitHub 仓库。如果要把密钥放在本地项目附近，请先加入 `.gitignore`。
 
+### PowerShell 命令补全
+
+在项目根目录执行以下命令，即可为当前 PowerShell 会话启用 `command_helper.py` 的 Tab 补全：
+
+`. .\scripts\CommandHelperCompletion.ps1`
+
+在 VS Code 中打开本仓库后，工作区设置会让新开的 PowerShell 终端自动加载补全脚本。此后输入 `tswloc <Tab>`（或 `tl <Tab>`）可以补全命令名称，不会和 Python 的脚本路径补全冲突。先输入完整的 `python command_helper.py` 后，继续按 Tab 也可以补全子命令。使用 `update` 或 `import-localized` 时，后续参数还会补全当前目录下的 `.pak` 文件。已有终端需要重启一次。该设置只属于本仓库，不会修改用户级 `$PROFILE`。
+
 ### 2. 本仓库的文件夹职责
 
 - original/：用于导出的 DLC 本地化源文件
@@ -217,6 +225,14 @@ Epic：
 
 ### 12. DLC 更新后如何同步翻译
 
+通常情况下，现在可以用一条命令完成整个同步流程：
+
+`python command_helper.py update "C:\path\to\updated-DLC.pak"`
+
+它会列出 pak，只提取其中的 `en`/`en-GB` locres 到 `original/`，将已有翻译合并到对应的 `csv/*_translated.csv`，并且只有在合并成功后才替换对应的 `dist/.../zh` locres。新 key 会标记为 `TBT`。没有现成翻译 CSV 的 DLC 会跳过，`Foob_GodMode` 也会跳过（该包继续使用已有的 `godmode-extract`/`godmode-override` 流程）。
+
+命令参数就是更新后的 pak 文件本身，不需要 DLC 安装目录，也不需要编辑 `getlocresscript.ps1`。
+
 `dist/` 中的 zh locres 是二进制文件，其中的 key 槽位是固定的。`apply` 只能覆盖该二进制文件中已存在的 key 对应的文本——它不能新增 key 槽位，因此当某个补丁引入了新字符串时，需要额外运行一次 `override` 来重建结构，之后 `apply` 才能识别这些新 key。
 
 1. 使用 getlocresscript.ps1 从新的 DLC pak 中提取更新后的 locres：编辑脚本顶部的 `$pakFile`（新 pak 的文件名）和 `Set-Location` 路径（你本地的 DLC 安装目录），然后运行它。它只会将 en/en-GB/zh 的 locres 路径解包到 original/ 中，覆盖旧的 `original/.../en[-GB]/<PackName>.locres`。
@@ -232,12 +248,33 @@ Epic：
    - 对新翻译的行进行人工质检（参见第 7-8 节）。
 5. 依次运行 `python command_helper.py apply` 和 `python command_helper.py pack`（如果是 Foob_GodMode，则依次使用 `godmode-extract`（代替第 2 步中的 `merge`）、`godmode-apply`、`godmode-pack`）。
 
+上面的 `update` 命令会自动完成第 1-3 步。你只需要处理新出现的 `TBT` 行，然后运行 `apply` 和 `pack`。
+
+### 13. 导入已经带中文本地化的 DLC
+
+如果某个 DLC pak 本身已经包含英文和中文 locres，可以直接导入为本项目使用的标准结构：
+
+`python command_helper.py import-localized "C:\path\to\localized-DLC.pak"`
+
+该命令会先列出 pak 中同时包含英文和中文 locres 的所有 pack。输入逗号分隔的编号选择 pack，输入 `all` 导入全部列出的 pack，输入 `q` 取消。只有选中的 pack 会被写入仓库。
+
+对于每个选中的 pack，它会：
+
+- 只提取 `en`、`en-GB`、`zh`、`zh-CN` locres 文件；
+- 将英文 locres 复制到 `original/`；
+- 将中文 locres 复制到 `dist/.../zh/`（把 `zh-CN` 统一为 `zh`）；
+- 按 key 匹配两个 locres，并创建 `csv/<PackName>_translated.csv`。
+
+中文 locres 中不存在的行会标记为 `TBT`。检查或翻译这些行后，照常运行 `python command_helper.py apply` 和 `python command_helper.py pack`。源 pak 必须为同一个 DLC 同时提供英文（`en` 或 `en-GB`）和中文（`zh` 或 `zh-CN`）locres。
+
 ## command_helper.py 命令参考
 
 不带任何参数运行 `python command_helper.py` 即可打印此列表。
 
 | 命令 | 作用 |
 | --- | --- |
+| `update <pak>` | 提取更新后的 DLC pak 中的 en/en-GB locres，合并已有翻译，并重建对应的 `dist/` zh locres；新 key 标记为 `TBT`。 |
+| `import-localized <pak>` | 将已有中文本地化的 DLC pak 中的 en/en-GB 与 zh/zh-CN locres 导入 `original/`、`dist/` 和 `csv/`。 |
 | `extract` | 将 `original/` 中的 en/en-GB locres 导出为每个 DLC 对应的 `./csv/<PackName>.locres.csv`（跳过 `Foob_GodMode`）。 |
 | `apply` | 将每个 `./csv/*_translated.csv` 导入回 `dist/.../zh/<PackName>.locres`。 |
 | `merge` | 对于已存在 `./csv/<PackName>_translated.csv` 的 DLC，重新导出 en 和当前的 zh locres 并合并，在 en 源文本仍匹配的情况下优先保留已有的 zh 文本。适用于 DLC 更新新增字符串后的重新同步，不会丢失已有翻译。覆盖前会要求确认，并跳过没有已存在翻译 csv 的 DLC。 |

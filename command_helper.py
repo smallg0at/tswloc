@@ -1,8 +1,104 @@
 import os
 import shutil
+import subprocess
 import sys
+import re
+from pathlib import Path
 import winreg
 from merge import merge_csvs
+
+
+LOCRES_PATH_RE = re.compile(
+    r"^(?P<root>TS2Prototype[\\/]Plugins[\\/]DLC[\\/])"
+    r"(?P<pack>[^\\/]+)[\\/]Content[\\/]Localization[\\/]"
+    r"(?P<locpack>[^\\/]+)[\\/](?P<locale>en-GB|en|zh-CN|zh)[\\/]"
+    r"(?P<file>[^\\/]+\.locres)$"
+)
+
+
+def list_locres_paths(pak_file, locales):
+    result = subprocess.run(
+        ["repak", "list", str(pak_file)],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(result.stderr.strip() or "repak list failed")
+
+    paths = []
+    for line in result.stdout.splitlines():
+        path = line.strip().replace("\\", "/")
+        match = LOCRES_PATH_RE.match(path)
+        if match and match.group("locale") in locales:
+            paths.append((path, match.groupdict()))
+    return paths
+
+
+def unpack_locres(pak_file, output_dir, locales):
+    paths = list_locres_paths(pak_file, locales)
+    if not paths:
+        raise RuntimeError("No matching localization locres files found in the pak")
+
+    args = ["repak", "unpack", str(pak_file), "-o", str(output_dir)]
+    for path, _ in paths:
+        args.extend(["--include", path])
+    result = subprocess.run(args, check=False)
+    if result.returncode != 0:
+        raise RuntimeError("repak unpack failed")
+    return paths
+
+
+def export_and_merge(packname, source_path, localized_path, output_file):
+    temp_dir = Path("temp")
+    temp_dir.mkdir(exist_ok=True)
+    source_csv = temp_dir / f"{packname}.en.csv"
+    localized_csv = temp_dir / f"{packname}.zh.csv"
+    export_source = f'.\\Utils\\UnrealLocres.exe export "{source_path}" -o "{source_csv}" -f csv'
+    export_localized = f'.\\Utils\\UnrealLocres.exe export "{localized_path}" -o "{localized_csv}" -f csv'
+    if os.system(export_source) != 0 or os.system(export_localized) != 0:
+        return False
+    merge_csvs(str(source_csv), str(localized_csv), str(output_file))
+    return True
+
+
+def repository_path(root, pak_path, source_locale=None, target_locale=None):
+    parts = pak_path.replace("\\", "/").split("/")
+    if source_locale and target_locale:
+        parts[parts.index(source_locale)] = target_locale
+    return Path(root, *parts)
+
+
+def choose_packs(pack_paths):
+    available = []
+    for packname, paths in sorted(pack_paths.items()):
+        locales = {metadata["locale"] for _, metadata in paths}
+        if ({"en", "en-GB"} & locales) and ({"zh", "zh-CN"} & locales):
+            available.append(packname)
+
+    if not available:
+        print("No packs containing both English and Chinese locres were found.")
+        return set()
+
+    print("Packs available for import:")
+    for index, packname in enumerate(available, 1):
+        print(f"  {index}. {packname}")
+    print("Enter numbers separated by commas, 'all' for every pack, or 'q' to cancel.")
+    selection = input("Import: ").strip().lower()
+    if selection in {"", "q", "quit", "cancel"}:
+        print("Import cancelled.")
+        return set()
+    if selection == "all":
+        return set(available)
+
+    selected = set()
+    for value in selection.split(","):
+        value = value.strip()
+        if value.isdigit() and 1 <= int(value) <= len(available):
+            selected.add(available[int(value) - 1])
+        else:
+            print(f"Ignoring invalid selection: {value}")
+    return selected
 
 def get_documents_path():
     """Resolve the real Documents folder on Windows (not always under %USERPROFILE%)."""
@@ -33,7 +129,95 @@ if len(sys.argv) > 1:
     command = sys.argv[1].lower()
 
 
-if command == "apply":
+if command == "update":
+    if len(sys.argv) != 3:
+        print("Usage: python command_helper.py update <updated-DLC.pak>")
+        sys.exit(1)
+    try:
+        pak_file = sys.argv[2]
+        paths = unpack_locres(pak_file, "original", {"en", "en-GB"})
+        processed = set()
+        for pak_path, metadata in paths:
+            packname = metadata["pack"]
+            if packname in processed or packname == "Foob_GodMode":
+                continue
+            processed.add(packname)
+            source_path = repository_path("original", pak_path)
+            localized_path = repository_path(
+                "dist", pak_path, metadata["locale"], "zh"
+            )
+            csv_file = Path("csv", f"{packname}_translated.csv")
+            if not csv_file.exists() or not localized_path.exists():
+                print(f"No existing translated CSV/dist file for {packname}, skipping.")
+                continue
+            if export_and_merge(packname, source_path, localized_path, csv_file):
+                shutil.copy2(source_path, localized_path)
+                print(f"Updated {packname}; new rows are marked TBT.")
+            else:
+                print(f"Error updating {packname}; old dist file was kept.")
+    except (OSError, RuntimeError, ValueError) as exc:
+        print(f"Update failed: {exc}")
+        sys.exit(1)
+elif command == "import-localized":
+    if len(sys.argv) != 3:
+        print("Usage: python command_helper.py import-localized <localized-DLC.pak>")
+        sys.exit(1)
+    import_dir = Path("temp", "import-localized")
+    try:
+        if import_dir.exists():
+            shutil.rmtree(import_dir)
+        paths = unpack_locres(
+            sys.argv[2], import_dir, {"en", "en-GB", "zh", "zh-CN"}
+        )
+        by_pack = {}
+        for pak_path, metadata in paths:
+            by_pack.setdefault(metadata["pack"], []).append((pak_path, metadata))
+
+        selected_packs = choose_packs(by_pack)
+        for packname, pack_paths in by_pack.items():
+            if packname not in selected_packs:
+                continue
+            source = next(
+                (item for item in pack_paths if item[1]["locale"] == "en"),
+                next(
+                    (item for item in pack_paths if item[1]["locale"] == "en-GB"),
+                    None,
+                ),
+            )
+            localized = next(
+                (item for item in pack_paths if item[1]["locale"] == "zh"),
+                next(
+                    (item for item in pack_paths if item[1]["locale"] == "zh-CN"),
+                    None,
+                ),
+            )
+            if not source or not localized:
+                print(f"Both English and Chinese locres not found for {packname}, skipping.")
+                continue
+
+            source_path = repository_path("original", source[0])
+            localized_path = repository_path(
+                "dist", localized[0], localized[1]["locale"], "zh"
+            )
+            extracted_source = repository_path(import_dir, source[0])
+            extracted_localized = repository_path(import_dir, localized[0])
+            source_path.parent.mkdir(parents=True, exist_ok=True)
+            localized_path.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(extracted_source, source_path)
+            shutil.copy2(extracted_localized, localized_path)
+
+            csv_file = Path("csv", f"{packname}_translated.csv")
+            if export_and_merge(packname, source_path, localized_path, csv_file):
+                print(f"Imported localized DLC {packname} into original/dist/csv.")
+            else:
+                print(f"Error exporting localized DLC {packname}; files were copied.")
+    except (OSError, RuntimeError, ValueError) as exc:
+        print(f"Localized DLC import failed: {exc}")
+        sys.exit(1)
+    finally:
+        if import_dir.exists():
+            shutil.rmtree(import_dir)
+elif command == "apply":
     # Apply all back
     # usage: UnrealLocres.exe import locres_file_path translation_file_path [-f {csv,pot}] [-o output_path]
     file_list = os.listdir('./csv/')
@@ -259,6 +443,8 @@ else:
     print("Usage: python command_helper.py <command>")
     print()
     print("Commands:")
+    print("  update <pak>    Extract an updated DLC pak's en locres, merge existing translations, and rebuild dist keys")
+    print("  import-localized <pak>  Import en+zh locres from a localized DLC pak into original/, dist/, and csv/")
     print("  extract          Export en/en-GB locres from original/ into ./csv/<PackName>.locres.csv (skips Foob_GodMode)")
     print("  apply            Import every ./csv/*_translated.csv back into dist/.../zh/<PackName>.locres")
     print("  merge            Re-export en+zh locres for a pack and merge into ./csv/<PackName>_translated.csv, preferring existing zh text over en")

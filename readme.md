@@ -53,6 +53,14 @@ Remove ALL csvs in the project root dir.
 > [!WARNING]
 > DO NOT EVER UPLOAD YOUR KEY TO A GITHUB REPO. If you plan to save it around here add to `.gitignore` first.
 
+### PowerShell Tab Completion
+
+To enable tab completion for `command_helper.py` in the current PowerShell session, run this from the repository root:
+
+`. .\scripts\CommandHelperCompletion.ps1`
+
+When this repository is opened in VS Code, its workspace settings automatically start new PowerShell terminals with the completion script loaded. Then `tswloc <Tab>` (or `tl <Tab>`) completes command names without Python's script-path completion getting in the way. `python command_helper.py <Tab>` also works after the script path has been entered. For `update` and `import-localized`, the next argument completes `.pak` files in the current directory. Existing terminals need to be restarted once. The workspace setting is local to this repository and does not modify your user `$PROFILE`.
+
 ### 2. Folder Roles in This Repo
 
 - original/: source DLC localization files to export from
@@ -217,6 +225,14 @@ Enable mods in game settings (Advanced -> Enable Mods).
 
 ### 12. Updating a Pack After a DLC Patch
 
+For the usual case, the whole synchronization can now be done with one command:
+
+`python command_helper.py update "C:\path\to\updated-DLC.pak"`
+
+This lists the pak, extracts only its `en`/`en-GB` locres into `original/`, merges existing translations into the matching `csv/*_translated.csv`, and replaces the corresponding `dist/.../zh` locres only after the merge succeeds. New keys are marked `TBT`. It skips packs without an existing translated CSV and skips `Foob_GodMode` (use the existing `godmode-extract`/`godmode-override` flow for that pack).
+
+The command requires the updated pak itself; it does not need the DLC install directory or any edits to `getlocresscript.ps1`.
+
 `dist/` zh locres files are binaries with a fixed set of key slots. `apply` can only overwrite text for keys that already exist in that binary — it cannot add new key slots, so a patch that introduces new strings needs an extra `override` pass to rebuild the structure before `apply` will pick those new keys up.
 
 1. Grab the updated locres out of the new DLC pak with `getlocresscript.ps1`: edit `$pakFile` (the new pak's filename) and the `Set-Location` path (your local DLC install folder) at the top of the script, then run it. It unpacks only the en/en-GB/zh locres paths into `original/`, overwriting the old `original/.../en[-GB]/<PackName>.locres`.
@@ -232,12 +248,33 @@ Enable mods in game settings (Advanced -> Enable Mods).
    - Manually QA the newly translated rows (see steps 7-8).
 5. `python command_helper.py apply` then `python command_helper.py pack` (or the `godmode-*` equivalents for Foob_GodMode: `godmode-extract` in place of `merge` in step 2, `godmode-apply`, `godmode-pack`).
 
+The `update` command above performs steps 1-3 automatically. You only need to process new `TBT` rows, then run `apply` and `pack`.
+
+### 13. Importing a DLC That Already Has Chinese Localization
+
+If a DLC pak already contains both English and Chinese locres files, import it directly into the same layout used by translated DLCs:
+
+`python command_helper.py import-localized "C:\path\to\localized-DLC.pak"`
+
+The command first lists every pack in the pak that contains both an English and a Chinese locres. Enter comma-separated numbers to select packs, `all` to import every listed pack, or `q` to cancel. Only selected packs are written.
+
+For each selected pack, it then:
+
+- extracts only `en`, `en-GB`, `zh`, and `zh-CN` locres files;
+- copies the English locres to `original/`;
+- copies the Chinese locres to `dist/.../zh/` (normalizing `zh-CN` to `zh`);
+- creates `csv/<PackName>_translated.csv` by matching the two locres files by key.
+
+Rows missing from the supplied Chinese locres are marked `TBT`. Review or translate those rows, then run `python command_helper.py apply` and `python command_helper.py pack` as usual. The source pak must contain both an English (`en` or `en-GB`) and Chinese (`zh` or `zh-CN`) locres for the same pack.
+
 ## command_helper.py Command Reference
 
 Run `python command_helper.py` with no arguments to print this list.
 
 | Command | What it does |
 | --- | --- |
+| `update <pak>` | Extracts an updated DLC pak's en/en-GB locres, merges existing translations, and rebuilds the matching `dist/` zh locres. New keys become `TBT`. |
+| `import-localized <pak>` | Imports en/en-GB and zh/zh-CN locres from an already localized DLC pak into `original/`, `dist/`, and `csv/`. |
 | `extract` | Exports en/en-GB locres from `original/` into `./csv/<PackName>.locres.csv` for every pack (skips `Foob_GodMode`). |
 | `apply` | Imports every `./csv/*_translated.csv` back into `dist/.../zh/<PackName>.locres`. |
 | `merge` | For a pack that already has a `./csv/<PackName>_translated.csv`, re-exports both the en and the current zh locres and merges them, preferring the existing zh text where the en source still matches. Useful after a DLC update added new strings to re-sync without losing existing translations. Asks for confirmation before overwriting, and skips packs with no existing translated csv. |

@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "tswloc PowerShell": {
+            "source": "PowerShell",
+            "args": [
+                "-NoExit",
+                "-Command",
+                ". '${workspaceFolder}\\scripts\\CommandHelperCompletion.ps1'"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "tswloc PowerShell"
+}
