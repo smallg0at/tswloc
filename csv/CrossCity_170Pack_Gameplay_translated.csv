@@ -1,4 +1,4 @@
-﻿key,source,target
+key,source,target
 /2451CE49401DE603CC63FDA11A0798CE, 2R01 Soho Depot to Birmingham New Street (Part 2),2R01 索霍车辆段开往伯明翰新街（第 2 部分）
 /462BF18841803ED28F3AB6ACD13C938B, Soho Depot to Birmingham New Street (Part 2),索霍车辆段开往伯明翰新街（第 2 部分）
 /B36878AC4D416CACF49914A9A319DD35, Soho Depot to Birmingham New Street (Part 2),索霍车辆段开往伯明翰新街（第 2 部分）
@@ -1345,8 +1345,8 @@
 /E399583C4C2EB017FC5FBEBFDA19094B,Press Left Button to close the left side passenger doors,按左键关闭左侧乘客车门
 /1C31E40F4FB5B1339A4CA3A43DD8A541,Press Left D-Pad to close the left side passenger doors,按左侧十字键关闭左侧乘客车门
 /FFF06AB6424E5DE7BF0B83A59578604A,Press Left D-Pad to open the left side passenger doors,按左侧十字键打开左侧乘客车门
-/CD1715144FF997C17052439E77A26DFA,"Press Menu button to bring up the pause menu, if you miss anything","如果你错过了什么，按下菜单键呼出暂停菜单"
-/C9AB63864D6E4DD6504FA098EB371C98,"Press OPTIONS button to bring up the pause menu, if you miss anything","如果你错过了什么，按下OPTIONS键呼出暂停菜单"
+/CD1715144FF997C17052439E77A26DFA,"Press Menu button to bring up the pause menu, if you miss anything",如果你错过了什么，按下菜单键呼出暂停菜单
+/C9AB63864D6E4DD6504FA098EB371C98,"Press OPTIONS button to bring up the pause menu, if you miss anything",如果你错过了什么，按下OPTIONS键呼出暂停菜单
 /F108C95D491D09F2745CC1B9EC2BF9B1,Press Right Button to close the right side passenger doors,按右键关闭右侧乘客车门
 /170AC0CD4B06B23278C38DB096B7DF14,Press Right Button to open the right side passenger doors,按右键打开右侧乘客车门
 /4EE2D97F4F23731017EBA3BAA0C14AFA,Press Right D-Pad to close the right side passenger doors,按右侧十字键关闭右侧乘客车门
