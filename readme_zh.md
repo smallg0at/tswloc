@@ -16,9 +16,9 @@ https://www.trainsimcommunity.com/mods/c3-train-sim-world/c19-patches/i7144-dlc-
 
 ## 安装
 
-Steam：将 .pak 文件放入 `<Documents>\My Games\TrainSimWorld6\Saved\UserContent`。
+Steam：将 .pak 文件放入 `<Documents>\My Games\TrainSimWorld7\Saved\UserContent`。
 
-Epic：将 .pak 文件放入 `<Documents>\My Games\TrainSimWorld6EGS\Saved\UserContent`。
+Epic：将 .pak 文件放入 `<Documents>\My Games\TrainSimWorld7EGS\Saved\UserContent`。
 
 如果 `UserContent` 目录不存在，请手动创建，并确认游戏设置中已启用 mods。
 
@@ -214,11 +214,11 @@ python command_helper.py pack-riviera
 
 Steam：
 
-<Documents>\My Games\TrainSimWorld6\Saved\UserContent
+<Documents>\My Games\TrainSimWorld7\Saved\UserContent
 
 Epic：
 
-<Documents>\My Games\TrainSimWorld6EGS\Saved\UserContent
+<Documents>\My Games\TrainSimWorld7EGS\Saved\UserContent
 
 如果 UserContent 不存在，请手动创建。
 在游戏设置中启用 mods（Advanced -> Enable Mods）。

@@ -1,6 +1,6 @@
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "MainSpessartBahn_translated.csv"
+FILE = "NWB_DB_BR412_translated.csv"
 
 import pandas as pd
 from google.cloud import translate_v2 as translate
@@ -28,6 +28,7 @@ SYSTEM_RULES = [
     "地点名称不保留英文名称；站名中仅货运公司名称保留原文。",
     "Part X 翻译为第 X 部分。",
     "不要添加解释、注释或额外字段。",
+    "如果原文德语且非站名，可能是 DMI 文本，所以不翻译。",
 ]
 
 STATION_TRANSLATIONS = {

@@ -267,7 +267,7 @@ elif command == "pack":
         source_file = os.path.abspath("./ZHLoc.pak")
         documents_dir = get_documents_path()
         user_content_dir = os.path.join(
-            documents_dir, "My Games", "TrainSimWorld6", "Saved", "UserContent"
+            documents_dir, "My Games", "TrainSimWorld7", "Saved", "UserContent"
         )
         target_file = os.path.join(user_content_dir, "ZHLoc.pak")
 
@@ -360,7 +360,7 @@ elif command == "godmode-pack":
         source_file = os.path.abspath("./ZHLoc-GodMode.pak")
         documents_dir = get_documents_path()
         user_content_dir = os.path.join(
-            documents_dir, "My Games", "TrainSimWorld6", "Saved", "UserContent"
+            documents_dir, "My Games", "TrainSimWorld7", "Saved", "UserContent"
         )
         target_file = os.path.join(user_content_dir, "ZHLoc-GodMode.pak")
 
