@@ -1,7 +1,8 @@
-key,source,target
+﻿key,source,target
+/E3697C5B4E847D1273C29EA42647C0B8,101Expert,101 专家
 /E7A01C2A49D5110AE8CFDC92B60CF2C0,101Expert,101 专家
 /16B78CA74F32C97A2A18B699E7F330D6,555m,555 米
-/4717086C4163B9482B087D8426A3D522,"After 1990, the station was renovated and modernized. The concourse floor was removed and two basement levels were dug out to create a large shopping mall. The modified station building was inaugurated on 12 November 1997.",1990 年之后，该车站进行了翻新和现代化改造。大厅地面被拆除，并挖掘了地下两层，建成了一个大型购物中心。改造后的车站大楼于 1997 年 11 月 12 日正式启用。
+/E4FF555A4EA7A9AA475E63A0A3D646FC,"After 1990, the station was renovated and modernized. The concourse floor was removed and two basement levels were dug out to create a large shopping mall. The modified station building was inaugurated on 12 November 1997.",1990年之后，该车站进行了翻新与现代化改造。中央大厅的地面被拆除，并向下挖掘了两层地下室以建造大型购物中心。改造后的车站大楼于1997年11月12日正式落成启用。
 /62984F5B42F226114F0CD78CA94A9035,Allersberg Pl 1,阿勒斯贝格 1 号站台
 /AC15851F4F560E87D67E78AEC821EDC9,Allersberg Pl 4,阿勒斯贝格 4 号站台
 /B622510B43254CBE27AD4FAD3EBAFB78,Allersberg Track 4,阿勒斯贝格 4 股道
@@ -39,8 +40,8 @@ key,source,target
 /01932517490D06947CB1CDB6D00E957E,Bpmmbdzf 286.3 + 5x MüNeX BR 101 +  DB BR 101 [Loaded],Bpmmbdzf 286.3 + 5x MüNeX BR 101 + DB BR 101 [重载]
 /ACE1A6D049183C63DD6CB2BA14D5E202,Bpmmbdzf 286.3 + 7x MüNeX BR 101 +  DB BR 101 [Empty],Bpmmbdzf 286.3 + 7x MüNeX BR 101 + DB BR 101 [空载]
 /5E8F3BDC4558496C4F45919CAFC718A4,Bpmmbdzf 286.3 + 7x MüNeX BR 101 +  DB BR 101 [Loaded],Bpmmbdzf 286.3 + 7x MüNeX BR 101 + DB BR 101 [重载]
-/8041231943DF268EA31AAFBFCB1237BE,"Break free from the limits of the network and push your train to the max — racing at full speed along the high-speed corridor from Nürnberg to Ingolstadt. Drive modern ICE, Regional and S-Bahn trains out of Nürnberg, Germany.",突破路网限制，将列车发挥至极速——沿着从纽伦堡至因戈尔施塔特的高速走廊全速驰骋。驾驶现代化的 ICE、区域列车和城市快铁（S-Bahn）列车驶离德国纽伦堡。
-/D691AD2E43503F23D1980398942A1EA7,"By 1939, it had become one of Germany's busiest railway stations.",到 1939 年，它已成为德国最繁忙的火车站之一。
+/DDC482C14E6EE63E9878BF9DFCA9D326,"Break free from the limits of the network and push your train to the max — racing at full speed along the high-speed corridor from Nürnberg to Ingolstadt. Drive modern ICE, Regional and S-Bahn trains out of Nürnberg, Germany.",突破路网的限制，将列车推向极速——沿纽伦堡至因戈尔施塔特的高速走廊全速奔驰。从德国纽伦堡出发，驾驶现代化的城际特快列车、区域列车和城市快铁列车。
+/A9D9B43F4D2E1E28935A6DB26F7FDA2A,"By 1939, it had become one of Germany's busiest railway stations.",到1939年，它已成为德国最繁忙的火车站之一。
 /F1BA56D042D90F94B0ACA9969CCA4C32,CHECK JUNCTIONS,检查道岔
 /0200007E435B3C97237E259909FD5624,CLIMB ABOARD,登上列车
 /40891BD84FEF52D2457FB3ABE1032EE1,CLIMB ABOARD,登上列车
@@ -50,18 +51,31 @@ key,source,target
 /05F0065A4EE5BA997688BD8117C1E4D2,COASTING,惰行
 /53D9ECEE4BB52886CE884EA5FE22AEE0,COASTING,惰行
 /F5CC773144595DEFD76DF7BB6DE3A13E,COASTING,惰行
+/050CF09645CD0E6E550792B8D239ED29,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
 /42CDC43C48A010AB4724E388BA353F45,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
 /4AFD27DF4E79DDD537FB8FA50105221F,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
 /4E73050F42C2B3F013F60D8C17F440E1,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
 /52C329B542D60A32EFA90891107C6368,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
 /7BE75AE34BFEE5D8BD4269A4DA039AAC,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
+/91C45DAF411A380899D529A72C1AC6A8,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
+/A983CCC1404ED927D5FFF48DE0983C62,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
+/B3C9827D4338672E0E18EF998531CBBE,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
+/B3E12D214D3AA3ED0B0B05BE37B054ED,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
 /D8337FB5403660D86927C69ECD97EE8E,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
+/F518E02144E3B3976E643580D635C4D1,Car Train Ingolstadt Hbf - Ingolstadt Nord,汽车运输列车 因戈尔施塔特主火车站 — 因戈尔施塔特北站
+/04A399BE44A436E961E95794A7CAB6DE,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
 /235D0819414390FB2A6967ADBF18BFC4,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
+/29827E9A403ADB4D64318A96186BC5EF,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
 /420BE6EC414CA54DE7063DA71738E6AB,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
+/5D67BDE141AC2416DE64D38E3FF0C08C,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
+/62D8CD82449D7DCBE6C8DC99142F5006,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
+/6398773C495289D0E7C6E9870E1E4743,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
 /847FA9554B82D1A6C4216EB63FAAD8D5,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
 /8AC3BDB441F13EDCCFF21CB2BCACC88B,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
 /90BD99C946BCB4F733AF6E91681630B2,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
 /A8D0E1BF415AA3B73951A2B46647979E,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
+/D9BD2F54482A1244A1C80DAB1F412C07,Car Train Ingolstadt Nord - Ingolstadt Hbf,汽车运输列车 因戈尔施塔特北站 — 因戈尔施塔特主火车站
+/7A526C6742A12055B720AB8264F2DDE5,CarTrain,汽车运输列车
 /E042E42D44FE2A0520AC2E9E3E9EE3B8,CarTrain,汽车运输列车
 /C0143F8B4F0402954662EE81F4C27BC3,Click the Right Mouse button to switch between Look and Control modes,点击鼠标右键在视角模式与控制模式之间切换
 /E387F72C48DE6C2E013F43A3EBE0F28B,Climb aboard the Loco.,登上机车。
@@ -87,7 +101,7 @@ key,source,target
 /C1B9816745EC37AEE1C03681B5546C51,Coasting is a method used to efficiently maintain speed and reduce motor stress and maintenance requirements.,惰行是一种高效保持车速、减少电机应力和维护需求的驾驶方法。
 /D2073F3E429D4B3232C974A75609FA5D,Coasting is a method used to efficiently maintain speed and reduce motor stress and maintenance requirements.,惰行是一种高效保持车速、减少电机应力和维护需求的驾驶方法。
 /FBD3050941DA10E57E2ADAA239F3534E,Coasting is a method used to efficiently maintain speed and reduce motor stress and maintenance requirements.,惰行是一种高效保持车速、减少电机应力和维护需求的驾驶方法。
-/9FF1E41143EFF9342DC76DB7BCA4DDD6,"Completed and opening in 1915, Leipzig Hbf had become one of the world's largest railway stations with 26 platforms.",莱比锡主火车站于 1915 年建成并开放，拥有 26 个站台，曾是世界上最大的火车站之一。
+/8321641648EBD8D2F40639AE6E09EA6F,"Completed and opening in 1915, Leipzig Hbf had become one of the world's largest railway stations with 26 platforms.",莱比锡火车总站于1915年建成并投入运营，拥有26处站台，成为当时世界上最大的火车站之一。
 /54E041E1413E783630C807B90FF634BD,Continue your journey as a new Driver and experience everything that Nürnberg Ingolstadt has to offer.,作为一名新手司机继续你的旅程，体验纽伦堡 — 因戈尔施塔特线路所能带来的一切。
 /01CC870E48A2849D3660CC8648AC9AF1,DB BR 101 + 5x MüNeX + Bpmmbdzf 286.3 [Empty],DB BR 101 + 5x MüNeX + Bpmmbdzf 286.3 [空载]
 /59D6A76141BCA208EFB7F0A66E43B4CA,DB BR 101 + 5x MüNeX + Bpmmbdzf 286.3 [Loaded],DB BR 101 + 5x MüNeX + Bpmmbdzf 286.3 [重载]
@@ -98,34 +112,58 @@ key,source,target
 /357C4E2A4C685C3C4245D39403388265,DB BR 403 x2 Red Stripe [Empty],DB BR 403 x2 红条纹 [空载]
 /59E13C1F4C9E45BB5F76DD872888F724,DB BR 403 x2 Red Stripe [Loaded],DB BR 403 x2 红条纹 [重载]
 /9B6831C04D0C9611035154A7F9616ED1,DB BR612 Single Unit,DB BR612 单机组
+/525E884349E7D8BF96A2C69D5FCB032E,DGS (40122) Bremen Grolland to Kufstein,DGS (40122) 不来梅格罗兰 — 库夫施泰因
 /E12397104B4769D424E0E2B5FF55B673,DGS (40122) Bremen Grolland to Kufstein,DGS (40122) 不来梅格罗兰 — 库夫施泰因
 /1EFF3C0D429C7E72CEAB11B16BE363F9,DGS (40123) Kufstein to Bremen Grolland,DGS (40123) 库夫施泰因 — 不来梅格罗兰
+/76D96CF64486002635B2F88789A2DD0D,DGS (40123) Kufstein to Bremen Grolland,DGS (40123) 库夫施泰因 — 不来梅格罗兰
+/4B5F028745CE5E314DB99692D561141D,DGS (46307) Leipzig Wahren to Verona Quadrante Europa,DGS (46307) 莱比锡瓦伦 — 维罗纳欧洲四分仪
 /C6CEF7994024E3D6C46965AB9F2B0FDF,DGS (46307) Leipzig Wahren to Verona Quadrante Europa,DGS (46307) 莱比锡瓦伦 — 维罗纳欧洲四分仪
+/A14FD1C5429FCC3DC5C866B3180133D8,DGS (46308) Verona Quadrante Europa to Leipzig Wahren,DGS (46308) 维罗纳欧洲四分仪 — 莱比锡瓦伦
 /BA806C9A4F1702BCBD9F40BE8011EC9C,DGS (46308) Verona Quadrante Europa to Leipzig Wahren,DGS (46308) 维罗纳欧洲四分仪 — 莱比锡瓦伦
+/15BA0F16462287CF121EA4817ACF5B34,DGS (47840) Hamburg Alte Süderelbe to Rosenheim,DGS (47840) 汉堡老南易北 — 罗森海姆
 /C548C6B348229C8A10E355A249840E6F,DGS (47840) Hamburg Alte Süderelbe to Rosenheim,DGS (47840) 汉堡老南易北 — 罗森海姆
 /8427B6E845D704BA1CC6EFBA9BA52A58,DOOR OPEN,车门打开
-/74380EC645280D98A3942C920281C6D7,"Departing Leipzig Hbf, you can see old abandoned roundhouses with turntables in the distance. These are what remains of the sheds which housed locomotives which would have taken trains in and out of the central station. Nowadays trains that service the station don't require turntables.",驶离莱比锡主火车站时，你可以看到远处废弃的旧圆形机车库和转盘。这些是曾经停放牵引进出中央车站列车的机车的车库遗迹。如今，在该车站服务的列车已不再需要转盘。
-/3C1C1A2745FADCAC6906C68DECED6721,"Departing Nürnberg we follow the S-Bahn Line towards Feucht, after which the highspeed line branches off towards Ingolstadt and follows the Autobahn.",从纽伦堡出发，我们沿着城市快铁（S-Bahn）线路开往福伊希特，此后高速线路分支开来前往因戈尔施塔特，并紧邻高速公路并行。
+/4A5C755844DC2E55FC1740B90D175907,"Departing Leipzig Hbf, you can see old abandoned roundhouses with turntables in the distance. These are what remains of the sheds which housed locomotives which would have taken trains in and out of the central station. Nowadays trains that service the station don't require turntables.",从莱比锡火车总站出发时，你可以看到远处废弃的旧转盘扇形车库。这些机车库的遗迹过去曾用于存放进出总站的列车机车。如今，进出该站运行的列车已不再需要转车盘。
+/B556CF464BAA28B35007C1B9E0504E2D,"Departing Nürnberg we follow the S-Bahn Line towards Feucht, after which the highspeed line branches off towards Ingolstadt and follows the Autobahn.",离开纽伦堡后，我们沿着城市快铁线路驶向福伊希特，随后高速铁路分岔开往因戈尔施塔特并沿高速公路延伸。
 /6F5BDDA14CB395B5039241AF4DE0C2A1,Distance to other Train,与另一趟列车的距离
 /10A3DEDD4CCD21B08C98CEA6AF8B2C16,"Drive an ICE 3 alongside a second ICE 3 to mark the opening of the new Nuremberg–Ingolstadt line, and try to stay as close as possible to the other ICE. Do not exceed 300 km/h.",驾驶一列 ICE 3 与第二列 ICE 3 并驾齐驱，庆祝新的纽伦堡 — 因戈尔施塔特线路开通，并尽量保持与另一列 ICE 的近距离。切勿超过 300 公里/小时。
+/097D8AA84449955AE6AC9287A9FCEBD0,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
 /2E4337CC49B3BB5D7BDD51A1C21E217B,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
+/406EB37544889A02E6E4FF832C619B98,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
 /510B1FB14D884050141F52BC4A067296,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
 /6A8324154CEA097ECD20AABAD1E2D42B,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
 /7300118C4214C7EA67387282FD246237,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
+/7CA865F54807D38B6C5A3B906FE4E563,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
+/7CC8C49C4F56D259CEB51895EC3D1FEF,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
 /90B950AA4D4B80C7205CE0B84433BFC8,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
 /A0565CCA41F140EB11808D98DB7CCF96,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
+/D1B790764FB5DA67CEA5ED8AA2A1B690,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
+/D81C47C54B29A7D4B3532CBAD5CB615B,Drive this Car Train with brand new cars from Ingolstadt Nord to Ingolstadt Hbf,驾驶这趟装载全新汽车的汽车运输列车，从因戈尔施塔特北站开往因戈尔施塔特主火车站
 /09B9BFC842D13F8D5CE671B10404F7CB,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
 /225F4EF349AD96F901DDE1B6F638BC49,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
+/4CAA6C4E46A44FE0F7C2A0BD3A783114,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
 /63BBBD3445D71CF2D5C23A825AD9CBA6,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
+/68A5EDF3462EC5188D78D6B0A54906B2,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
+/80A1888A435849930A05A6AD95F29B07,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
 /94F3E12F4CEF29FC487D328555620D78,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
+/958038D44836C18B31E53D8ADC40AF9A,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
+/CA3E6C4D4A071A14EB06D48841F6D7F1,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
 /DF5E309C4232F22D8AE41C86838E74AC,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
 /F368204D4040403AF9E9A78A1D72CDB0,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
+/FE51C30C44307C8FF6C4FFBBB2EAC203,Drive this ICE 1 to Ingolstadt Hbf,驾驶这趟 ICE 1 开往因戈尔施塔特主火车站
+/1450ACB04DBB3D3DE7C13C9F11C143D9,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
 /418CFC77448AE3BD36FE4CBEC0B831A2,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
+/5D5E583E44F62930A80026BB8D430544,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
 /6DFD65B24E8D3A1E28E0F0AA694CD6E5,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
+/924EE3AD4C210A0E866D0BBC7BBE19C8,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
 /94B356D641904A82F6FEEBB6D8F68787,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
+/C5304C954C1005864151EE8D70172C7C,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
 /C9D1CDFD400BD3EA7376619D3C06F076,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
 /D6113F5249A2AAC32306B38654E04759,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
+/E65C1F0D426C3F767B76E7AAB9A508AD,Drive this ICE 1 to Nürnberg Hbf,驾驶这趟 ICE 1 开往纽伦堡主火车站
 /03983D634F2CF5F9DF6415A9FBADF55E,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/0463B30D4FB9444E7FA283858C8E92D3,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/0C9D151E428082EB02E7D1BF20A294EC,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /1888224A409C11CF300BF49B06E724C5,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /1EE8666E488B822BF6C698B26B88E591,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /21AA5B934F6B92416D5D1A912F675C78,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
@@ -133,97 +171,197 @@ key,source,target
 /4A1261A1490708F3A18457A7DA6B449D,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /4A1BDBEB42BC99D54592A69B9DADAA86,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /5E0CA54046A2520DA8902EB7B0DF65A1,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/6A9985974D55E24C88F493A253A2E5FB,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/6C4B5150417BEB1BFC10138115BBE31B,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /6EFF6C9A4AEFF0FD8ED5069EE9576335,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /73DB9A9F48C532ECD3C264A75033E509,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/83A44E1C4672489AEC985D8713EACA24,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/83E2C33644DF7A0B3A478FBA89E07491,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/8975FFAD461BB4BBB7F4DC992CC8AE6E,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/8E4A265248ED67C05084B589A37B9BE9,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/9064E4FC42971E20958BD9A89CA01698,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/9DABF3384D779F9F7D5C0AA1604AB52E,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/9F36FBB44B537E13D4CDF4964A7C3AC3,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /A4735A274F3F4CEE645D58AD26A6E1D8,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /A822ADAC4C233CA524549CA02D38A3E2,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /AB653B0C478473BFE0561BA2A43D6994,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/B3F4C4BB41D74E059540429B2D7D6BAB,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/B40ED3424C236EEDE1871EA458E6C9EB,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /C743194B479771EB62D050A9853C494B,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/D03A03E14B136CEEA124FA87238994F3,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/D4F5B7FE4E9B4622B7EB06B4AD1A62AB,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
 /FE876A9E426EE9E0BF62DA92FF0AEA58,Drive this ICE 3 to Ingolstadt Hbf,驾驶这趟 ICE 3 开往因戈尔施塔特主火车站
+/019F572F4F813AA2C2CD7CB3D01A0E1E,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /0D8FC59740A5066C5A3F6DA4FEBA9885,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/1005DCAD4B883BE596D573B0F5BDB1E4,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/123E902E4BAF907F02D6A8A5EA000479,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /12A23545427C7940C3A630B1EA09EABC,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /1339C3554CA7724BE3F474B8C3B25818,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/1412245E4A4F43F26B52CCAA71791890,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/15106084477B927CA3D029ADBAC34F76,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /27ECD4A346BA224EBB493C88F9DE7E18,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /39E07810431542F6679A2C9629D8F559,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /3BABAE3F4E33FE8D93301DA2121B3548,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /3F72E52741CCD881382AE1A088F27863,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /48790EF247841DEFAE7D6EB7C45EE72B,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /4A8D01724589DE678B019D8565CD6E22,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/4EE56F15497A4E2AAD68C78429615136,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/5D5931E54ADF374688B259BCD0860261,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/5DA2D16949CB3DE165968ABDAF89755D,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/6423FABB444A901038D74385EE0891E9,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/6CCCC3B74807915D13D78CABB560EAF5,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /6E91FE4C452F97556C27628A952F71F3,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /83FDC8234CE7DC1E5C12CF8FB0175F67,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/9355624F469A9C7024718B812354DCA7,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/977A42A84600DA4FF49F7895E2B3FCAD,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/9B000A314DE02E61CC747CBCC0FA280E,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /A6922698457767C2158A1B95EA650EEA,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/B413CE6C44280547D6EA459978ECE78C,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /B8D5776342203277CF67B7A3CBDF64F9,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /C3B60F9D4F1DF098DEFFBA864EA2D4B8,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /C8249F7948AFB43B068A76982171FB47,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /CF3B56A34B4C022F0E16DEABE08BB700,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/D1BAF44D42E0DD7BA285F885420C8E93,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /D671D6164D76E9EBF51232B9EC3AE34E,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/E2DA04D94599F830F3EA7EA64427ECE2,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/EE4684D541E5CA67EDCB59A286643FBF,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/FC5D13B647BF7D660886B499FB99E93C,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
 /FE5704204C6FE9085B8DFD88F4084A15,Drive this ICE 3 to Nürnberg Hbf,驾驶这趟 ICE 3 开往纽伦堡主火车站
+/03EB540042C3B3AEB917FEAD191F3D54,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
+/27737FA945385059AE133097FDA102CB,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /3F2143B243499048D02B61BF93D28E70,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /417C1E2C47E871D21873E8A66521055D,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
+/62F8EB0247E97BC42763C98898776C29,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /80D780184B088A2CD5E9FDAEECCB3C0A,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
+/8117AE8B4C87F40B049791BC7580EB58,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /85A981E4477B81D9D30B81A6B4A8176D,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
+/8A940FC342DB4D14E6C409AF2B94DA53,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /99D1F3A24826D637A597ABB735A44EB8,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
+/9C77C5904243340A33237E891F5265DB,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /9D6F77F44696735537AA49AC27DBF848,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /9E2A81954083D2F1172685AC1DA6D27A,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
+/AEAA6D0145417989A66A24B4B59DF7F1,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /C9E656F547D0440E1A4B81A00C8B3505,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /DBB610BF4D4057FC03CEEFAAB63590F4,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
+/E4541B654DF011EFC63BCCB10D23179C,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
+/F9A82BF6498825F1345367895CD07E57,Drive this ICE T to Ingolstadt Hbf,驾驶这趟 ICE T 开往因戈尔施塔特主火车站
 /005ECA9643DC5DBB83BAF9A985D39560,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
+/3A64B3C94DF5E6BEDD549295F8D637F3,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
 /3B354F7B4308774184F3E881B1AB8CCA,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
+/52CEE7E844DB43440254A4AF4C9C8751,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
+/66469FB347CFB4C305851D8783506C68,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
 /7B8D81DF442571A5859EE1AC584C932D,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
 /7F8ED6DE44F193B0590F408ACE9D3380,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
+/83EA7CA44108A3314558E59A6F859297,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
+/84C935F84E80D13836B5D2A853CC05F3,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
 /97DE4F0849E5E54C8A52B698B76BBFC7,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
 /A9503CFF41652ADC1DAE60B273E66801,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
+/C67FA6E64039474B82868CB3EA24D164,Drive this ICE T to Nürnberg Hbf,驾驶这趟 ICE T 开往纽伦堡主火车站
 /C91070864F7532E6206820AD8317AF61,Drive this ICE3 from Ingolstadt to Nürnberg in the dawn - the golden hour!,在拂晓——黄金时刻，驾驶这趟 ICE 3 从因戈尔施塔特开往纽伦堡！
 /D79D8AA3410B3DBD010AC59CC673B5D1,Drive this Regional Express to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /04389C5F4D541C21916BF6859A25FB55,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/0CA520744948ACF0160B6096684D6CF3,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /22ED7E7D4B372384DCE9FD8DAFAF27DD,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /2B9EC8ED4890CECFB38237A3A80399DF,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /2E2E12DF4C776C1EFBC79DBDF1866159,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /47554D7B42B2CB3241E6C48A56E98374,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/57870DB1463F63A11641AABB2DA1A836,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/6B7DF4924D1A7CEFDE9A3EB618ED083E,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/6FF6410749139B4CAA02A9934A58B5BB,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/751F3FF84F0A03D592AD2086D158E738,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /7FA66012447A7961F31774BD98965675,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /89319EA04B40902AF63579820B4D2F42,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/8FDA2DB14BAB84EDF2FA8880D09FE56B,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /97DE27084A841CF3F9ECBDBA51B1A93C,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/9F2437FA475AAF45C0B5F7B4CA13488D,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/C7A3A60344C174941A6CDB9372AE5618,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /C7AA7EF14DA73F0AB0A41296F3CF0781,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /D69A3B7343C4E6376DB7D9BF521CE82B,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /DA413EAE4435FC458BDB2FA07CF605EF,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/E135C747498C3446E0F4F189EAE0E344,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/F24DF02B448A7D12BD466687B5F65DAE,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/FA4B8E5A452DAC3881D9FFA7F26ABD8D,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
+/FAD40C734F62301BF7FB15B93139A24D,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /FEE9980C491411F382EC36821889E926,Drive this Regionalexpress to Ingolstadt,驾驶这趟区域快车开往因戈尔施塔特
 /0B40F00F4E2D52BCE91970BCA7B93085,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/1295E56B48CCC110A0BECE83D167B6ED,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/138633194FC23E3EF5862CB1D32959C0,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/295937904ECB52B4501BD08AB24AE386,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/2D59EE504896D4A62793E7A5FC919E42,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /3A1A74C64821B4B7C6EACEB46C9DBC65,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /3AF5C5AC4956A197F74F25BE843E0107,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/3BA6523A4B8CC40966494FB9910C8D3E,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /3FE48FBA4DB86D3013D117B3B9D88848,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /63A108614D6E30A12B5161B001BF2940,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /846F535F4C07FDF3657EF0ADEFC8A0C3,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/88C066AB4CE98B4AC69411816D728F74,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /941CA47B436B28394229C4A18402AA47,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /9433EDCA432B9DED00A13E853CAC2D7A,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /B0BCC5064FA476C8D4387DAA759E9933,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/B1FAFA844A8F7699F1C363ACBDFA0243,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/C6B58B784462E94B7C1A6BB45BC41655,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/DD63F48C49D6404C4D831382AF3622B8,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /FCB1B88C46CA7B0676BACCA7CD84C2EC,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/FF95E72C46F1930D541FE6913D4B4D0B,Drive this Regionalexpress to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/0BA888D84EE2E067C7B6E8A1B1F3A79B,Drive this car train from Feucht to Nürnberg,驾驶这趟汽车运输列车从福伊希特开往纽伦堡
 /1F7EE67644C574A51046FF87F3601E86,Drive this car train from Feucht to Nürnberg,驾驶这趟汽车运输列车从福伊希特开往纽伦堡
 /26A83523451C784F0B559292957C30E3,Drive this car train from Feucht to Nürnberg,驾驶这趟汽车运输列车从福伊希特开往纽伦堡
+/63E19171401E2D45B4B15BAD21337B10,Drive this car train from Feucht to Nürnberg,驾驶这趟汽车运输列车从福伊希特开往纽伦堡
 /27E300634B1F8CF8E3375295DEEF5D70,Drive this car train from Nürnberg to Feucht,驾驶这趟汽车运输列车从纽伦堡开往福伊希特
+/96B0CD994B7C75A9678530B4BD33E251,Drive this car train from Nürnberg to Feucht,驾驶这趟汽车运输列车从纽伦堡开往福伊希特
 /1B7CE25D4E1077CAA48C39A41D253665,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
 /4A4EDC2549E98E91A4125FAA4B11C2F5,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
 /4AE33D8843B20FDD95BA84972C997385,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
+/4E98F2D14D85099FAA618EA707E21D79,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
+/561B90EC46512C2CFF2E56AB76665EB7,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
+/5F32FF664F128C1349BEE886F6F7B64B,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
 /90EB9BEB40CB89A9F2C37B8D25C303DE,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
+/C08E4BFC4ED3CAFA94D5BCA68D1F66F8,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
 /CA1564394EF7E014FE96D8B84F994EA2,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
+/EE038BCC4177E569B11AD28469848BB7,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
 /F4D82F3F468B456C6A610E957DE52F55,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
+/F52D6C2E45B8026ACD73928B213E938B,Drive this empty Car Train from Ingolstadt Hbf to Ingolstadt Nord,驾驶这趟空载汽车运输列车从因戈尔施塔特主火车站开往因戈尔施塔特北站
+/0413D0B9444E6DAD55885F8BD13C895D,Drive this formation into the yard,将此编组驶入编组场
 /1DA82C7A4FE15FE71000ACB4258C4A59,Drive this formation into the yard,将此编组驶入编组场
+/2731477F4746CB0A7FA7649C25C8E0AA,Drive this formation into the yard,将此编组驶入编组场
+/4306A0D24FD4EAE7FDC283BCD8E34EDC,Drive this formation into the yard,将此编组驶入编组场
+/4574B3464ACC57F9806E61ADEB84884C,Drive this formation into the yard,将此编组驶入编组场
 /4FE6054148F5E2762675F3B7749C42C1,Drive this formation into the yard,将此编组驶入编组场
 /5733EBD742CDB2B08D06DD8FA8BF8B32,Drive this formation into the yard,将此编组驶入编组场
 /593C04A845F368023BE1F38858015866,Drive this formation into the yard,将此编组驶入编组场
+/5AB0E9D8414D8917795CA596CE4A7ADF,Drive this formation into the yard,将此编组驶入编组场
+/5F62BE3E46205A8F444D9D9EC6427A07,Drive this formation into the yard,将此编组驶入编组场
 /871BA0AC41F16B83E95701BAE5002310,Drive this formation into the yard,将此编组驶入编组场
 /8CCFFE2F4928FA8E8CC5FF99DBE832BB,Drive this formation into the yard,将此编组驶入编组场
 /A6D1432E4472B887284E028CF001089E,Drive this formation into the yard,将此编组驶入编组场
+/B72CD7CA41D87417F762CB92D4FABC36,Drive this formation into the yard,将此编组驶入编组场
 /C854B82A4353924F66D3E89BFC1F82BE,Drive this formation into the yard,将此编组驶入编组场
+/DCE3DD1C4736F4150598A9A63B539278,Drive this formation into the yard,将此编组驶入编组场
 /421355FA4E8BC91C08158DB5A7C1469B,Drive this general cargo train from Feucht to Nürnberg,驾驶这趟普通货运列车从福伊希特开往纽伦堡
+/48309D984FDCA6289A908E8854EF178E,Drive this general cargo train from Feucht to Nürnberg,驾驶这趟普通货运列车从福伊希特开往纽伦堡
 /982F0CA149FB2733DB33C3B1BD33B478,Drive this general cargo train from Feucht to Nürnberg,驾驶这趟普通货运列车从福伊希特开往纽伦堡
+/F362203649ECE1327ECCEA9D892A1C91,Drive this general cargo train from Feucht to Nürnberg,驾驶这趟普通货运列车从福伊希特开往纽伦堡
+/4E457A1A4C570280AE9905B7A8CCD069,Drive this general cargo train from Nürnberg Hbf to Feucht,驾驶这趟普通货运列车从纽伦堡主火车站开往福伊希特
 /7A121B674DC15387B767B4BA25581C57,Drive this general cargo train from Nürnberg Hbf to Feucht,驾驶这趟普通货运列车从纽伦堡主火车站开往福伊希特
+/5EF39F9D461E4534F1C4E6A0DB5D7F2A,Drive this intermodal freight train from Nürnberg to Feucht,驾驶这趟多式联运货运列车从纽伦堡开往福伊希特
 /7FD732114ED409EE019A40A0CDADDB87,Drive this intermodal freight train from Nürnberg to Feucht,驾驶这趟多式联运货运列车从纽伦堡开往福伊希特
 /C3139A5C44B8E5F9B9060BBB19082D53,Drive this intermodal train from Feucht to Nürnberg,驾驶这趟多式联运列车从福伊希特开往纽伦堡
+/F87A52A5478BF1B4AF4B8F97F32E0D5C,Drive this intermodal train from Feucht to Nürnberg,驾驶这趟多式联运列车从福伊希特开往纽伦堡
 /44B327E945E765C2F5C993AD7BFB6B57,Drive this manifest freight train from Nürnberg to Feucht,驾驶这趟综合货运列车从纽伦堡开往福伊希特
+/9C7BF26243C813D9FDCC05864A63E5FD,Drive this manifest freight train from Nürnberg to Feucht,驾驶这趟综合货运列车从纽伦堡开往福伊希特
+/6876B01842C34D88ACB51F85BD24C9EA,Drive this mixed freight train from Feucht to Nürnberg,驾驶这趟混合货运列车从福伊希特开往纽伦堡
 /83F083784237812F6200919C1A3999B2,Drive this mixed freight train from Feucht to Nürnberg,驾驶这趟混合货运列车从福伊希特开往纽伦堡
 /9A73084544A974C0FB54E487394FEB69,Drive this mixed freight train from Nürnberg to Feucht,驾驶这趟混合货运列车从纽伦堡开往福伊希特
+/C8962C594F3CF77A839308BF2D3469FF,Drive this mixed freight train from Nürnberg to Feucht,驾驶这趟混合货运列车从纽伦堡开往福伊希特
+/00E9F39A456D2D02DDD0649903D6DF84,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /027B60F34CF62C053D006CA88F5ECAED,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/09DF2DD5465949E0DA2C76BDA0516B70,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/0CB11AD147CFBF17864AF9A625D8775E,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/0EC09307457A06BCF697C7A37D9C8295,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/0F5FA49649ECCB417A39F3B712A65508,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /115D9E2C4F76CE1BCB4D65B8903ECAA3,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/25E5F7174BE56661E69269A6CEFB2EA5,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/276A8111475E26D850980EAC1E3B1BC4,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /2DCF917F41CE1D405B17D48B3D35F728,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /376F2DA44BA6F8D85AF81D9854BAE7A8,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /3C11673F4318E68486381D95B0D042C9,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
@@ -234,39 +372,78 @@ key,source,target
 /4C9DEB434EB5677EEE070D9C6C523E82,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /4EAF4F2C4E9596C852647DB2C83C008A,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /4FBFFF404A5127A38F11B0A8F4B2E254,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/50E4FF6942E37A5F7C749893611A263E,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /524322BA4F6CFD7058E51CA72FDCAD5F,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/52F588BC449D8AD1350A0BAA9EB9A9B1,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/55CE589A464BC7AD8BF8D4A81BC52266,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/5C0C081849C301C7DA3526BDC1D978C9,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /5DE01E144AA322F28471D2B7CD20466E,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /60E789A3475A150F00359190E55D1E24,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /60EF9547422BC713F88927BEDBF07D41,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /61063D184180BD9A1F29C3BE63241270,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/6194D4194C489F5DE02964A2F2D253C0,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /6633B67D432A2581FE0184AB3A99C16D,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /68326AF346779442DBAB18824C62C566,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /69B7A37041DBABB7EF72869C8E4B0C7F,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/6AEE2BF940B0D23C54FB548509B4A410,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/6B80D5D84EDF0AB41B1F019251B9E510,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/6FF44B6649468340FBA1A981E283FB79,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /70462F284ACF1D965DF1F9B9D70EE04E,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/714B738B4A111BFD16775DA73606C29B,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/75BCB49E45901CB536275EAE497D9A83,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/77392CC848C2F6F6E5B56EAE00C63BF4,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /773A70904640B4AD1296DF979291162A,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /7C04967D42C336D08B5AF7ABC0521C80,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /7D7AE7044A34703D3A452C9F34C2C20B,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /7DF5C5A24F7FCC84F87EAC98DA4DF229,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/806D5C6244BC4B2AB1E10DB7CE69152D,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /892F3BD64B3921862350F4876DCE96BF,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/8D291A3F4CD63EC22E6AE585854461FF,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /90319B454AEB1D6F02299489067B63B1,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /91F98BA34EF87C65272352A8BA6440DA,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/95F3C6544A507360FA173DB32866EF04,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/97AA0E504A51EAF0BCEE6584FD6D5245,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/9D74C9574B86C61BED3451826353C7C9,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/9EFA360248C86F9DFED43DAC412E9836,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/9F68FF184F7FBA6FB5D873AC035A71B0,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /9FA15A6C4681786AE56A759670DD5D33,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /A042DF5A4B76B0D5959118ABD70CCD94,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /A442ABA344F5D28700794BA65F08491A,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/A4BA75D74DE2979D72F6F48576BCBBE9,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /A8317FEB4D1033DFE3367585E91DB686,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /A9359DAB4DF644E6BE84CDAEAA7F5571,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /AA4C84754DE7CAB9C6916EA4474408B7,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /AB1DE70C45ECD921582602A41AB6365F,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/AB797A394A56B1EB0ED394868109F740,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/ADAAB4C140B26A5F4DF6459EA8947FC6,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/AFBB1A93417531D829F96B9448992123,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/AFE4FD4B4E52A3AB2D921CA5DDFA0A34,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /B057734A4275BB8AFDA58EA9642B7026,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /B19AA6CC43B0A53637B138B8E3783234,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/B3EEBB49447A68B37548F18D5B6953FA,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /B3F6A4EB401B286596558199A9D88D51,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/B84CA665481FD334CC329893865F370A,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/B934D5034E400995E63F2C9DCE8AC777,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/B992466D446E6B32F3C180A16619BF74,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /BA5AD16C4A719E11F5C2449F06BFFFD1,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /BDE6AD2F46C8387AEEA1378D89302880,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/C1672A024D5F0A55C05617974FDA93A8,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /C57FF257462B5C2DB8D474A5457F741B,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /C76EB8EE4A222E440C55178284C4ACD7,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/CCAF2027479E7CF5FB173385B30E8513,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/CED8FB8242C3491FF35D84A68E0FFD71,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/D3ADE3C74E8D6086AA5ED2BB4781C974,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /D80F8B494723272C5123BEA047C49E40,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /D885C64646E13A93A80405B5D8C5892E,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/DDF4350940EAD0C64F3810A113453142,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/E2A403A44E2C5E0351C8E5A6DB5F86D8,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/E2AA33214F380980398429859A55239D,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/E83DD01A4064794069F7CBB21C039EE0,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/ECD8A2EF49C4A13E166F5BB0301CEB90,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/ECDCD0574C595B1D7D947CA32CDE8FBA,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /EE1713D2448E250BC2D1CC8E2C47B2D4,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/F370F2DD4644EDAB224F18A38C98B2AF,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
+/F8EAFACC454E9B20E9E5AAA4311A4DFB,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /FF4644F049712A17EE06B69D1E6A63B3,Drive this passenger service from Feucht to Nürnberg Hbf,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站
 /001CD2DD4EEB76C3B5ED8FBC8C4BAC3E,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /01C6586345CA03A935E22292A5392A16,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
@@ -275,196 +452,393 @@ key,source,target
 /109788E640DCA043FE4B2B8DD3EE1A3C,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /10B3E4F2414D8BEDE220449FBAF9CAE5,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /18627D5945479CDB4BEE99A575E2B963,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/1AEF91364175AE216A7BBDA8254AA7EE,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /1BEAFB404B9403FF4BFE3D8EA1E52EDE,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /23758FCC42E5C40A9CE9338FEDBC0DF2,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /2C2FA867423D16ED9E15CB9F08396070,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/2E6C80234E00039E057225B8845220F7,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /336FDC1D4AFDA018633B6DA3F755B3D0,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/343DAC42402FDB9D866A849A1D1E1F30,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/3D116BFD4A5B4408086019B65E6C6A67,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/40EAA8B5402179624D5351B64A5CEA5D,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/4290953C47EAB5E67D2A988A47C95F2A,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /42E3FB7C40E33A77600529950DAF94A1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/43B7856B41A02E3AD1FC2FA3F56067AA,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /464597F945AF181F04D6A09B3D808D87,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /4B4CCFA840BC16BD1D41A3800ECFF0FF,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/4C27412D48CA47C3FA4A3F90786D86C1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/4DB8DC674D25E2AFD4D331B65BE3219D,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/501257D44E184E5EE6DD7DAC6E6CF04B,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /5041FDE44F06DEA8EF1FA9874DA38A84,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/506118DF4FE07153FB347FAC960C1326,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/51038AE345879F61234E5B90D678CD34,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /5369FCF64A725EDA81D739BC834AF1D0,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /53E44078485B941572FE38B4C6D9D4AE,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /5769849D4E9DB4D64AF76E9EBAAF33F1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /581EFD4B437530E813DDD6B650E4CA11,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /58DB7AE14C8FD31CF8D06C87DCA887E1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /59889C6548BF6753D5DE0FA098C59C3F,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/5C0A5CF240030F66A087129C115B2836,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /60E12AE0499712DEACB5E99A64D708EE,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /63936D3F42C4995C3A3474A4BAD8A8C0,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /68F5CF794231383F9B8F208E22F96C53,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/6A10E38A4FB3DB2EADD2BD88B7BA812C,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/6C3729C04BEF38EB21158A9995A0135D,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/6D7CAB534C689BB168B02A8384EDE894,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /6F151D144336FD8B1EED7492D92B8815,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/729D690245D26C4218F744864F333763,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/74420AEC4713486DFD69C18F15692A98,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /787F18DA42F33A8B08296588C134A2F5,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /7AD170C9457ED95A26F807855DCF0555,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/7BE4A0544652930C7748839CD1A9EDF8,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/7C354497439080FBEA210B9854820463,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /832B1B464396A828D8F4978A433FC5F1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /83CBCCD041C2E3AACD03B4B95635ABB9,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /851125EE46DBC5AC6432F4B430D220DE,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /874A4B354A9B35AC8770CFABD0A3ED2B,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/888B85D74FC79F172A960FABFB05D469,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /88E551824A18A00980042E89DDBE8958,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /891C6D2448A615565B5B2DB5AD36FC7B,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/891DA3774E709B86535F879105CE8038,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/89F56F174FDDC73631E2BC9B7DFF96CA,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/8BF492D348C9624ED252B1BE4BFF8A0D,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/8D6518F04F950F6C31D2599FF8CA3203,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /8F9DB3704F6124EE663F1BA508F754FA,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /913F85ED4E4B243271E7F48A8D30633C,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/91F4B39343CFE65D4BB4FB97F2F55323,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /93512061426AA6D9361EC79A7ECE0115,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /942405994985A8894D9DFE9DDC54500A,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/97A236DC4C35B9B6FDBD8BB9F3B273CC,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/989961904B93784B7D8F2F951C065712,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /9B5190854F99E60E00B8668F30B86C07,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/9BE0399F49129263788A44A88DE564C2,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /9C9961064E2ABC862C09828FD3DA86F0,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /9E89B2E946E7BB225D974C9FBD79392C,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /A023550B49B9FABC83850E832335B779,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /A0436E4E4BAE7082F47F87A843C64187,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/A1FE628E45040EE16D526F9B23CF24E6,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /A26AF052488B0B3E6F94BD81E1E9308F,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /A2AADAAF41999E247799CC8E94EFBE30,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/A6A59CE34C079EB3B9D8A4B1C33B9F0D,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /A7E9B0084E10728AEE3079B72FD5F5EB,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/A84FB0A440A22E066082C7BE049C23F0,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/ABA182CB488A1940AA5F30B47F09F6F1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/ABDBD086400A4B03C4E3479108D904B8,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/AD0760BC4634757E4DD2ABB506C14346,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/AFCACB8E4609445EBD4258B10A5106BB,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/B07042464ED0DBD619477A949C98743F,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/B123A51745635BD1EB4EE0A411A783BC,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /B228D8A84D4CF4162FB9C486F43B0140,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/B3813D9B40D7A3492327B4B463740A37,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /B54AC3FF4DFF1EA67E6ABFA4F179E28C,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /B60276394DB8A573F43DAC8CD321AF35,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /B69819A34CE724FC11FBF49B00FAE6D5,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /B7E1F9B34C2057DFBA064981F9F98E0C,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/C0D4278C42F80245CB031E8A1BA5BC98,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /C12B4BDD4302E5DBC445D2BD58EC7DDC,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/C52C57B74421F1521B7C549C271B222C,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/C58C5FB3405C12D89C7598AB6FAFF39E,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/C8DC25EC468C37BCBAD5CA951076D81D,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/C974BD3A4C76DC625C25B68C63AC81E9,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/D020E8DD4FAEF4DA7196788473F115E2,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/D450D67945537A1944105786568CB2F1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/D58F07BD445CC484BB281091400AB017,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /D5F1BFF44137099F70A4D7B82A61D5E9,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/D96F53DD49972FCC6F824D9838DBC7C1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/DA32D0FE4152473AA41F1D9CCE9DDD8A,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/DC4D95804A48500E9BEF77A273DA2494,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /DDAACF804927B8B01294B58CA93FE408,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/DE98B72F478D17B8043FFAA5E9057403,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /DF2EC6C44407449FB23424941E8325F4,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /E334CAAA4CF400046311E7808BB8DE31,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/E3D5356B4ADC8BA3D9D7B18FCDFA015B,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/E73CF41846D636980ADA18ABE4614FD2,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/E8CE12EF4B315EC6D102BAA242A7388E,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /E97AD01243A7EB7055660188E8BCC8F1,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /ECE4C6A447E865A9665A5A9217F0BEE9,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/ED1A192B4927E586525A17A3AFED7C6F,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/EEDC1E634FDF6AC938603CB7464D3F26,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/F26F62CF410A3A202B4BE6872135C105,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /F493FBFD4A64CDDD98C96F993F06E8C6,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/F701A28C4C88721D98361C9CCF951FE6,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/FAA64363464BC9343CE48EAD1563AB19,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
 /FAB2AD4E48EA0D99F4F25B90821EF8FE,Drive this passenger service from Feucht to Nürnberg Hbf.,驾驶这趟客运列车从福伊希特开往纽伦堡主火车站。
+/010CE4BD4D3C2A5A3F66D68D4F08E3DC,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/027449FE4CB569F1023B67BF53DF3A3A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/03C4F1F141428BD4ADBEF4ACFCA736A4,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /04C5CAA64428026BE10C40ABA7D03581,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/087993B5459EE13842D995B781D9AF92,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /089ADACC4A2DB1D84BEFDFA3F3C53DFA,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/099D6EBB4FF700CE70B131B3957DE84E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /0A2B668946EC7DCBD77327A590CE7591,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /0A6DCE934DC8315B4BCD06A3BBEE5718,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/0AFA74234BD8E41698DB70B1BF01C620,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/0D6E5DE24027CF4D3D1F7DADCED0F62E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/0D9052D04B9183BF5E76999C15F44F59,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/10D1AD02412885899706EE97336E9CE3,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/12A16EC24D76C8CDB12457AE279A206C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /13D4697845ACA17367386A87A97EB358,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/164221704F4277BEF32CFBAE2D028D9D,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /16691B9B44FD668947152AB6C2C71038,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /16AECEF343E3EF5792116C95C77120CB,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /1927CC6041DB6C7EC1C2D795FB212620,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /1A30A8A24FE54A06AF5B7EB176FC0D77,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /1AAE9EB1447D3316B8B79FB89BF06FDB,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /1C823B8743B46F5970900E89B6C5AC10,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/1D025B3A4DE62247B6FACDAD68BF8A7E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /21182EEE42536AAEFA659D8D1747FC5B,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/21A9D60F4F8BA8AB572DD1BDF05C431C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/22F0735744B17CC01ADD288E62E45805,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /23FBAE3F4D57D2AE293A1C825E9AD922,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /246D3E6C4D177046448D74B17F796DB5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /25C9804941DEF6239F00318F0DD563A5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /272900504CA4A296BD8956AC9E0438A8,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/2B2C32B94ED74875EA313B81FFCDECB5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/2B400BCC49311BA3B1A52A9FE19C4A0E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /2BC978E54494C1D9FC1256A7E0FB74DE,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/2EA071F34BCC9D121E1E21BCD9F01BD5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /2F45BB7A4D8477DAE5F2BC81734471E2,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /3118A6DE45CBFA1D6D4E68989B73B12F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /35D1AC2B4238F1E934ABBEB40EA048D8,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /38400C8847C4091B04453E89BF48485C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /39835170439A30143711EE98AFE69F14,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/3983F12F4AE0B28BCDB4798B9A65A9AF,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/3AC44EA041C05340530FF6A995453590,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/3AD089C145367455FD8BF9A080BDFE3D,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/3BFAAF4F4C6228E3A0238EA576D9EC96,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/3CF42B4046F2C2E7AD68869B92DFF3C1,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /40A69CEA45A3F7C4C692428278137830,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/43405DC64D3E97FA91E3829A4DF607A4,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /46201E8F4C08284839A08BB08094EEC3,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /46DE07FF4AB8F84174BFF3A925B962A0,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/4725976D47AF2A88F502758C260DEB44,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /4A07DCC84B295700CB889D9CA34CB031,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/4AA2091E40DAA21BA2CD2C9DACE619FD,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /4AECB84341284A1BF0A7A09A111F0D31,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/4CC5D5CB4829566409BA769D49F1EEBC,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/4CC6A6AC4DD378A7478AEFAE6A8755BF,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/4EA5F34246A5DC1F762D69AB39BDBBD9,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /4EDD46BC4358DDC7DBD453AD4954D4B8,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/4FCD4BEC48DC3EBDC1FEC5A3EBF33E3D,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/50256FD543E731682643C9A48118D99E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /512A0F9142700F6F6686029831C0451F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /5130BC2746452216D292A4A62E0985AE,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/5350E17B465E3845CE499C9ECC8DF49E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /536842164A78A75D9288828C1CD9F282,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/54A10DB1402E29D173C88896DCB6B5B0,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/54EE25B2465F60090C36F98D0E8859B4,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/5610C2064C616285AD00B3A5CDEFB48E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/5628D2FD426A3CB91492F39D7A1A5085,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /57B8C049401307529866ADA97F241D50,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /590E7E3A44C74071CEFDE1BE851A0513,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/5AFDC5824FA80D024485E5993DBFE9EA,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/5C37EDFF43518E14BD3AC6A22B331F91,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /5DF8DA344E381E033397238CC619564E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/5E3407A44D25B67AABC9F9B2897F3AC7,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/60ED8C2747051613E999C08EEE16C19A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /61938E54431C59E9B0D0118FED5C1776,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /61F7B52C4C25B04BD24C1BAE36EA9E45,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /62A567724A619CAA319548A979528F97,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /638F0A7746ED4D91E25BB5B5F43C30E5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/653F304344F0A0A6044E90A48682F1FB,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /66169283477A49885835279A17F95582,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /669CCFEE4CA56DD490804AB48C3C63F1,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/672DFD53488081079A1FEEB042B00CCD,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/675276B4467BED86E2F314A7E8FDF8D5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /67E3D3BB44AAA0CD0F3AEFBDCDCA921A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/689F450E46345B23EC95A58F4A9D8120,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/698F3863419C1BBF386D048F3EDCBE35,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/69F7206F447B46802973D3AD68051DA7,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/6B2C5F22474E512368B4E5BF195CC1FF,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /6B5DB6854F2E81C86E92A7860ACFC48B,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /6B679F79496BBE5D1F2ABAB234926567,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/6C201C844680D3FFEC744FB8DD3FE836,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/6C69F00645C8E2A5F78CFA8F0B8456EF,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/6DE89F294E970AC6603E10A2FF9B3227,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/6E10368F4A59106BFAEAFD8F9ADE1DF4,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /6F1BE1C440256A8B394EB682871B5F69,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /7312E8314F8B469DD9DA72B5B49A8012,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/732951CF44C121B2BAF8B49F535B3104,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /74752ECB4E99E2184BEC0C9580F4AF88,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /7488427B402A09BBBCE9D9806A8958CA,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/76B1E7CD442F7AA46CCC2292072C05F5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /7895AC204BB0B15492122492B12E0EC5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/7A3AE0274DBB02F56AAAEBBF00CE3A2C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/7AB94996497E1AE9F1FC1CAB112C70C7,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/7AE6EFE74A8C1146B5284C9E89D63F65,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/7B813BBB4BB18B51CF93D580E55832B2,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /7CB4040544D22DE7BBBA55A155999932,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /7CCC11214A6ADDB41B7D19AA8688F8C9,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/7CF473724BD7CD1F29B1E18E80E9A225,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /7D0AD56548604199E53F52A2359D3A1F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /7DED4951486B39D9A17FD791A183360A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/7E32034F408AC4B25C207B92DA662A1F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /7F2809F74B3F555DB472EF99BE92A265,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /8020E83D47BD97F80CCBBC9C1C5980C8,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /81A11BF148E9726EF39109A71A7397E5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /82AC1ACE457A6C177958EC912DE37334,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /834233664DA5257844D067955F95A3C1,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/85B63E0B446098C6DEBD13A75A426287,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/881D784B43B43C6D2EFD5F95D57D5BFB,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /88D2761C4E8B6283F89BFE8356FDA8B3,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/8A3F9CD14EA6F28C1F7AE2B352654DAD,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/8CD611694D83C014D12C8F8B7E81D63B,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/8E7DC45A4082DF051365F793E94E6F3F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /8FE96FA4452DD5A3972CA18ABF446CF3,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /92F9AE3F4D65C7782491BC96A7CDAAE5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/934C5CEC4228C261ECA440ABE4024883,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /9778844D426302374356848FE268BE21,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/9819EAC04966C5E50365D880BD42BCF6,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/98CA71C142FE6C3378262EB769B79ED1,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /9BF7E7974BC07E2B539FF98FC6A1C6C7,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /9D67EF614FAB957EF3DF1F88BEEE9154,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /9E8572684E24EE679B00B1870749D19E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/A0C504D342BB5063DB4460A5F2FC166B,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/A1323BEF4DC9913F2C705DB8A30EECD2,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/A1523D2D495BC1D022DA2E8E39D335F8,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /A4934B4349C272785925069D3F3AC05E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/A4F1E9BD4D16FC7340BB0EB6F8322D18,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/A59EA9744E01C5E9E40E259EDD12E080,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/A7999C5C4E6A92835A978E8AEC067C4C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/A85BA755401465C5CEA01F9E9DF29C5F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /AA692E844567843C41AA3FB983DAE118,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/AA6DCF9044CC8BA3AD8A8C9E7730EFBC,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/AB531C62417E23D2692B4DB3920D67C0,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/AC18AB684075317508E187AF24AB935A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /AC7E9257488022F3F208639434FC2950,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /AEB8E16C42EA63CDE7A99BAD4BD3EB8E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /B38A4E304AF24924B5711B9029A56DB6,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/B3EE422947D13E344DC786AC4EBB0FFE,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/B5D9CFA54E05CDA22E794C93663C674B,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /B616F83A44274306ACC7089EF9C1E585,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /B918523543B173F22FEF85B19C3BBBFA,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/B92767D640F62208F0233F883ADA8066,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /BA2246CE4F158592ED1068B9B4D4F658,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/BA37B3FE4BE77AEB8378D89EB1875565,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /BA5672404D7EDCDDBE334695A86E3A8C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /BB08753943C586E6F138BBA7F2DB423C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /BC4935804EC4BF6EFA0E429036747DF2,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /BCB3B7244DD5D86F868371B9F4ED8CC1,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /BCEE36604CEDA8CED55F74A098342F08,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /BDB6B47543B69A10937D34A0C769B5D0,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/C0E6672F4DF1706C5E750385043F4524,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/C35216F043E30397E6A055AA060FA306,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/C3A6DFC74DA20E1A62ED498BB3DE130A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /C413540B4C6165D63FFEACB09981F264,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /C507823E42124D2F95993D8CD45C1080,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /C5BBA2EE448893D4E22A9885B100EB46,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /C61BD9D3424D8325E488B78F60338B50,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/C6623C8C4E4E0CFFB63D68A52B9B596C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /C7D7EBDA40B918AEB6CE2D8B0CE054D5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/C88181A0407C2619B8A7B29E37C10C2F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /C9A943F24D6546283ABF1795C83C8F2F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /CA9D59A74EF8D34DAE7DB4BB316DB257,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/CAA031C44439637704C741B134571628,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/CBB6F35E49BC264FAE96D9A45391C61A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /CBC734324C10263B74A5F18E4010DAC0,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /CC2BA53549CC36E714DC0497EB1EE7A5,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /CFEE1FCB401B9FEF6D14819371E2C965,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/D28106864A07058B6541F1A1031321B9,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/D2E10C1F4D615B88C7A3B0AC81027CC2,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/D3253A7D43090EB399AD219C5388D645,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /D36443F743535B15CED8CF87F8B69B70,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /D4F342A14D406334815056924B088A77,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /D5905880435865247B284A93B4B1762C,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /D637A40F42007AE69CB62787B9E73B3E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/DB872E1648C22542D57EE9991BA7C07A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/DBFD210B441E5CB7A624DCAC0E225B20,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/DC697BAE4715738B830EC4AAD2F0E971,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/DC81F84A465FD53798A790BDA55BF289,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/DCA6F18246BF8CE5E0F400BA841EE964,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/E1F16ECF43F710B974413A88026AD62B,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /E2336BDD45764234785F61B4D5A8876D,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /EB0C62A24011633275DD5A85A68A62C9,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/EC65584140CA868A0D65A38B135016AD,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /ECED61DB45771DAD43B7E78DC2FEFC0E,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/ED9A16364CE3AC0EDBD6C69E26C3ADA7,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /F2A8A420441F8E07C85096A28D0CBC03,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/F2E653DE4AC4D062B2D3D68B314A9985,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/F32A5CF24594845CD8E6BDA94273DF21,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/F45D0CE943E0841B47EDF0ABD99A319B,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /F49E4A2E44A3A70199EA9A8A028A5428,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /F53CD1E1466DBB8459237FB87765E755,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/F67E5C694CC85B7A5E29C2BD0452105A,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /F8BC19B445A4376D4FAC11B48C36C3FC,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /F967F3AB44AE638F306BCEBB97D7F4CB,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /FA076C49436FEF3A4F96A0AE52F6DF37,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/FB67C5BC4B15F02EA0C9A38BA74B152F,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
+/FCB821C74CFE6ED9FE7D9C8A09546087,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /FD2BB9574C7C97E29AF7F4B64D4D0145,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /FD86055E44A97CCBD3152384CD7D2EB6,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /FF75B27247C6F9AD36990694E54163ED,Drive this passenger service from Nürnberg Hbf to Feucht.,驾驶这趟客运列车从纽伦堡主火车站开往福伊希特。
 /81BDF77140BFE7CA028EFABFC59333F2,Drive this priority freight service from Nürnberg to Ingolstadt.,驾驶这趟优先货运列车从纽伦堡开往因戈尔施塔特。
+/0B665DEC45E5A65ED723DDBDE66E810C,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /1918F59244AEAAFA7F05EEB7921B328F,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/1C4CB8BD48BFF0A95663279081FD5EAE,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /1D5704EE4B2709C204393D9A5B63DA34,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/2445E2704975DA8F22EFB2A65AC4B34F,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/26BBE06F4831BCEE1AE3EC977F5BD563,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/2849218149000C62AE8E7CB18FB14FD9,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/28C559AF417A7E91BA51FDB39410511D,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/3241C75E4A347A86056B44A9DAD02509,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/3707949F416BB4A5561AA7B46B13EC56,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/576760C74F0FDDC6923A55957864C8E9,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /63AF5C3E482E7ED0BBC446BBFEEED7A6,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /654FD28A47AFC09CF16C5088573CE82F,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /6A4E1DC347DD49F3DF2BA1AD17C7F149,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /6FA5002447FBF39DE9D15FAA6A1AA36F,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/71CCDD0046A375B6342649B139A54786,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /7FB9C5BB496BD4E2F96D7596CA1233AA,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/8547E187479C9098DCAFB199F47F9862,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /A38F565C4596BB4928C40A822E9EEAC9,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /A51AB01F48CAC524EE225E9F53AA2C06,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /AB56F34B4C91B138E461A898C28A657B,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /AFF2F0984A7E3B9D860DF68D9D33B820,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /CE44A8F242C67820A312C8B7943593DA,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/D3BB28974F06CC508C4FF4A2501EE4C4,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /D78D3504498E84E8E54DB79C0EE2249C,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/E0EBC41C483EDA9E8A1B44B1675586F1,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /E4A86D8448618DAC02ABE391248093E8,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
 /EB5285224DC2A0D22BACA0A63C2CF9F1,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/ECB24A4F49A6F6224E9BA2AAC6037F42,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/EDD653EA40DA2147620ABF8DD27A60A3,Drive this regional express to Allersberg,驾驶这趟区域快车开往阿勒斯贝格
+/04D957BD4C3F74E4E79C808C358729DD,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/06971549425858E1028E96A42493EEF9,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /12170441412F3DC30C1BB881C0180123,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/166B7095410A9A7E5AB50FA73EE8D5FC,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/20193442406A802CEA1747A9DB01565D,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/252066194FB81A9210220B9129E2625A,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /2778FB654068770EBC28FC8C68B3F8E7,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /3277C2754475C3984238D9B518CB7853,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/6457D6114CB5B1879240438DFB2E8391,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /6956FED042C530A9C51BF7B81055195B,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/6B604793491D0D4C8FD3AFB4D101AEA2,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/715A4BD744A9C9C74DFDC0ADCD0C1A5E,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/7B4D36CD4B79488262794AAC97D7A5B6,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/91C1DC5C44352AA6DB0755B2C8D43DE3,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /93047F9640FD0099D5BA2DA42789A449,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/9E2AD0B046D111DAD955B0A6E1028A55,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /9FD2DB3D42A549054D5484A85164C567,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/A3DC2BCE4B17080339ADF88E0972B3FC,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /A80C8C19485B260DC41635B4D11676A0,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /B1D383194527DB17BA1421ACA0C01125,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/B215FD174C8E9198AF76B19B3746116C,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/C72F85BB4F50998B6B41FA9153E4683F,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /CE72D0E042D5E9EB4A3BABA92BA06117,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /D37F0477429329EDDBBEF190CAC9E7CD,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /D43E754741226D2B6702A889D43BDF74,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /DFB11BC340EF8069118BD3AB1262C306,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /E69B382341D9F55B62DCCC8D41D6CE8C,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /E992E469420E72E64BB85EB7656495F3,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/F3BD0C4B40CEA443BAD7FF82BF929043,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
 /F46AB831458D78B455FE888FAA7BBB92,Drive this regional express to Nürnberg Hbf,驾驶这趟区域快车开往纽伦堡主火车站
+/22A0F41C41C48178456F7793E7B6DAA7,Drive this tanker train from Feucht to Nürnberg,驾驶这趟罐车货运列车从福伊希特开往纽伦堡
 /D7343D654EEE35C917D13E8D04B71B7D,Drive this tanker train from Feucht to Nürnberg,驾驶这趟罐车货运列车从福伊希特开往纽伦堡
+/2B7EF40E414AF6C7E7102CBE6151A085,Drive this tanker train from Nürnberg to Feucht,驾驶这趟罐车货运列车从纽伦堡开往福伊希特
 /2F7302744BE28DC81F23FE91C448ADFB,Drive this tanker train from Nürnberg to Feucht,驾驶这趟罐车货运列车从纽伦堡开往福伊希特
 /67B582D14BEEFEE572C48E93CC90DFCF,Drive this tanker train from Nürnberg to Feucht,驾驶这趟罐车货运列车从纽伦堡开往福伊希特
+/7C487F95466791BFB4ECB5B6FBDD3472,Drive this tanker train from Nürnberg to Feucht,驾驶这趟罐车货运列车从纽伦堡开往福伊希特
+/C2CE16034CC74920C3FC4F919E4DC8DA,Drive this tanker train from Nürnberg to Feucht,驾驶这趟罐车货运列车从纽伦堡开往福伊希特
 /F059AD2E41E79ABE731F21924EEE1C7C,Drive this tanker train from Nürnberg to Feucht,驾驶这趟罐车货运列车从纽伦堡开往福伊希特
 /3436DB6848BB2761AF50D8A8DE3463CA,ENABLE CAB,激活驾驶室
 /40EADE3C4A604167D739E7953E11B790,ENABLE CAB,激活驾驶室
@@ -475,19 +849,31 @@ key,source,target
 /E4EA187B4885032AB0EC67A91BECD3B8,ENABLE CAB,激活驾驶室
 /6AF9AA504CE69682CE1C399510CF1BEF,ENTER BR101,进入 BR101
 /214FC47A43DC2763F7E3A48967E1CF88,ENTER CAB,进入驾驶室
+/1ED690EC409ED4E2386D438960399C3A,EZ (51733) München Nord to Hagen Vorhalle,EZ (51733) 慕尼黑北站 — 哈根福尔哈勒
 /3B268719494BC858F0BEE3BBDF5D2DCC,EZ (51733) München Nord to Hagen Vorhalle,EZ (51733) 慕尼黑北站 — 哈根福尔哈勒
 /C46008A34F3BD2FE5F407C89C0F339B8,EZ (51760) Hagen Vorhalle to München Nord,EZ (51760) 哈根福尔哈勒 — 慕尼黑北站
+/E47FF03749C1D895C1058CAF3977AA3A,EZ (51760) Hagen Vorhalle to München Nord,EZ (51760) 哈根福尔哈勒 — 慕尼黑北站
+/91633F2F480D0275C6A4239B9F5255A4,Empty Stock ICE 823,ICE 823 回送列车
 /E960AA1443D2EDB6D30D0FBA57EA97F8,Empty Stock ICE 823,ICE 823 回送列车
 /6F9D11AA40C2ED1A07A596B7A0D975DD,Empty Stock ICE 920,ICE 920 回送列车
+/A4B6D84842EA4BA2C9B87694EC4BD947,Empty Stock ICE 920,ICE 920 回送列车
 /BCE3A6D5463BB0574281FCB1EB94A522,Enable ZWS,启用 ZWS
 /EECCADF341F38FF225AA78B9B8F4238F,Enter the BR 101 first.,首先进入 BR 101。
 /24A308FF4ED7D77734F658A3EE92B78E,Enter the car,进入车厢
 /5224D4A84C7E2C52F5103C8CF17D3B36,Expect the Unexpected,意料之外
 /12771E374345C2A0B53E5BB3A5626BB5,Express Power,特快动力
 /12FE48E24867C6E005302A9CB3AA7D82,Feucht Gleis 2,福伊希特 2 道
+/194555F240638CEA5B84FFB7E717B9DC,Feucht Gleis 2,福伊希特 2 道
+/3DB2096A41AD357F6A6AB087FF17E4D5,Feucht Gleis 2,福伊希特 2 道
 /412FA7394D135307034CF7B68728E40E,Feucht Gleis 2,福伊希特 2 道
 /4B4090A946F9F0216E92B6B498CBB5F4,Feucht Gleis 2,福伊希特 2 道
+/52449B154B61E98EF9A575B7B099FC49,Feucht Gleis 2,福伊希特 2 道
+/5946CE9B48676F9EB53BB0A7B6057222,Feucht Gleis 2,福伊希特 2 道
+/5FCD0B7547FA4ECF8D485BB0E54848C2,Feucht Gleis 2,福伊希特 2 道
+/5FD5E1AB44871C56C66864AB6BA4493C,Feucht Gleis 2,福伊希特 2 道
 /689C285E4D366802AA9EABB4D15E0708,Feucht Gleis 2,福伊希特 2 道
+/6D68E7AC40CD0F9F255AB98BF09D0594,Feucht Gleis 2,福伊希特 2 道
+/CAEEC7884A9D0F053BB7DCBE66C66F36,Feucht Gleis 2,福伊希特 2 道
 /D1D298954319DEA275BE22980B3A8DB7,Feucht Gleis 2,福伊希特 2 道
 /D206F5AD49F1B02A7EB06C878786CB67,Feucht Gleis 2,福伊希特 2 道
 /E316FD8A4B547236328EC2B180E32F7E,Feucht Gleis 2,福伊希特 2 道
@@ -515,7 +901,9 @@ key,source,target
 /A4ECB63A44C6A1E84E269191F750D26D,"For this introduction, you will be driving the train a short distance and performing passenger operations. ",在本教程中，你将驾驶列车行驶一小段距离并进行客运作业。
 /B824E5D84F31F38C2E22FEAFBAC028FA,"For this introduction, you will be driving the train a short distance and performing passenger operations. ",在本教程中，你将驾驶列车行驶一小段距离并进行客运作业。
 /D020C35C47C0053D1E1EF9A0DEF5EA5C,"For this introduction, you will be driving the train a short distance and performing passenger operations. ",在本教程中，你将驾驶列车行驶一小段距离并进行客运作业。
+/224BDFA94F7F8FDE8D0DB88226DEA803,FreightIngolstadt,因戈尔施塔特货运
 /3262483542B079B7589B6E95E4A4095C,FreightIngolstadt,因戈尔施塔特货运
+/BC93E8F9448364CAC2D461B763197125,FreightNurnberg,纽伦堡货运
 /C96DFA284C512934F15544A348FD4032,FreightNurnberg,纽伦堡货运
 /2645E5204610F78474A973B60122CFF7,GET MOVING,准备动车
 /82B1E4684AC3887EAB72A2A2D3C514ED,GET MOVING,准备动车
@@ -524,7 +912,7 @@ key,source,target
 /B862D24A4EB3174C8D6C319A4626B8EF,GET MOVING,准备动车
 /E77E3E6445C8D33153674C87E06D9D72,GET MOVING,准备动车
 /FF3833EF427B6F4ABA4535AAA128FC6F,GET MOVING,准备动车
-/E189982746A0D50F29F10CAF3085BB04,"Go beyond the boundaries of Nahverkehr Dresden and accelerate westbound all the way to Leipzig in Train Sim World. Drive modern ICE, regional and freight traffic along the oldest long-distance railway in Germany.",在《模拟火车世界》中打破《德累斯顿区域铁路》的界限，一路向西加速开往莱比锡。沿着德国最古长的长途铁路，驾驶现代化的 ICE、区域列车与货运列车。
+/ED31C1E94FE504E7AB1194AF74865F27,"Go beyond the boundaries of Nahverkehr Dresden and accelerate westbound all the way to Leipzig in Train Sim World. Drive modern ICE, regional and freight traffic along the oldest long-distance railway in Germany.",突破德累斯顿区域交通的界限，在《模拟火车世界》中一路向西加速直抵莱比锡。沿着德国最古老的长途铁路线，驾驶现代化的城际特快列车、区域列车以及货运列车。
 /3D2DF1EE4F19A89AA75E54B1DE78553F,Golden Hour,黄金时刻
 /A5D6ACDF496C92057240298ED5875089,Golden Hour,黄金时刻
 /B3B004794B54CD5F08942096C289A151,Golden Hour,黄金时刻
@@ -556,74 +944,140 @@ key,source,target
 /6DF5DF904445EEEC90CB71B0A44E8373,Hold B to contact the Dispatcher,按住 B 键联系调度员
 /B6D3880D412153D25B5FBCBB63BE6DDF,Hold circle button to contact the Dispatcher,按住圆圈键联系调度员
 /9BD0643A4AACE88615981395B9644937,IC,IC 城际列车
+/D33288344DC090A98C28DEAFE721A5B8,IC,IC 城际列车
 /01BA5A9740337652B80CF3BE968EC762,ICE 1020 München Hbf - Nürnberg Hbf,ICE 1020 慕尼黑主火车站 — 纽伦堡主火车站
+/201E491A4CB74230C275B597D472359F,ICE 1020 München Hbf - Nürnberg Hbf,ICE 1020 慕尼黑主火车站 — 纽伦堡主火车站
+/88B25F324DCA660B77FA189AF2F7710C,ICE 1084 München Hbf -Hamburg-Altona,ICE 1084 慕尼黑主火车站 — 汉堡-阿尔托纳
 /E6E7734F47B2B2906758DA98C4D036D7,ICE 1084 München Hbf -Hamburg-Altona,ICE 1084 慕尼黑主火车站 — 汉堡-阿尔托纳
+/255367E341D20F10B006BE81E40F77E1,ICE 1086 München Hbf - Hamburg-Altona,ICE 1086 慕尼黑主火车站 — 汉堡-阿尔托纳
 /F1FFEE234594744B23BB43906FB7DD6C,ICE 1086 München Hbf - Hamburg-Altona,ICE 1086 慕尼黑主火车站 — 汉堡-阿尔托纳
 /18A6726B4F7F4D471C111E8F78CB8CF5,ICE 1180 München Hbf - Hamburg-Altona,ICE 1180 慕尼黑主火车站 — 汉堡-阿尔托纳
+/70E775F249F1D752F988FBBAA8D03D82,ICE 1180 München Hbf - Hamburg-Altona,ICE 1180 慕尼黑主火车站 — 汉堡-阿尔托纳
+/07CEA87A48F31A3E88BC3A848909D293,ICE 1501 Lichtenfels - München Hbf,ICE 1501 利希滕费尔斯 — 慕尼黑主火车站
 /095D59D14CAEC9036C640C9D81319827,ICE 1501 Lichtenfels - München Hbf,ICE 1501 利希滕费尔斯 — 慕尼黑主火车站
 /3E53611D4B43AA74206C7F9DC486E5B0,ICE 1511 Warndemünde - München Hbf,ICE 1511 瓦尔内明德 — 慕尼黑主火车站
+/F52E133144689A8F262018AAB3D53CAC,ICE 1511 Warndemünde - München Hbf,ICE 1511 瓦尔内明德 — 慕尼黑主火车站
+/45F1BED340CD9F2D13F6B38B769A94C4,ICE 1521 Dortmund - München Hbf,ICE 1521 多特蒙德 — 慕尼黑主火车站
 /FE8F67C048B64A1778181391C2524819,ICE 1521 Dortmund - München Hbf,ICE 1521 多特蒙德 — 慕尼黑主火车站
+/4E2958B341610F07E080B58A6966E009,ICE 1522 München Hbf - Dortmund,ICE 1522 慕尼黑主火车站 — 多特蒙德
 /DAD9DEC04B5B0A637DBABDBBE4CF98DE,ICE 1522 München Hbf - Dortmund,ICE 1522 慕尼黑主火车站 — 多特蒙德
 /8E091054447F6F3818C7AC950BD4F377,ICE 1581 Bremen Hbf - München Hbf,ICE 1581 不莱梅主火车站 — 慕尼黑主火车站
+/E8DE0D0644DDA750D37217B89AEE58E1,ICE 1581 Bremen Hbf - München Hbf,ICE 1581 不莱梅主火车站 — 慕尼黑主火车站
 /46C038F3453BC30C3DCFA08CAE492C06,ICE 1589 Bremen Hbf - München Hbf,ICE 1589 不莱梅主火车站 — 慕尼黑主火车站
+/B1165E544C2C0554F6221A877485B7CF,ICE 1589 Bremen Hbf - München Hbf,ICE 1589 不莱梅主火车站 — 慕尼黑主火车站
 /78A85EF24CCE1A04C8DC9688C2BB61EF,ICE 1617 Berlin Gesundbrunnen - München Hbf,ICE 1617 柏林健康泉站 — 慕尼黑主火车站
+/B04B224C4658A7F90116D0A5B95C834F,ICE 1617 Berlin Gesundbrunnen - München Hbf,ICE 1617 柏林健康泉站 — 慕尼黑主火车站
+/9C0230594F9F9A554D3AA3AC6AE98C73,ICE 1620 München Hbf - Frankfurt(Main) Hbf,ICE 1620 慕尼黑主火车站 — 法兰克福（美因）主火车站
 /D85DB10946A55273F1C44D8B733FE1F5,ICE 1620 München Hbf - Frankfurt(Main) Hbf,ICE 1620 慕尼黑主火车站 — 法兰克福（美因）主火车站
 /084FB7F642AD49FB2A2279B85BFDEC3E,ICE 1625 Frankfurt(Main)Hbf Hbf - München Hbf,ICE 1625 法兰克福（美因）主火车站 — 慕尼黑主火车站
+/3054EB644C57CD2FE113F089C51027E8,ICE 1625 Frankfurt(Main)Hbf Hbf - München Hbf,ICE 1625 法兰克福（美因）主火车站 — 慕尼黑主火车站
 /5094F7FA407BEB1EC4D6E7B1DCF6E70E,ICE 1682 München Hbf - Lübeck Hbf,ICE 1682 慕尼黑主火车站 — 吕贝克主火车站
+/BDCE4D944F57F0482191369B81DEA8A4,ICE 1682 München Hbf - Lübeck Hbf,ICE 1682 慕尼黑主火车站 — 吕贝克主火车站
 /6C1C30BF41481244E5090F85A27E1E14,ICE 1689 Hamburg-Altona - München Hbf,ICE 1689 汉堡-阿尔托纳 — 慕尼黑主火车站
+/D8C4FC044FE0DCB10891209D773CF159,ICE 1689 Hamburg-Altona - München Hbf,ICE 1689 汉堡-阿尔托纳 — 慕尼黑主火车站
+/364E9C024688AD12850D35BE6C3D0113,ICE 1728 München Hbf - Hamburg-Altona,ICE 1728 慕尼黑主火车站 — 汉堡-阿尔托纳
 /7513908943F4B9F5E957718B17236D21,ICE 1728 München Hbf - Hamburg-Altona,ICE 1728 慕尼黑主火车站 — 汉堡-阿尔托纳
 /3DE9A8054E933E34100810BAEC3D7618,ICE 3 Testdrive,ICE 3 试驾
 /DE2031EE43AE091C06E2B8865FDF0309,ICE 3 Testdrive,ICE 3 试驾
 /361ED511432563C2806BAE99D2C8DACA,ICE 520 München Hbf - Frankfurt(Main),ICE 520 慕尼黑主火车站 — 法兰克福（美因）
+/4FF91BBC4E900D40805D518A317F19A6,ICE 520 München Hbf - Frankfurt(Main),ICE 520 慕尼黑主火车站 — 法兰克福（美因）
+/8D3213D04FA76C23C8227393C8019E24,ICE 522 München Hbf - Dortmund,ICE 522 慕尼黑主火车站 — 多特蒙德
 /93B54B2B49F3F032CC6EDA9552800C29,ICE 522 München Hbf - Dortmund,ICE 522 慕尼黑主火车站 — 多特蒙德
+/4652C57345E95694A818E5B0E01A0711,ICE 525 Dortmund - München Hbf,ICE 525 多特蒙德 — 慕尼黑主火车站
 /7F5B6F1248492D22651BC8B266FA3BAC,ICE 525 Dortmund - München Hbf,ICE 525 多特蒙德 — 慕尼黑主火车站
 /6AC3D5324F1C7449DDA28682A0E83484,ICE 528 München Hbf - Dortmund,ICE 528 慕尼黑主火车站 — 多特蒙德
+/D4B8BF4D4E3485AB61687E913045FED7,ICE 528 München Hbf - Dortmund,ICE 528 慕尼黑主火车站 — 多特蒙德
+/67E8B60548E96B1FBE5BECBC43B5CCCD,ICE 535 Hamburg-Altona - München Hbf,ICE 535 汉堡-阿尔托纳 — 慕尼黑主火车站
 /8FA7FA6A49407447EA46CC8E8540612C,ICE 535 Hamburg-Altona - München Hbf,ICE 535 汉堡-阿尔托纳 — 慕尼黑主火车站
+/A307BED9446A25ECF4265DB4D613F412,ICE 538 München Hbf - Bremen Hbf,ICE 538 慕尼黑主火车站 — 不莱梅主火车站
 /BA4C133F4A462FE4A8D98FBABB011DC1,ICE 538 München Hbf - Bremen Hbf,ICE 538 慕尼黑主火车站 — 不莱梅主火车站
 /A76E9391471425008C4A23B52993FC9E,ICE 581 Hamburg-Altona - München Hbf,ICE 581 汉堡-阿尔托纳 — 慕尼黑主火车站
+/CE7056DA4370A93F0845308C97700869,ICE 581 Hamburg-Altona - München Hbf,ICE 581 汉堡-阿尔托纳 — 慕尼黑主火车站
+/45BDA8AC436AC3C97D57B8A6A92D6C07,ICE 582 München Hbf - Hamburg-Altona,ICE 582 慕尼黑主火车站 — 汉堡-阿尔托纳
 /F9026A0E42BC608049EC5B8C437BF722,ICE 582 München Hbf - Hamburg-Altona,ICE 582 慕尼黑主火车站 — 汉堡-阿尔托纳
+/4847F7E54D4DF954ABBE1487617C7C99,ICE 583 Hamburg-Altona - München Hbf,ICE 583 汉堡-阿尔托纳 — 慕尼黑主火车站
 /550584DB4E037730ED9405BDCDEC6186,ICE 583 Hamburg-Altona - München Hbf,ICE 583 汉堡-阿尔托纳 — 慕尼黑主火车站
+/5C00911345017ADCA51EB0B52B988CBD,ICE 584 München Hbf - Lübeck Hbf,ICE 584 慕尼黑主火车站 — 吕贝克主火车站
 /A3205F584D4061ADF52A63A12A590B27,ICE 584 München Hbf - Lübeck Hbf,ICE 584 慕尼黑主火车站 — 吕贝克主火车站
 /AC31FB574802ACA79943B98EC6FC7D52,ICE 585 Lübeck - München Hbf,ICE 585 吕贝克 — 慕尼黑主火车站
+/E4232E144B9E586181F50BB65188702D,ICE 585 Lübeck - München Hbf,ICE 585 吕贝克 — 慕尼黑主火车站
+/539160C840D8021622A1638BBF61554B,ICE 586 München Hbf - Hamburg-Altona,ICE 586 慕尼黑主火车站 — 汉堡-阿尔托纳
 /B63BF46440D094FE3C46F1B04341F162,ICE 586 München Hbf - Hamburg-Altona,ICE 586 慕尼黑主火车站 — 汉堡-阿尔托纳
 /6816860D44D9A52642A6E29A4B1D5781,ICE 588 München Hbf - Hamburg-Altona,ICE 588 慕尼黑主火车站 — 汉堡-阿尔托纳
+/D093C084434ACAD2A97B65A0969C4AC9,ICE 588 München Hbf - Hamburg-Altona,ICE 588 慕尼黑主火车站 — 汉堡-阿尔托纳
+/DFFC7D264E8E9D742C4288ACF36C62AE,ICE 633 Bremen Hbf - München Hbf,ICE 633 不莱梅主火车站 — 慕尼黑主火车站
 /FE67194B49C9936054C734BF3C7844D9,ICE 633 Bremen Hbf - München Hbf,ICE 633 不莱梅主火车站 — 慕尼黑主火车站
+/7B3A8B4243D4A4CB000B1DA05A5F257B,ICE 634 München Hbf - Bremen Hbf,ICE 634 慕尼黑主火车站 — 不莱梅主火车站
 /CAFDEF3045F82F6E80F3B6B573836DDD,ICE 634 München Hbf - Bremen Hbf,ICE 634 慕尼黑主火车站 — 不莱梅主火车站
 /0B1918524F0B55DBBACDA389AD9570A3,ICE 635 Bremen Hbf - München Hbf,ICE 635 不莱梅主火车站 — 慕尼黑主火车站
+/673B6DB845A00256ADFF08B624D4726D,ICE 635 Bremen Hbf - München Hbf,ICE 635 不莱梅主火车站 — 慕尼黑主火车站
 /354C85964C556C0E830FA59588B42E78,ICE 683 Hamburg-Altona - München Hbf,ICE 683 汉堡-阿尔托纳 — 慕尼黑主火车站
+/E0706838462FD296933A3493CC6F9146,ICE 683 Hamburg-Altona - München Hbf,ICE 683 汉堡-阿尔托纳 — 慕尼黑主火车站
 /C1D3B39545B842809B7EEDA10A94018D,ICE 685 Hamburg-Altona - München Hbf,ICE 685 汉堡-阿尔托纳 — 慕尼黑主火车站
+/CCE11F9F4A8BB066C84BDCA246355406,ICE 685 Hamburg-Altona - München Hbf,ICE 685 汉堡-阿尔托纳 — 慕尼黑主火车站
 /486234624F1FBF6338B009AFEDE99C95,ICE 721 Dortmund - München Hbf,ICE 721 多特蒙德 — 慕尼黑主火车站
+/E51B4AC74B1CD5E1B4B54293644E70E2,ICE 721 Dortmund - München Hbf,ICE 721 多特蒙德 — 慕尼黑主火车站
 /BC8A626C4483DFCFF69B858A98A5596E,ICE 724 München Hbf - Dortmund,ICE 724 慕尼黑主火车站 — 多特蒙德
+/FAEEC42849D010CAE5F80D99E0188DC0,ICE 724 München Hbf - Dortmund,ICE 724 慕尼黑主火车站 — 多特蒙德
+/09AD3857483C98AC741840B9F241F9AD,ICE 725 Dortmund - München Hbf,ICE 725 多特蒙德 — 慕尼黑主火车站
 /532AFE564F5A344C5971D78DF21F937B,ICE 725 Dortmund - München Hbf,ICE 725 多特蒙德 — 慕尼黑主火车站
+/814CCF4A4D47D667F58A38954135213F,ICE 728 München Hbf - Dortmund,ICE 728 慕尼黑主火车站 — 多特蒙德
 /D9897A354E2D345C8DC0298827986C5C,ICE 728 München Hbf - Dortmund,ICE 728 慕尼黑主火车站 — 多特蒙德
+/1F2A4E2746E19F1B9AF173A43E253E10,ICE 729 Dortmund - München Hbf,ICE 729 多特蒙德 — 慕尼黑主火车站
 /27E7132248CC704C5A1F91B8222F74C4,ICE 729 Dortmund - München Hbf,ICE 729 多特蒙德 — 慕尼黑主火车站
 /A568408E4A386ABE570739B7FC643429,ICE 776 München Hbf -BremenHbf,ICE 776 慕尼黑主火车站 — 不莱梅主火车站
+/C3F6F88645706DFE378C42ADE30343B2,ICE 776 München Hbf -BremenHbf,ICE 776 慕尼黑主火车站 — 不莱梅主火车站
+/C62FAA674B2CEE16F414288AF4C0D7EB,ICE 781 Berlin Gesundbrunnen - München Hbf,ICE 781 柏林健康泉站 — 慕尼黑主火车站
 /E584D7214A6AD2C6D9747E909183DAFD,ICE 781 Berlin Gesundbrunnen - München Hbf,ICE 781 柏林健康泉站 — 慕尼黑主火车站
+/55D8E534449B422FEBAD8E8379F7F7F8,ICE 782 München Hbf -Hamburg-Altona,ICE 782 慕尼黑主火车站 — 汉堡-阿尔托纳
 /964F05454826D533EF6891AD3AE39DEC,ICE 782 München Hbf -Hamburg-Altona,ICE 782 慕尼黑主火车站 — 汉堡-阿尔托纳
+/0E9F94EF458FB35AF0B9E190D1B15653,ICE 783 Hamburg-Altona - München Hbf,ICE 783 汉堡-阿尔托纳 — 慕尼黑主火车站
 /56C80343454845AB9864B4B8F33A93F0,ICE 783 Hamburg-Altona - München Hbf,ICE 783 汉堡-阿尔托纳 — 慕尼黑主火车站
 /52CB707D4C2E28A617FCCAB3B3909DB7,ICE 787 Hamburg-Altona - München Hbf,ICE 787 汉堡-阿尔托纳 — 慕尼黑主火车站
+/A9E47D6C4C3787E001BFD496F62DA9D6,ICE 787 Hamburg-Altona - München Hbf,ICE 787 汉堡-阿尔托纳 — 慕尼黑主火车站
+/4490EAA54C3293CA81173C9DBC41600C,ICE 788 München Hbf -Hamburg-Altona,ICE 788 慕尼黑主火车站 — 汉堡-阿尔托纳
 /DCB9934144381A2645A6D780F4FD478A,ICE 788 München Hbf -Hamburg-Altona,ICE 788 慕尼黑主火车站 — 汉堡-阿尔托纳
+/5B48E3F84C5EB40C0D6FB881FE5352A4,ICE 789 Hamburg-Altona - München Hbf,ICE 789 汉堡-阿尔托纳 — 慕尼黑主火车站
 /9D0B360A4E6F2EAC1BDE97B9289E80DA,ICE 789 Hamburg-Altona - München Hbf,ICE 789 汉堡-阿尔托纳 — 慕尼黑主火车站
 /1D9BF29A4EFDF68AC486FA8B553090A4,ICE 820 München Hbf - Dortmund,ICE 820 慕尼黑主火车站 — 多特蒙德
+/AD4C05D440D0126C672CBD9EDE1CD0C9,ICE 820 München Hbf - Dortmund,ICE 820 慕尼黑主火车站 — 多特蒙德
+/340E349F41945C1B0044E79C1CCB92AA,ICE 821 Essen - München Hbf,ICE 821 埃森 — 慕尼黑主火车站
 /8387BD8B4470C9020AF2C8A563D61B69,ICE 821 Essen - München Hbf,ICE 821 埃森 — 慕尼黑主火车站
+/86434EB84A3AA4ACC941EFA2CBC26477,ICE 822 München Hbf - Dortmund,ICE 822 慕尼黑主火车站 — 多特蒙德
 /FD98A5D54B57B228DE3507AF7A441C34,ICE 822 München Hbf - Dortmund,ICE 822 慕尼黑主火车站 — 多特蒙德
 /7EA9D3314B428CB745C733AE1AA0E679,ICE 823 Nürnberg - München Hbf,ICE 823 纽伦堡 — 慕尼黑主火车站
+/F078BD77476D73876C473D81371FDD14,ICE 823 Nürnberg - München Hbf,ICE 823 纽伦堡 — 慕尼黑主火车站
+/49B62B724F929BF3D58316A3F32E0D90,ICE 823 Nürnberg Hbf - München Hbf,ICE 823 纽伦堡火车总站至慕尼黑火车总站
+/A4BA11EB4E0831F73773A48AD3FFE9E3,ICE 881 Hamburg-Altona - München Hbf,ICE 881 汉堡-阿尔托纳 — 慕尼黑主火车站
 /ED888BBB4035D3B4CA074DB803757B53,ICE 881 Hamburg-Altona - München Hbf,ICE 881 汉堡-阿尔托纳 — 慕尼黑主火车站
 /47973D5443E643E3E15B52B98D9AEA41,ICE 882 München Hbf - Kiel Hbf,ICE 882 慕尼黑主火车站 — 基尔主火车站
+/858DBF7F499666072208F9A2210B0B7B,ICE 882 München Hbf - Kiel Hbf,ICE 882 慕尼黑主火车站 — 基尔主火车站
+/0BDCD073414786695F4FF4AC0330365A,ICE 883 Hamburg-Altona - München Hbf,ICE 883 汉堡-阿尔托纳 — 慕尼黑主火车站
 /DDDB87A44990C0E51C7BD0940116CB7A,ICE 883 Hamburg-Altona - München Hbf,ICE 883 汉堡-阿尔托纳 — 慕尼黑主火车站
+/1B2AC2244CAE0FF739CF0D9D158DB572,ICE 885 Hamburg-Altona - München Hbf,ICE 885 汉堡-阿尔托纳 — 慕尼黑主火车站
 /83ACA0414B425ECCBEE6A6B73B15FB4F,ICE 885 Hamburg-Altona - München Hbf,ICE 885 汉堡-阿尔托纳 — 慕尼黑主火车站
 /0C5FFF914E319A7E57D5F4A73072D40F,ICE 886 München Hbf - Hamburg-Altona,ICE 886 慕尼黑主火车站 — 汉堡-阿尔托纳
+/B48029354F1E02C52E3674ABE25FD8B5,ICE 886 München Hbf - Hamburg-Altona,ICE 886 慕尼黑主火车站 — 汉堡-阿尔托纳
+/340BB4B34FC98209146DC0867BA11435,ICE 888 München Hbf - Hamburg-Altona,ICE 888 慕尼黑主火车站 — 汉堡-阿尔托纳
 /49C82233400B398683402FA9FEC179EF,ICE 888 München Hbf - Hamburg-Altona,ICE 888 慕尼黑主火车站 — 汉堡-阿尔托纳
+/40346A08435A1AB0E6D448879C0CAEFD,ICE 889 Hamburg-Altona - München Hbf,ICE 889 汉堡-阿尔托纳 — 慕尼黑主火车站
 /9A6E5C44465E763C9F77F8B10175F6B2,ICE 889 Hamburg-Altona - München Hbf,ICE 889 汉堡-阿尔托纳 — 慕尼黑主火车站
 /2342C46841EFAE4743E3CF9BF17B9A10,ICE 920 München Hbf - Nürnberg Hbf,ICE 920 慕尼黑主火车站 — 纽伦堡主火车站
+/C0FC1420476C3292512A42A43FF7A33F,ICE 920 München Hbf - Nürnberg Hbf,ICE 920 慕尼黑主火车站 — 纽伦堡主火车站
+/A170B625446CBC89955A05A695AB06B9,ICE 986 München Hbf - Hamburg-Altona,ICE 986 慕尼黑主火车站 — 汉堡-阿尔托纳
 /AAF5F6794340F8DEA7E099B1B2320F51,ICE 986 München Hbf - Hamburg-Altona,ICE 986 慕尼黑主火车站 — 汉堡-阿尔托纳
 /221F85D54D6154E5373B60A10A66EAA3,ICE Festival,ICE 嘉年华
 /019C734B450D42CECE0C4A95756CA8A0,ICE1,ICE 1
+/17D38B9A4BF55C88C9397EAAD254AC39,ICE1,ICE 1
 /093D7373489E106DB28E109DDCACEDA4,ICE3,ICE 3
+/F308D51E490299C97E5CA58D1A8854B9,ICE3,ICE 3
 /2F265A004C611ABCE8AC2AA8B19E877F,ICE3_2,ICE 3_2
 /36E0AB594013E22CD689E38F2B99F5BF,ICE3_3,ICE 3_3
+/BBECA16744B6964EEB0EFFB74B32FCD3,ICE3_3,ICE 3_3
+/8480E5BB4354C6D3ABEE03B0323E9E7F,ICE4,ICE4
 /4EBB763342486060301FF0ADF1FF4C26,ICES,ICE 列车
 /68D5F7A047F53E51A769D780BB9034D5,ICET,ICE T
+/AEAED5E446D3C1787DF5E09143C2168F,ICET,ICE T
 /85A494EA44CA28E061258F9F04DF3A23,INTERACTIVE ELEMENTS,可互动元素
 /0C45849A4B3BA66BA0E3858CDB01EB6E,"In this training module you will be learning to drive this BR 403 ICE 3, also known as the Intercity-Express 3.",在本训练模块中，你将学习驾驶德铁 403 型 ICE 3 城际特快列车，即第三代城际特快列车。
 /75D90AE54A46F43BBBDF33A9813805C9,"In this training module you will be learning to drive this BR 403 ICE 3, also known as the Intercity-Express 3.",在本训练模块中，你将学习驾驶德铁 403 型 ICE 3 城际特快列车，即第三代城际特快列车。
@@ -659,15 +1113,23 @@ key,source,target
 /DD31498D46AFA780C4BB08BD139C428F,Insert the reverser,插入方向手柄
 /EC44A7604B52875850C4C6B1F76D1480,Insert the reverser,插入方向手柄
 /254CB2F7498B0F0E26C3CDB9CCA08171,Insert the reverser.,插入方向手柄。
-/0E4E994B42356FD48339B193B3984F41,"It also features the RE1 between Nürnberg and Ingolstadt, which is the fastest Regional Express Line operating with trains that go up to 200km/h.",该线路还包含纽伦堡和因戈尔施塔特之间的 RE1 区域快车，这是运行速度最快的区域快车线路，列车时速高达 200 千米/小时。
-/C40B27474AA3E155CC52CFA892D2F961,It opened in 1844 and is one of the oldest stations in Germany. Continuously growing to be one of the biggest to these days.,它于 1844 年启用，是德国最古老的车站之一。随着不断的扩建，它已成为当今最大的车站之一。
+/AFF736554C58F8DA2CD49FA60F3DF522,"It also features the RE1 between Nürnberg and Ingolstadt, which is the fastest Regional Express Line operating with trains that go up to 200km/h.",它还包含纽伦堡与因戈尔施塔特之间的区域快车1号线，这是运行速度最快的区域快车线路，列车运行速度高达每小时200公里。
+/84E211384A697741F3C2389B5981548E,It opened in 1844 and is one of the oldest stations in Germany. Continuously growing to be one of the biggest to these days.,它于1844年投入运营，是德国最古老的车站之一。历经持续扩建，如今已跻身最大车站之列。
+/A324D59E4DCB6491813F068D555DD4EA,KT (41218) Bremerhaven Hafen to Salzburg Liefering,KT (41218) 不来梅哈芬港口 — 萨尔茨堡利弗林
 /CAC4487946BC2D036ED646B5184A2121,KT (41218) Bremerhaven Hafen to Salzburg Liefering,KT (41218) 不来梅哈芬港口 — 萨尔茨堡利弗林
+/3006D68648B14B084E295CA7215FFD86,KT (41219) Salzburg Liefering to Bremerhaven Hafen,KT (41219) 萨尔茨堡利弗林 — 不来梅哈芬港口
 /696EEEE94D566608343A5F9F1D079338,KT (41219) Salzburg Liefering to Bremerhaven Hafen,KT (41219) 萨尔茨堡利弗林 — 不来梅哈芬港口
+/8BF2783846CDA16212F22C9B9C6CFAF6,KT (41812) Wels CTT to Maschen Rbf,KT (41812) 韦尔斯集装箱码头 — 马申编组站
 /9B1112E642DFBD1F28FECB95106F0A16,KT (41812) Wels CTT to Maschen Rbf,KT (41812) 韦尔斯集装箱码头 — 马申编组站
+/176115D24CD87F9E2F253194910BDAD4,KT (41813) Maschen Rbf to Wels CTT,KT (41813) 马申编组站 — 韦尔斯集装箱码头
 /5D387665441CFD5F5B24FD845760FE13,KT (41813) Maschen Rbf to Wels CTT,KT (41813) 马申编组站 — 韦尔斯集装箱码头
+/66B93F124284F2717E57BEA2721666B5,KT (42155) Hamburg Billwerder to Verona Quadrante Europa,KT (42155) 汉堡比尔韦德 — 维罗纳欧洲四分仪
 /A5C72B8A4CF1D730B50D578D52EA7068,KT (42155) Hamburg Billwerder to Verona Quadrante Europa,KT (42155) 汉堡比尔韦德 — 维罗纳欧洲四分仪
+/380BE3784531710499C51084BCF79CE7,KT (42156) Verona Quadrante Europa to Hamburg Billwerder,KT (42156) 维罗纳欧洲四分仪 — 汉堡比尔韦德
 /739BF379472498A95BD782B4968230B3,KT (42156) Verona Quadrante Europa to Hamburg Billwerder,KT (42156) 维罗纳欧洲四分仪 — 汉堡比尔韦德
 /341208B34F0DC4A8ABB6DFBEF39A0682,KT (43210) Duisburg Rheinhausen to München Riem Ubf,KT (43210) 杜伊斯堡莱茵豪森 — 慕尼黑里姆转运站
+/4EDF759F4DA48E79ADC5E0BA422D8807,KT (43210) Duisburg Rheinhausen to München Riem Ubf,KT (43210) 杜伊斯堡莱茵豪森 — 慕尼黑里姆转运站
+/05F4835242655A8748EC6DA214E5DFB8,KT (43211) München Riem Ubf to Duisburg Rheinhausen,KT (43211) 慕尼黑里姆转运站 — 杜伊斯堡莱茵豪森
 /F560B87F48E9A509E4478D800017A0EF,KT (43211) München Riem Ubf to Duisburg Rheinhausen,KT (43211) 慕尼黑里姆转运站 — 杜伊斯堡莱茵豪森
 /C9B890934F0DCF853E302DB549707550,Keep within 400m of other ICE,与另一列 ICE 列车保持在 400 米范围内
 /296DAB424FA190547428159F58AF6BFC,"Keeping to speed limits is important, if you begin over-speeding, apply a small amount of braking force by moving the Brakes into the braking range.",遵守限速规定非常重要。如果开始超速，请将制动手柄拉至制动区域施加轻微制动。
@@ -696,13 +1158,13 @@ key,source,target
 /5ACDBFBB43077AF2C8FE97BD695DEB82,Learn the basics of the BR101.,学习德铁 101 型机车的基础知识。
 /56FD4FF744342C2466FA6BAF11538277,Learn the basics of the Cab Car.,学习控制车的基础知识。
 /64471EDA4F019D51890FCB929E0433B5,Learn the basics of the Münex Cab Car.,学习慕尼黑特快控制车的基础知识。
-/0DFD6CFD4127992A494C48AD7FAF633F,"Leipzig Hbf is the central terminus in Leipzig. At 83,460 square metres, it is Europe's largest railway station.","莱比锡主火车站是莱比锡的中央终点站。占地面积达 83,460 平方米，是欧洲最大的火车站。"
+/BAA260E04BAAB0E853EDD4A17B53F4E6,"Leipzig Hbf is the central terminus in Leipzig. At 83,460 square metres, it is Europe's largest railway station.",莱比锡火车总站是莱比锡的中心尽端式车站。其占地面积达83460平方米，是欧洲占地面积最大的火车站。
 /1DAF509A485F080E1180A8937E80B291,Let's begin to slow down as we approach the upcoming station.,随着接近前方车站，我们开始减速。
 /996CBBB5416FF1F1A87818BAAD3518F5,Let's begin to slow down as we approach the upcoming station.,随着接近前方车站，我们开始减速。
 /EF3B9B15427A49E82163ECAA7B72D059,Let's begin to slow down as we approach the upcoming station.,随着接近前方车站，我们开始减速。
-/6F1A765D4439CBBD317A3497DECD164E,"Long distance Intercity, Regional and S-Bahn train services operate here, and as of 2008, Leipzig Hbf handled an average of 120,000 passengers per day.","长途城际列车、区域列车和城市快铁列车均在此运营。截至 2008 年，莱比锡主火车站日均客流量已达 120,000 人次。"
-/209D11C4453D065C70056BA8581C19CE,Looks like a Route Map is missing. Let's go ahead and place this missing one while you wait.,似乎缺失了一张路线图。在你等待时，我们去把缺失的路线图装上吧。
-/D206D7A74C19245946C186BEA4E2E1DB,Looks like a Route Map is missing. Let's go ahead and place this missing one while you wait.,似乎缺失了一张路线图。在你等待时，我们去把缺失的路线图装上吧。
+/4525CF9343307802E341F9AB8F33639A,"Long distance Intercity, Regional and S-Bahn train services operate here, and as of 2008, Leipzig Hbf handled an average of 120,000 passengers per day.",长途城际列车、区域列车和城市快铁列车均在此运行。截至2008年，莱比锡火车总站平均每天处理12万名旅客。
+/131F595342D856BBF16009A345DD2BB8,Looks like a Route Map is missing. Let's go ahead and place this missing one while you wait.,看来缺少了一张路线图。趁着等待的时间，我们把缺少的这张路线图张贴上去吧。
+/603F2794412E8E49F8E0E5A5BE8C75C3,Looks like a Route Map is missing. Let's go ahead and place this missing one while you wait.,看来缺少了一张路线图。趁着等待的时间，我们把缺少的这张路线图张贴上去吧。
 /6CCD11614B40EBE7E1E0C2AAFAA849C7,MAINTAIN SPEED,保持车速
 /EEFF18BE40174AC304E2B391A579B8F8,MASTER SWITCH,主开关
 /C25A40624B3293806AC0CC90753AA51B,MOVE TO TRAIN,前往列车
@@ -714,6 +1176,7 @@ key,source,target
 /09F26BBC42E171554B5B7BB2F1C97240,Make sure the doors are set to CLOSE BOTH DOORS,确保车门设置为“关闭两侧车门”
 /F76A315249DBA4F00F82E08C9F98EC75,Move the reverser into position FORWARD,将方向手柄置于“向前”位置
 /5C2509614CD362BE1BC83BBF8022E2B2,Move the reverser to FORWARD,将方向手柄拨至“向前”位置
+/939E0C11456A0FADEE4E44910003CB1E,MuNuX,慕尼黑-纽伦堡快线
 /98F24F7A4F17B60705060E8B952E7221,MuNuX,慕尼黑-纽伦堡快线
 /595BEEEE45B72199108109B33D23016A,Munich airport has run out of de-icing fluids and we have to deliver it as fast as possible or the airport needs to shut down.,慕尼黑机场的除冰液用光了，我们必须尽快送达，否则机场将不得不关闭。
 /AD1F5E104373B37E9E5AD1A92DCABAF3,"Nice job, the train has safely come to a stop. You can now open the doors.",做得好，列车已安全停稳。你现在可以打开车门。
@@ -734,7 +1197,9 @@ key,source,target
 /94B4AED648BD93D06D8D0CB0DC49B178,"Now you have the side selected, use the door release switch.",现在你已选定车门开启侧，请使用车门释放开关。
 /F77CF06D49B41C94940F9682CAC0A3EA,"Now you have the side selected, use the door release switch.",现在你已选定车门开启侧，请使用车门释放开关。
 /7D671486428B9107EFF74E94D33C4BCE,NuAllX,纽伦堡-阿勒斯贝格快线
+/EDE4046D4254EF0DBE597EB09835FB55,NuAllX,纽伦堡-阿勒斯贝格快线
 /3ABA28D64A63A1DE31BC6BB438B1F8B1,Nurnberg - Ingolstadt,纽伦堡 — 因戈尔施塔特
+/4D0A4E67495DB766BA18F5B8D8464505,Nürnberg - Ingolstadt (Enhanced ICE4),纽伦堡 — 因戈尔施塔特（ICE4 增强版）
 /07B9D817497DACD8C4F902BF4D305CCD,Nürnberg Dutzendteich Pl 1,纽伦堡杜岑泰希 1 号站台
 /EAFA6A03414FC727E5150E81027DD04E,Nürnberg Dutzendteich Pl 2,纽伦堡杜岑泰希 2 号站台
 /760983FB4347219DA419F5A200EBA8F7,Nürnberg Dürrenhof Platform 1,纽伦堡迪伦霍夫 1 号站台
@@ -749,7 +1214,7 @@ key,source,target
 /F898398E484D8D1575E581928C378432,Nürnberg Hbf Pl 3,纽伦堡主火车站 3 号站台
 /4D8CA7364E13892389FE2899216D8F84,Nürnberg Hbf Pl 8,纽伦堡主火车站 8 号站台
 /2BD5190D4A3DF5FAB4821BB051A529F6,Nürnberg Hbf Pl 9,纽伦堡主火车站 9 号站台
-/CC0882E94F700FC80A0053A39178798C,Nürnberg Hbf is the main station in the area and one of the busiest in Germany. Its also start of the oldest train route in Germany.,纽伦堡主火车站是该地区的主要车站，也是德国最繁忙的车站之一。它也是德国最古老铁路线路的起点。
+/7888C6964524205AE6F1438137415DB0,Nürnberg Hbf is the main station in the area and one of the busiest in Germany. Its also start of the oldest train route in Germany.,纽伦堡火车总站是该地区的主要车站，也是德国最繁忙的车站之一。它同时也是德国最古老铁路线的起点。
 /3FFF382C432486561DFCBF9254917180,Nürnberg P13 - Ingolstadt P4,纽伦堡 13 号站台 — 因戈尔施塔特 4 号站台
 /E0BD38604B3DC6447D7A2DB34DDFA906,Nürnberg P13 - Ingolstadt P5,纽伦堡 13 号站台 — 因戈尔施塔特 5 号站台
 /F05C01444BCA5C804DB5D5B6601F2F16,Nürnberg P3 - Feucht P4,纽伦堡 3 号站台 — 福伊希特 4 号站台
@@ -782,13 +1247,22 @@ key,source,target
 /94731FCC43757AF930D26B81E2F05893,Power on this locomotive is controlled by a throttle that sets the tractive effort target.,本机车的动力由调速手柄控制，调速手柄可设定牵引力目标。
 /AD3DD9A94C0C6598331E56822BCCAE44,Power on this locomotive is controlled by a throttle that sets the tractive effort target.,本机车的动力由调速手柄控制，调速手柄可设定牵引力目标。
 /050BC2A84D1ABBA26AB68F857F621F3A,Prepare this formation for service,准备好该编组以投入运营
+/1947387F4F7962C0E985A8A5B37CB84E,Prepare this formation for service,准备好该编组以投入运营
 /52AC0A284A522702CB6176BD12FBADD2,Prepare this formation for service,准备好该编组以投入运营
+/5B989384413FEE53851A438487BD0CD6,Prepare this formation for service,准备好该编组以投入运营
+/5F2298F94D09055F02E3ADBCFD5B632A,Prepare this formation for service,准备好该编组以投入运营
 /68873CDA4B0002AC5AAF629FE8934608,Prepare this formation for service,准备好该编组以投入运营
+/8ECD1D8645BFC77EED3E1991C75D7F95,Prepare this formation for service,准备好该编组以投入运营
+/B7603A914E151286CB9BE0B661AF2517,Prepare this formation for service,准备好该编组以投入运营
+/BA07E4C14EC4CCB6A5C31180E425A590,Prepare this formation for service,准备好该编组以投入运营
 /CFE6FBC44A2F1D0BFC435EB8C7449BB6,Prepare this formation for service,准备好该编组以投入运营
 /EFCFE23B40AF69C1AEFCD39F5EC5AA62,Prepare this formation for service,准备好该编组以投入运营
 /F32F257E4BB6238F24C89C837EEDBD25,Prepare this formation for service,准备好该编组以投入运营
 /0450FCBD43A590ECC7DFB58960450FFE,Prepare this formation for service.,准备好该编组以投入运营。
 /7E18B4464D0016E6587F98826537D9C1,Prepare this formation for service.,准备好该编组以投入运营。
+/E61FF8C7432CBB07B78D4E8A884C0206,Prepare this formation for service.,准备好该编组以投入运营。
+/F111DAFD45F590587441F1A5CA89EB91,Prepare this formation for service.,准备好该编组以投入运营。
+/101361DB4900439C4888EB8AAFA5E817,Prepare this train for service,准备好该列车以投入运营
 /964533474F28CF7B27372999134DD00D,Prepare this train for service,准备好该列车以投入运营
 /58A4D48448A28621879BB1B65D71CBF2,Press Ctrl + W to set the Master Switch,按 Ctrl + W 键设置主开关
 /D2D4BEC64A74761189BB60A70DD46D4E,Press E to sit in any available seat,按 E 键就座于任意空位
@@ -808,71 +1282,144 @@ key,source,target
 /44AD898E44BE420CAE02C1BEA900E214,Proceed to the next stop unguided and see how you get on.,独自前往下一个停靠站，看看你的表现如何。
 /9A054DFC4309F3554E04AD80E251086F,Proceed to the next stop unguided and see how you get on.,独自前往下一个停靠站，看看你的表现如何。
 /EE7779324A337E012D6EB2B0B8C56726,Proceed to the next stop unguided and see how you get on.,独自前往下一个停靠站，看看你的表现如何。
+/3A90E4C2404DFE68FDFB609EAC7EA169,RB11/RB12,RB11/RB12
+/64CEB24C43E7B72D163A69B049F0D770,RB13,RB13
 /6922493F4A384736A345F09445973B48,RB13,RB13
+/2A7C7F3947C014D7BA180AA13AAC8DFA,RB16,RB16
 /32C35D994E0B1B258D847CB5EE388347,RB16,RB16
+/3F7398D34D7BED2EC9A62BB6F47C87C2,RB17,RB17
 /BE0E5D644BFC6A1FF349C09C3121FD31,RB17,RB17
+/DE5AD9C54F49EB1F2E339E8354C352BC,RB3031,RB3031
 /FC1F372A4AF2EEEB23C72DB2E17E5E13,RB3031,RB3031
+/B090EA784567BC31032F9A9B45B0EB83,RE 1 (4000) München Hbf - Nürnberg Hbf,RE 1 (4000) 慕尼黑主火车站 — 纽伦堡主火车站
 /E6108397489A698340CDB988728C71EC,RE 1 (4000) München Hbf - Nürnberg Hbf,RE 1 (4000) 慕尼黑主火车站 — 纽伦堡主火车站
 /1A5FAEA942FEDEE9463D7B980CF79E18,RE 1 (4001) Nürnberg Hbf - München Hbf,RE 1 (4001) 纽伦堡主火车站 — 慕尼黑主火车站
+/2BB6FA184146D908F739568708A13103,RE 1 (4001) Nürnberg Hbf - München Hbf,RE 1 (4001) 纽伦堡主火车站 — 慕尼黑主火车站
 /0BE9EAED41C089D8BE2ABA95F40078B0,RE 1 (4002) München Hbf - Nürnberg Hbf,RE 1 (4002) 慕尼黑主火车站 — 纽伦堡主火车站
+/9C359A57460C3C53750178BDF15631EC,RE 1 (4002) München Hbf - Nürnberg Hbf,RE 1 (4002) 慕尼黑主火车站 — 纽伦堡主火车站
 /791789C84EE5EBC9AD390CB2D45AB563,RE 1 (4003) Nürnberg Hbf - München Hbf,RE 1 (4003) 纽伦堡主火车站 — 慕尼黑主火车站
+/DB3DB4F44EC0449517778D98E3871304,RE 1 (4003) Nürnberg Hbf - München Hbf,RE 1 (4003) 纽伦堡主火车站 — 慕尼黑主火车站
 /861300804431587032C1758CF3DA599F,RE 1 (4004) München Hbf - Nürnberg Hbf,RE 1 (4004) 慕尼黑主火车站 — 纽伦堡主火车站
+/97A753BA4B680BDBD616BB9A3EEBC939,RE 1 (4004) München Hbf - Nürnberg Hbf,RE 1 (4004) 慕尼黑主火车站 — 纽伦堡主火车站
+/94683DB747A37FDA43549F8ECD3966EB,RE 1 (4005) Nürnberg Hbf - München Hbf,RE 1 (4005) 纽伦堡主火车站 — 慕尼黑主火车站
 /F069697D4B077BA9E5B82791906EA532,RE 1 (4005) Nürnberg Hbf - München Hbf,RE 1 (4005) 纽伦堡主火车站 — 慕尼黑主火车站
 /98125ED047783396A6F8C894D891A741,RE 1 (4006) München Hbf - Nürnberg Hbf,RE 1 (4006) 慕尼黑主火车站 — 纽伦堡主火车站
+/D95926E240A0F30BCDD3BDA1AD69D48F,RE 1 (4006) München Hbf - Nürnberg Hbf,RE 1 (4006) 慕尼黑主火车站 — 纽伦堡主火车站
 /0C111C184676007DD763B6B9FBF50D5C,RE 1 (4007) Nürnberg Hbf - München Hbf,RE 1 (4007) 纽伦堡主火车站 — 慕尼黑主火车站
+/F192B9A24BAE46DABC9352B52DCD3C93,RE 1 (4007) Nürnberg Hbf - München Hbf,RE 1 (4007) 纽伦堡主火车站 — 慕尼黑主火车站
 /0FED23524C1C0DBB60DEC98CEA5D88B2,RE 1 (4008) München Hbf - Nürnberg Hbf,RE 1 (4008) 慕尼黑主火车站 — 纽伦堡主火车站
+/BBCF26874B0CC4E657493BB83D6BEBCD,RE 1 (4008) München Hbf - Nürnberg Hbf,RE 1 (4008) 慕尼黑主火车站 — 纽伦堡主火车站
 /11B738A04F7FC55F4ECD849DBDB94CF4,RE 1 (4009) Nürnberg Hbf - München Hbf,RE 1 (4009) 纽伦堡主火车站 — 慕尼黑主火车站
+/9A70531F45209CF063E7C49A57C9652F,RE 1 (4009) Nürnberg Hbf - München Hbf,RE 1 (4009) 纽伦堡主火车站 — 慕尼黑主火车站
+/24D850F94896219D3BF02081AFD1C636,RE 1 (4010) München Hbf - Nürnberg Hbf,RE 1 (4010) 慕尼黑主火车站 — 纽伦堡主火车站
 /777287D347E99786C40FEB8C494944E1,RE 1 (4010) München Hbf - Nürnberg Hbf,RE 1 (4010) 慕尼黑主火车站 — 纽伦堡主火车站
+/0F45EDA04A0D4E2F14F0E18DE8F07EF0,RE 1 (4011) Nürnberg Hbf - München Hbf,RE 1 (4011) 纽伦堡主火车站 — 慕尼黑主火车站
 /922E906F4DBAA89A767EA7B14A5D6D04,RE 1 (4011) Nürnberg Hbf - München Hbf,RE 1 (4011) 纽伦堡主火车站 — 慕尼黑主火车站
+/086BD5C14C2605510E0A80B43CB049BD,RE 1 (4012) München Hbf - Nürnberg Hbf,RE 1 (4012) 慕尼黑主火车站 — 纽伦堡主火车站
 /9446EAB74B1B00EF9C23B1BEBEF1383D,RE 1 (4012) München Hbf - Nürnberg Hbf,RE 1 (4012) 慕尼黑主火车站 — 纽伦堡主火车站
+/7E4F56834D009424CBB945BADF49E8EF,RE 1 (4013) Nürnberg Hbf - München Hbf,RE 1 (4013) 纽伦堡主火车站 — 慕尼黑主火车站
 /7F42182648977A18827682844A68E6CA,RE 1 (4013) Nürnberg Hbf - München Hbf,RE 1 (4013) 纽伦堡主火车站 — 慕尼黑主火车站
+/0FB9D5294FCF9F17D5C790B7410DBEFE,RE 1 (4014) München Hbf - Nürnberg Hbf,RE 1 (4014) 慕尼黑主火车站 — 纽伦堡主火车站
 /F93AF50443BF727B8ACB04B7E1754902,RE 1 (4014) München Hbf - Nürnberg Hbf,RE 1 (4014) 慕尼黑主火车站 — 纽伦堡主火车站
 /1609450B4AF39AAFFBFEDBB8E9BF5424,RE 1 (4015) Nürnberg Hbf - München Hbf,RE 1 (4015) 纽伦堡主火车站 — 慕尼黑主火车站
+/E338103340737916DFD4B4AFD92099FD,RE 1 (4015) Nürnberg Hbf - München Hbf,RE 1 (4015) 纽伦堡主火车站 — 慕尼黑主火车站
+/1EEE76CF422767A2EF236AAFF875700E,RE 1 (4016) München Hbf - Nürnberg Hbf,RE 1 (4016) 慕尼黑主火车站 — 纽伦堡主火车站
 /81C9664C4849685933C27ABA1B13AD67,RE 1 (4016) München Hbf - Nürnberg Hbf,RE 1 (4016) 慕尼黑主火车站 — 纽伦堡主火车站
 /567D673E44845C31700B3D80B3C1905C,RE 1 (4017) Nürnberg Hbf - München Hbf,RE 1 (4017) 纽伦堡主火车站 — 慕尼黑主火车站
+/782FBD1A484FF4672F685FA618E7DCD8,RE 1 (4017) Nürnberg Hbf - München Hbf,RE 1 (4017) 纽伦堡主火车站 — 慕尼黑主火车站
+/253BCF0944B3E2AA50E4DB9E87FDF1F5,RE 1 (4018) München Hbf - Nürnberg Hbf,RE 1 (4018) 慕尼黑主火车站 — 纽伦堡主火车站
 /292117924D45AFF3FE9172A5A3EB265D,RE 1 (4018) München Hbf - Nürnberg Hbf,RE 1 (4018) 慕尼黑主火车站 — 纽伦堡主火车站
+/1047CB8946B7ECF1CAE649B7E696ABEB,RE 1 (4019) Nürnberg Hbf - München Hbf,RE 1 (4019) 纽伦堡主火车站 — 慕尼黑主火车站
 /2FC0383B40956E5CBAAED6B6E18955CD,RE 1 (4019) Nürnberg Hbf - München Hbf,RE 1 (4019) 纽伦堡主火车站 — 慕尼黑主火车站
 /1EC5BBCA4198913302EFDB8D6DFFD15F,RE 1 (4021) Nürnberg Hbf - München Hbf,RE 1 (4021) 纽伦堡主火车站 — 慕尼黑主火车站
+/A62E977D4DC8036DB2F9578791E5B2D0,RE 1 (4021) Nürnberg Hbf - München Hbf,RE 1 (4021) 纽伦堡主火车站 — 慕尼黑主火车站
 /EA097CFA4189CFE1BAC68BAD6303BF82,RE 1 (4023) Nürnberg Hbf - München Hbf,RE 1 (4023) 纽伦堡主火车站 — 慕尼黑主火车站
+/FE9F6FF74F0DBB1081EFCE9940366180,RE 1 (4023) Nürnberg Hbf - München Hbf,RE 1 (4023) 纽伦堡主火车站 — 慕尼黑主火车站
 /67B678264FC26CFA742376A1744465F8,RE 9 (5000) Nürnberg Hbf - Allersberg,RE 9 (5000) 纽伦堡主火车站 — 阿勒斯贝格
+/7B7359E948D5A5EDAF66028AFC85D6E4,RE 9 (5000) Nürnberg Hbf - Allersberg,RE 9 (5000) 纽伦堡主火车站 — 阿勒斯贝格
 /7FCB7D124C4FCB83867C488193E3BED0,RE 9 (5001) Allersberg - Nürnberg Hbf,RE 9 (5001) 阿勒斯贝格 — 纽伦堡主火车站
+/E0C524624031E6206EA9FB8839150EFA,RE 9 (5001) Allersberg - Nürnberg Hbf,RE 9 (5001) 阿勒斯贝格 — 纽伦堡主火车站
 /0150872E448F0B471EB4608180718AA0,RE 9 (5002) Nürnberg Hbf - Allersberg,RE 9 (5002) 纽伦堡主火车站 — 阿勒斯贝格
+/47F620B348FD78F0E18F459111560471,RE 9 (5002) Nürnberg Hbf - Allersberg,RE 9 (5002) 纽伦堡主火车站 — 阿勒斯贝格
 /EF6AF8FF441E022DC2CA4C8EA248D6C9,RE 9 (5003) Allersberg - Nürnberg Hbf,RE 9 (5003) 阿勒斯贝格 — 纽伦堡主火车站
+/FFA0C94C4B7C75E4E9A096AC789413B0,RE 9 (5003) Allersberg - Nürnberg Hbf,RE 9 (5003) 阿勒斯贝格 — 纽伦堡主火车站
+/2333F4BF4D38617DBF60C3B43F2C58EA,RE 9 (5004) Nürnberg Hbf - Allersberg,RE 9 (5004) 纽伦堡主火车站 — 阿勒斯贝格
 /DBC1E56349BF1583E84B58BE68EFB730,RE 9 (5004) Nürnberg Hbf - Allersberg,RE 9 (5004) 纽伦堡主火车站 — 阿勒斯贝格
 /0018A3034B66B4DD4FC771B28B81D570,RE 9 (5005) Allersberg - Nürnberg Hbf,RE 9 (5005) 阿勒斯贝格 — 纽伦堡主火车站
+/526273804266140D52A4F9A8853594DA,RE 9 (5005) Allersberg - Nürnberg Hbf,RE 9 (5005) 阿勒斯贝格 — 纽伦堡主火车站
 /2D8BAFC942F4B5FF1F49B7A2047AA9E5,RE 9 (5006) Nürnberg Hbf - Allersberg,RE 9 (5006) 纽伦堡主火车站 — 阿勒斯贝格
+/6E810CBF44798C023C5172BB464BC9FD,RE 9 (5006) Nürnberg Hbf - Allersberg,RE 9 (5006) 纽伦堡主火车站 — 阿勒斯贝格
 /00FE53A1438E8062646638AA9DD29286,RE 9 (5007) Allersberg - Nürnberg Hbf,RE 9 (5007) 阿勒斯贝格 — 纽伦堡主火车站
+/ED06395645E568EDDE94AA946FEE55C8,RE 9 (5007) Allersberg - Nürnberg Hbf,RE 9 (5007) 阿勒斯贝格 — 纽伦堡主火车站
+/40B5A8324834239DD2BBA09B362EA025,RE 9 (5008) Nürnberg Hbf - Allersberg,RE 9 (5008) 纽伦堡主火车站 — 阿勒斯贝格
 /5332E0F243A62CA8C7287AA960743378,RE 9 (5008) Nürnberg Hbf - Allersberg,RE 9 (5008) 纽伦堡主火车站 — 阿勒斯贝格
 /09AA57184B7EBAF182AB398BD46E62F4,RE 9 (5009) Allersberg - Nürnberg Hbf,RE 9 (5009) 阿勒斯贝格 — 纽伦堡主火车站
+/94C34E434B7044BCBD49ACADB40C34FB,RE 9 (5009) Allersberg - Nürnberg Hbf,RE 9 (5009) 阿勒斯贝格 — 纽伦堡主火车站
 /1FC8680742ACDA12EB9E0FA3EE319C6F,RE 9 (5010) Nürnberg Hbf - Allersberg,RE 9 (5010) 纽伦堡主火车站 — 阿勒斯贝格
+/65BF11A54565C55AD5A22B8415EC5BC7,RE 9 (5010) Nürnberg Hbf - Allersberg,RE 9 (5010) 纽伦堡主火车站 — 阿勒斯贝格
 /B541E5E14F2A1D929BD1F2B1A172BF74,RE 9 (5011) Allersberg - Nürnberg Hbf,RE 9 (5011) 阿勒斯贝格 — 纽伦堡主火车站
+/FBEC860E412939D06455E39BBEA93CEA,RE 9 (5011) Allersberg - Nürnberg Hbf,RE 9 (5011) 阿勒斯贝格 — 纽伦堡主火车站
+/05B313544C35AC3D4A53D2B0A45B66F7,RE 9 (5012) Nürnberg Hbf - Allersberg,RE 9 (5012) 纽伦堡主火车站 — 阿勒斯贝格
 /7A5EF50E4F7925026D1516B5BA073F76,RE 9 (5012) Nürnberg Hbf - Allersberg,RE 9 (5012) 纽伦堡主火车站 — 阿勒斯贝格
 /6AAD11C0407C2E6E3A42409F1E727CA7,RE 9 (5013) Allersberg - Nürnberg Hbf,RE 9 (5013) 阿勒斯贝格 — 纽伦堡主火车站
+/B82B39FB4B9070E88BC8E9B4C41A9224,RE 9 (5013) Allersberg - Nürnberg Hbf,RE 9 (5013) 阿勒斯贝格 — 纽伦堡主火车站
+/323E8A624EEEB6FB6B29E8A0B3EE520A,RE 9 (5014) Nürnberg Hbf - Allersberg,RE 9 (5014) 纽伦堡主火车站 — 阿勒斯贝格
 /4148DB944C358B3461315B8DAD29EE4F,RE 9 (5014) Nürnberg Hbf - Allersberg,RE 9 (5014) 纽伦堡主火车站 — 阿勒斯贝格
+/200306DA4CE07E92520E7886E2B6DAE4,RE 9 (5015) Allersberg - Nürnberg Hbf,RE 9 (5015) 阿勒斯贝格 — 纽伦堡主火车站
 /EE28B2A54A57D387DF1852A55F4AC1A2,RE 9 (5015) Allersberg - Nürnberg Hbf,RE 9 (5015) 阿勒斯贝格 — 纽伦堡主火车站
 /162984854E56E9DA474688AA4E983E14,RE 9 (5016) Nürnberg Hbf - Allersberg,RE 9 (5016) 纽伦堡主火车站 — 阿勒斯贝格
+/A859C404421A1A9C86385AA41AC34320,RE 9 (5016) Nürnberg Hbf - Allersberg,RE 9 (5016) 纽伦堡主火车站 — 阿勒斯贝格
 /9755832D4877D197F2BC4F8974498CA9,RE 9 (5017) Allersberg - Nürnberg Hbf,RE 9 (5017) 阿勒斯贝格 — 纽伦堡主火车站
+/C7A9846546C7ECC9AAFFBF84926987A3,RE 9 (5017) Allersberg - Nürnberg Hbf,RE 9 (5017) 阿勒斯贝格 — 纽伦堡主火车站
+/08BD34F0453769A8A8B050922EE18584,RE 9 (5018) Nürnberg Hbf - Allersberg,RE 9 (5018) 纽伦堡主火车站 — 阿勒斯贝格
 /9AD290D74218CFD12A593D8FE7F57EA4,RE 9 (5018) Nürnberg Hbf - Allersberg,RE 9 (5018) 纽伦堡主火车站 — 阿勒斯贝格
 /2227955D4C17AC7E42CAA1A57D6DA22E,RE 9 (5019) Allersberg - Nürnberg Hbf,RE 9 (5019) 阿勒斯贝格 — 纽伦堡主火车站
+/51B6207A46097A731582A6894BE99EDB,RE 9 (5019) Allersberg - Nürnberg Hbf,RE 9 (5019) 阿勒斯贝格 — 纽伦堡主火车站
 /2CBBF40943E559EB49613BA1D4B10F19,RE 9 (5020) Nürnberg Hbf - Allersberg,RE 9 (5020) 纽伦堡主火车站 — 阿勒斯贝格
+/AD8819B744A25D490676938B964BCB5D,RE 9 (5020) Nürnberg Hbf - Allersberg,RE 9 (5020) 纽伦堡主火车站 — 阿勒斯贝格
 /02AE54F64E750F516BCB99819991C0BC,RE 9 (5021) Allersberg - Nürnberg Hbf,RE 9 (5021) 阿勒斯贝格 — 纽伦堡主火车站
+/5EB23F954C69648695C39C9EA9C06EEE,RE 9 (5021) Allersberg - Nürnberg Hbf,RE 9 (5021) 阿勒斯贝格 — 纽伦堡主火车站
+/400DF92041780EA638315AAAB3DF327A,RE 9 (5022) Nürnberg Hbf - Allersberg,RE 9 (5022) 纽伦堡主火车站 — 阿勒斯贝格
 /8CD86C874E73B81E1214B7992BED691F,RE 9 (5022) Nürnberg Hbf - Allersberg,RE 9 (5022) 纽伦堡主火车站 — 阿勒斯贝格
 /46C542194E0D171B4B47CA8121CA37C4,RE 9 (5023) Allersberg - Nürnberg Hbf,RE 9 (5023) 阿勒斯贝格 — 纽伦堡主火车站
+/A496ECDF4017940845EF639EF183C561,RE 9 (5023) Allersberg - Nürnberg Hbf,RE 9 (5023) 阿勒斯贝格 — 纽伦堡主火车站
+/2FDD67D44255BB70BA48C3BA0302EC0D,RE 9 (5024) Nürnberg Hbf - Allersberg,RE 9 (5024) 纽伦堡主火车站 — 阿勒斯贝格
 /B0ABC3CE41EE05E4151445B850038282,RE 9 (5024) Nürnberg Hbf - Allersberg,RE 9 (5024) 纽伦堡主火车站 — 阿勒斯贝格
+/A09342FC4A45BA4A4E651AA8804AE172,RE 9 (5025) Allersberg - Nürnberg Hbf,RE 9 (5025) 阿勒斯贝格 — 纽伦堡主火车站
 /D73944E54243006211F79C939AD6121E,RE 9 (5025) Allersberg - Nürnberg Hbf,RE 9 (5025) 阿勒斯贝格 — 纽伦堡主火车站
+/255A0C0F45676F610B3EB5A4AE8EC21D,RE 9 (5026) Nürnberg Hbf - Allersberg,RE 9 (5026) 纽伦堡主火车站 — 阿勒斯贝格
 /BD6C997D46DBCF6C7DF96183D3F27796,RE 9 (5026) Nürnberg Hbf - Allersberg,RE 9 (5026) 纽伦堡主火车站 — 阿勒斯贝格
 /73E3DB7843FA80B88AD64E90F1CFC566,RE 9 (5027) Allersberg - Nürnberg Hbf,RE 9 (5027) 阿勒斯贝格 — 纽伦堡主火车站
+/C28F03F347B8726781B9A6B5FC13C3DA,RE 9 (5027) Allersberg - Nürnberg Hbf,RE 9 (5027) 阿勒斯贝格 — 纽伦堡主火车站
 /7DEC7BAF45DCB6B3A62F2B83A54E46CF,RE 9 (5028) Nürnberg Hbf - Allersberg,RE 9 (5028) 纽伦堡主火车站 — 阿勒斯贝格
+/CA815DD04C549326B334B78135A7FB2C,RE 9 (5028) Nürnberg Hbf - Allersberg,RE 9 (5028) 纽伦堡主火车站 — 阿勒斯贝格
 /8EADE4EB4481B581C331DAAB18D22095,RE 9 (5029) Allersberg - Nürnberg Hbf,RE 9 (5029) 阿勒斯贝格 — 纽伦堡主火车站
+/C1BE55AC4E280689356F9C98BEFBAC48,RE 9 (5029) Allersberg - Nürnberg Hbf,RE 9 (5029) 阿勒斯贝格 — 纽伦堡主火车站
+/1754C59645A957CDCEEC89827A2AD0A6,RE1 (4025) Empty Depot Move - Shunting in Nürnberg Hbf,RE1 (4025) 回库空车 — 纽伦堡主火车站调车
 /B12185654FEA53809589E08A5D0A0B77,RE1 (4025) Empty Depot Move - Shunting in Nürnberg Hbf,RE1 (4025) 回库空车 — 纽伦堡主火车站调车
+/15B578C14C10B2684094EBA19B79AE15,RE1 (4027) Empty Depot Move - Shunting in Nürnberg Hbf,RE1 (4027) 回库空车 — 纽伦堡主火车站调车
 /96A19F324FE140038649A69BE78BCA51,RE1 (4027) Empty Depot Move - Shunting in Nürnberg Hbf,RE1 (4027) 回库空车 — 纽伦堡主火车站调车
+/05CAF3E548866F337C96D7B88746B5C0,RE10,RE10
+/3F94EED741EBFA1BEFAB97A819BB41EF,RE14,RE14
+/ADD7A6F445F07198EB5273BEA411DE19,RE19/RE29,RE19/RE29
+/5ADAA1724403178275B0AFAAF4F61081,RE31/RE33,RE31/RE33
+/26B9158848A6A702E433D48DCF482609,RE40/RE47,RE40/RE47
+/8444232C49E1CF0C70C33FBB7A00AB5E,RE50,RE50
 /CE1A3872480757F2AE7B409FBC1CD990,RE50,RE50
+/108644DA4185B60016134E9EA8193194,RE60,RE60
 /181763FC48BED366C51764B16D754205,RE9 (5030) Empty stock - Shunting in Nürnberg Hbf,RE9 (5030) 空车 — 纽伦堡主火车站调车
+/E76F8E5D422FACDAC434C3B890BF1858,RE9 (5030) Empty stock - Shunting in Nürnberg Hbf,RE9 (5030) 空车 — 纽伦堡主火车站调车
 /1B6F9BE64F6BC3A5B74E21986CB988B8,RE9 (5031) Empty stock - Shunting in Nürnberg Hbf,RE9 (5031) 空车 — 纽伦堡主火车站调车
+/39EBD6AA4ADEE2B4BFB358841F3E8591,RE9 (5031) Empty stock - Shunting in Nürnberg Hbf,RE9 (5031) 空车 — 纽伦堡主火车站调车
 /80B790E0475C79D6C04C0A82820EC9C3,RE9 (5032) Empty stock - Shunting in Nürnberg Hbf,RE9 (5032) 空车 — 纽伦堡主火车站调车
+/B50DB85948DAD0943B4BF089ACB5FB12,RE9 (5032) Empty stock - Shunting in Nürnberg Hbf,RE9 (5032) 空车 — 纽伦堡主火车站调车
 /3F74666F41F906D75E96BB8E216F345A,RE9 (5033) Empty stock - Shunting in Nürnberg Hbf,RE9 (5033) 空车 — 纽伦堡主火车站调车
+/D9DA1B8E4FCAC9A2811191BEAA954B02,RE9 (5033) Empty stock - Shunting in Nürnberg Hbf,RE9 (5033) 空车 — 纽伦堡主火车站调车
 /8F45C69942E83FE621E9A4B871CD696C,RE9 (5034) Empty stock - Shunting in Nürnberg Hbf,RE9 (5034) 空车 — 纽伦堡主火车站调车
+/D36923044F7FFD5293E554AC226FC6C6,RE9 (5034) Empty stock - Shunting in Nürnberg Hbf,RE9 (5034) 空车 — 纽伦堡主火车站调车
+/0D40FC7841228B799B647383F49CC0CE,RE9 (5035) Empty stock - Shunting in Nürnberg Hbf,RE9 (5035) 空车 — 纽伦堡主火车站调车
 /504A5CF244756DD894545A8ADFAD753C,RE9 (5035) Empty stock - Shunting in Nürnberg Hbf,RE9 (5035) 空车 — 纽伦堡主火车站调车
+/AB4305324A65AF7C6F1E40B72C1E42E7,RE90,区域快车90号线
 /0896E81E4F743DE4F481DB98051730C5,REACH SPEED,达到速度
 /34CAAA184C7E25CFEA6C48802BCD556B,REACH SPEED,达到速度
 /57250B4E49AC63FD95A3DB852BC22449,REACH SPEED,达到速度
@@ -905,220 +1452,436 @@ key,source,target
 /14DD676B48DF965EFC7B02A1EFAFA0DB,Remove the reverser,拔出换向手柄
 /7C3E55D14DC8A42CC0E2468B8A03804F,Remove the reverser,拔出换向手柄
 /BC73D9114EA9B85E32DDCD9B1BDC429D,Remove the reverser,拔出换向手柄
+/043C93B74CA9508DB0E051AFFBFDC11F,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /04531D194DF9F8A07748AA8C3005E510,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/08D802DF43AF86B4C56F77B45FA8DDB7,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /0A55A95B46ABF1DEECF2348113EDACB7,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/13FFFD34452D89707F0A8D8FED89D239,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/143B5A2E41EDD5F2A06A0C8703E2FA1C,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /149A46C7461CEB2D427E168C8518B7F7,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/14D411974DE74FC316B4D88389A647BB,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/154147AA4A68E1439F585988790232DB,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /15ABE00B462458D91619A4B55CC5D715,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /17342AEC40360B7925F339B0B6B00D43,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /1AA465104EAEFF68AFD33083FDEFFC38,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /1C99EAC14950E0A1D93EE9A69A9F80CE,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /1D0E817D4BE814F5D7089DBFEAAD7033,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /1FB0E136449B4A50365B7495B0746F96,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/22D947ED42D2A1E666EFF7A134CEB5A7,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /23CDBDD446848387EEFCE68C5BD3E5B0,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /254BDC2A4FD1F16A56E8FC84E1C07675,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/263718914B849057E1E1ECB8A49790C9,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /29EE0C5A4FE713D39AEFEF89B3266DCD,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /3077D37645518EAAA361919E199B0A40,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /33B4D2CE4BFEBF08E4C6E2BAAFD59665,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /3554C2164954543CB1EF1994324246AA,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/38ED288848FA8F04E749D989D45AF378,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/399A12A04944C977BB863BB19B5DF78D,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/39FFE9CE4F34EFEE63D7B28BBE6A9FD9,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /3A29C7F6432B34D96247CEB29A7391E3,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /3D9264154BEEA2AF8221FEA12725EDFC,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/3E3D53D94E88346BC59011BA0FA982B0,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/3FE2C5F142EA5F37EF201D904C05E776,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/455AE0D14C7DE2E38A3BAFB1239F534D,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /4873D15D4ED9C1BF89B72E9A2871B48E,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /49D746164905A61FF1BCBAB46F2EF96E,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/49E023F047DBC3610F3075B225AEBDFE,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/4B9A92EE4DFF1D4666AA808C7DF49CCE,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/4D07FCFB4D125C68F5554AA0D4B24634,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/4EC49F7F4982C007A7DE619938234D59,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/4F4916C24D29A36DCB75FD997C5DA497,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /524C7E57419A339E8EC969911B5CDD5F,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/5269DC16465F3E9DA0730795ACF0FDDA,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/55B2FD264E17A0B6B1A29FA77D86B54D,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/5887D21448DCD517E9658DAD0CAB3416,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/589E451547B8D13EC5FBF4A3059D81D7,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /5C050507415C8229B0BF19895CCD53B1,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /5DF2F5E24B1BD7518C2EFBABA4BB0611,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /612E4BED44D9ED9EBCE8BFBC0DA8D5B6,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/62110F954C3ABFC7E4160D9AE072601A,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/63A2206E4CF9FD98CC6620AE4E02B3C5,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/6B2B5DD14EC63C5C60A641BB7E740B0C,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/6C2945F84E50E70F8ED76E98A5CA72CC,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /6E5B0611486EE8CCAA0DD0ACA556AA2C,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /6E91CA8844C0CC29509711BC79B17743,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /6F2A437846E54522622FDBA580C5B289,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/700F096C4C49F2255160B98308EBEF0D,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /73C4A97D45483B72E1E8FD94424EF30F,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/764FF6C84829B5C8EB9930A36292E721,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /788F9A5B436C1091D45478BABDEF57C1,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/7977847846BC7627140305BC1CB62735,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/7D2C23914DC61CCCCEFBC7BC4DF4E948,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /7E29B4F7491E25EE1CB161A29FBA4411,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/7F0DB6CF4D822BF0F7572EADB1AC1770,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /80D2927644F349401521E7916DA16D37,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /891AE179406DECE460CEC5B03FBB7086,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/8A13FCB443287E1EE2A2159E1DFAB329,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/8A5DF1834C9DCD7F51BF608FB8F4F2F8,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/8B7303FB4FDBC90F615CC8927D591F9B,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/8D6E3BD54A88166FADA1949954CE4E69,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/8D8D0A3341DD16901A3E98AD2796F484,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /8EAAA7084B119B1B92FD45A01A4A33A2,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /8EBAE9B94DBF6419F3E3F98C53E43B28,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/8FB14C62477B3D276FFAFE871D0208F6,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/91BFEBB04BDAA89870A9B390117361E6,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/9325AB764EF67D22749D939470C41C70,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /946BE32146B9F67CEBE2D9A20C05E2DD,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/94F5E2C74BC283EFDC9EE7890A5386D5,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/974C87624025AD3444D625A2140FD83D,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /993C5D1A48B94A8B21D7E48B4C4E153B,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/99417DE14B0ED3E3AF2AF9A45D8B7A0E,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /99754516446590898517C49E0A6FFAB3,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /9AB258C84B07AD9FBA8D6AADB7494A06,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /9E7EE48A45D08FCF0D1359A11E40E8CE,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/A399C06749B4A43E7A1057B3F664E989,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/A72FD00C4CEC24837F4B44B1F2E6A7C6,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /AA98C5534E560675C402AF98B9A72CCB,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /AB4628E3421647A5E7FE54BBCAB23B2E,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/AC5BAA5C472B116B9708CEBC7173491E,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/B1E924AA4C364EEB6D7BFA8323A8A9AB,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /B2AB2B1A4C4BD31B9D6B4AB3501C2F36,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /B394B858477189FC38C7A3AEBDA39AA4,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /BFE3C10841DDA2F1325D28B8BC179B04,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/C1457A5A4029797871AB28B64803E343,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/C4AEF6EE4DA46D7D01050B95A8197C8D,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /C6013AFD4037893D097B199B3376C4C4,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /C72B36B742C837D7FF08989050F42660,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /CCD285FC4074992F04C20AB2D1CF953E,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/DA0DFF4E47CE3D2169618CA019EBDDCE,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /DAC32BD94725C6529F1E028BD5682BEB,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/DD11E94546C3D2549BA5278F78765E14,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/E4C49DB14CC2CA8D44D39AB986C180BC,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /E778FC93407AB68B103C0DBFD83272F3,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /ECBFAF534B03F2C5F940109D56AE2195,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /ED258DC74066E1CC7372D29AF378D448,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/EE789C804DCC469983EC6E8FA2F951DE,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /EF11CCC040094011AB84E0A12B826617,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/EF3575F24CEE5498D1A8FCA8C79376CB,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/F01AA6FA46CD2EDB915EC78BC3BCC37C,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /F036EC8F4E8365E259D7A5AD24066480,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /F1D7EEFF440F7EE55DBF649D7EE20DF6,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/F47176154DA8EB17E006DF83C1931036,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/F6E20B87418817FD386D42B7306109BD,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /F8CE12AB491F9339CB7A1DADE000A717,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /F9276FDD4DBC32BCB5F78DA497C06A97,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /F950B2A140332C936825C7AABFEDBF22,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/FA338B6B4CED478C885A9D9F16AB9857,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
+/FA506E254CD53EEE166B9B849833100D,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /FB54272A49D2223D2F843184E34C1B8A,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /FB8815F24530C32D065F8B8AB31F044E,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /FE0379334E0A93FD42AF9ABD9F21D0D3,S2 Altdorf(b Nürnberg) to Roth,S2 阿尔特多夫（纽伦堡附近） — 罗特
 /3F3E903442F0B374F8C730A8CE38A91B,S2 Empty depot move - Shunting in Nürnberg Hbf,S2 空车回段 — 纽伦堡主火车站调车
+/47FA0A8841F5D53B2F96419D94296DD4,S2 Empty depot move - Shunting in Nürnberg Hbf,S2 空车回段 — 纽伦堡主火车站调车
 /010A19E14DAB188E7F0A8A9266273E6F,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/016029034577F57C32184CB0E81C213E,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /0903C7914548C724950E6486BEB7A9CE,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /0DD639A24217E772709A95A210496237,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/145663234DEF37322D262C9FDB249E12,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /178593FE44931BB2B35EE4AD9D5CB61D,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /192356694D21D786238BAB86C02E6700,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /1AE8E36A4025791CBB37CC9505872B37,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/1B4D64AD434DB65CD84AE3BA3A144583,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /20495A1F4387D4121597B98688D24EE0,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /2219CD894FE23DF992F5E48F4E29BE16,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/249D3E9A43B2CC665C57E5BDE788EF1A,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /261E0C6843DF0102067E0499312D9E6D,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /287EEE144A2EEFC50EDB3F8EDF08FD97,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /2A45B5414208DB8C92503EB111C152E8,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/2C1C57114D33EFB5C9DF2BBD6BE5D4E2,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/2EFB17A444BCE93587FFDA877BB84F25,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/3000A488417C7E65A5A3E79E53CF1E95,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/32E1C2894AAA739D568B9D8BF441C327,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /34B35046457C93F32FFCEE87F597204E,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/3A06EA734A22CC73D08435BA85259AE8,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/3A8F18D44F80C7C85AA39E8FB9E4C26C,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /3AC1C90C42039C227229F39EC7C11CA6,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/3B46943B419E585E361CF9A374077577,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/47EC6B9445D26895924255BBDB3A9C9D,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/48098D5542A5EF1844562FB58F974E7B,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /482EBA7245C04107129BBD8AAB77173D,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /49E4F3FC4CD06BA96A9AC681469F4609,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/4A6DF0884B8DDA2E1B64E0AA18A0BC34,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/4C21CC41433DC64159C02F8A9E7CD7E6,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /4C22F01241D787A4E525A0B657770FEA,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /52D15D0D456158F66DEB2EA03E1597AA,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /5DC9F9A847417A88EA526C9F4E335B5B,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/5F03478A40BB7F46B1FC679B848B351B,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /5F27825945F20227B6D05BA54B4EC5A3,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /67784FFA4C0636980FBB6CA9A6045F97,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /6F9616E648F941876641B9A0C8E707AD,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /706F66DC4CA33AA3C0B339A748605EDF,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/710BC6C04D32610A429059A2A8A24A83,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/74EB4C8E4ADAE28609D5178EE9B92980,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /7CCD0F7445951E255DB7E3A059BF00CB,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /7F0DCA944BB3322EDBCD51A399B0777C,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /833C713549A628AE5326DFB61BFE590F,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/87A0B7954DB08DDB60FD27A17D928575,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /87C12B5749968E7895EAA9A30FE9D2E0,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/894BCBA340D6955B7F50B4817052DC79,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/8B791DE44658E9E2DAAFA197DA4F8660,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/8CCA47384944436BD42D0CB326E6B305,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /8E910E2B47F1E82AEA2CA78093C87740,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /90C6F5A74A8C43EB0A6CF08A4A41D63A,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/955BDBC74EB0CD43FB70F3892CF29883,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /96329FBB4F02E5C28C5E51AE8E791DA8,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/97CEEA1C49D3C7BD569EEDA0BFD1A0BA,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/9BDB7CB04094955E590AC9B5E08ABDCA,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /9D9BAD224226A2431CE30993A75D43BF,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/9E28A6A14D010DFC2559439B246CAB86,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /9E3676404BAEC0B31D34A1A5244A187A,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /9EE2866840F916AD41B437A1921FEFA9,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/9F2FBD0F43973FCDCFA1FA9281B546C2,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/9F4370374BF1F962C972A9A07602DD17,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/9F7B4F7843276E451AF90CA3BDC0D6B8,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/9FB129494333A9AF2657089459302E96,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/A25A92364967730F219D548F692660F7,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /A35087BC42C9C8E3A48D15BDF888246C,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /A4391AA342824C11F62021B9F913B981,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/A54BDD56449BEA74AE42609596B6540B,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/A9F71D48483A445F221829A7125938D7,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /AE8C654D4508F5703FD7139607D57D7A,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/B308DE2D44483156A096E4B29C82E3A8,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /B65A466D436FE25D08A328B1B8839323,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/BC055CB54A207F59C2CCAC8082DC6EE6,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/BC5980604D3C894F4C624489627AF951,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /BE0A21A74C07FACDEF6C2B827A96E71E,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/C277473C40B7F5CD84DEC0BB8F1E5015,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/C2BB2EE24760E594738706ADD520C044,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /C2BCFCF24E7000EB2E12DE8C5AAF8E52,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /C35AA9CF44443B40716E6B9F6F333807,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /C6F11FED4A00AC9807390EBD89B53E3B,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/C850044B4AB19798D7FF3DB1C2A55CA8,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /C85C7C214122F8D3E4170499CFEA47C0,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/C8E204B641365AEF8E9CAC855A5A7535,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /CAD3F2F34C7196D4770B6586E982180D,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/CC429DF648CB200771D205ABAB235361,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/D04E2359493C672543748EBD16B18265,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /D0E4B62043B617FD6202149A69B19A8C,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/D0FB2D284DA56B45B9BB15800EF78BE3,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/D25EC6C84DA05C53ABBB108A86A41B23,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /D3102DA44EF1C6FB9F4EF483E579B666,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/D46B911542BAF630F9AE6C86239A714E,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /D6DB3A9F4586C4574D07519810B88E8E,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /D72FCF3042E2B10CAAE2FDBB91F714EE,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/DB935B1C4AE2E03528879884F0AADBF3,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /DD084DCD4CE083D30DEC099423CD935C,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/DE60D4654B1CD77EC6323BB31AFF290F,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/DF4043EC464A334C3DFAE78A24FF0FFB,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /E0571D1249B93EF00971D5AEE341331A,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /E639F8A44E6AA8D7707E5CA3B90537BB,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/E6753E5148DCE0BA5C75B989BDDE9DA1,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /E76EF63644B1E826441D3582583C29FF,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /E828CAE246289CAD0F86BCA16A22407B,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /E8B2177D4AD270E9388AF083909636BD,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/E9A95BC344EA54730D73548194229FB7,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /EACF821C46A0324301B6759F47ED6827,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /EB756ECB477A918DB0D564B38524B81C,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /ED1092E2450B7EAAF23F6387F6BC486C,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/EDCA89D448E32E1DA0D025BF97CBFC64,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /EF3E10574AA4E72CA502F3BBE295356E,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/F07D51864F728597ADBB92ABA3D9177B,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/F37273CF49F186AAF3AFF88125A0A4B5,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/F5FAC1A44FDE8AB16AF9A7B0770CE492,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/F63BB47646C5BF7C93D7DDB91696BFDD,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/F81EE51040A786148F043DB051D65D63,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/F980198B45CB3B7ED0553E8E9D83D681,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /FE49A23F436F29A9F4C6B289C8DD7C65,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/FEE702EC440BB6A5D923F683FFB4B441,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
 /FF3A4C9A48D988387D675AB795C0039F,S2 Roth to Altdorf(b Nürnberg),S2 罗特 — 阿尔特多夫（纽伦堡附近）
+/184A38714FF1D217D6088B9E13ADD7D6,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
 /1F9D26C443622B816884B2973127398D,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
+/27C3B16941D649E2E41CE58BFF1394CA,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
 /51BB5E5A448E6C1D00F35B824AEC3D6C,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
 /583BA38F4662F052A850A99FFA9C93E9,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
+/6DBAC7FF497E0EEC039300B9315A8CEB,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
+/77C6CA324E4B7E4C146142809EE0E515,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
 /B98F44924D68CBE6BBCCCB8616F3EC64,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
+/D2A573F248102D16BA84B5B9B9C92F01,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
 /FADA01E54C16EC58436E6DAF34D832AC,S3 Empty stock - Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
 /D579DA3542D61EC7B53B0D8A6232C22C,S3 Empty stock-Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
+/FA36BC3B40924C27699913AC4553F2DD,S3 Empty stock-Shunting in Nürnberg Hbf,S3 空车回送 — 纽伦堡主火车站调车
+/006790F64D639D21A36026B298EE2B5A,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /00E0AB3E442B293E397A098F66D5D0E5,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /0CB1D5EA43C1508ECC9640AF3660C977,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /0FB3D9C44466C4DE1A8928948D940209,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /155AEFA943657E077BBAA2976592C2AB,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /156BEF2C482B99E43C8573BF23E2EE4A,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/19AD56D6454937D5B91BD1AF46553F9B,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /2184E4984BBEA3A1BCE611822E61703C,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /21EEF26147F5E0841F4E51BF6ADA8AAC,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/22BCFDEF4B93E1D266E1C3A97E6B00AF,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /22C5335840BDCD24BCB1DEB13747EF36,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /22E3FA294C012747354C639415D672FC,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/24EE880D420E6750C20373A0895226B2,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/2ACA67CF4C8C614B08D4B8878D9CDB31,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /2C1CF24C48AD2054DAFD56977A703527,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/2CDB34DA4FC636C4A32C5D86D4A2C727,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/2CF90A0B49D1344CE1F2F5BF05565B50,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/2D03EFC845D00C526E7BA3BD5E276C46,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /2E0F6F71445978B9E997989E063B2E04,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /30FD157040B37D133B962D997ED66BC5,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/39745A0D49AA24AEEB5899B76AB36C62,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /3B4AF0FD40E58E185D07E6828F5EFCA6,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/3E30577444F4D8C3243F0D9CA9F712DF,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/3EF263D246D511DFCCF35E9B988215AB,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/4A1963F343AC5C4CE3D0E89E71DB68F3,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/4A55EC7A47766D46E32D5FB18CDC167C,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /4BC93E964B0B7F13AF7D1F8CC87BE10B,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /4D4409D24DFBC9501EF90E9087CB0A0F,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /4EB061AF43B3AF43B14EDBA82211AA33,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /4EF692F64FB9C44BF487F1AA584E953E,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/5145EF8D4DB048209810D49323875AAE,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/523D7BA04FAFB6767C013AB54E3ECCB8,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /526C6C504ADB6924C16F20AD1BB13F19,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /533D75F74C9BFA1E78C5B5B07BC4F93C,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/53CA61BB4E486E50F2CFA8AF9AEF9DEE,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /55EE867146A9481D2F5066B61C01B3FC,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /5A9657DE4426249E4F2366BE05308288,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /5E5E0C79497DA91FE5247A8069F817CC,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /5F2ADCC746EE5EAE3D6E9A9D8E03A6AF,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/64B732BC4EA6473D3F839FAD9FD8F3DF,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/64F95C734DC6E49DDC373B9365B378B0,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/697B72EE4A07FB0897B3BC8DFDE5797F,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /6BCB4F6D4CFFD7EEFE5339B6D759E425,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/6DED507E49ED63916D20448107313890,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /6F8C050E43B23DFAB1EF56B3BBB8758C,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/7B78D619407FBD37D73332AD088C86CC,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/7D41398D462EC10CA9C2BD8A6956D2D0,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/8214277E4CCAC7E4ECD431A095B70B97,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /852E472C4B8E185B01E5C184F348530B,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/8637A4C942B47E441CA8789198D5AA5B,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/8B7E289E420D85F83765CD8997BF0479,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /8C2C2ED9471B8BD2C75545BA0BB5C27B,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/8C97588147F0A15B33B24CAEE6608BBE,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /91D690FD4E64F0778279BB876DFA365B,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/964260E44362F26EC84295AC511E78E7,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/96B2B85645B793FB22A3B8959B80A615,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /9E3A5C6D4C6F8D3FB0F747B126F83FC9,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/A1E0960742D8BFB861AEB382EE10AE78,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /A3B0033E47581C07DBD478880C71F586,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /A3D39C57430D98B9A6BC93A340428001,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/A77E841E48FF56D72CD4A2A44E289DEA,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/AAE288E541777E191569F1925C573FA5,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/B09968D34738DEC0B67B8DAF9FE18BC2,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /B4219BB04F39204C04B5BC820054D688,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/B5B2F2734040849F411E96B7581CE9A4,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /B8FA4DB0407859AC30EB6DB65EAB0FD2,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /BA226B0D459B510DB6C88F8B56343807,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/BAD995C843326332A30FB8839F1F2C2D,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/C0ADD72641CE75A0636031BB99C29580,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /C0F4836F440BA652F0B28E935BC75C73,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /C1E53F254758FF930AA6139A534FFC65,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/C80CD9BA405AA198870D06A74F293ED5,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/D18A99DB4B1327D5DF856983E043CD89,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /D5E624644795428AFCB3C48ABCCE9B37,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/D9D39186428BEA5747CF27B5E4B4761B,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /DE67BF394580BB7CB928E5A03F21415C,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /DEDA85B540A9DA720C1410BCA7563F15,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/E0DC82744E4F30ED0668969F1235EBC4,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /E23DD5CB4F8BE4B16B2B56AF57A11599,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /E29FD3CA48C13D89E933A9B10C6069A7,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/E3B988AD482C6299E7018D931C691080,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/E406554F44A0F3A22CBF7D8FD0845F8C,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/E791A1BC4778297473B279829B22B144,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /EB31242042C31FE9DE0092B1EE6789AE,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /EB8568A64C2BD5F9D92F9A98CFC1A893,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/EC9EFBAD4184989FC2EF579EB3482F21,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/ECE95DDE41DF77169C2D3F86DE216EC7,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /ED0C25B54939BEE0136ABD9718669A8E,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/ED2CFAA04AAAFFB0F9B3A28FFC4CFC39,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
+/F04A6AD64D4891D65670E893578BE8B0,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /F1F774E441C467BBE15BA894D6E106C0,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /FE1B9FB948B9937C9033BEB59C53EA55,S3 Neumarkt(Oberpf) to Nürnberg(Hbf),S3 诺伊马克特（上普法尔茨） — 纽伦堡主火车站
 /01139E614EDC60348CC712B7412AC35C,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/054027BF4140DFD358D813BCF369C8F4,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /05CAE4404F109476CD77FFA5D5DBF809,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/0645FEFC42D38708D68C8BB5DD543260,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/078532404C2C760E8C03EC93FBD7E056,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/0B7E46AF4625F2C7D9BB90AEA4EAF63C,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /10E9B16C4856E59D754093950B9C6762,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/11B3D5584EBC02265CD4B989B4AD6A1A,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/11B593B740E31D4B35C2E4BD52BCC111,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /137C084347DFC38F5AADD1A95E924E00,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /18A42652444CC1E5FC26668AF5010403,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/1931028747A7DD37FF74379C18A54F49,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /20B8576445903C706826A788055D6C74,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/20B8BEE94D1BF3189DF4F1A6D75E1E5B,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /20CC40924E1D7F7EC89B3E86EA500A0E,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /2328D64240B06974E04196973D6104DF,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/2392588F4D191363DBE3CCB93916C003,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /2C8C2A534B52805C59265D92EF30E5E0,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/2D39E08A44901DC00DFFAF99D4DAE349,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/2DA516F44F7CAA894072BF855D065F21,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /329AE999457D01857628A49C87E4BB53,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /33FA6A2745AAEB6387CCE5A14D3C0050,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /38373EB548C24E9FC76AF593210BD8FB,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/38F2007840CCA7DEFD19D488188BB435,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /3B0323A94C97758138685EA11B58755B,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /3B76443341EFF167B41290A5C26BDA6C,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/3D155A304AC54496554AEAADEF7B0988,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /4286CEF140195CB3FA01E0B3E5C776DC,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /47C57C2E43BB2382FA7044B4C153152E,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /4825511C487A1FD7A633EDAD64AE45E4,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/4B8DB8954B91456543901FADCF70E345,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/4D14AC474E7CE599D7CA32B9F69D16DB,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /54A8849A45E1E742D0B16684A05DBD54,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/54B5B9D24572BC6901C0EA9FDE3CFA2B,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /557FE8584E9799B13309738051F5206B,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /5C3E955A4CBD62B6B7B0B1B15038A8CC,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/5F5CFE0D498212ED2A10FB979F62CBED,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /5FD924A74D52F38A3329F291D01BE557,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /60B3AF9A47DE32F335B169B04BBED66C,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /6140DEE34B7DEC05093645A17AF0DEE0,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /6A3336CC42E8DEE72D94CD84020E4B23,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/6BBF04044AEE4C13B84C02863DC30724,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /6E8F1C0C4DC3AC16021C3095758FB6C7,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /700E7E7C4D5F6F6E5853149CFC0A6232,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/7A7832DE4FDE9E99CA22009640A0C4EF,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/7CAF0AF34310CC48F9B46ABF9A0A0E6E,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/7D918BFD4E5C2B2FFA5583BBA4ADE494,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /805A2A1246BB281C68C364BBB89CC12E,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /8A7DDD6A4050F5FBA5F8C59574458555,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /8C7789AF4E2B954A7FC37F942C0E0C86,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/970F83A04B027E45FC42CEB67491211C,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/9752CC9E4CEEB96C10ED79AF50A2B223,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/9AE0146F4B051462146D5297C5F6D4DB,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /A517D3E348A3FB248B95A2ABBF5A7672,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/A52A9F3144736F5E40AFDCABC4A0C66B,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/A69CF1DB4647AB0147AEB89B60D45072,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/A6AAF2424241D3AD04F3D0AFD870F73D,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /AAAE7A5F40C3231DC3B0FFB2776C5F64,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /AC14AB82499417AD23A107B93FF02435,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/B23C83004536BB283B456896F4E420E7,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/B23D3E464242BF2ECC74A6A3A91A54BC,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /B466C89043E3FA89C84C0690E71F7404,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/B55868174237D9EBD28A03B6D7E449C4,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /B5C500E44C26D2426FB659843DB275D6,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/B6A0B4994CBAB4440EF142A5B1B69BC1,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /BA5CFC774B9D3B258CE20BA378FECBA0,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/BB7B89A64EA2A761A74FC2B1D40EFB6C,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/BC23DBE4443B74E0D6394CA44ABB39B0,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /BEF4A2F64A05C6CC6605DBAD1151FB4F,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /BF8B2B524F454B8A2BF65AA5399FEE08,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/C212CADB47A7E0A3FEC1499AD0DEA067,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/CC2AD3D14D51E59CE37479A9900E1ECA,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/CD31DBF34A080CF1E35EFC9DC4B90CF6,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/CEDADD494E1ACFB5C480FA8A08790A17,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/D05CF9844DA8720772EF7F8ED4F307A4,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /D1D338E34A23EC2C957DC4BE025A4080,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/D669ACAB472D1AE18933CEBF799D692D,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/DC1F64AB47616DD7B947A7AD66FAC909,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/E209F281481E00A398F027A78618D212,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/E3E505714249DC3BCB54408E68E32407,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /E5DBCB7F4C64A01B589C8CA759B3A294,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/E761DE3E4E24A16D4F538A826FA97800,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/ECE33AA54934C686D4F8A6AEBC3686BC,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /EF3977B9412F07B6F4E2AA95C72062C9,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/F08362234A7D666BD58712BB642D4EE7,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /F105C2CA459F8411F9829692A71B6220,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /F397836346005F900F6E18923D70A014,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /F52D09F9474987C0647BBCABEEFE8A22,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /F85E94F34E5CE61C205C8DAC6D079ED0,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
+/FA2C744C41EF0EBC8D629DA44DD6EABB,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /FB2C9104482E84BA84138A9D294172FC,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /FC9F954746ECD4D2BA3A01A91B4E08B7,S3 Nürnberg(Hbf) to Neumarkt(Oberpf),S3 纽伦堡主火车站 — 诺伊马克特（上普法尔茨）
 /1E60B54645AB3C92D80187AF5E788C27,SCHNELLFAHRSTRECKE NÜRNBERG - INGOLSTADT ROUTE INTRODUCTION,纽伦堡 — 因戈尔施塔特高速铁路介绍
@@ -1168,6 +1931,7 @@ key,source,target
 /CFE49852445BC3C99DAF6B81D40E95E5,STOP AT LOCATION,在指定位置停车
 /084C0FA04C6F1242CBEC04B9DE9F8FA4,STOP LOCATION,停车位置
 /500E82D34F6063F5738019AE517CE2AA,Sbahn,S-Bahn
+/7C57D1464E37969E5640B190B96E82E6,Sbahn,S-Bahn
 /D85866C44021F2FFD094E284701D91C1,ScB_TT,ScB_TT
 /37457A32438C7642A748E3ACE3E47371,ScETT,ScETT
 /8C9424E24E3E00765A6D609CDC541087,ScETT,ScETT
@@ -1298,24 +2062,24 @@ key,source,target
 /9DA30F0E46A4CE222B0A43A6BFBAC8E9,Take a seat in the Driver's seat.,请在司机座椅上就座。
 /B1AF83EF4670584E569601B9169D8B0F,Take a seat in the Driver's seat.,请在司机座椅上就座。
 /B70CEBFB497787BEA1C5E0A41F40276B,Take a seat in the Driver's seat.,请在司机座椅上就座。
-/25D85DD143EF6675BF74A6836902D214,Take a seat; the Train is just about to leave.,请就座，列车即将出发。
-/27EEEE7749262F5B28EC19AB06C75A5D,Take a seat; the Train is just about to leave.,请就座，列车即将出发。
+/9DA267A144C31DCAAE23C28AE78988CB,Take a seat; the Train is just about to leave.,请就座，列车即将出发。
+/C329F0924553863050F00DBE57F7D8AA,Take a seat; the Train is just about to leave.,请就座，列车即将出发。
 /7B2DCECE4E8EE9D3C7A4E085B58D09A9,Take control of busy rush hour services in both the ICE 3 and the München Nürnberg Express.,驾驶 ICE 3 型列车和慕尼黑—纽伦堡快车，体验忙碌的早晚高峰运输服务。
 /CC4AEB8E4B972DECE0292DA13A784C1A,"Take the ICE 3 for a test run and try to drive as fast as possible. Observe the speed limits in Nuremberg and Ingolstadt. On open track, drive at full throttle. All train control systems will remain switched off during this journey.",驾驶 ICE 3 型列车进行试驾，并尝试以尽可能快的速度行驶。请遵守纽伦堡和因戈尔施塔特的限速要求。在开阔轨道上，请全牵引力行驶。在本次行程中，所有列车控制系统都将保持关闭状态。
 /6691A7A8490D65F024F3F1BC6EB9D724,"The ICE 3 runs at speeds of up to 300km/h in Germany, although they've reached speeds of 368km/h in testing.",ICE 3 型列车在德国的运行速度高达 300 千米/小时，不过在测试中曾达到 368 千米/小时的高速。
 /8A7EAB1645EE5420BC868F9D551754F0,"The ICE 3 runs at speeds of up to 300km/h in Germany, although they've reached speeds of 368km/h in testing.",ICE 3 型列车在德国的运行速度高达 300 千米/小时，不过在测试中曾达到 368 千米/小时的高速。
 /DDD049D84DCD89A262DD71A293D9F1A9,"The ICE 3 runs at speeds of up to 300km/h in Germany, although they've reached speeds of 368km/h in testing.",ICE 3 型列车在德国的运行速度高达 300 千米/小时，不过在测试中曾达到 368 千米/小时的高速。
 /6EDB6BC0400F083CB75348AE53CAC368,The main line via Treuchtlingen is blocked because of maintenance and this cargo needs to be in Munich in 4 hours.,经由特罗伊希特灵根的主干线因维护封锁，这批货物需要在 4 小时内送达慕尼黑。
-/9C683DA54C315F0470C749BB79319016,"The route we’re about to discover is a 300km/h highspeed route, opened in 2006 to further increase the germany highspeed network.",我们即将探索的线路是一条时速达 300 千米的高速铁路，于 2006 年通车，旨在进一步扩大德国的高速铁路网。
-/DDB7BA35467D74F2047FAC8CCF5B064E,The station is the biggest non terminus station in Europe and has 22 platforms.,该车站是欧洲最大的通过式车站，拥有 22 个站台。
+/D75202DA45E9EC37FE381A8FF439A4C5,"The route we’re about to discover is a 300km/h highspeed route, opened in 2006 to further increase the germany highspeed network.",我们即将探索的线路是一条时速300公里的高速铁路线，于2006年开通，旨在进一步扩充德国的高速铁路网。
+/DB7045604A6B6F15C63BFDB96335221F,The station is the biggest non terminus station in Europe and has 22 platforms.,该站是欧洲最大的非尽端式车站，拥有22处站台。
 /0F29AB67430B8CD314A0B88BC5C244E8,The train is now ready to depart.,列车现在准备出发。
 /6E1430284C8ACE58987947BAE1373EA8,The train is now ready to depart.,列车现在准备出发。
 /C3C9875841CE15F65AA90E912F303191,The train is now ready to depart.,列车现在准备出发。
 /69BA0535468FCD87B5767BA57DE9E712,The train is now ready to depart. Release the brakes and apply some power to get moving. You’ll be doing one circuit of the training center and aim to come to a stop back at this station again afterwards.,列车现在准备出发。缓解制动并施加动力使列车起步。你将在训练中心绕行一圈，然后再回到该车站停车。
 /735446064F219F35BF277B958C5F2E7B,The train is now ready to depart. Release the brakes and apply some power to get moving. You’ll be doing one circuit of the training center and aim to come to a stop back at this station again afterwards.,列车现在准备出发。缓解制动并施加动力使列车起步。你将在训练中心绕行一圈，然后再回到该车站停车。
 /EACE2303431A8F3350F18EB97C159769,The train is now ready to depart. Release the brakes and apply some power to get moving. You’ll be doing one circuit of the training center and aim to come to a stop back at this station again afterwards.,列车现在准备出发。缓解制动并施加动力使列车起步。你将在训练中心绕行一圈，然后再回到该车站停车。
-/B212D9484637C2AF3D4C2CBC234E15A1,"There are more route tasks to discover. Make sure to apply missing route maps, place first aid kits, clean up paint cans and paint the gnomes.",还有更多线路任务等待你去探索。确保补齐缺失的线路图、放置急救箱、清理油漆罐并给园丁矮人像上色。
-/7CF3274C4FE01D2F2446E89739920C36,"There are more route tasks to discover. Make sure to apply missing route maps, place first aid kits, place tunnel signs and discover fossils.",还有更多线路任务等待你去探索。确保补齐缺失的线路图、放置急救箱、放置隧道标志并探索化石。
+/8CF1A6224F7919972AA9D58ED818978A,"There are more route tasks to discover. Make sure to apply missing route maps, place first aid kits, clean up paint cans and paint the gnomes.",还有更多路线作业等待探索。记得补充缺失的路线图、放置急救箱、清理油漆桶并为花园侏儒雕像上漆。
+/9623690042AFD89E9372CAA2E8E263FF,"There are more route tasks to discover. Make sure to apply missing route maps, place first aid kits, place tunnel signs and discover fossils.",还有更多路线作业等待探索。记得补充缺失的路线图、放置急救箱、安装隧道标牌并发现化石。
 /24AF08494A38B5C41AE0C4847F2041B4,These are the third generation of Intercity Express trains and have been in operation in Germany since the year 2000.,这些是第三代城际特快列车，自 2000 年起在德国投入运营。
 /65FCF61D4F0B82325A794CA40928138E,These are the third generation of Intercity Express trains and have been in operation in Germany since the year 2000.,这些是第三代城际特快列车，自 2000 年起在德国投入运营。
 /C9E7E3E34B5A3F90CA2B869660F18BFD,These are the third generation of Intercity Express trains and have been in operation in Germany since the year 2000.,这些是第三代城际特快列车，自 2000 年起在德国投入运营。
@@ -1364,9 +2128,9 @@ key,source,target
 /C0E21AB4458643B181DADAA4DB20CB9E,We now have to wait for 2 ICE to pass us. Once they passed us we can continue our journey.,我们现在需要等待 2 列 ICE 列车通过。等它们通过后，我们就可以继续行程。
 /3FB543E44218D8279E862EBB857A8BDA,We're now going to try to hit our top speed. Try to reach it before we get to Nürnberg.,我们现在要尝试达到最高速度。尽量在到达纽伦堡之前达到该速度。
 /CC6A4DED431AD45ADA5E318B7BB7D369,Welcome to Ingolstadt. Today we will be operating an ICE3 to Nürnberg,欢迎来到因戈尔施塔特。今天我们将驾驶一列 ICE 3 前往纽伦堡。
-/AC74953643C913C76B0ADDB2639876AB,"Welcome to Leipzig Hauptbahnhof located in Leipzig, Saxony, Germany.",欢迎来到位于德国萨克森州莱比锡的莱比锡主火车站。
+/55D526EB4D4A75EA7F0A80A943896BBA,"Welcome to Leipzig Hauptbahnhof located in Leipzig, Saxony, Germany.",欢迎来到位于德国萨克森州莱比锡的莱比锡火车总站。
 /3B27856547DBAF743C927EA15E1C2D7F,Welcome to Nürnberg Frankenstadion. Today we will be operating a Freight train with de-icing fluids to Ingolstadt.,欢迎来到纽伦堡弗兰肯体育场。今天我们将驾驶一列运载除冰液的货运列车前往因戈尔施塔特。
-/C7A2B9DF46334E09742002BF7ED307A0,"Welcome to Nürnberg Hauptbahnhof located in Bavaria, Germany.",欢迎来到位于德国巴伐利亚州的纽伦堡主火车站。
+/0490A5F341CAF2666A7E21A0576792BB,"Welcome to Nürnberg Hauptbahnhof located in Bavaria, Germany.",欢迎来到位于德国巴伐利亚州的纽伦堡火车总站。
 /D524C56C45908EB716AB64BF209B3428,Welcome to the Training Center,欢迎来到训练中心
 /E90A4BC24AEF8C805239A381DC2DC06A,Welcome to the Training Center,欢迎来到训练中心
 /231724A6449E49E0ACAE17BE705889AD,"When you're ready to begin, climb aboard.",当你准备好开始时，请上车。
