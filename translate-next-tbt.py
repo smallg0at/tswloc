@@ -74,7 +74,7 @@ def translate_gemini(input_text: str):
     ]
     generate_content_config = types.GenerateContentConfig(
         thinking_config=types.ThinkingConfig(
-            thinking_budget=0,
+            thinking_level="low",
         ),
         response_mime_type="application/json",
         response_schema=genai.types.Schema(
