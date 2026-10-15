@@ -37,6 +37,7 @@ key,source,target
 /B738536C454F92F73183A08E6BA956DA,Battery Off,电池关闭
 /1CAE6099469E267172A1FCA100B39769,Battery On,电池开启
 /F17DC82940FCAB83847581A6C785A23C,Battery power must be turned on to power the cab and enable the controls on the drivers desk.,必须接通电池电源以向司机室供电才能启用司机操纵台。
+/5A5B0D414E8786E6198794B1011CBDE9,Birmingham New Street,Birmingham New Street
 /942815244B1BB7F5440CFEBB992CAD6A,Blind,遮阳帘
 /2F17A3B140FAD0B533008C9FF2938D04,Brake Hold,制动保持
 /EB0EEE54429FC409931C32ABE5725C4E,Brake Release,制动缓解
@@ -455,7 +456,9 @@ key,source,target
 /AD07581B40D7B8FCD8BB4B8B6475D6D7,Window,窗户
 /31506E84431623265686FBA074968E8C,Windscreen Heater,前挡风玻璃加热器
 /1830E72E465A435C180CEA85FDC4D48C,Wipers,雨刷
+/472B1D4740490C86444D70A2C6C29FD9,Wolverhampton,Wolverhampton
 /E8E228CF432832439884F4BF530DA3BC,i,i
+/CDBEAE9D41EF1F95EF90319D62C26FF3,maximum thrash of the traction m,maximum thrash of the traction m
 /7457CA0548FE23B75B4A718A9CE6F64F,{BrakePos} Brake,{BrakePos} 制动
 /187065544D2F1939C17FB896B56DF45F,{MM} {DD},{MM} {DD}
 Dispatcher/Denied request pass signal (junctions),Denied. Check switches.,已拒绝，请检查道岔
