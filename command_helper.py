@@ -5,6 +5,7 @@ import sys
 import re
 from pathlib import Path
 import winreg
+import traceback
 from merge import merge_csvs
 
 
@@ -43,7 +44,10 @@ def unpack_locres(pak_file, output_dir, locales):
     args = ["repak", "unpack", str(pak_file), "-o", str(output_dir)]
     for path, _ in paths:
         args.extend(["--include", path])
-    result = subprocess.run(args, check=False)
+    try:
+        result = subprocess.run(args, check=False)
+    except Exception as e:
+        raise RuntimeError(f"Repak run failed: {e}")
     if result.returncode != 0:
         raise RuntimeError("repak unpack failed")
     return paths
@@ -157,6 +161,7 @@ if command == "update":
                 print(f"Error updating {packname}; old dist file was kept.")
     except (OSError, RuntimeError, ValueError) as exc:
         print(f"Update failed: {exc}")
+        print(traceback.format_exc())
         sys.exit(1)
 elif command == "import-localized":
     if len(sys.argv) != 3:

@@ -1,6 +1,6 @@
 GLOSSARY_FILE = "glossary.csv"
 TARGET_LANG = "zh-CN"
-FILE = "NWB_DB_BR412_translated.csv"
+FILE = "NWB_DB_BR440_translated.csv"
 
 import pandas as pd
 from google.cloud import translate_v2 as translate
@@ -63,7 +63,7 @@ def translate_gemini(input_text: str):
         api_key=os.environ.get("GEMINI_API_KEY"),
     )
 
-    model = "gemini-flash-latest"
+    model = "gemini-4-hydrogen"
     contents = [
         types.Content(
             role="user",

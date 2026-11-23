@@ -2321,9 +2321,9 @@ key,source,target
 /CDDB30304B424BAF446312A6867A2719,Press up button to set the Reverser to Forward.,按向上键将换向器置于向前位。
 /EC766F9742E5B709D58FE3B8A124C1F4,Press up button to set the Reverser to Forward.,按向上键将换向器置于向前位。
 /8CC7B09C47E3120FE3FF32AB38E38CF2,Put the Headlights to Day.,将前照灯设为日间。
-/24400628430C514533F14AAE48CA14AD,Put the Headlights to Full.,将前照灯设为全光。
-/414C4B95468AC148607842ACB1710FA2,Put the Headlights to Full.,将前照灯设为全光。
-/CCC8E97B4D5106043C8B34AD237633A6,Put the Headlights to Full.,将前照灯设为全光。
+/24400628430C514533F14AAE48CA14AD,Put the Headlights to Full.,将前照灯设为远光。
+/414C4B95468AC148607842ACB1710FA2,Put the Headlights to Full.,将前照灯设为远光。
+/CCC8E97B4D5106043C8B34AD237633A6,Put the Headlights to Full.,将前照灯设为远光。
 /129C47FA4969A1C1384FD9A9158E0BCA,Put the Headlights to Off.,将前照灯设为关闭。
 /32BC7C5E49475A19C91B18937F89CCAE,Put the Headlights to Off.,将前照灯设为关闭。
 /B4AE9DF448804E78327B27B72BB1DDF4,Put the Headlights to Off.,将前照灯设为关闭。
@@ -2341,7 +2341,7 @@ key,source,target
 /BAB5097F456EB365CD81769AD9ACA4BE,Put the Headlights to the Day Light position.,将前照灯置于日间灯位置。
 /C82682BA4EA98B093A112A82890296CB,Put the Headlights to the Day Light position.,将前照灯置于日间灯位置。
 /A22673AB485AD198ECBD5497AD738F1D,Put the Headlights to the Day position.,将前照灯置于日间位置。
-/56FE7D484805DD4522002FA0C7850A85,Put the Headlights to the FULL position.,将前照灯置于全光位置。
+/56FE7D484805DD4522002FA0C7850A85,Put the Headlights to the FULL position.,将前照灯置于远光位置。
 /13BCAB7F469482D243890EA5A20C5E95,Put the Headlights to the OFF position.,将前照灯置于关闭位置。
 /4F02F4864A156D3553A917A05562B278,Put the Headlights to the OFF position.,将前照灯置于关闭位置。
 /A368EE984F15F9ED85D19FABBE57B779,Put the Headlights to the OFF position.,将前照灯置于关闭位置。
@@ -2996,8 +2996,8 @@ key,source,target
 /1940A2A548EDCF7FA60CD4B3B1BFC1A7,Turn on the taillights.,开启尾灯。
 /A5B912EE4C89646201DEE783F2EEFB31,Turn the Headlight switch to the Day position. This will let others know the train is operational.,将前照灯开关转到“日间”位置。这将让其他人知道列车正在运行。
 /E28B68E348727720E50751A99DB07B1D,Turn the Headlight switch to the Day position. This will let others know the train is operational.,将前照灯开关转到“日间”位置。这将让其他人知道列车正在运行。
-/5112A8B0456676EC8573089B432AC254,Turn the Headlight switch to the Full position. This will let others know the train is operational.,将前照灯开关转到“全光”位置。这将让其他人知道列车正在运行。
-/D04431D54B32A75D4BE844AF1B380BAE,Turn the Headlight switch to the Full position. This will let others know the train is operational.,将前照灯开关转到“全光”位置。这将让其他人知道列车正在运行。
+/5112A8B0456676EC8573089B432AC254,Turn the Headlight switch to the Full position. This will let others know the train is operational.,将前照灯开关转到“远光”位置。这将让其他人知道列车正在运行。
+/D04431D54B32A75D4BE844AF1B380BAE,Turn the Headlight switch to the Full position. This will let others know the train is operational.,将前照灯开关转到“远光”位置。这将让其他人知道列车正在运行。
 /1E867ADD413F861F52C2858BEBF134EC,Turn the Headlights off.,关闭前照灯。
 /836F6FD14ADEF61973D005A360186005,Turn the Headlights to Off.,将前照灯转到关闭位置。
 /BB98B5EA4CEBC836A20EDA8C6AA7C633,Turn the Headlights to Off.,将前照灯转到关闭位置。
